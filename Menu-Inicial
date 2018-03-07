@@ -11,17 +11,9 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow][B]TV ONLINE 2[/B][/COLOR] [COLOR blue][B]ON[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/r1que/Tv-Fogo-Hd/master/canais</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
 <name>[COLOR Gold][B]FILMES {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://goo.gl/AnizhR</thumbnail>
-<externallink>https://raw.githubusercontent.com/r1que/Tv-Fogo-Hd/master/filmes%201</externallink>
+<externallink></externallink>
 <fanart>https://goo.gl/AnizhR</fanart>
 <info>TV FOGO HD</info>
 </channel>
@@ -29,7 +21,7 @@
 <channel>
 <name>[COLOR violet][B]Series {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/r1que/Tv-Fogo-Hd/master/Menu-Series</externallink>
+<externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://goo.gl/DQ68E1</fanart>
 <info>TV FOGO HD</info>
 </channel>
@@ -37,32 +29,15 @@
 <channel>
 <name>[COLOR pink][B]Anime {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/r1que/Tv-Fogo-Hd/master/Canais%20de%20Animes</externallink>
+<externallink></externallink>
 <fanart>http://i.imgur.com/MWkbq6d.jpg</fanart>
 <info>TV FOGO HD</info>
 </channel>
 
 <channel>
-<name>[COLOR purple][B]DESENHOS NOVOS E ANTIGOS[/B][/COLOR]</name>
+<name>[COLOR purple][B]DESENHOS[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/r1que/Tv-Fogo-Hd/master/Desenhos</externallink>
+<externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenhos</externallink>
 <fanart>https://goo.gl/5P5Uzb</fanart>
 <info>TV FOGO HD</info>
 </channel>
-
-<channel>
-<name>Brasil [COLOR orange][B]Novelas[/B][/COLOR][COLOR gold] Tv[/COLOR]</name>
-<thumbnail>http://i.imgur.com/rwdJHhU.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/r1que/Tv-Fogo-Hd/master/novelas</externallink>
-<fanart>http://i.imgur.com/rwdJHhU.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR red]18+ Adulto xxx [B][/B][/COLOR]</name>
-<thumbnail>http://i.imgur.com/yJsMQmM.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/r1que/Tv-Fogo-Hd/master/lista-porno</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
