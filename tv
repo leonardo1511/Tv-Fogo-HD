@@ -26,7 +26,7 @@ http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/xMNSYW" group-title="CANAIS ABERTO", Record
-http://142.44.137.23/RECORDSP-SD/tracks-v1a1/index.m3u8
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nVZcxp" group-title="CANAIS ABERTO",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
@@ -63,11 +63,11 @@ http://142.44.137.23/SPORTV3t90-SD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/eimaxx.png?raw=true" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/XVjmGN" group-title="CANAIS ESPORTES",EI Maxx 2 HD
-http://142.44.137.23/EIMAXX2s8-SD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/XVjmGN" group-title="CANAIS ESPORTES",EI Maxx 2
+http://159.65.86.91/loadbalance/max2/chunks.m3u8?pxAuth=JvBYYzDvdCi7wY8B06QOQPrVBvOdgbOL
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jnNU2P" group-title="CANAIS ESPORTES", Esporte Interativo
-http://142.44.137.23/E!-SD/tracks-v1a1/index.m3u8
+http://159.65.86.91/loadbalance/ei/chunks.m3u8?pxAuth=JvBYYzDvdCi7wY8B06QOQPrVBvOdgbOL
 
 #EXTINF:-1 tvg-logo="https://goo.gl/z8XENS" group-title="CANAIS ESPORTES",Combate
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
