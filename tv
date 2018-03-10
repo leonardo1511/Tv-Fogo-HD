@@ -100,8 +100,13 @@ http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 rtmp://189.86.89.116/livecm/flv:livestream?adbe-live-event=liveevent
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SbKeXf" group-title="CANAIS FILMES",Cine sky
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS FILMES",Filmes Tv Web guarani
 http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
 
+#EXTINF:-1 tvg-id="Gospel Movies Television" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="CANAIS FILMES",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
 http://0.0.0.0
@@ -198,12 +203,6 @@ rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 #EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/multishow.png?raw=true" group-title="CANAIS MUSICA",MULTISHOW
-http://165.227.32.151/loadbalance/show/chunks.m3u8?pxAuth=Hf41JTGDg8BElSsRzB0lcTrXrSA4KP5A
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/clipes.png" group-title="CANAIS MUSICA", Gospel Music Television
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/hittv.png" group-title="CANAIS MUSICA", HIT TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 
@@ -218,9 +217,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CANAIS MUSICA", NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="CANAIS MUSICA", DanceTV
-http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CANAIS MUSICA", Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
