@@ -7,28 +7,28 @@ http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/chCy97" group-title="CANAIS ABERTO", Globo SP
+#EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo SP
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/FYSNT1" group-title="CANAIS ABERTO",SBT
+#EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/pUCrHF" group-title="CANAIS ABERTO", Band 
+#EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
 http://painel.ebanonet.com.br:25461/live/isaque/luiz/4400.ts
 
-#EXTINF:-1 tvg-logo="https://goo.gl/A4Dv3D" group-title="CANAIS ABERTO", Rede tv 
+#EXTINF:-1 tvg-logo="https://goo.gl/syHrxH" group-title="CANAIS ABERTO", Rede tv 
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2092614085.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kLpMKP" group-title="CANAIS ABERTO", Tv Gazeta
+#EXTINF:-1 tvg-logo="https://goo.gl/UL733m" group-title="CANAIS ABERTO", Tv Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/vfAwgb" group-title="CANAIS ABERTO", Tv Escola
+#EXTINF:-1 tvg-logo="https://goo.gl/AuaK1C" group-title="CANAIS ABERTO", Tv Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/xMNSYW" group-title="CANAIS ABERTO", Record
+#EXTINF:-1 tvg-logo="https://goo.gl/wdrm4x" group-title="CANAIS ABERTO", Record
 http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/nVZcxp" group-title="CANAIS ABERTO",FUTURA
+#EXTINF:-1 tvg-logo="https://goo.gl/3nhnoa" group-title="CANAIS ABERTO",FUTURA
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/viva.png?raw=true" group-title="CANAIS ABERTO",VIVA
@@ -37,55 +37,55 @@ http://painel.ebanonet.com.br:25461/live/isaque/luiz/6928.ts
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/dE917m" group-title="CANAIS ESPORTES",Premiere Clubes
+#EXTINF:-1 tvg-logo="https://goo.gl/PK6iRY" group-title="CANAIS ESPORTES",Premiere Clubes
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/gppd51" group-title="CANAIS ESPORTES",ESPN Brasil
+#EXTINF:-1 tvg-logo="https://goo.gl/DQvWND" group-title="CANAIS ESPORTES",ESPN Brasil
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/espn.png?raw=true" group-title="CANAIS ESPORTES",Espn
+#EXTINF:-1 tvg-logo="https://goo.gl/2th4DE" group-title="CANAIS ESPORTES",Espn
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/WPKBy9" group-title="CANAIS ESPORTES",Band Sports
+#EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
 http://painel.ebanonet.com.br:25461/live/isaque/luiz/4398.ts
 
-#EXTINF:-1 tvg-logo="https://goo.gl/tKSmRZ" group-title="CANAIS ESPORTES",SporTV
+#EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="CANAIS ESPORTES",Sportv 2
+#EXTINF:-1 tvg-logo="https://goo.gl/uzYfX5" group-title="CANAIS ESPORTES",Sportv 2
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="CANAIS ESPORTES",Sportv 3
+#EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
 http://painel.ebanonet.com.br:25461/live/isaque/luiz/4325.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/eimaxx.png?raw=true" group-title="CANAIS ESPORTES",EI Maxx 
+#EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/XVjmGN" group-title="CANAIS ESPORTES",EI Maxx 2
+#EXTINF:-1 tvg-logo="https://goo.gl/yVN6f4" group-title="CANAIS ESPORTES",EI Maxx 2
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
-#EXTINF:-1 tvg-logo="https://goo.gl/jnNU2P" group-title="CANAIS ESPORTES", Esporte Interativo
+#EXTINF:-1 tvg-logo="https://goo.gl/SUJxnt" group-title="CANAIS ESPORTES", Esporte Interativo
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
-#EXTINF:-1 tvg-logo="https://goo.gl/z8XENS" group-title="CANAIS ESPORTES",Combate
+#EXTINF:-1 tvg-logo="https://goo.gl/tCr8uT" group-title="CANAIS ESPORTES",Combate
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/oMC1vg" group-title="CANAIS ESPORTES", All Sport
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="CANAIS ESPORTES",Fox Sports
+#EXTINF:-1 tvg-logo="https://goo.gl/DDDws9" group-title="CANAIS ESPORTES",Fox Sports
 http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="CANAIS ESPORTES",Fox Sports2
+#EXTINF:-1 tvg-logo="https://goo.gl/a7ViYD" group-title="CANAIS ESPORTES",Fox Sports2
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/pSH5MZ" group-title="CANAIS FILMES",Fox
+#EXTINF:-1 tvg-logo="https://goo.gl/Rwue4P" group-title="CANAIS FILMES",Fox
 http://painel.ebanonet.com.br:25461/live/isaque/luiz/4375.ts
 
-#EXTINF:-1 tvg-logo="https://goo.gl/hikBQW" group-title="CANAIS FILMES", Universal Channel
+#EXTINF:-1 tvg-logo="https://goo.gl/LihCTa" group-title="CANAIS FILMES", Universal Channel
 http://painel.ebanonet.com.br:25461/live/isaque/luiz/4308.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
@@ -109,53 +109,53 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/qmZkEp" group-title="CANAIS INFANTIL",Cartoon Network
+#EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",Cartoon Network
 http://165.227.65.252/cartoonnetwork/tracks-v1a1/index.m3u8?pxAuth=stwr5XlDt8jnBDj4ZBQ3wVo50oZPN3d7
 
-#EXTINF:-1 tvg-logo="https://goo.gl/icUi4K" group-title="CANAIS INFANTIL", Disney XD
+#EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
 http://165.227.65.252/disneyxd/tracks-v1a1/index.m3u8?pxAuth=lXpfAuyeEwfQcbUnaBiamIBlKHOTwVLj
 
-#EXTINF:-1 tvg-logo="https://goo.gl/dusmvY" group-title="CANAIS INFANTIL", Nickelodeon
+#EXTINF:-1 tvg-logo="https://goo.gl/JTaVma" group-title="CANAIS INFANTIL", Nickelodeon
 http://165.227.65.252/nickelodeon/tracks-v1a1/index.m3u8?pxAuth=HhIhuMjVYCM5PwsqGlWCw0Tr6SlSNe36
 
-#EXTINF:-1 tvg-logo="https://goo.gl/qGrM3z" group-title="CANAIS INFANTIL", Discovery Kids
+#EXTINF:-1 tvg-logo="https://goo.gl/mSksLQ" group-title="CANAIS INFANTIL", Discovery Kids
 http://165.227.65.252/discoverykids/tracks-v1a1/index.m3u8?pxAuth=T7pkqaCocAIareLBl34jPfYe5s7nma5D
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBjGrHtgwZJdG7PREyX9UAL70Nvih390IriddCLi3GcflLNc6v" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fGhWwo" group-title="CANAIS DOCUMENTARIOS",CANAL SAUDE
 http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/hBW6Js" group-title="CANAIS DOCUMENTARIOS" ,DISCOVERY THEATER 
+#EXTINF:-1 tvg-logo="https://goo.gl/XqyGjU" group-title="CANAIS DOCUMENTARIOS" ,DISCOVERY THEATER 
 http://159.65.120.120/loadbalance/discoverytheater/chunks.m3u8?pxAuth=x9hinULJdNBVIH7jg8VDrQbMpqd1xkvx
 
-#EXTINF:-1 tvg-logo="https://goo.gl/L3P5Tx" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="https://goo.gl/bfPvXm" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL
 http://165.227.180.24/history/tracks-v1a1/index.m3u8?pxAuth=qAalIOhl4TFBRdJZl1ojDEcCcEpqIoaJ
 
-#EXTINF:-1 tvg-logo="https://goo.gl/LNjHiW" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-logo="https://goo.gl/7u8yuZ" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL 
 http://159.89.122.29/loadbalance/discoverychannel/chunks.m3u8?pxAuth=wiiONwcMFZ7N5G9VKvTB2hunwIg4JsPs
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/1ohNx6" group-title="CANAIS JORNALISMO",GLOBO NEWS
+#EXTINF:-1 tvg-logo="https://goo.gl/KQVsEm" group-title="CANAIS JORNALISMO",GLOBO NEWS
 http://165.227.65.252/globonews/tracks-v1a1/index.m3u8?pxAuth=7QQs4Z0t4LVPF6lbNSwzaNlLGtsZBEnY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/1AKyJT" group-title="CANAIS JORNALISMO", BH News 
+#EXTINF:-1 tvg-logo="https://goo.gl/zXWzUp" group-title="CANAIS JORNALISMO", BH News 
 http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Qur3pj" group-title="CANAIS JORNALISMO", Record News (TO) 
+#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO", Record News (TO) 
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Qur3pj" group-title="CANAIS JORNALISMO", Record News (TO) 2 
+#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO", Record News (TO) 2 
 http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Qur3pj" group-title="CANAIS JORNALISMO",RECORD NEWS
+#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO",RECORD NEWS
 http://187.49.86.238:10000/bysid/111
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ujqzNj" group-title="CANAIS JORNALISMO",DW NEWS
@@ -177,16 +177,16 @@ http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3Zequy" group-title="CANAIS DE RELIGIAO",TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/XyY6hT" group-title="CANAIS DE RELIGIAO", Cancao Nova 
+#EXTINF:-1 tvg-logo="https://goo.gl/uBaajf" group-title="CANAIS DE RELIGIAO", Cancao Nova 
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/EJgt4r" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/EJgt4r" group-title="CANAIS DE RELIGIAO", Tv Aparecida SD
+#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO", Tv Aparecida SD
 http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/EJgt4r" group-title="CANAIS DE RELIGIAO", Santuario de Aparecida
+#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO", Santuario de Aparecida
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DE RELIGIAO", TVCI 
@@ -194,8 +194,6 @@ http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6WDpFX" group-title="CANAIS DE RELIGIAO", Tv Evangelizar 
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
-
-
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
