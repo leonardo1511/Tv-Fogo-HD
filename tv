@@ -62,10 +62,10 @@ http://painel.ebanonet.com.br:25461/live/isaque/luiz/4325.ts
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/XVjmGN" group-title="CANAIS ESPORTES",EI Maxx 2
-http://painel.ebanonet.com.br:25461/live/isaque/luiz/4378.ts
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jnNU2P" group-title="CANAIS ESPORTES", Esporte Interativo
-http://painel.ebanonet.com.br:25461/live/isaque/luiz/6960.ts
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
 #EXTINF:-1 tvg-logo="https://goo.gl/z8XENS" group-title="CANAIS ESPORTES",Combate
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
