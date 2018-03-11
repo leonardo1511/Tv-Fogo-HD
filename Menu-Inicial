@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[COLOR yellow][B]TV ONLINE [/B][/COLOR] [COLOR blue][B]ON[/B][/COLOR]</name>
+<name>[COLOR white][B]TV ONLINE [/B][/COLOR] [COLOR blue][B]ON[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>http://goo.gl/VjWU8X</externallink>
 <fanart></fanart>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[COLOR Gold][B]FILMES {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://goo.gl/AnizhR</thumbnail>
 <externallink></externallink>
 <fanart>https://goo.gl/AnizhR</fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLOR violet][B]Series {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR white][B]Series {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://goo.gl/DQ68E1</fanart>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[COLOR pink][B]Anime {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR white][B]Anime {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart>http://i.imgur.com/MWkbq6d.jpg</fanart>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[COLOR purple][B]DESENHOS[/B][/COLOR]</name>
+<name>[COLOR white][B]DESENHOS[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenhos</externallink>
 <fanart>https://goo.gl/5P5Uzb</fanart>
