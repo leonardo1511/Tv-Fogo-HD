@@ -27,9 +27,9 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Anime {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR white][B]Animes {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>http://i.imgur.com/MWkbq6d.jpg</fanart>
 <info>TV FOGO HD</info>
 </channel>
