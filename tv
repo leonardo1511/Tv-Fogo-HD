@@ -47,7 +47,7 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1078.ts&name=A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1078.ts&name=SKY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
@@ -56,7 +56,7 @@ http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1120.ts&name=A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1120.ts&name=SKY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
@@ -110,7 +110,7 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1050.ts&name=A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1050.ts&name=SKY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
 http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
@@ -128,20 +128,20 @@ http://0.0.0.0
 http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/XqyGjU" group-title="CANAIS DOCUMENTARIOS" ,DISCOVERY THEATER 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1047.ts&name=A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1047.ts&name=SKY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bfPvXm" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1098.ts&name=A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1098.ts&name=SKY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7u8yuZ" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1049.ts&name=A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1049.ts&name=SKY
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KQVsEm" group-title="CANAIS JORNALISMO",GLOBO NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1040.ts&name=A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1040.ts&name=SKY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
