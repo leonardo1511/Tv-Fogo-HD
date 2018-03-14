@@ -47,7 +47,7 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-http://painel.ebanonet.com.br:25461/live/isaque/luiz/4398.ts
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1278.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
@@ -110,7 +110,7 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",Cartoon Network
-http://165.227.65.252/cartoonnetwork/tracks-v1a1/index.m3u8?pxAuth=stwr5XlDt8jnBDj4ZBQ3wVo50oZPN3d7
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1050.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
 http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
@@ -128,20 +128,20 @@ http://0.0.0.0
 http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/XqyGjU" group-title="CANAIS DOCUMENTARIOS" ,DISCOVERY THEATER 
-http://159.65.120.120/loadbalance/discoverytheater/chunks.m3u8?pxAuth=x9hinULJdNBVIH7jg8VDrQbMpqd1xkvx
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1047.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bfPvXm" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL
-http://165.227.180.24/history/tracks-v1a1/index.m3u8?pxAuth=qAalIOhl4TFBRdJZl1ojDEcCcEpqIoaJ
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1098.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7u8yuZ" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL 
-http://159.89.122.29/loadbalance/discoverychannel/chunks.m3u8?pxAuth=wiiONwcMFZ7N5G9VKvTB2hunwIg4JsPs
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1049.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KQVsEm" group-title="CANAIS JORNALISMO",GLOBO NEWS
-http://165.227.65.252/globonews/tracks-v1a1/index.m3u8?pxAuth=7QQs4Z0t4LVPF6lbNSwzaNlLGtsZBEnY
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1040.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
