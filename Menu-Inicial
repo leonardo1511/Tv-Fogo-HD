@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[COLOR white][B]TV ONLINE [/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
+<name>[COLOR yellow][B]TV ONLINE [/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>http://goo.gl/VjWU8X</externallink>
 <fanart></fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Series {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR rede][B]Series {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://goo.gl/DQ68E1</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://goo.gl/DQ68E1</fanart>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Animes {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR blue][B]Animes {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>http://i.imgur.com/MWkbq6d.jpg</fanart>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Desenhos {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR Green][B]Desenhos {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://goo.gl/5P5Uzb</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenho</externallink>
 <fanart>https://goo.gl/5P5Uzb</fanart>
@@ -43,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Desenhos Tokusatsu {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR Orange][B]Desenhos Tokusatsu {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>http://1.bp.blogspot.com/-nSVgy2wXPBE/Viumj7YeV9I/AAAAAAAABb4/8EdonR2jLQI/s1600/tokusatsu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tokusatsu/master/Menu-Tokusatsu</externallink>
 <fanart></fanart>
@@ -51,7 +51,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Power Rangers {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR Purple][B]Power Rangers {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Power_rangers_2018.png/200px-Power_rangers_2018.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/moraes84/Tv-Fogo-HD/master/.gitignore/Menu-Power-Rangers</externallink>
 <fanart></fanart>
