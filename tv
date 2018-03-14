@@ -86,7 +86,7 @@ http://0.0.0.0
 http://iptv.ec.cx/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LihCTa" group-title="CANAIS FILMES", Universal Channel
-http://painel.ebanonet.com.br:25461/live/isaque/luiz/4308.ts
+http://iptv.ec.cx/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
 http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
@@ -113,10 +113,10 @@ http://0.0.0.0
 http://165.227.65.252/cartoonnetwork/tracks-v1a1/index.m3u8?pxAuth=stwr5XlDt8jnBDj4ZBQ3wVo50oZPN3d7
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
-http://165.227.65.252/disneyxd/tracks-v1a1/index.m3u8?pxAuth=lXpfAuyeEwfQcbUnaBiamIBlKHOTwVLj
+http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/JTaVma" group-title="CANAIS INFANTIL", Nickelodeon
-http://165.227.65.252/nickelodeon/tracks-v1a1/index.m3u8?pxAuth=HhIhuMjVYCM5PwsqGlWCw0Tr6SlSNe36
+http://iptv.ec.cx/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/mSksLQ" group-title="CANAIS INFANTIL", Discovery Kids
 http://165.227.65.252/discoverykids/tracks-v1a1/index.m3u8?pxAuth=T7pkqaCocAIareLBl34jPfYe5s7nma5D
@@ -195,7 +195,6 @@ http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6WDpFX" group-title="CANAIS DE RELIGIAO", Tv Evangelizar 
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 
-
 #EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
 http://0.0.0.0
 
@@ -220,6 +219,8 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CANAIS MUSICA", Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/KNW9BA" group-title="CANAIS DE SEXO",SEX ZONE
+http://iptv.ec.cx/hls/redecanais-hot.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/5P5Uzb" group-title="DESENHOS 24HRS",[COLOR yellow][B]DESENHOS 24HRS[/B][/COLOR]
 http://0.0.0.0
