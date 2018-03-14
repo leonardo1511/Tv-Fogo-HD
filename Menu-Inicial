@@ -43,6 +43,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B] Desenhos Tokusatsu{Tv Fogo HD}[/B][/COLOR]</name>
+<thumbnail>http://1.bp.blogspot.com/-nSVgy2wXPBE/Viumj7YeV9I/AAAAAAAABb4/8EdonR2jLQI/s1600/tokusatsu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tokusatsu/master/Menu-Tokusatsu</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Power Rangers {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Power_rangers_2018.png/200px-Power_rangers_2018.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/moraes84/Tv-Fogo-HD/master/.gitignore/Menu-Power-Rangers</externallink>
