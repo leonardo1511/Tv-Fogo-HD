@@ -56,7 +56,7 @@ http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-http://painel.ebanonet.com.br:25461/live/isaque/luiz/4325.ts
+http://178.132.6.206:26785/live/9974/9974/941.ts?token=QxQOVxVfFA0VAQ0GUA8EW11TDQIGAFoEVQAHUAAHW1QJBlECXlMCAwAXGEZHTUJdWVtrWFYUWQ1SUBxAQEZdQmdfAhRcFQQGDwUFUhYVEkxRW1ETCAdWBldRBVMEAAgcGkYPUkQNFAYHDARXFhUSXUBCUUNcVw9rAgRGC1ZQGgpWQwpaShVZWWhRUQlVV1QaAhQEEx4UCkcWQwpAFxkaUlFCFFcSUhQNFQQBUAEbHBpbWUFfRkQaFlwHUQ5GUBQSXU4SUwhEX1hZFw5GQEoSFBpfR25AUxBAFARRD1BHGgoaBkQaRFpXT2hWWwpaXFNMUVlaQhAMQQZETRIPWltRRFdEOUYPUxQNFQQAUgQBEkU=
 
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
