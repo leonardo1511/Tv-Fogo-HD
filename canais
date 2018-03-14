@@ -1,645 +1,645 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/200px-A%26E_Network_logo.svg.png" group-title="FILMES/SERIES",A&E SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1058.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1058.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/200px-A%26E_Network_logo.svg.png" group-title="FILMES/SERIES",A&E HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1284.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1284.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png" group-title="FILMES/SERIES",AMC BRASIL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1285.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1285.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png" group-title="FILMES/SERIES",AMC BRASIL SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2026.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2026.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png" group-title="FILMES/SERIES",AMC BRASIL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1286.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1286.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="FILMES/SERIES",AXN SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1056.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1056.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="FILMES/SERIES",AXN SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2027.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2027.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="FILMES/SERIES",AXN HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1282.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1282.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://files.pinotv.pl/images/channel/00/21/10/logo_2110_49f229.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1057.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1057.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD - (ALTERNATIVO)" tvg-logo="http://files.pinotv.pl/images/channel/00/21/10/logo_2110_49f229.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2025.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2025.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://files.pinotv.pl/images/channel/00/21/10/logo_2110_49f229.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1283.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1283.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/ABC_News.jpg/revision/latest?cb=20151013161111" group-title="INTERNACIONAIS",ABC NEWS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3631.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3631.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2341/brand.gif?itok=Ds7DwhoL" group-title="ABERTOS",BAND SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1279.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1279.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD (ALTERNATIVO)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2341/brand.gif?itok=Ds7DwhoL" group-title="ABERTOS",BAND SD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1055.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1055.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2341/brand.gif?itok=Ds7DwhoL" group-title="ABERTOS",BAND HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1281.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1281.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2341/brand.gif?itok=Ds7DwhoL" group-title="ABERTOS",BAND FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4083.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4083.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD - (ALTERNATIVO)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2341/brand.gif?itok=Ds7DwhoL" group-title="ABERTOS",BAND SP SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2023.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2023.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PARA SD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2341/brand.gif?itok=Ds7DwhoL" group-title="ABERTOS",BAND PARA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1054.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1054.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND VIA MORENA" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2341/brand.gif?itok=Ds7DwhoL" group-title="ABERTOS",BAND VIA MORENA
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3886.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3886.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/200px-BandNews_TV_logo_2010.svg.png" group-title="NOTICIAS",BAND NEWS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1280.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1280.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/200px-BandNews_TV_logo_2010.svg.png" group-title="NOTICIAS",BAND NEWS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4147.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4147.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/200px-BandSports_logo.svg.png" group-title="ESPORTES",BAND SPORTS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1278.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1278.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/200px-BandSports_logo.svg.png" group-title="ESPORTES",BAND SPORTS - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2022.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2022.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/200px-BandSports_logo.svg.png" group-title="ESPORTES",BAND SPORTS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1275.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1275.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/150px-Baby_TV.png" group-title="INFANTIL",BABY TV SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1272.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1272.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/150px-Baby_TV.png" group-title="INFANTIL",BABY TV SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2024.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2024.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1273.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1273.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://www.imediataonline.com.br/2015/wp-content/uploads/2015/06/Logo_of_Bis.png" group-title="VARIEDADES",BIS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1053.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1053.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://www.imediataonline.com.br/2015/wp-content/uploads/2015/06/Logo_of_Bis.png" group-title="VARIEDADES",BIS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1274.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1274.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="https://vignette.wikia.nocookie.net/ben10/images/8/8b/UB10PortalFranquia.png/revision/latest?cb=20170602230331&path-prefix=pt" group-title="LIVE 24 HORAS",BEN 10
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1263.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1263.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://i.ytimg.com/vi/FM786GcFfq4/maxresdefault_live.jpg" group-title="LIVE 24 HORAS",BOB ESPONJA
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1262.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1262.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="BATMAN" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51isH7EyoaL._SX463_.jpg" group-title="LIVE 24 HORAS",BATMAN
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3556.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3556.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES/SERIES",CINEMAX SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1254.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1254.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES/SERIES",CINEMAX SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2017.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2017.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES/SERIES",CINEMAX HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1255.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1255.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/200px-Canal_Sony_logo.svg.png" group-title="FILMES/SERIES",CANAL SONY SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1051.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1051.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/200px-Canal_Sony_logo.svg.png" group-title="FILMES/SERIES",CANAL SONY HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1267.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1267.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/150px-Canal_Brasil_logo.svg.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1270.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1270.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/150px-Canal_Brasil_logo.svg.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1271.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1271.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/200px-Comedy_Central_2011_Logo.svg.png" group-title="FILMES/SERIES",COMEDY CENTRAL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1250.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1250.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/200px-Comedy_Central_2011_Logo.svg.png" group-title="FILMES/SERIES",COMEDY CENTRAL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1251.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1251.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="CINE+ SD" tvg-logo="http://i.imgur.com/4pROafv.png" group-title="FILMES/SERIES",CINE+ SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3583.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3583.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY" tvg-logo="https://i.imgur.com/bD8n5Na.png" group-title="FILMES/SERIES",CINE SKY
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3582.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3582.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://afftvvolei.com.br/wp-content/uploads/2017/12/canal-combate.jpg" group-title="ESPORTES GLOBOSAT",COMBATE SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1252.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1252.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD - (ALTERNATIVO)" tvg-logo="http://afftvvolei.com.br/wp-content/uploads/2017/12/canal-combate.jpg" group-title="ESPORTES GLOBOSAT",COMBATE SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2015.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2015.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://afftvvolei.com.br/wp-content/uploads/2017/12/canal-combate.jpg" group-title="ESPORTES GLOBOSAT",COMBATE HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1253.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1253.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD 720" tvg-logo="http://afftvvolei.com.br/wp-content/uploads/2017/12/canal-combate.jpg" group-title="ESPORTES GLOBOSAT",COMBATE HD 720
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1059.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1059.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/O4LKHQi.jpg" group-title="ESPORTES GLOBOSAT",COMBATE FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3878.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3878.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD (ALTERNATIVO)" tvg-logo="http://afftvvolei.com.br/wp-content/uploads/2017/12/canal-combate.jpg" group-title="ESPORTES GLOBOSAT",COMBATE HD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4084.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4084.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2013/01/cartoon-network-logo-vector.png" group-title="INFANTIL",CARTOON NETWORK SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1050.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1050.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2013/01/cartoon-network-logo-vector.png" group-title="INFANTIL",CARTOON NETWORK HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1265.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1265.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2013/01/cartoon-network-logo-vector.png" group-title="INFANTIL",CARTOON NETWORK FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2018.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2018.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052013/untitled-1_105.png?itok=CqjJJKqs" group-title="ABERTOS",CULTURA
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1088.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1088.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA SD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052013/untitled-1_105.png?itok=CqjJJKqs" group-title="ABERTOS",CULTURA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1004.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1004.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052013/untitled-1_105.png?itok=CqjJJKqs" group-title="ABERTOS",CULTURA HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/987.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/987.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA SP HD - (ALTERNATIVO)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052013/untitled-1_105.png?itok=CqjJJKqs" group-title="ABERTOS",CULTURA SP HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2013.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2013.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/38/Canalrural.png" group-title="VARIEDADES",CANAL RURAL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1052.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1052.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/38/Canalrural.png" group-title="VARIEDADES",CANAL RURAL - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2020.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2020.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="RELIGIOSOS",CANCAO NOVA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1269.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1269.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD (ALTERNATIVO)" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="RELIGIOSOS",CANCAO NOVA SD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3887.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3887.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA HD - (ALTERNATIVO)" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="RELIGIOSOS",CANCAO NOVA HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2019.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2019.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA HD (ALTERNATIVO)" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="RELIGIOSOS",CANCAO NOVA HD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3888.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3888.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="INTERNACIONAIS",CNN INTERNACIONAL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1266.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1266.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="INTERNACIONAIS",CNN INTERNACIONAL - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2016.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2016.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/2000px-CNN_T%C3%BCrk_logo.svg.png" group-title="INTERNACIONAIS",CNN TURK
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3633.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3633.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="EliteChaves.br" tvg-name="CHAVES DESENHO" tvg-logo="https://i.ytimg.com/vi/PWdGXP5_10s/maxresdefault.jpg" group-title="LIVE 24 HORAS",CHAVES DESENHO
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3883.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3883.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS ZODIACO" tvg-logo="https://i.imgur.com/jTRSKDB.jpg" group-title="LIVE 24 HORAS",CAVALEIROS ZODIACO
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1261.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1261.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1049.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1049.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1249.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1249.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2011.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2011.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2284/brand.gif?itok=T6MNi5XX" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1248.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1248.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2284/brand.gif?itok=T6MNi5XX" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3873.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3873.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1048.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1048.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD - (ALTERNATIVO)" tvg-logo="http://images.mi.tv/channels/br_discovery-home-health-hd_m.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2010.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2010.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://images.mi.tv/channels/br_discovery-home-health-hd_m.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1247.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1247.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Discovery_HD_Theater.png/revision/latest/scale-to-width-down/640?cb=20091121180249" group-title="DOCUMENTARIOS",DISCOVERY THEATER SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1047.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1047.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Discovery_HD_Theater.png/revision/latest/scale-to-width-down/640?cb=20091121180249" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1243.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1243.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1046.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1046.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1242.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1242.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1945.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1945.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1244.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1244.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3874.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3874.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD  HD" tvg-logo="http://www.rgnews.com.br/wp-content/uploads/2016/03/logo-discovery.jpg" group-title="DOCUMENTARIOS",DISCOVERY WORLD  HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1241.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1241.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png/200px-Discovery_kids_logo.png" group-title="INFANTIL",DISCOVERY KIDS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1246.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1246.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png/200px-Discovery_kids_logo.png" group-title="INFANTIL",DISCOVERY KIDS SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2009.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2009.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png/200px-Discovery_kids_logo.png" group-title="INFANTIL",DISCOVERY KIDS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1245.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1245.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/200px-2015_Disney_Channel_logo.svg.png" group-title="INFANTIL",DISNEY CHANNEL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1240.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1240.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://fontmeme.com/images/disney-xd-logo.png" group-title="INFANTIL",DISNEY XD SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1238.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1238.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD - (ALTERNATIVO)" tvg-logo="https://fontmeme.com/images/disney-xd-logo.png" group-title="INFANTIL",DISNEY XD SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2005.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2005.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="INFANTIL",DISNEY JR SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1239.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1239.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD - (ALTERNATIVO)" tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="INFANTIL",DISNEY JR SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2006.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2006.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://media.indiedb.com/images/games/1/50/49914/Dragon_Ball_Z_Logo.png" group-title="LIVE 24 HORAS",DRAGON BALL Z
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1260.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1260.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="https://i.imgur.com/cOnbUVc.png" group-title="LIVE 24 HORAS",DRAGON BALL SUPER
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3884.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3884.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="EliteTwoAnd.br" tvg-name="DOIS HOMENS E MEIO" tvg-logo="https://portalquem.files.wordpress.com/2013/05/dois-homens-e-meio.jpg" group-title="LIVE 24 HORAS",DOIS HOMENS E MEIO
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3885.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3885.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Deutschewelle.br" tvg-name="DW DEUTSCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png" group-title="INTERNACIONAIS",DW DEUTSCH
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2004.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2004.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://image.prntscr.com/image/cxI8GhaHRm6Y3W0cXJ0kpw.png" group-title="ESPORTES",ESPN SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1044.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1044.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD - (ALTERNATIVO)" tvg-logo="https://image.prntscr.com/image/cxI8GhaHRm6Y3W0cXJ0kpw.png" group-title="ESPORTES",ESPN SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2000.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2000.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-kYHqgx06ZZQ/UQFwJoO_nwI/AAAAAAAAAYA/QHa-3HNzl4k/s320/espn_hd.png" group-title="ESPORTES",ESPN HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1227.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1227.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://static-media.streema.com/media/object-images/c266c4aaaa68f3b3842f202bf6556cb7.jpg" group-title="ESPORTES",ESPN BRASIL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1228.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1228.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD - (ALTERNATIVO)" tvg-logo="https://i.imgur.com/TdwhpTf.jpg" group-title="ESPORTES",ESPN BRASIL SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1999.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1999.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://static-media.streema.com/media/object-images/c266c4aaaa68f3b3842f202bf6556cb7.jpg" group-title="ESPORTES",ESPN BRASIL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1229.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1229.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://static-media.streema.com/media/object-images/c266c4aaaa68f3b3842f202bf6556cb7.jpg" group-title="ESPORTES",ESPN BRASIL FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4082.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4082.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN+ SD" tvg-logo="https://mitvstatic.com/channels/96e36c04-b680-4611-8910-889df1d04dce_m.jpg" group-title="ESPORTES",ESPN+ SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1045.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1045.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN+ SD - (ALTERNATIVO)" tvg-logo="https://mitvstatic.com/channels/96e36c04-b680-4611-8910-889df1d04dce_m.jpg" group-title="ESPORTES",ESPN+ SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1998.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1998.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN+ HD" tvg-logo="https://mitvstatic.com/channels/96e36c04-b680-4611-8910-889df1d04dce_m.jpg" group-title="ESPORTES",ESPN+ HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1230.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1230.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eimaxx.br" tvg-name="ESPORTE INTERATIVO SD" tvg-logo="https://i.imgur.com/OsilI4e.jpg" group-title="ESPORTES",ESPORTE INTERATIVO SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1232.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1232.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eimaxx.br" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="https://i.imgur.com/OsilI4e.jpg" group-title="ESPORTES",ESPORTE INTERATIVO HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1233.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1233.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-name="ESPORTE INTERATIVO FHD" tvg-logo="https://i.imgur.com/OsilI4e.jpg" group-title="ESPORTES",ESPORTE INTERATIVO FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4491.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4491.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eimaxx2.br" tvg-name="ESPORTE INTERATIVO 2 SD" tvg-logo="https://image.prntscr.com/image/hwCecPd3Sc2PbdfWODA9Kw.png" group-title="ESPORTES",ESPORTE INTERATIVO 2 SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1234.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1234.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eimaxx2.br" tvg-name="ESPORTE INTERATIVO 2 HD" tvg-logo="https://i.imgur.com/cERFYeT.png" group-title="ESPORTES",ESPORTE INTERATIVO 2 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1235.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1235.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eimaxx2.br" tvg-name="ESPORTE INTERATIVO 2 HD - (ALTERNATIVO)" tvg-logo="https://1.bp.blogspot.com/-iBCZdJ4Y9Fc/WhQyL3dZkgI/AAAAAAAABPs/Xb9Nii94TVELYUQ5Q7BwI0nbwGnk1OhlACLcBGAs/s1600/ei1.png" group-title="ESPORTES",ESPORTE INTERATIVO 2 HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2049.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2049.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eimaxx2.br" tvg-name="ESPORTE INTERATIVO 2 FHD" tvg-logo="https://i.imgur.com/OsilI4e.jpg" group-title="ESPORTES",ESPORTE INTERATIVO 2 FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4492.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4492.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-name="ESPORTE INTERATIVO BR HD - (ALTERNATIVO)" tvg-logo="https://1.bp.blogspot.com/-iBCZdJ4Y9Fc/WhQyL3dZkgI/AAAAAAAABPs/Xb9Nii94TVELYUQ5Q7BwI0nbwGnk1OhlACLcBGAs/s1600/ei1.png" group-title="ESPORTES",ESPORTE INTERATIVO BR HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2048.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2048.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/200px-Eurosport_Logo_2015.svg.png" group-title="ESPORTES",EUROSPORT
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1225.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1225.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV CAMPINAS SD - (ALTERNATIVO)" tvg-logo="http://jornal.fmrp.usp.br/wp-content/uploads/2014/03/EPTV.png" group-title="REDE GLOBO",EPTV CAMPINAS SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2003.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2003.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV CAMPINAS HD" tvg-logo="http://jornal.fmrp.usp.br/wp-content/uploads/2014/03/EPTV.png" group-title="REDE GLOBO",EPTV CAMPINAS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1231.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1231.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="EPTV RIBEIRAO PRETO - (ALTERNATIVO)" tvg-logo="http://jornal.fmrp.usp.br/wp-content/uploads/2014/03/EPTV.png" group-title="REDE GLOBO",EPTV RIBEIRAO PRETO - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2002.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2002.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV SAO CARLOS - (ALTERNATIVO)" tvg-logo="http://jornal.fmrp.usp.br/wp-content/uploads/2014/03/EPTV.png" group-title="REDE GLOBO",EPTV SAO CARLOS - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2001.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2001.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/50px-E%21_logo_2012.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1236.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1236.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/50px-E%21_logo_2012.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1237.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1237.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="EliteEuaPatroa.br" tvg-name="EU, A PATROA E AS CRIANCAS" tvg-logo="https://i.imgur.com/CB1tPdX.jpg" group-title="LIVE 24 HORAS",EU, A PATROA E AS CRIANCAS
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3569.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3569.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png" group-title="FILMES/SERIES",FOX SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1042.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1042.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png" group-title="FILMES/SERIES",FOX HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1222.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1222.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD - (ALTERNATIVO)" tvg-logo="https://i.imgur.com/xj5xhfV.png" group-title="FILMES/SERIES",FOX FHD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1997.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1997.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="https://i.imgur.com/xj5xhfV.png" group-title="FILMES/SERIES",FOX FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4490.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4490.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE  SD" tvg-logo="https://vignette.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="FILMES/SERIES",FOX LIFE  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1041.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1041.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE - (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="FILMES/SERIES",FOX LIFE - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3044.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3044.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://vignette.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="FILMES/SERIES",FOX LIFE HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1221.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1221.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://www.tvmagazine.com.br//imagens/icones/600/foxpremium1b.png" group-title="FILMES/SERIES",FOX PREMIUM 1 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1220.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1220.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://i.imgur.com/cbW6sJW.png" group-title="FILMES/SERIES",FOX PREMIUM 2 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1219.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1219.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/JkjPKle.png" group-title="FILMES/SERIES",FX SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1211.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1211.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/CpL3Ozr.jpg" group-title="FILMES/SERIES",FX HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1212.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1212.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/styles/smartcrop_800x800/public/images/tv-images/2014/08/16/fox_sports.jpg?itok=QNk36d9H" group-title="ESPORTES",FOX SPORTS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1214.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1214.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/4puUnGb.jpg" group-title="ESPORTES",FOX SPORTS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1215.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1215.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD (ALTERNATIVO)" tvg-logo="http://images.mi.tv/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg" group-title="ESPORTES",FOX SPORTS FHD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1995.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1995.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS  FHD" tvg-logo="http://images.mi.tv/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg" group-title="ESPORTES",FOX SPORTS  FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3879.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3879.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://images.mi.tv/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" group-title="ESPORTES",FOX SPORTS 2 SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1216.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1216.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD - (ALTERNATIVO)" tvg-logo="http://images.mi.tv/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" group-title="ESPORTES",FOX SPORTS 2 SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1996.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1996.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://images.mi.tv/channels/co_fox-sports-2-hd_m.png" group-title="ESPORTES",FOX SPORTS 2 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1217.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1217.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://images.mi.tv/channels/co_fox-sports-2-hd_m.png" group-title="ESPORTES",FOX SPORTS 2 FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3877.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3877.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://lh3.googleusercontent.com/v6zXEbkMb1ksssD6Lr03yYoXgsaBnJC26PfJyofdRk52PUWq2jR5KPu3khdVUc39qZQ=w300" group-title="VARIEDADES",FOOD NETWORK SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1043.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1043.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD - (ALTERNATIVO)" tvg-logo="https://lh3.googleusercontent.com/v6zXEbkMb1ksssD6Lr03yYoXgsaBnJC26PfJyofdRk52PUWq2jR5KPu3khdVUc39qZQ=w300" group-title="VARIEDADES",FOOD NETWORK SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3043.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3043.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://lh3.googleusercontent.com/v6zXEbkMb1ksssD6Lr03yYoXgsaBnJC26PfJyofdRk52PUWq2jR5KPu3khdVUc39qZQ=w300" group-title="VARIEDADES",FOOD NETWORK HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1223.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1223.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="EliteFamiliaDino.br" tvg-name="FAMILIA DINOSSAURO" tvg-logo="https://i.imgur.com/Q7Yg1BJ.jpg" group-title="LIVE 24 HORAS",FAMILIA DINOSSAURO
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3536.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3536.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA DA PESADA" tvg-logo="https://i.imgur.com/I7B5Xbe.jpg" group-title="LIVE 24 HORAS",FAMILIA DA PESADA
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3538.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3538.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="INTERNACIONAIS",FRANCE 24
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3628.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3628.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT SD" tvg-logo="https://image.prntscr.com/image/aOYIvcH_TqucOCB1F6IeOQ.png" group-title="REDE GLOBO",GLOBOSAT SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1038.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1038.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT HD" tvg-logo="https://image.prntscr.com/image/aOYIvcH_TqucOCB1F6IeOQ.png" group-title="REDE GLOBO",GLOBOSAT HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1196.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1196.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA FHD" tvg-logo="https://imgur.com/un06iZG.png" group-title="REDE GLOBO",GLOBO ANHANGUERA FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1090.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1090.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO AMAZONICA MANAUS - (ALTERNATIVO)" tvg-logo="http://imagem.natelinha.uol.com.br/grande/redeamazonica.jpg" group-title="REDE GLOBO",GLOBO AMAZONICA MANAUS - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1992.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1992.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://image.prntscr.com/image/OMGDNpQYQDa1zi_YYK0iog.png" group-title="REDE GLOBO",GLOBO BRASILIA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1210.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1210.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://image.prntscr.com/image/OMGDNpQYQDa1zi_YYK0iog.png" group-title="REDE GLOBO",GLOBO BRASILIA HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1209.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1209.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://image.prntscr.com/image/OzPSlxKdQ_up2mzxGsH1Qw.png" group-title="REDE GLOBO",GLOBO MINAS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1206.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1206.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://image.prntscr.com/image/bdJL8_DsSB_L0Hap8baDXw.png" group-title="REDE GLOBO",GLOBO RJ SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1200.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1200.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD (ALTERNATIVO)" tvg-logo="https://image.prntscr.com/image/bdJL8_DsSB_L0Hap8baDXw.png" group-title="REDE GLOBO",GLOBO RJ SD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1003.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1003.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD (ALTERNATIVO 2)" tvg-logo="https://image.prntscr.com/image/bdJL8_DsSB_L0Hap8baDXw.png" group-title="REDE GLOBO",GLOBO RJ SD (ALTERNATIVO 2)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3880.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3880.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://image.prntscr.com/image/bdJL8_DsSB_L0Hap8baDXw.png" group-title="REDE GLOBO",GLOBO RJ HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1201.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1201.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://tudotv.tv/fotos/1040a3eccf982ee032840be1c02e70c9.png" group-title="REDE GLOBO",GLOBO SP SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1198.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1198.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP  SD" tvg-logo="http://tudotv.tv/fotos/1040a3eccf982ee032840be1c02e70c9.png" group-title="REDE GLOBO",GLOBO SP  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1002.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1002.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - (ALTERNATIVO)" tvg-logo="http://tudotv.tv/fotos/1040a3eccf982ee032840be1c02e70c9.png" group-title="REDE GLOBO",GLOBO SP - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1987.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1987.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://tudotv.tv/fotos/1040a3eccf982ee032840be1c02e70c9.png" group-title="REDE GLOBO",GLOBO SP HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1199.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1199.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO SAO JOSE DOS CAMPOS - (ALTERNATIVO)" tvg-logo="http://cdn-img.easylogo.cn/gif/143/143493.gif" group-title="REDE GLOBO",GLOBO SAO JOSE DOS CAMPOS - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1988.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1988.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD - (ALTERNATIVO)" tvg-logo="https://image.prntscr.com/image/EdVV9FpwQdOBsCuckgIL7Q.png" group-title="REDE GLOBO",GLOBO NORDESTE SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1990.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1990.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE" tvg-logo="https://image.prntscr.com/image/EdVV9FpwQdOBsCuckgIL7Q.png" group-title="REDE GLOBO",GLOBO NORDESTE
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1036.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1036.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://image.prntscr.com/image/EdVV9FpwQdOBsCuckgIL7Q.png" group-title="REDE GLOBO",GLOBO NORDESTE HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1203.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1203.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="GLOBO PORTUGAL SD" tvg-logo="https://image.prntscr.com/image/vp0chdJ5SRKQcp-HD61_3Q.png" group-title="REDE GLOBO",GLOBO PORTUGAL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1202.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1202.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="GLOBO INTERNACIONAL  SD" tvg-logo="https://image.prntscr.com/image/vp0chdJ5SRKQcp-HD61_3Q.png" group-title="REDE GLOBO",GLOBO INTERNACIONAL  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1207.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1207.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="GLOBO INTERNACIONAL - (ALTERNATIVO)" tvg-logo="https://image.prntscr.com/image/vp0chdJ5SRKQcp-HD61_3Q.png" group-title="REDE GLOBO",GLOBO INTERNACIONAL - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1991.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1991.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="GLOBO INTERNACIONAL FHD" tvg-logo="https://image.prntscr.com/image/vp0chdJ5SRKQcp-HD61_3Q.png" group-title="REDE GLOBO",GLOBO INTERNACIONAL FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1208.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1208.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/200px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1040.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1040.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/200px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3045.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3045.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/200px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1204.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1204.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/200px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3875.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3875.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA SP HD" tvg-logo="http://www.gazetaam.com/wp-content/uploads/2017/01/TV-Gazeta.jpg" group-title="ABERTOS",GAZETA SP HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1197.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1197.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA ES HD" tvg-logo="http://www.gazetaam.com/wp-content/uploads/2017/01/TV-Gazeta.jpg" group-title="ABERTOS",GAZETA ES HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1087.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1087.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA HD - (ALTERNATIVO)" tvg-logo="http://www.gazetaam.com/wp-content/uploads/2017/01/TV-Gazeta.jpg" group-title="ABERTOS",GAZETA HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1993.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1993.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/2eRU4wX.gif" group-title="VARIEDADES",GNT SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1039.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1039.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0010/7553/brand.gif?itok=CN9KfUaE" group-title="VARIEDADES",GNT HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1194.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1194.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="GNT HD - (ALTERNATIVO)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0010/7553/brand.gif?itok=CN9KfUaE" group-title="VARIEDADES",GNT HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4542.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4542.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Gloob_logo.png" group-title="INFANTIL",GLOOB  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1037.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1037.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Gloob_logo.png" group-title="INFANTIL",GLOOB  HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1195.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1195.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/150px-HBO_logo.svg.png" group-title="REDE HBO",HBO SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1184.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1184.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/150px-HBO_logo.svg.png" group-title="REDE HBO",HBO HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1189.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1189.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/150px-HBO_logo.svg.png" group-title="REDE HBO",HBO SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1983.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1983.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="REDE HBO",HBO 2 SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1191.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1191.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2  SD - (ALTERNATIVO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="REDE HBO",HBO 2  SD - (ALTERNATIVO 2)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1031.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1031.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="REDE HBO",HBO 2 SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1982.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1982.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="REDE HBO",HBO 2 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1192.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1192.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="REDE HBO",HBO FAMILY  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1034.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1034.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="REDE HBO",HBO FAMILY HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1190.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1190.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/200px-HBO_Plus.png" group-title="REDE HBO",HBO PLUS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1185.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1185.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS  SD - (ALTERNATIVO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/200px-HBO_Plus.png" group-title="REDE HBO",HBO PLUS  SD - (ALTERNATIVO 2)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1033.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1033.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/200px-HBO_Plus.png" group-title="REDE HBO",HBO PLUS HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1187.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1187.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/200px-HBO_Plus.png" group-title="REDE HBO",HBO PLUS E SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1188.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1188.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS E - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/200px-HBO_Plus.png" group-title="REDE HBO",HBO PLUS E - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1980.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1980.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/220px-HBO_Signature.svg.png" group-title="REDE HBO",HBO SIGNATURE SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1182.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1182.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD (ALTERNATIVO)" tvg-logo="https://i.imgur.com/fxfMW8o.png" group-title="REDE HBO",HBO SIGNATURE SD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1032.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1032.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/220px-HBO_Signature.svg.png" group-title="REDE HBO",HBO SIGNATURE - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1979.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1979.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/220px-HBO_Signature.svg.png" group-title="REDE HBO",HBO SIGNATURE HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1183.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1183.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://southfloridareporter.com/wp-content/uploads/2016/08/History-icon.jpg" group-title="DOCUMENTARIOS",HISTORY CHANNEL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1098.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1098.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD - (ALTERNATIVO)" tvg-logo="https://i.imgur.com/TSxycl6.jpg" group-title="DOCUMENTARIOS",HISTORY CHANNEL SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1978.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1978.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://southfloridareporter.com/wp-content/uploads/2016/08/History-icon.jpg" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1097.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1097.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD - (ALTERNATIVO)" tvg-logo="https://southfloridareporter.com/wp-content/uploads/2016/08/History-icon.jpg" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1977.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1977.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://i.imgur.com/TSxycl6.jpg" group-title="DOCUMENTARIOS",HISTORY CHANNEL FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4493.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4493.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://foromedios.com/uploads/gallery/category_2/gallery_5610_2_9848.png" group-title="DOCUMENTARIOS",H2 SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1035.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1035.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://foromedios.com/uploads/gallery/category_2/gallery_5610_2_9848.png" group-title="DOCUMENTARIOS",H2 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1193.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1193.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID  -  INVESTIGATION DISCOVERY SD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/c6/Investiga%C3%A7%C3%A3o_Discovery_HD.png/revision/latest?cb=20140513101244" group-title="DOCUMENTARIOS",ID  -  INVESTIGATION DISCOVERY SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1030.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1030.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1976.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1976.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/c6/Investiga%C3%A7%C3%A3o_Discovery_HD.png/revision/latest?cb=20140513101244" group-title="DOCUMENTARIOS",ID - INVESTIGATION DISCOVERY HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1180.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1180.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID - INVESTIGACAO DISCOVERY HD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY HD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4148.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4148.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT SD" tvg-logo="http://images.mi.tv/channels/br_i-sat_m.png" group-title="FILMES/SERIES",I-SAT SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1181.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1181.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Max.br" tvg-name="MAX SD" tvg-logo="http://images.mi.tv/channels/br_max-up-1_m.png" group-title="REDE HBO",MAX SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1027.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1027.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="http://images.mi.tv/channels/br_max-up-1_m.png" group-title="REDE HBO",MAX HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1178.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1178.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Max.br" tvg-name="MAX SD - (ALTERNATIVO)" tvg-logo="http://images.mi.tv/channels/br_max-up-1_m.png" group-title="REDE HBO",MAX SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1975.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1975.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maxup.png/200px-Maxup.png" group-title="REDE HBO",MAX UP SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1026.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1026.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maxup.png/200px-Maxup.png" group-title="REDE HBO",MAX UP HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1175.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1175.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/413px-Max_Prime_2012_logo.svg.png" group-title="REDE HBO",MAX PRIME HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1176.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1176.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/413px-Max_Prime_2012_logo.svg.png" group-title="REDE HBO",MAX PRIME SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1028.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1028.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/413px-Max_Prime_2012_logo.svg.png" group-title="REDE HBO",MAX PRIME SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1974.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1974.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="MAX PRIME HD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/413px-Max_Prime_2012_logo.svg.png" group-title="REDE HBO",MAX PRIME HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1177.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1177.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://images.mi.tv/channels/br_megapix_m.png" group-title="GLOBOSAT FILMES",MEGAPIX SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1025.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1025.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD  - (ALTERNATIVO)" tvg-logo="http://images.mi.tv/channels/br_megapix_m.png" group-title="GLOBOSAT FILMES",MEGAPIX SD  - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1973.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1973.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://images.mi.tv/channels/br_megapix_m.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1174.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1174.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://images.mi.tv/channels/br_megapix_m.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3870.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3870.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/9kAbYMs.png" group-title="MUSICAS",MTV SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1029.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1029.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/9kAbYMs.png" group-title="MUSICAS",MTV HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1173.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1173.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV PORTUGAL" tvg-logo="https://i.imgur.com/9kAbYMs.png" group-title="MUSICAS",MTV PORTUGAL
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1172.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1172.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV DANCE SD" tvg-logo="https://i.imgur.com/Md3sVXs.png" group-title="MUSICAS",MTV DANCE SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1171.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1171.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/HRwOBap.png" group-title="MUSICAS",MULTISHOW SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1169.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1169.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/HRwOBap.png" group-title="MUSICAS",MULTISHOW HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1170.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1170.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://i0.wp.com/mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="MUSICAS",MUSIC TOP
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2031.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2031.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="" group-title="MUSICAS",MUSIC BOX BRASIL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1168.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1168.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO HD" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.natgeo.png.pagespeed.ic.aRt9Af3P0m.png" group-title="DOCUMENTARIOS",NAT GEO HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1167.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1167.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO  SD" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.natgeo.png.pagespeed.ic.aRt9Af3P0m.png" group-title="DOCUMENTARIOS",NAT GEO  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1022.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1022.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2017/09/nat-geo-wild.png" group-title="DOCUMENTARIOS",NATGEO WILD SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1024.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1024.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2017/09/nat-geo-wild.png" group-title="DOCUMENTARIOS",NATGEO WILD HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1165.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1165.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/200px-NBR_logo_2016.svg.png" group-title="NOTICIAS",NBR SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1023.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1023.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/200px-NBR_logo_2016.svg.png" group-title="NOTICIAS",NBR - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1971.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1971.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="https://media.giphy.com/media/kibxTdFJXzAA0/giphy.gif" group-title="INFANTIL",NICK SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1161.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1161.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://media.giphy.com/media/kibxTdFJXzAA0/giphy.gif" group-title="INFANTIL",NICK HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1162.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1162.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD - (ALTERNATIVO)" tvg-logo="https://media.giphy.com/media/kibxTdFJXzAA0/giphy.gif" group-title="INFANTIL",NICK SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1970.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1970.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",NICK JR SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1163.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1163.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",NICK JR  HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4146.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4146.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NATGEO KIDS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1166.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1166.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NATGEO KIDS - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1972.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1972.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NATGEO KIDS  HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4145.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4145.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="NFL NOW" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest?cb=20150803005238" group-title="INTERNACIONAIS",NFL NOW
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3629.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3629.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="INTERNACIONAIS",NHK WORLD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3630.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3630.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="NEWS INDIA" tvg-logo="https://khabar.ndtv.com/static/images/front/ndtvlogo.png" group-title="INTERNACIONAIS",NEWS INDIA
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3632.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3632.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg/revision/latest?cb=20130601231108" group-title="FILMES/SERIES",PARAMOUNT CHANNEL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1020.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1020.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/sI6ycR4.jpg" group-title="FILMES/SERIES",PARAMOUNT CHANNEL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1159.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1159.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="FILMES/SERIES",PRIME BOX BRASIL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1144.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1144.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD" tvg-logo="http://2.bp.blogspot.com/_dmC5SEOSvA4/TGLCpUmoFRI/AAAAAAAABfQ/agj73ZygEG8/s1600/logomarca_record_branco.jpg" group-title="ABERTOS",RECORD SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1139.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1139.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  SD" tvg-logo="https://i.imgur.com/vwpfxT8.jpg" group-title="ABERTOS",RECORD  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1138.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1138.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD  SD" tvg-logo="http://2.bp.blogspot.com/_dmC5SEOSvA4/TGLCpUmoFRI/AAAAAAAABfQ/agj73ZygEG8/s1600/logomarca_record_branco.jpg" group-title="ABERTOS",REDE RECORD  SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1132.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1132.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV - (ALTERNATIVO)" tvg-logo="http://2.bp.blogspot.com/_dmC5SEOSvA4/TGLCpUmoFRI/AAAAAAAABfQ/agj73ZygEG8/s1600/logomarca_record_branco.jpg" group-title="ABERTOS",RECORD TV - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1959.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1959.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  HD" tvg-logo="http://2.bp.blogspot.com/_dmC5SEOSvA4/TGLCpUmoFRI/AAAAAAAABfQ/agj73ZygEG8/s1600/logomarca_record_branco.jpg" group-title="ABERTOS",RECORD  HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1140.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1140.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD SP HD" tvg-logo="https://i.imgur.com/g5zMx4C.jpg" group-title="ABERTOS",REDE RECORD SP HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1134.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1134.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MIRAMAR SD" tvg-logo="http://2.bp.blogspot.com/_dmC5SEOSvA4/TGLCpUmoFRI/AAAAAAAABfQ/agj73ZygEG8/s1600/logomarca_record_branco.jpg" group-title="ABERTOS",RECORD MIRAMAR SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1006.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1006.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD USA SD" tvg-logo="https://i.imgur.com/g5zMx4C.jpg" group-title="ABERTOS",REDE RECORD USA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1135.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1135.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PT SD" tvg-logo="https://i.imgur.com/vwpfxT8.jpg" group-title="ABERTOS",RECORD PT SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1141.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1141.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD FHD" tvg-logo="http://2.bp.blogspot.com/_dmC5SEOSvA4/TGLCpUmoFRI/AAAAAAAABfQ/agj73ZygEG8/s1600/logomarca_record_branco.jpg" group-title="ABERTOS",REDE RECORD FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1133.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1133.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD FHD" tvg-logo="http://2.bp.blogspot.com/_dmC5SEOSvA4/TGLCpUmoFRI/AAAAAAAABfQ/agj73ZygEG8/s1600/logomarca_record_branco.jpg" group-title="ABERTOS",RECORD FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4078.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4078.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD - (ALTERNATIVO)" tvg-logo="https://pbs.twimg.com/profile_images/937747985731063814/_TaaBguI_400x400.jpg" group-title="ABERTOS",REDE TV SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1958.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1958.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD (ALTERNATIVO 2)" tvg-logo="https://pbs.twimg.com/profile_images/937747985731063814/_TaaBguI_400x400.jpg" group-title="ABERTOS",REDE TV SD (ALTERNATIVO 2)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3586.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3586.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="https://pbs.twimg.com/profile_images/937747985731063814/_TaaBguI_400x400.jpg" group-title="ABERTOS",REDE TV SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1016.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1016.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="https://pbs.twimg.com/profile_images/937747985731063814/_TaaBguI_400x400.jpg" group-title="ABERTOS",REDE TV HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1131.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1131.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://pbs.twimg.com/profile_images/937747985731063814/_TaaBguI_400x400.jpg" group-title="ABERTOS",REDE TV FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4077.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4077.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RBS TV PORTO ALEGRE - (ALTERNATIVO)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/4387/brand.gif?itok=BHKCFv-G" group-title="REDE GLOBO",RBS TV PORTO ALEGRE - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1960.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1960.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RBS TV PORTO ALEGRE SD" tvg-logo="https://i.imgur.com/HDH2TG3.gif" group-title="REDE GLOBO",RBS TV PORTO ALEGRE SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1143.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1143.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globonscriciuma.br" tvg-name="RPC TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/RPCTV_SEM_AFILIADA.jpg/revision/latest?cb=20130412155455" group-title="REDE GLOBO",RPC TV HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1205.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1205.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1128.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1128.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT SD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1129.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1129.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1130.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1130.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD - (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT HD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1957.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1957.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD (ALTERNATIVO 2)" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT HD (ALTERNATIVO 2)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3587.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3587.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD GOIAS - (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT HD GOIAS - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1956.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1956.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SC SD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT SC SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3585.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3585.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/5f/Sbt.png/revision/latest?cb=20150205225413&path-prefix=pt-br" group-title="ABERTOS",SBT FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4076.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4076.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/200px-SpaceLogo.svg.png" group-title="FILMES/SERIES",SPACE SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1015.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1015.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/200px-SpaceLogo.svg.png" group-title="FILMES/SERIES",SPACE HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1124.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1124.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/200px-Syfy.svg.png" group-title="GLOBOSAT FILMES",SYFY SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1014.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1014.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/200px-Syfy.svg.png" group-title="GLOBOSAT FILMES",SYFY - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1948.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1948.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/200px-Syfy.svg.png" group-title="GLOBOSAT FILMES",SYFY HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1112.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1112.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/200px-StudioUniversal2016.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1013.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1013.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/200px-StudioUniversal2016.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1949.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1949.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/200px-StudioUniversal2016.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1113.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1113.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/250px-SporTV_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1118.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1118.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/250px-SporTV_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1953.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1953.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES GLOBOSAT",SPORTV HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1119.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1119.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/250px-SporTV_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1950.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1950.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/250px-SporTV_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV FHD (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3871.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3871.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/150px-SporTV_2_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1122.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1122.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/150px-SporTV_2_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1952.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1952.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/150px-SporTV_2_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1123.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1123.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/150px-SporTV_2_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 FHD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3872.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3872.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/150px-SporTV_3_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1120.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1120.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/150px-SporTV_3_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1951.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1951.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/150px-SporTV_3_2017_logo.svg.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1121.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1121.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/iYKinWQ.png" group-title="FILMES/SERIES",TCM SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1009.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1009.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://www.pvhc.net/img207/igfhjkhthljzdsxkbtpr.png" group-title="FILMES/SERIES",TBS SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1111.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1111.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvers.br" tvg-name="TVE BAHIA" tvg-logo="http://liliancomunica.com.br/site/wp-content/uploads/2014/11/tve-bahia.png" group-title="ABERTOS",TVE BAHIA
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3589.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3589.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV BAHIA SD - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Logotipo_da_TV_Bahia.jpg/200px-Logotipo_da_TV_Bahia.jpg" group-title="REDE GLOBO",TV BAHIA SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1985.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1985.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Logotipo_da_TV_Bahia.jpg/200px-Logotipo_da_TV_Bahia.jpg" group-title="REDE GLOBO",TV BAHIA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1089.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1089.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="TV LIBERAL BELEM SD" tvg-logo="https://portalquem.files.wordpress.com/2013/03/tv-liberal.png" group-title="REDE GLOBO",TV LIBERAL BELEM SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1086.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1086.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="TV LIBERAL BELEM - (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/grupo-livre-de-comunicacao/images/4/4d/TV_Liberal.png/revision/latest/scale-to-width-down/517?cb=20140103222018&path-prefix=pt-br" group-title="REDE GLOBO",TV LIBERAL BELEM - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1936.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1936.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL - (ALTERNATIVO)" tvg-logo="http://www.gayamachado.com.br/site/wp-content/uploads/2017/12/img-gm_TV-BRASIL.jpg" group-title="ABERTOS",TV BRASIL - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1939.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1939.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="TV PANTANAL MS" tvg-logo="http://3.bp.blogspot.com/-JdbIqgJsOZI/WMk1sl_BHnI/AAAAAAAAAuo/3WIBnnRPLU0A3Z-iP7JGeot7xqxgW-jjgCK4B/s142/logo%2Btv%2Bpantanal.png" group-title="ABERTOS",TV PANTANAL MS
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2032.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/2032.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="TVVitoria.br" tvg-name="TV VITORIA SD - (ALTERNATIVO)" tvg-logo="https://imgur.com/zdLtEnI.png" group-title="ABERTOS",TV VITORIA SD - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1932.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1932.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="TV TRIBUNA SANTOS - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_TV_Tribuna_%28Santos%29.jpg" group-title="REDE GLOBO",TV TRIBUNA SANTOS - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1934.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1934.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="TV TEM SOROCABA SD" tvg-logo="https://pbs.twimg.com/profile_images/1014720609/logoTVTEMoficial2010_400x400.jpg" group-title="REDE GLOBO",TV TEM SOROCABA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1080.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1080.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="TV TEM BAURU SD" tvg-logo="https://pbs.twimg.com/profile_images/1014720609/logoTVTEMoficial2010_400x400.jpg" group-title="REDE GLOBO",TV TEM BAURU SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1001.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1001.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="TV TEM BAURU" tvg-logo="https://pbs.twimg.com/profile_images/1014720609/logoTVTEMoficial2010_400x400.jpg" group-title="REDE GLOBO",TV TEM BAURU
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1085.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1085.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvtemsjrp.br" tvg-name="TV TEM RIO PRETO - (ALTERNATIVO)" tvg-logo="https://pbs.twimg.com/profile_images/1014720609/logoTVTEMoficial2010_400x400.jpg" group-title="REDE GLOBO",TV TEM RIO PRETO - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1935.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1935.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="NOTICIAS",TV CAMARA
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1937.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1937.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA - (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f2/Logo_rede_aparecida_comunicacao.png/200px-Logo_rede_aparecida_comunicacao.png" group-title="RELIGIOSOS",TV APARECIDA - (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1938.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1938.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="RELIGIOSOS",TV APARECIDA SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1084.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1084.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f2/Logo_rede_aparecida_comunicacao.png/200px-Logo_rede_aparecida_comunicacao.png" group-title="RELIGIOSOS",TV APARECIDA (ALTERNATIVO)
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3825.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3825.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xZYpqBgTIMIyv4XktMwcMYUOrE3f7U_ZGRX5Jv07zRyzi0e0MA" group-title="RELIGIOSOS",TV EVANGELIZAR
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4144.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4144.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/200px-Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1008.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1008.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://i.imgur.com/eaR3J7w.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4153.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/4153.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
 #EXTINF:-1 tvg-id="" tvg-name="TV INGREJA MUNDIAL SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="RELIGIOSOS",TV INGREJA MUNDIAL SD
-http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3626.m3u8
+http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/3626.m3u8|Referer=http://www.ns554205.ip-142-44-213.net:25461/
