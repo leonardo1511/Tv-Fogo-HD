@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red][B]Series {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR Red][B]Series {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://goo.gl/DQ68E1</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://goo.gl/DQ68E1</fanart>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[COLOR blue][B]Animes {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[COLOR Blue][B]Animes {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>http://i.imgur.com/MWkbq6d.jpg</fanart>
