@@ -14,7 +14,7 @@ http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
-http://painel.ebanonet.com.br:25461/live/isaque/luiz/4400.ts
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=909525945
 
 #EXTINF:-1 tvg-logo="https://goo.gl/syHrxH" group-title="CANAIS ABERTO", Rede tv 
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2092614085.m3u8
