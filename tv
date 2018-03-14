@@ -83,7 +83,7 @@ http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Rwue4P" group-title="CANAIS FILMES",Fox
-http://tv.ec.cx:1935/redecanais-stream-fox/myStream/live.m3u8|Referer=http://www.redecanais.com/
+http://www.redecanais.com/player3/servercanais.php?canal=redecanais-fox|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LihCTa" group-title="CANAIS FILMES", Universal Channel
 http://painel.ebanonet.com.br:25461/live/isaque/luiz/4308.ts
