@@ -11,14 +11,6 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow][B]LISTA TEMPORARIA[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/SDeXtN5.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/canais</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
 <name>[COLOR white][B]FILMES {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://goo.gl/AnizhR</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Menu-Filmes</externallink>
