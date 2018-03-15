@@ -57,3 +57,11 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
+<channel>
+<name>[COLOR white][B]Novelas {Tv Fogo HD}[/B][/COLOR]</name>
+<thumbnail>https://blogsolteioverbo.files.wordpress.com/2012/04/novelas.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Menu-Novelas</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
