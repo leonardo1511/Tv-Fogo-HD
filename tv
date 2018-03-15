@@ -88,6 +88,12 @@ http://iptv.ec.cx/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 #EXTINF:-1 tvg-logo="https://goo.gl/LihCTa" group-title="CANAIS FILMES", Universal Channel
 http://iptv.ec.cx/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
 
+#EXTINF:-1 tvg-logo="https://goo.gl/Jrm59b" group-title="CANAIS FILMES",AMC BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1285.ts&name=SKY
+
+#EXTINF:-1 tvg-logo="https://goo.gl/6Hb8CM" group-title="CANAIS FILMES",A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1058.ts&name=SKY&name=SKY
+
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
 http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
 
