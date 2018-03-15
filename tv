@@ -89,7 +89,7 @@ http://iptv.ec.cx/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 http://iptv.ec.cx/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Jrm59b" group-title="CANAIS FILMES",AMC BRASIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1285.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://85.93.88.70:25461/live/RobsonB/JHYmLlW9sw/1285.ts?token=GEAOU0pYFA8QAAICBANXClxUVlFTWApRVg9SUF0AAgICAFBWDgAOBQFDHUZGQBZdBAw7XAAbCQQAAAIeR0BEAxE9D1YbChQGA1ETSBdADVUAQ14EUQsCBQULBwpXGRUWCgZECBsDBwwFUhNIF1EcTAATClQIZldQRFFUV0cPWRMPDkoQVl5pUVcMUApRFl4aVENIFw1KQxcIGmNXCVBaBxFCKF1LRFMVfgRCEFAUNxYkT0YZRltaQUBZQ1dHD1kTDw5KEFpfQ1tGE0hGDxYmakdNRlAcTVZbQVFYXEcPFRIQQEoQUENpR1cSRRZQVQldF0NeF1UbHxdfWU9tBlpZCAYBEltWXkUXCEMERhkWCVcLCBBaFmZDXFYaDRBWBA5VWkAb&name=SKY&name=SKY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6Hb8CM" group-title="CANAIS FILMES",A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ns554205.ip-142-44-213.net:25461/live/RobsonB/JHYmLlW9sw/1058.ts&name=SKY&name=SKY
