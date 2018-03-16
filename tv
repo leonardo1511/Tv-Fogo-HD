@@ -109,11 +109,17 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",Cartoon Network
+http://165.227.65.252/cartoonnetwork/tracks-v1a1/index.m3u8?pxAuth=stwr5XlDt8jnBDj4ZBQ3wVo50oZPN3d7
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
 http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/JTaVma" group-title="CANAIS INFANTIL", Nickelodeon
 http://iptv.ec.cx/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/mSksLQ" group-title="CANAIS INFANTIL", Discovery Kids
+http://165.227.65.252/discoverykids/tracks-v1a1/index.m3u8?pxAuth=T7pkqaCocAIareLBl34jPfYe5s7nma5D
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
@@ -121,8 +127,21 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://goo.gl/fGhWwo" group-title="CANAIS DOCUMENTARIOS",CANAL SAUDE
 http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/XqyGjU" group-title="CANAIS DOCUMENTARIOS" ,DISCOVERY THEATER 
+http://159.65.120.120/loadbalance/discoverytheater/chunks.m3u8?pxAuth=x9hinULJdNBVIH7jg8VDrQbMpqd1xkvx
+
+#EXTINF:-1 tvg-logo="https://goo.gl/bfPvXm" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL
+http://165.227.180.24/history/tracks-v1a1/index.m3u8?pxAuth=qAalIOhl4TFBRdJZl1ojDEcCcEpqIoaJ
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7u8yuZ" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL 
+http://159.89.122.29/loadbalance/discoverychannel/chunks.m3u8?pxAuth=wiiONwcMFZ7N5G9VKvTB2hunwIg4JsPs
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KQVsEm" group-title="CANAIS JORNALISMO",GLOBO NEWS
+http://165.227.65.252/globonews/tracks-v1a1/index.m3u8?pxAuth=7QQs4Z0t4LVPF6lbNSwzaNlLGtsZBEnY
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
@@ -144,6 +163,7 @@ http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/yYgPEx" group-title="CANAIS JORNALISMO",EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/8tuwXp" group-title="CANAIS DE RELIGIAO",[COLOR yellow][B]CANAIS DE RELIGIAO[/B][/COLOR]
 http://0.0.0.0
@@ -175,6 +195,7 @@ http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6WDpFX" group-title="CANAIS DE RELIGIAO", Tv Evangelizar 
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 
+
 #EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
 http://0.0.0.0
 
@@ -199,8 +220,6 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CANAIS MUSICA", Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/KNW9BA" group-title="CANAIS DE SEXO",SEX ZONE
-http://iptv.ec.cx/hls/redecanais-hot.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/5P5Uzb" group-title="DESENHOS 24HRS",[COLOR yellow][B]DESENHOS 24HRS[/B][/COLOR]
 http://0.0.0.0
