@@ -258,6 +258,14 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CANAIS MUSICA", Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/QtG7fX" group-title="CANAIS DE SEXO",SEXHOT
+http://stream.bplaymove.com:8080/psexyhot/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/51RY3d" group-title="CANAIS DE SEXO",SEX STREME
+http://stream.bplaymove.com:80/psextreme/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7WsZ2" group-title="CANAIS DE SEXO",PLAYBOY TV
+http://stream.bplaymove.com:8080/pplayboy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/5P5Uzb" group-title="DESENHOS 24HRS",[COLOR yellow][B]DESENHOS 24HRS[/B][/COLOR]
 http://0.0.0.0
