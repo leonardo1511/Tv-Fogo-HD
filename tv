@@ -10,6 +10,9 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo SP
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo Rj
+http://stream.bplaymove.com:8080/agloborj/index.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
@@ -91,6 +94,9 @@ http://iptv.ec.cx/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 #EXTINF:-1 tvg-logo="https://goo.gl/LihCTa" group-title="CANAIS FILMES", Universal Channel
 http://iptv.ec.cx/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
 
+#EXTINF:-1 tvg-logo="https://goo.gl/kf9K8b" group-title="CANAIS FILMES",Universal Channel HD
+http://stream.bplaymove.com:8080/funiversalhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Z26iAM" group-title="CANAIS FILMES",CINEMAX HD
 http://stream.bplaymove.com:80/fcinemaxhd/video.m3u8
 
@@ -106,8 +112,11 @@ http://stream.bplaymove.com:8080/fmegapixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7mzpMG" group-title="CANAIS FILMES",TELECINE PREMIUM HD
 http://stream.bplaymove.com:45127/ftcpremiumhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kf9K8b" group-title="CANAIS FILMES",UNIVERSAL CHANNEL HD
-http://stream.bplaymove.com:8080/funiversalhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Mgzhx1" group-title="CANAIS FILMES",AMC
+http://stream.bplaymove.com:8080/famc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="FILMES E SERIES", SYFY
+http://stream.bplaymove.com:8080/fsyfy/index.m3u8?token=5bb6fbbb9f9afdbf1defbe477f66ba5c-1521659909-296678-60106-6516beb84b88dab966759d238946461f
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
 http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
@@ -170,7 +179,7 @@ http://stream.bplaymove.com:80/dnatgeo/index.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KQVsEm" group-title="CANAIS JORNALISMO",GLOBO NEWS
-http://165.227.65.252/globonews/tracks-v1a1/index.m3u8?pxAuth=7QQs4Z0t4LVPF6lbNSwzaNlLGtsZBEnY
+http://stream.bplaymove.com:8080/nglobonews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
