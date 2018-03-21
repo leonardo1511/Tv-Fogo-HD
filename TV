@@ -53,7 +53,7 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-http://stream.bplaymove.com:8080/ebandsporthd/index.m3u8
+http://stream.bplaymove.com:8080/ebandsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
@@ -140,7 +140,7 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",Cartoon Network
-http://stream.bplaymove.com:80/icartoonhd/video.m3u8
+http://stream.bplaymove.com:80/icartoonnetwork/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
 http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
