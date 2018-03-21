@@ -113,7 +113,7 @@ http://stream.bplaymove.com:8080/fmegapixhd/index.m3u8
 http://stream.bplaymove.com:45127/ftcpremiumhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Mgzhx1" group-title="CANAIS FILMES",AMC
-http://stream.bplaymove.com:8080/famc/index.m3u8
+http://stream.bplaymove.com:8080/famc/index.m3u8?token=74f5bf3d666305c93a80529724e2ba85-1521722798-296678-60106-6516beb84b88dab966759d238946461f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="FILMES E SERIES", SYFY
 http://stream.bplaymove.com:8080/fsyfy/index.m3u8?token=5bb6fbbb9f9afdbf1defbe477f66ba5c-1521659909-296678-60106-6516beb84b88dab966759d238946461f
