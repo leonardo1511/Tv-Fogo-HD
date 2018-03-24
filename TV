@@ -11,7 +11,7 @@ http://0.0.0.0
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo Rj
-http://stream.bplaymove.com:8080/agloborj/index.m3u8
+http://live.onlinenatv.com:8081/live/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=878051&wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDE4IDU6NDQ6MjIgUE0maGFzaF92YWx1ZT1NMDBQTUl0VHVNTWYwM2JDaDY0bHd3PT0mdmFsaWRtaW51dGVzPTIw|Referer=http://www.onlinenatv.com/
  
 #EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
