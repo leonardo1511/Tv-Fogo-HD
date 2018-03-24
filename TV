@@ -237,6 +237,9 @@ rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 #EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://goo.gl/nQzZGz" group-title="CANAIS MUSICA",MULTISHOW
+http://stream.bplaymove.com:8080/vmultishow/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAIS MUSICA", Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
