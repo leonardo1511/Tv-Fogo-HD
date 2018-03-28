@@ -11,13 +11,13 @@ http://0.0.0.0
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo Rj
-http://ultra.widestream.io:8081/wideedge/urm3uhi/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDE4IDM6NTE6MzEgUE0maGFzaF92YWx1ZT1kc0xnNEZYNmtnWTdwdUdHS1JIV2FBPT0mdmFsaWRtaW51dGVzPTIw
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/467.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="TV ABERTA",BAND HD
-http://stream.bplaymove.com:8080/abandhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="TV ABERTA",BAND SD
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/959.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=909525945
@@ -38,7 +38,7 @@ http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/viva.png?raw=true" group-title="CANAIS ABERTO",VIVA
-http://stream.bplaymove.com/vvivahd/index.m3u8
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/243.ts
 
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
@@ -62,7 +62,7 @@ http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-http://144.217.74.153:8081/live/gordo/gordo/214.ts?token=QxMOWRUKQVlGVFpdCVUCWQYHBVICAgUKVQAGUwUGAlBZCAJaB1ZSAAASFRtKQxYEVQ5qWVIVWwFXABpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBFcOAUoTSFgCGlxAVFFcBhsVG1IcFVERW1FaaAVWEF1VBhULCERUXUoaCQw8BwFdWFddFV5DBUEZEl9EERFcFmIGW1QLUEoRKFcUFgZDKFVKTVwXN091TRccFFUIRxRVQgYVCwhEVF1KGgUNFg0QQkAbAxUmMxZPF1VOQwRdFV1ZDRULREVLE0oaDxE8EQFDTUtcVgkERkEPEgYVTRELVU48VF4IX11SElEJDBBBXhIIGxUVCQ5aCkFfRGgRWgIWDEEBA1QAGkw=
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/214.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
@@ -95,25 +95,25 @@ http://iptv.ec.cx/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 http://iptv.ec.cx/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Z26iAM" group-title="CANAIS FILMES",CINEMAX 
-http://144.217.254.89:8081/live/gordo/gordo/1044.ts?token=QxMOWRUKQVlGAg4BAAUGUQxQAlYABgVRAw1UUQ5QVVVeBAAPUgZTVwcSFRtKQxYEVQ5qWVIVWwJWAAJPFUQVVEpuD1xEWEFXVggBDRsbRhVdDlASDAZUAVQGA1ECBFEdGkEPXERYDRYIXBUbXE8QBEYNVFxpUwRFD1dTQQ1fE11UHURXCD0HBglRV10bDUZQFk8XWUVHQwlEYFMPUlwHQxh/CUoSB0MvAUNNXBlkSiAaQRkSVF4VQQdAU0ENXxNdVB1EWwkXDRcWSRsDG3U2QxhBUEhCUg9AD1tYQQ0TEkIaHURRFT0RBhdES1xYWgETFlkXABQbQ14HTGkAWF8IVFtFD1cIEUFZRgEbFRtaCw9dF1pCaUcIV0QOWBZbXRs=
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1044.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/RzPvbv" group-title="CANAIS FILMES",HBO 
-http://144.217.254.89:8081/live/gordo/gordo/1031.ts?token=QxMOWRUKQVlGUwsAAVJXVFFUVwcFUgAEBVEOVVZSVlQLBQUNUVZVVFISFRtKQxYEVQ5qWVIVWwJWBwdPFUQVVEpuD1xEWEFXVggBDRsbRhVdDlASDAZUAVQGA1ECCV8dGkEPXERYQVJcBQ4PGxtGBEwXUEJYVg1sAlFAClRURAtWRApUSkAMDTtUXFRYWQBDDkEEEhoVCEAWFgxBY1QKVFVQFBgoDREXARB1XEpDAUFnTXQeFBtDUQ9ARAJDVEQLVkQKVEpAAAwRXk1LQBVeQ3YxFxwUUhlHA1pFClhfRAsaRRUaSkAKEDtCXEpNRQEAWQZHEgwVURFKFlsCT24FXlZfA1sSCwwNFxIDGwgVSENZDFtZQlgTbBZdUkENE1cJDQReGhs=
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1031.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TdrDK5" group-title="CANAIS FILMES",MAX UP
-http://144.217.254.89:8081/live/gordo/gordo/730.ts?token=QxMOWRUKQVlGVl1dDQAHWAIFDABTBwMHUQAFAVIIBAINUlJaVQcFAl0SFRtKQxYEVQ5qWVIVWwRVBBpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBFUECEoTSFgCGlxAUlVcBQwbFRUBGUAGR15XWz5XA0JfAFITXF9NXQoURA0NPABVVFhXU0ZbFlIXHBReEkNEDhQ3Ul0DXFlDRnYJEBcGRHxcSk1SRDIaIhsSGhUDWhJGVxdSE1wTCQBeDEROQQALRVdNS05GWxYhZxIaFQRLElFYEF5eCBMCExJLRE5BChdvS1xKQxYEVQ5QQhQNQwNEGBQOVkk5UldfCF0FFgoMCkMbAxsGRk0WDlpeX0MOQTlEXwcVC0QADglTAUQf
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/730.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wSJLHv" group-title="CANAIS FILMES",MEGAPIX
-http://144.217.254.89:8081/live/gordo/gordo/1026.ts?token=QxMOWRUKQVlGBA5YWg8HAlZTAwUCUgULUlUBVw8BXlMOBVcIBFJVBlQSFRtKQxYEVQ5qWVIVWwJWBgBPFUQVVEpuD1xEWEFXVggBDRsbRhVdDlASDAZUAVQGA1EBCVYdGkEPXERYDRYIXBUbXE8QBEYNVFxpUwRFD1dTQQ1fE11UHURXCD0HBglRV10bDUZQFk8XWUVHQwlEYFMPUlwHQxh/CUoSB0MvAUNNXBlkSiAaQRkSVF4VQQdAU0ENXxNdVB1EWwkXDRcWSRsDG3U2QxhBUEhCUg9AD1tYQQ0TEkIaHURRFT0RBhdES1xYWgETFlkXABQbQ14HTGkAWF8IVFtFD1cIEUFZRgEbFRtaCw9dF1pCaUcIV0QOWBZbXRs=
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1026.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7mzpMG" group-title="CANAIS FILMES",TELECINE PREMIUM
-http://144.217.254.89:8081/live/gordo/gordo/1049.ts?token=QxMOWRUKQVlGAl0NW1MGV1ACUQIPD1ZQBVECUlFVBQQAA1UJVlBbV1QSFRtKQxYEVQ5qWVIVWwJWAA9PFUQVVEpuD1xEWEFXVggBDRsbRhVdDlASDAZUAVQGA1EACVUdGkEPXERYQVFXBAwMGxtGBEwXUEJYVg1sAlFAClRURAtWRApUSkAMDTtUXFRYWQBDDkEEEhoVCEAWFgxBY1QKVFVQFBgoDREXARB1XEpDAUFnTXQeFBtDUQ9ARAJDVEQLVkQKVEpAAAwRXk1LQBVeQ3YxFxwUUhlHA1pFClhfRAsaRRUaSkAKEDtCXEpNRQEAWQZHEgwVURFKFlsCT24FXlZfA1sSCwwNFxIDGwgVSENZDFtZQlgTbBZdUkENE1QCDABUGhs=
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1049.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Mgzhx1" group-title="CANAIS FILMES",AMC
-http://89.46.101.152:8081/live/104/chunks.m3u8?nimblesessionid=844790&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDE4IDExOjQ0OjE1IFBNJmhhc2hfdmFsdWU9VWR0RnBmNjlWUjFjVWUrcVFBRWhZdz09JnZhbGlkbWludXRlcz0xMA==|Referer=http://www.tvonlineaovivo.net/
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/104.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="FILMES E SERIES", SYFY
-http://144.217.74.153:8081/live/gordo/gordo/480.ts?token=QxMOWRUKQVlGBAsKAVJdUQBWBwVVBwILUA0GVQUCU1MBAAJaVlpRVAASFRtKQxYEVQ5qWVIVWwdeBBpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBFsDAkoTSFgCGlxAUltTAwgbFRUBGUAGR15XWz5XA0JfAFITXF9NXQoURA0NPABVVFhXU0ZbFlIXHBReEkNEDhQ3Ul0DXFlDRnYJEBcGRHxcSk1SRDIaIhsSGhUDWhJGVxdSE1xfTV0KFEQBDBYKREtAGw1GI2ZBGRJTTxVWCEdfDFkTXBNMQkQURAsQPBZVSk1LUgUMUREXChQHQx9EWVcbaFIJX1ZUBUwPDQ0QRgobCBsbRgxbDVxEWUU+Qw9QFFkVAF4GCgdERQ==
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/408.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
 http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
@@ -152,7 +152,7 @@ http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/459.ts
 http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/448.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9V9bRS" group-title="CANAIS INFANTIL",GLOOB 
-http://144.217.254.89:8081/live/gordo/gordo/823.ts?token=QxMOWRUKQVlGVQkOAARcA1FRDFUDVVJQB1IGVQEABVIMCAAABVtVBgYSFRtKQxYEVQ5qWVIVWwtUBxpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBVIOBkoTSFgCGlwMFg8IHBtcQUMBE1oCWW9SUhdaBVEUWVlECl0UEwlWOQYGDgVeXRsDFVVDGEFcQ0YVWxEyUVoGWlAUEXZeFEwDQi8GF0RcGWoZJU8WTxdSX0MTUhJRFFlZRApdFBMFVxMMFxEdEgMbe2VGTRYGTURTWRJaCVoUWRVFFRMUEw9LORAGEBBCXFhUUhZDDkEFEhoVDFIea1UMWV8DUkxYCVYVQFlBVRIVG1RYCghADEdvRl4FEVxaQw9bTA==
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/823.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
@@ -161,13 +161,13 @@ http://0.0.0.0
 http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DyctLk" group-title="DOCUMENTARIOS",ANIMAL PLANET 
-http://144.217.254.89:8081/live/gordo/gordo/711.ts?token=QxMOWRUKQVlGAAgLDQ9TWAFRAQZVVAAGXlBXV1MEUFILCQIOU1UFUVISFRtKQxYEVQ5qWVIVWwRXBRpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBVEBBkoTSFgCGlxAUVpVABsVG1IcFVERW1FaaAVWEF1VBhULCERUXUoaCQw8BwFdWFddFV5DBUEZEl9EERFcFmIGW1QLUEoRKFcUFgZDKFVKTVwXN091TRccFFUIRxRVQgYVCwhEVF1KGgUNFg0QQkAbAxUmMxZPF1VOQwRdFV1ZDRULREVLE0oaDxE8EQFDTUtcVgkERkEPEgYVTRELVU48VF4IX11SElEJDBBBXhIIGxUVCQ5aCkFfRGgRWgIWDEEFCVQDGkw=
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/711.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/uRmi9b" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://144.217.74.153:8081/live/gordo/gordo/516.ts?token=QxMOWRUKQVlGCF0ACAcFVw0CBAYAUgALVw0EVwRSA1cLBgBdBQMABQISFRtKQxYEVQ5qWVIVWwZXAhpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBVAFBkoTSFgCGlxAUFFVAhsVG1IcFVERW1FaaAVWEF1VBhULCERUXUoaCQw8BwFdWFddFV5DBUEZEl9EERFcFmIGW1QLUEoRKFcUFgZDKFVKTVwXN091TRccFFUIRxRVQgYVC0QDDAdXGkpAAAwRXk1LQBVeQ3YxFxwUUhlHA1pFClhfRAsaRRUaSkAKEDtCXEpNRQEAWQZHEgwVURFKFlsCT24FXlZfA1sSCwwNFxIDGwgVSENZDFtZQlgTbBZdUkENE1MBCgBERQ==
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/516.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/VYHap4" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
-http://144.217.254.89:8081/live/gordo/gordo/1067.ts?token=QxMOWRUKQVlGUVgPAQ9VVgBTAlIFAlUBAFdQUgUHVAdZUlEKV1UCU1cSFRtKQxYEVQ5qWVIVWwJWAgFPFUQVVEpuD1xEWEFXVggBDRsbRhVdDlASDAZUAVQGA1AEBlQdGkEPXERYQVVXBwwbFRUBGUAGR15XWz5XA0JfAFITXF9NXQoURA0NPABVVFhXU0ZbFlIXHBReEkNEDhQ3Ul0DXFlDRnYJEBcGRHxcSk1SRDIaIhsSGhUDWhJGVxdSE1xfTV0KFEQBDBYKREtAGw1GI2ZBGRJTTxVWCEdfDFkTXBNMQkQURAsQPBZVSk1LUgUMUREXChQHQx9EWVcbaFIJX1ZUBUwPDQ0QRgobCBsbRgxbDVxEWUU+Qw9QFFkVB1UGCBMb
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1067.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/C1dfGi" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
 http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1202.ts
@@ -235,7 +235,7 @@ rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nQzZGz" group-title="CANAIS MUSICA",MULTISHOW
-http://144.217.254.89:8081/live/gordo/gordo/174.ts?token=QxMOWRUKQVlGBABYDVJRBwwGV1UEUQJVBAJXAg8IUAYAVVFeUVEAAVcSFRtKQxYEVQ5qWVIVWwJRABpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBVYFAUoTSFgCGlxAUVZWBAEbFRUBGUAGR15XWz5XA0JfAFITXF9NXQoURA0NPABVVFhXU0ZbFlMXHBReEkNEDhQ3Ul0DXFlDRnYJEBcGRHxcSk1SRDIaIhsSGhUDWhJGVxdSE1wTCQJRDkROQQALRVdNS05GWxYhZxIaFQRLElFYEF5eCBMCExJLRE5BChdvS1xKQxYEVQ5QQhQNQwNEGBQOVkk5UldfCF0FFgoMCkMbAxsGRk0WDlpeX0MOQTlEXwcVC0QDDwBQAUQf
+http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/174.ts
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAIS MUSICA", Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
