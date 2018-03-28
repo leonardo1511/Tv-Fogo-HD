@@ -11,13 +11,13 @@ http://0.0.0.0
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo Rj
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/467.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/467.ts&name=Globorj
 
 #EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="TV ABERTA",BAND SD
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/959.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/959.ts&name=Band
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=909525945
@@ -38,7 +38,7 @@ http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/viva.png?raw=true" group-title="CANAIS ABERTO",VIVA
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/243.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/243.ts&name=Viva
 
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
@@ -53,7 +53,7 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-http://144.217.254.89:8081/live/gordo/gordo/717.ts?token=QxMOWRUKQVlGUwoOClECVQxQB1YFVQIKVlADV1UIBwAAUFUMB1EBVgESFRtKQxYEVQ5qWVIVWwRXAxpBQkIDQ2dYAhpcQFdRXAgNGxUVEAhZBhcKBwJTAVQBBFAOAkoTSFgCGlxAUlFdAwgbFRUBGUAGR15XWz5XA0JfAFITXF9NXQoURA0NPABVVFhXU0ZbFlIXHBReEkNEDhQ3Ul0DXFlDRnYJEBcGRHxcSk1SRDIaIhsSGhUDWhJGVxdSE1xfTV0KFEQBDBYKREtAGw1GI2ZBGRJTTxVWCEdfDFkTXBNMQkQURAsQPBZVSk1LUgUMUREXChQHQx9EWVcbaFIJX1ZUBUwPDQ0QRgobCBsbRgxbDVxEWUU+Qw9QFFkVAFQICQJERQ==
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/717.ts&name=BandSports
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
@@ -62,7 +62,7 @@ http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/214.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/214.ts&name=Sportv3
 
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
@@ -95,25 +95,25 @@ http://iptv.ec.cx/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 http://iptv.ec.cx/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Z26iAM" group-title="CANAIS FILMES",CINEMAX 
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1044.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1044.ts&name=CineMax
 
 #EXTINF:-1 tvg-logo="https://goo.gl/RzPvbv" group-title="CANAIS FILMES",HBO 
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1031.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1031.ts&name=HBO
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TdrDK5" group-title="CANAIS FILMES",MAX UP
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/730.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/730.ts&name=MaxUp
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wSJLHv" group-title="CANAIS FILMES",MEGAPIX
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1026.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1026.ts&name=MegaPix
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7mzpMG" group-title="CANAIS FILMES",TELECINE PREMIUM
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1049.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1049.ts&name=TcPremium
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Mgzhx1" group-title="CANAIS FILMES",AMC
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/104.ts&name=Amc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="FILMES E SERIES", SYFY
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/408.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/408.ts&name=Syfy
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
 http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
@@ -137,7 +137,7 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",Cartoon Network
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/449.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/449.ts&name=CartoonNetwork
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
 http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
@@ -146,13 +146,13 @@ http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com
 http://iptv.ec.cx/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/NikZKK" group-title="CANAIS INFANTIL",NICK JR
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/459.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/459.ts&name=NickJunior
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KAqm8K" group-title="CANAIS INFANTIL",BOOMERANG
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/448.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/448.ts&name=Boomerang
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9V9bRS" group-title="CANAIS INFANTIL",GLOOB 
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/823.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/823.ts&name=Gloob
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
@@ -161,22 +161,22 @@ http://0.0.0.0
 http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DyctLk" group-title="DOCUMENTARIOS",ANIMAL PLANET 
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/711.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/711.ts&name=AnimalPlanet
 
 #EXTINF:-1 tvg-logo="https://goo.gl/uRmi9b" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/516.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/516.ts&name=DiscoveryChannel
 
 #EXTINF:-1 tvg-logo="https://goo.gl/VYHap4" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1067.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1067.ts&name=HistoryChannel
 
 #EXTINF:-1 tvg-logo="https://goo.gl/C1dfGi" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1202.ts&name=NationalGeographic
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KQVsEm" group-title="CANAIS JORNALISMO",GLOBO NEWS
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1108.ts&name=GloboNews
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
@@ -235,7 +235,7 @@ rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nQzZGz" group-title="CANAIS MUSICA",MULTISHOW
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/174.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/174.ts&name=MultiShow
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAIS MUSICA", Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
@@ -257,18 +257,6 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CANAIS MUSICA", Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://csclubecs.com/wp-content/uploads/2017/12/image-1-95-300x225.jpg" group-title="CANAIS DE SEXO",[COLOR yellow][B]CANAIS PORNÔS[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/QtG7fX" group-title="CANAIS DE SEXO",SEXHOT
-http://stream.bplaymove.com:8080/psexyhot/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/51RY3d" group-title="CANAIS DE SEXO",SEX STREME
-http://stream.bplaymove.com:80/psextreme/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/b7WsZ2" group-title="CANAIS DE SEXO",PLAYBOY TV
-http://stream.bplaymove.com:8080/pplayboy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/5P5Uzb" group-title="DESENHOS 24HRS",[COLOR yellow][B]DESENHOS 24HRS[/B][/COLOR]
 http://0.0.0.0
