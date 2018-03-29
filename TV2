@@ -1,737 +1,719 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-ID="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP HD
+#EXTINF:-1 tvg-ID="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/513.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO SP SD" tvg-name="GLOBO SP  SD" tvg-logo="www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP  SD
+#EXTINF:-1 tvg-ID="GLOBO SP HD" tvg-name="GLOBO SP  SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1065.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ HD
+#EXTINF:-1 tvg-ID="GLOBO RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/467.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO RJ SD" tvg-name="GLOBO RJ SD" tvg-logo="www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ HD
+#EXTINF:-1 tvg-ID="GLOBO RJ SD" tvg-name="GLOBO RJ SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1506.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO MG HD" tvg-name="GLOBO MG HD" tvg-logo="www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO MG HD
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO MG HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO MG HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/466.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO VITORIA SD" tvg-name="GLOBO VITORIA HD" tvg-logo="www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO VITORIA HD
+#EXTINF:-1 tvg-ID="GLOBO VITORIA SD" tvg-name="GLOBO VITORIA HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO VITORIA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/152.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="RBS TV SD" tvg-name="RBS TV SD" tvg-logo="httpshttp://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="TV ABERTA",RBS TV SD
+#EXTINF:-1 tvg-ID="" tvg-name="RBS TV SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="",RBS TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1492.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TV ANHANGUERA HD" tvg-name="GLOBO BRASILIA SD" tvg-logo="tudotv.tv/fotos/492d2b912a58c8507cd2f5380d7bc3a2.jpg" group-title="TV ABERTA",GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1532.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="GLOBO BAHIA HD" tvg-name="TV BAHIA HD" tvg-logo="httpshttp://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="TV ABERTA",TV BAHIA HD
+#EXTINF:-1 tvg-ID="GLOBO BAHIA HD" tvg-name="GLOBO BAHIA HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO BAHIA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/983.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO NORDESTE HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="httpshttp://upload.wikimedia.org/wikipedia/pt/archive/d/d8/20150630051001%21TV_Globo_Nordeste.jpg" group-title="TV ABERTA",GLOBO NORDESTE HD
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO NORDESTE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/817.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO INTERNACIONAL" tvg-name="GLOBO INTERNACIONAL" tvg-logo="s20.postimg.org/h9gvd2ufd/Globo_SP.png Globo" group-title="TV ABERTA",GLOBO INTERNACIONAL
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTERNACIONAL" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png Globo" group-title="CANAIS PORTUGAL",GLOBO INTERNACIONAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/153.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SBT HD" tvg-name="SBT HD" tvg-logo="httpshttp://s19.postimg.org/4mye21toz/sbt_logo1.png" group-title="TV ABERTA",SBT HD
+#EXTINF:-1 tvg-ID="SBT HD" tvg-name="SBT HD" tvg-logo="https://s19.postimg.org/4mye21toz/sbt_logo1.png" group-title="TV ABERTA",SBT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/411.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SBT SD" tvg-logo="httpshttp://s19.postimg.io/4mye21toz/sbt_logo1.png  SBT" group-title="TV ABERTA",SBT SD
+#EXTINF:-1 tvg-ID="" tvg-name="SBT SD" tvg-logo="https://s19.postimg.io/4mye21toz/sbt_logo1.png  SBT" group-title="TV ABERTA",SBT SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/678.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="REDE RECORD FULL HD" tvg-name="REDE RECORD FULL HD" tvg-logo="s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD FULL HD
+#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="REDE RECORD HD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/478.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="REDE RECORD HD ( OPÇAO 2)" tvg-name="REDE RECORD HD ( OPÇAO 2)" tvg-logo="s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD HD ( OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD HD ( OPÇAO 2)" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD HD ( OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/937.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD USA" tvg-logo="s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/912.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="REDE RECORD SD" tvg-name="REDE RECORD SD" tvg-logo="s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD SD
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/679.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="A FAZENDA 24HRS HD" tvg-logo="httpshttp://assets.r7.com/assets/schumi_hotsites/tv/a-fazenda-online/OG-96ad4730b37f38a9a1d8b055744a780c.png" group-title="TV ABERTA",A FAZENDA 24HRS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1685.ts&name=Tv-Fogo-HD
+#EXTINF:-1 tvg-ID="RECORD SD" tvg-name="RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",RECORD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/659.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND HD" tvg-name="BAND HD" tvg-logo="s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND HD
+#EXTINF:-1 tvg-ID="BAND HD" tvg-name="BAND HD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/523.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND SD" tvg-name="BAND SD" tvg-logo="s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND SD
+#EXTINF:-1 tvg-ID="BAND SD" tvg-name="BAND SD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/959.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="REDE TV SD" tvg-name="REDE TV  HD" tvg-logo="httpshttp://s19.postimg.org/4jn6eg87n/Rede_TV_2009.png RedeTV!" group-title="TV ABERTA",REDE TV  HD
+#EXTINF:-1 tvg-ID="REDE TV SD" tvg-name="REDE TV SD" tvg-logo="https://s19.postimg.org/4jn6eg87n/Rede_TV_2009.png RedeTV!" group-title="TV ABERTA",REDE TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/414.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="CNN SD" tvg-name="CNT  SD" tvg-logo="httpshttp://clubdatelevisao.files.wordpress.com/2012/04/redecnt.jpg" group-title="TV ABERTA",CNT  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1530.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="TV CULTURA HD" tvg-name="TV CULTURA SD" tvg-logo="s20.postimg.org/b9etxac21/Cultura.png TV Cultura" group-title="TV ABERTA",TV CULTURA SD
+#EXTINF:-1 tvg-ID="" tvg-name="TV CULTURA HD" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png TV Cultura" group-title="TV ABERTA",TV CULTURA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/681.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="FUTURA SD" tvg-logo="static.futuraplay.org/img/futura_rodape.png" group-title="TV ABERTA",FUTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1577.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="Rede Vida SD" tvg-logo="httpshttp://yt3.ggpht.com/--toHuFYI9x0/AAAAAAAAAAI/AAAAAAAAAAA/uAe17RFWFCo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TV ABERTA",Rede Vida SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1578.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="Canal Rural SD" tvg-name="CANAL RURAL SD" tvg-logo="www.playhdtv.pw/img/canalruralb.png" group-title="TV ABERTA",CANAL RURAL SD
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL RURAL SD" tvg-logo="http://www.playhdtv.pw/img/canalruralb.png" group-title="TV ABERTA",CANAL RURAL SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/761.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL DO BOI SD" tvg-logo="www.javet.com.br/images/javet/logo%20canal_do_boi.jpg" group-title="TV ABERTA",CANAL DO BOI SD
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL DO BOI SD" tvg-logo="http://www.javet.com.br/images/javet/logo%20canal_do_boi.jpg" group-title="TV ABERTA",CANAL DO BOI SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1362.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="NBR SD" tvg-logo="www.playhdtv.pw/img/NBR.gif" group-title="TV ABERTA",NBR SD
+#EXTINF:-1 tvg-ID="" tvg-name="NBR SD" tvg-logo="http://www.playhdtv.pw/img/NBR.gif" group-title="TV ABERTA",NBR SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/763.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="REDE GOSPEL" tvg-logo="images.comunidades.net/lui/luisdasilva76/TV_REDE_GOSPEL.jpg" group-title="TV ABERTA",REDE GOSPEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1567.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="TV GIDEOES" tvg-logo="www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="TV ABERTA",TV GIDEOES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1568.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="CANÇAO NOVA SD" tvg-logo="httpshttp://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TV ABERTA",CANÇAO NOVA SD
+#EXTINF:-1 tvg-ID="" tvg-name="CANÇAO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TV ABERTA",CANÇAO NOVA SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1360.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="TV APARECIDA SD" tvg-logo="www.playhdtv.pw/img/rede_aparecida.png" group-title="TV ABERTA",TV APARECIDA SD
+#EXTINF:-1 tvg-ID="" tvg-name="TV APARECIDA SD" tvg-logo="http://www.playhdtv.pw/img/rede_aparecida.png" group-title="TV ABERTA",TV APARECIDA SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/790.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="TV GAZETA HD" tvg-logo="www.playhdtv.pw/img/gazeta.jpg" group-title="TV ABERTA",TV GAZETA HD
+#EXTINF:-1 tvg-ID="" tvg-name="TV GAZETA HD" tvg-logo="http://www.playhdtv.pw/img/gazeta.jpg" group-title="TV ABERTA",TV GAZETA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/789.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="NHK WORLD HD" tvg-logo="mms.businesswire.com/media/20170503005018/en/562043/5/NHK_World_Square_Logo.jpg" group-title="VARIEDADES",NHK WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1617.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="REDE BRASIL  SD" tvg-logo="httpshttp://s30.postimg.org/hhup3dqa9/Rede_Brasil.png" group-title="TV ABERTA",REDE BRASIL  SD
+#EXTINF:-1 tvg-ID="Canal Brasil" tvg-name="REDE BRASIL  SD" tvg-logo="https://s30.postimg.org/hhup3dqa9/Rede_Brasil.png" group-title="TV ABERTA",REDE BRASIL  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/788.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="### ESPORTES ###" tvg-logo="colegioatibaia.com.br/imagens/fixas/olimpiadas/logo-esportes.png" group-title="ESPORTES",### ESPORTES ###
+#EXTINF:-1 tvg-ID="" tvg-name="### ESPORTES ###" tvg-logo="http://colegioatibaia.com.br/imagens/fixas/olimpiadas/logo-esportes.png" group-title="ESPORTES",### ESPORTES ###
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1326.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="httpshttp://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD
+#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1404.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD ( OPÇAO 2 )" tvg-logo="httpshttp://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD ( OPÇAO 2 )
+#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD ( OPÇAO 2 )" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD ( OPÇAO 2 )
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1494.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV SD" tvg-logo="httpshttp://s19.postimg.org/72a42n79v/sportv.png" group-title="ESPORTES",SPORTV SD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV SD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="ESPORTES",SPORTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/212.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/508.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD (OPÇAO 2)" tvg-logo="s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1495.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD" tvg-logo="s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 SD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/213.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD
+#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/511.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD (OPÇAO 2)" tvg-logo="s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1496.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD" tvg-logo="s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 SD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/214.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS-HD" tvg-name="FOX SPORTS-HD" tvg-logo="httpshttp://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS-HD
+#EXTINF:-1 tvg-ID="FOX SPORTS-HD" tvg-name="FOX SPORTS-HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/464.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS SD" tvg-name="FOX SPORTS SD" tvg-logo="httpshttp://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS SD
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS HD (OPÇAO 2)" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="",FOX SPORTS HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1493.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="",FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/876.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/695.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="httpshttp://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-ID="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/465.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2  (OPÇAO 2)" tvg-logo="httpshttp://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2  (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 (OPÇAO 2)" tvg-logo="https://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="",FOX SPORTS 2 (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/877.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS HD (OPÇAO 2)" tvg-logo="httpshttp://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="ESPORTES",FOX SPORTS HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="https://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="",FOX SPORTS 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/878.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS SD" tvg-name="FOX SPORTS 2 SD" tvg-logo="httpshttp://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 SD
+#EXTINF:-1 tvg-ID="FOX SPORTS SD" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/696.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="EI MAXX - HD" tvg-name="EI MAXX - HD" tvg-logo="s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI MAXX - HD
+#EXTINF:-1 tvg-ID="EI MAXX - HD" tvg-name="EI MAXX - HD" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI MAXX - HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/660.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="EIMAX SD" tvg-name="EI MAXX SD" tvg-logo="s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI MAXX SD
+#EXTINF:-1 tvg-ID="EI MAXX - HD" tvg-name="EI MAXX HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI MAXX HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1504.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="EIMAX SD" tvg-name="EIMAX SD" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EIMAX SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1069.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="EI Maxx 2 HD" tvg-name="EI MAXX - 2 HD" tvg-logo="s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI MAXX - 2 HD
+#EXTINF:-1 tvg-ID="EI Maxx 2 HD" tvg-name="EI MAXX - 2 HD" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI MAXX - 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/661.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="EI MAXX 2 SD" tvg-name="EI MAXX 2 SD" tvg-logo="s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI MAXX 2 SD
+#EXTINF:-1 tvg-ID="EI MAXX - 2 HD" tvg-name="EI MAXX 2 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI MAXX 2 HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1515.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="EI MAXX 2 SD" tvg-name="EI MAXX 2 SD" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI MAXX 2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1070.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ESPORTE INTERATIVO HD" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="ESPORTES",ESPORTE INTERATIVO HD
+#EXTINF:-1 tvg-ID="ESPORTE INTERATIVO HD" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="ESPORTES",ESPORTE INTERATIVO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/662.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ESPN BRASIL HD" tvg-name="ESPN BRASIL HD" tvg-logo="www.playhdtv.pw/img/espnbrasilb.png" group-title="ESPORTES",ESPN BRASIL HD
+#EXTINF:-1 tvg-ID="ESPN BRASIL HD" tvg-name="ESPN BRASIL HD" tvg-logo="http://www.playhdtv.pw/img/espnbrasilb.png" group-title="ESPORTES",ESPN BRASIL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1109.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ESPN BRASIL- HD" tvg-name="ESPN BRASIL HD (OPÇAO 2)" tvg-logo="s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="ESPN BRASIL- HD" tvg-name="ESPN BRASIL HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/520.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ESPN BRASIL SD" tvg-name="ESPN BRASIL SD" tvg-logo="s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL SD
+#EXTINF:-1 tvg-ID="ESPN BRASIL SD" tvg-name="ESPN BRASIL SD" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1023.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ESPN- HD" tvg-name="ESPN- HD" tvg-logo="httpshttp://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN- HD
+#EXTINF:-1 tvg-ID="ESPN- HD" tvg-name="ESPN- HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN- HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/521.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN HD (OPÇAO 2)" tvg-logo="httpshttp://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="",ESPN HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN (OPÇAO 2)" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="",ESPN (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/870.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="httpshttp://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN + HD
+#EXTINF:-1 tvg-ID="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/697.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN + HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/522.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ESPN +" tvg-name="ESPN + SD" tvg-logo="httpshttp://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN + SD
+#EXTINF:-1 tvg-ID="ESPN +" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN +
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/698.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS HD
+#EXTINF:-1 tvg-ID="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/515.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND SPORTS SD" tvg-name="BAND SPORTS SD" tvg-logo="s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS SD
+#EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS (OPÇAO 2)" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="",BAND SPORTS (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/856.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="BAND SPORTS SD" tvg-name="BAND SPORTS SD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/717.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="Combate HD" tvg-name="COMBATE HD" tvg-logo="www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="ESPORTES",COMBATE HD
+#EXTINF:-1 tvg-ID="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="ESPORTES",COMBATE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/451.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="COMBATE SD" tvg-name="COMBATE SD" tvg-logo="httpshttp://s32.postimg.org/7yy5aszit/combate2.png" group-title="ESPORTES",COMBATE SD
+#EXTINF:-1 tvg-ID="Combate HD" tvg-name="COMBATE HD (OPÇAO 2)" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png" group-title="ESPORTES",COMBATE HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1505.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="" tvg-name="COMBATE" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="",COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/862.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="COMBATE SD" tvg-name="COMBATE SD" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="ESPORTES",COMBATE SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/114.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="ALL SPORTS BR HD" tvg-logo="www.playhdtv.pw/img/allsports.png" group-title="ESPORTES",ALL SPORTS BR HD
+#EXTINF:-1 tvg-ID="" tvg-name="ALL SPORTS BR HD" tvg-logo="http://www.playhdtv.pw/img/allsports.png" group-title="ESPORTES",ALL SPORTS BR HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/765.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FISHTV SD" tvg-name="FISHTV SD" tvg-logo="httpshttp://lh5.ggpht.com/XnGz5jsT_iy1nyrnnDteRK0v0XttfgJsHMZRDq54nqQbEiUn56f9a6yYKSBmjAhnwlfs=w300" group-title="VARIEDADES",FISHTV SD
+#EXTINF:-1 tvg-ID="FISHTV SD" tvg-name="FISHTV SD" tvg-logo="https://lh5.ggpht.com/XnGz5jsT_iy1nyrnnDteRK0v0XttfgJsHMZRDq54nqQbEiUn56f9a6yYKSBmjAhnwlfs=w300" group-title="VARIEDADES",FISHTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/854.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PFC INTERNACIONAL" tvg-logo="www.playhdtv.pw/img/PFC.png" group-title="ESPORTES",PFC INTERNACIONAL
+#EXTINF:-1 tvg-ID="" tvg-name="PFC - SD" tvg-logo="http://www.playhdtv.pw/img/PFC.png" group-title="ESPORTES",PFC - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/537.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="" tvg-name="PFC INTERNACIONAL" tvg-logo="http://www.playhdtv.pw/img/PFC.png" group-title="ESPORTES",PFC INTERNACIONAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/186.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 24HS HD" tvg-logo="s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS HD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 24HS HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/509.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="PREMIER 24HS SD" tvg-name="PREMIER 24HS SD" tvg-logo="s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS SD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 24HS HD (OPÇAO 2)" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1526.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="PREMIER 24HS SD" tvg-name="PREMIER 24HS SD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1090.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 1" tvg-logo="www.playhdtv.pw/img/Premier1.png" group-title="ESPORTES",PREMIER - 1
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 1" tvg-logo="http://www.playhdtv.pw/img/Premier1.png" group-title="ESPORTES",PREMIER - 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/645.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 2" tvg-logo="www.playhdtv.pw/img/Premier2.png" group-title="ESPORTES",PREMIER - 2
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 2" tvg-logo="http://www.playhdtv.pw/img/Premier2.png" group-title="ESPORTES",PREMIER - 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/646.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 3" tvg-logo="www.playhdtv.pw/img/Premier3.png" group-title="ESPORTES",PREMIER - 3
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 3" tvg-logo="http://www.playhdtv.pw/img/Premier3.png" group-title="ESPORTES",PREMIER - 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/647.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 4" tvg-logo="www.playhdtv.pw/img/Premier4.png" group-title="ESPORTES",PREMIER - 4
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER  4" tvg-logo="http://www.playhdtv.pw/img/Premier4.png" group-title="ESPORTES",PREMIER  4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/648.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 5" tvg-logo="www.playhdtv.pw/img/Premier5.png" group-title="ESPORTES",PREMIER - 5
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 5" tvg-logo="http://www.playhdtv.pw/img/Premier5.png" group-title="ESPORTES",PREMIER - 5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/649.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 6" tvg-logo="www.playhdtv.pw/img/Premier6.png" group-title="ESPORTES",PREMIER - 6
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 6" tvg-logo="http://www.playhdtv.pw/img/Premier6.png" group-title="ESPORTES",PREMIER - 6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/650.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 7" tvg-logo="www.playhdtv.pw/img/Premier7.png" group-title="ESPORTES",PREMIER - 7
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 7" tvg-logo="http://www.playhdtv.pw/img/Premier7.png" group-title="ESPORTES",PREMIER - 7
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/651.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 8" tvg-logo="www.playhdtv.pw/img/Premier8.png" group-title="ESPORTES",PREMIER - 8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 8" tvg-logo="http://www.playhdtv.pw/img/Premier8.png" group-title="ESPORTES",PREMIER - 8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/652.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 9" tvg-logo="www.playhdtv.pw/img/Premier9.png" group-title="ESPORTES",PREMIER - 9
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 9" tvg-logo="http://www.playhdtv.pw/img/Premier9.png" group-title="ESPORTES",PREMIER - 9
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/653.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 10" tvg-logo="www.playhdtv.pw/img/Premier10.png" group-title="ESPORTES",PREMIER - 10
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 10" tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTES",PREMIER - 10
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/654.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 2 HD" tvg-logo="www.playhdtv.pw/img/Premier2.png" group-title="ESPORTES",PREMIER 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 2 HD" tvg-logo="http://www.playhdtv.pw/img/Premier2.png" group-title="ESPORTES",PREMIER 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/510.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 2 SD" tvg-logo="www.playhdtv.pw/img/Premier2.png" group-title="ESPORTES",PREMIER 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/903.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="PREMIER - 3" tvg-name="PREMIER 3 HD" tvg-logo="www.playhdtv.pw/img/Premier3.png" group-title="ESPORTES",PREMIER 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 3 HD" tvg-logo="http://www.playhdtv.pw/img/Premier3.png" group-title="ESPORTES",PREMIER 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/543.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 3 SD" tvg-logo="www.playhdtv.pw/img/Premier3.png" group-title="ESPORTES",PREMIER 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/902.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 4 HD" tvg-logo="www.playhdtv.pw/img/Premier4.png" group-title="ESPORTES",PREMIER 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 4 HD" tvg-logo="http://www.playhdtv.pw/img/Premier4.png" group-title="ESPORTES",PREMIER 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/544.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 5 HD" tvg-logo="www.playhdtv.pw/img/Premier5.png" group-title="ESPORTES",PREMIER 5 HD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 5 HD" tvg-logo="http://www.playhdtv.pw/img/Premier5.png" group-title="ESPORTES",PREMIER 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/545.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 5 SD" tvg-logo="www.playhdtv.pw/img/Premier5.png" group-title="ESPORTES",PREMIER 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/904.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 6 HD" tvg-logo="www.playhdtv.pw/img/Premier6.png" group-title="ESPORTES",PREMIER 6 HD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 6 HD" tvg-logo="http://www.playhdtv.pw/img/Premier6.png" group-title="ESPORTES",PREMIER 6 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/976.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 6 SD" tvg-logo="www.playhdtv.pw/img/Premier6.png" group-title="ESPORTES",PREMIER 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/905.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 7 HD" tvg-logo="www.playhdtv.pw/img/Premier7.png" group-title="ESPORTES",PREMIER 7 HD
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 7 HD" tvg-logo="http://www.playhdtv.pw/img/Premier7.png" group-title="ESPORTES",PREMIER 7 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/977.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 7 SD" tvg-logo="www.playhdtv.pw/img/Premier7.png" group-title="ESPORTES",PREMIER 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/906.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 8 SD" tvg-logo="www.playhdtv.pw/img/Premier8.png" group-title="ESPORTES",PREMIER 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/907.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 9 SD" tvg-logo="www.playhdtv.pw/img/Premier9.png" group-title="ESPORTES",PREMIER 9 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/908.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="### FILMES E SERIES ###" tvg-logo="kelowsurf.no.comunidades.net/imagens/filmeseseries21.png" group-title="FILMES",### FILMES E SERIES ###
+#EXTINF:-1 tvg-ID="" tvg-name="### FILMES E SERIES ###" tvg-logo="http://kelowsurf.no.comunidades.net/imagens/filmeseseries21.png" group-title="FILMES",### FILMES E SERIES ###
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1327.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE PREMIUM HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-ID="TELECINE PREMIUM HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/487.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE PREMIUM HD" tvg-name="TELECINE PREMIUM HD (OPÇAO 2)" tvg-logo="s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="TELECINE PREMIUM HD" tvg-name="TELECINE PREMIUM HD (OPÇAO 2)" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1511.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE PREMIUM SD" tvg-name="TELECINE PREMIUM SD" tvg-logo="s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM SD
+#EXTINF:-1 tvg-ID="TELECINE PREMIUM SD" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1049.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE ACTION HD" tvg-name="TELECINE ACTION HD" tvg-logo="s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="FILMES",TELECINE ACTION HD
+#EXTINF:-1 tvg-ID="TELECINE ACTION HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="FILMES",TELECINE ACTION HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/483.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE ACTION HD" tvg-name="TELECINE ACTION HD (OPÇAO 2)" tvg-logo="www.playhdtv.pw/img/tcaction.jpg" group-title="FILMES",TELECINE ACTION HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="TELECINE ACTION HD" tvg-name="TELECINE ACTION HD (OPÇAO 2)" tvg-logo="http://www.playhdtv.pw/img/tcaction.jpg" group-title="FILMES",TELECINE ACTION HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1513.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE ACTION SD" tvg-name="TELECINE ACTION SD" tvg-logo="www.playhdtv.pw/img/tcaction.jpg" group-title="FILMES",TELECINE ACTION SD
+#EXTINF:-1 tvg-ID="TELECINE ACTION SD" tvg-name="TELECINE ACTION SD" tvg-logo="http://www.playhdtv.pw/img/tcaction.jpg" group-title="FILMES",TELECINE ACTION SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1050.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE TOUCH HD" tvg-name="TELECINE TOUCH HD" tvg-logo="s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-ID="TELECINE TOUCH HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/488.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE TOUCH HD" tvg-name="TELECINE TOUCH HD ( OPÇAO 2)" tvg-logo="s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH HD ( OPÇAO 2)
+#EXTINF:-1 tvg-ID="TELECINE TOUCH HD" tvg-name="TELECINE TOUCH HD ( OPÇAO 2)" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH HD ( OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1510.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE TOUCH SD" tvg-name="TELECINE TOUCH SD" tvg-logo="s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH SD
+#EXTINF:-1 tvg-ID="TELECINE TOUCH SD" tvg-name="TELECINE TOUCH SD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1057.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE PIPOCA HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-ID="TELECINE PIPOCA HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/486.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE PIPOCA HD" tvg-name="TELECINE PIPOCA HD (OPÇAO 2)" tvg-logo="s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="TELECINE PIPOCA HD" tvg-name="TELECINE PIPOCA HD (OPÇAO 2)" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1514.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE PIPOCA SD" tvg-name="TELECINE PIPOCA SD" tvg-logo="s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA SD
+#EXTINF:-1 tvg-ID="TELECINE PIPOCA SD" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/687.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE FUN HD" tvg-name="TELECINE FUN HD" tvg-logo="s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN HD
+#EXTINF:-1 tvg-ID="TELECINE FUN HD" tvg-name="TELECINE FUN HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/485.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE FUN HD" tvg-name="TELECINE FUN HD (OPÇAO 2)" tvg-logo="s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="TELECINE FUN HD" tvg-name="TELECINE FUN HD (OPÇAO 2)" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1512.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE FUN SD" tvg-name="TELECINE FUN SD" tvg-logo="s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN SD
+#EXTINF:-1 tvg-ID="TELECINE FUN SD" tvg-name="TELECINE FUN SD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1047.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TELECINE CULT HD" tvg-name="TELECINE CULT HD" tvg-logo="s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT HD
+#EXTINF:-1 tvg-ID="TELECINE CULT HD" tvg-name="TELECINE CULT HD" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/484.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="TELECINE CULT HD (OPÇAO 2)" tvg-logo="s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT HD (OPÇAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/926.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="TELECINE CULT SD" tvg-logo="s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT SD
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE CULT SD" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/685.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO HD" tvg-name="HBO HD" tvg-logo="s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO HD
+#EXTINF:-1 tvg-ID="HBO HD" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/473.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO SD" tvg-name="HBO SD" tvg-logo="s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO SD
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD (OPÇAO 2)" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1518.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="HBO SD" tvg-name="HBO SD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1031.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2 HD
+#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/690.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO2 SD" tvg-name="HBO 2 SD" tvg-logo="s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2 SD
+#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 HD (OPÇAO 2)" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2 HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1508.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="HBO2 SD" tvg-name="HBO2 SD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1030.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS HD
+#EXTINF:-1 tvg-ID="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/497.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO PLUS HD (OPÇAO 2)" tvg-name="HBO PLUS HD (OPÇAO 2)" tvg-logo="s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS HD (OPÇAO 2)" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1517.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO PLUS SD" tvg-name="HBO PLUS SD" tvg-logo="s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS SD
+#EXTINF:-1 tvg-ID="HBO PLUS SD" tvg-name="HBO PLUS SD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1032.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY HD" tvg-logo="httpshttp://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY HD
+#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/472.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY SD" tvg-logo="httpshttp://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY SD
+#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY HD (OPÇAO 2)" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY HD (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1509.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY SD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/691.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD" tvg-logo="s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE HD
+#EXTINF:-1 tvg-ID="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/474.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD (OPÇAO 2)" tvg-logo="s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD (OPÇAO 2)" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1516.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE SD" tvg-logo="s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE SD
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE SD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/694.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MAX HD" tvg-name="MAX HD" tvg-logo="httpshttp://s31.postimg.org/h4q35bctn/max.png" group-title="FILMES",MAX HD
+#EXTINF:-1 tvg-ID="MAX HD" tvg-name="MAX HD" tvg-logo="https://s31.postimg.org/h4q35bctn/max.png" group-title="FILMES",MAX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/501.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="MAX SD" tvg-logo="httpshttp://s31.postimg.org/h4q35bctn/max.png" group-title="FILMES",MAX SD
+#EXTINF:-1 tvg-ID="" tvg-name="MAX SD" tvg-logo="https://s31.postimg.org/h4q35bctn/max.png" group-title="FILMES",MAX SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/728.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="Max Up HD" tvg-name="MAX UP HD" tvg-logo="httpshttp://s31.postimg.org/x7orzkx97/max_up.png" group-title="FILMES",MAX UP HD
+#EXTINF:-1 tvg-ID="Max Up HD" tvg-name="MAX UP HD" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="FILMES",MAX UP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/503.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="MAX UP SD" tvg-logo="httpshttp://s31.postimg.org/x7orzkx97/max_up.png" group-title="FILMES",MAX UP SD
+#EXTINF:-1 tvg-ID="" tvg-name="MAX UP SD" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="FILMES",MAX UP SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/730.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MAX PRIME HD" tvg-name="MAX PRIME HD" tvg-logo="s9.postimg.org/l51ctd8mz/maxprime.png" group-title="FILMES",MAX PRIME HD
+#EXTINF:-1 tvg-ID="MAX PRIME HD" tvg-name="MAX PRIME HD" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="FILMES",MAX PRIME HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/502.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME SD" tvg-logo="s9.postimg.org/l51ctd8mz/maxprime.png" group-title="FILMES",MAX PRIME SD
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME SD" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="FILMES",MAX PRIME SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/729.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MEGAPIX HD" tvg-name="MEGAPIX HD" tvg-logo="s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX HD
+#EXTINF:-1 tvg-ID="MEGAPIX HD" tvg-name="MEGAPIX HD" tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/475.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MEGAPIX HD" tvg-name="MEGAPIX HD (OPÇAO 2)" tvg-logo="s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX HD (OPÇAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1559.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="MEGAPIX SD" tvg-name="MEGAPIX SD" tvg-logo="s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX SD
+#EXTINF:-1 tvg-ID="MEGAPIX SD" tvg-name="MEGAPIX SD" tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1026.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="s24.postimg.org/75vs42fs1/cinemax.png" group-title="FILMES",CINEMAX HD
+#EXTINF:-1 tvg-ID="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="FILMES",CINEMAX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/450.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="CINEMAX SD" tvg-name="CINEMAX SD" tvg-logo="s24.postimg.org/75vs42fs1/cinemax.png" group-title="FILMES",CINEMAX SD
+#EXTINF:-1 tvg-ID="CINEMAX SD" tvg-name="CINEMAX SD" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="FILMES",CINEMAX SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1044.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="PARAMOUNT CHANNEL HD" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="httpshttp://s31.postimg.org/f9lq0eei3/paramount.png" group-title="FILMES",PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-ID="PARAMOUNT CHANNEL HD" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="FILMES",PARAMOUNT CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/709.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPACE HD" tvg-name="SPACE HD" tvg-logo="httpshttp://s31.postimg.org/uu398livf/space.png" group-title="FILMES",SPACE HD
+#EXTINF:-1 tvg-ID="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://s31.postimg.org/uu398livf/space.png" group-title="FILMES",SPACE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/479.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPACE - SD" tvg-name="SPACE SD" tvg-logo="www.playhdtv.pw/img/canalspace.jpg" group-title="FILMES",SPACE SD
+#EXTINF:-1 tvg-ID="SPACE - SD" tvg-name="SPACE - SD" tvg-logo="http://www.playhdtv.pw/img/canalspace.jpg" group-title="FILMES",SPACE - SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1042.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="AE HD" tvg-name="A&E HD" tvg-logo="www.playhdtv.pw/img/A&E.jpg" group-title="SERIES",A&E HD
+#EXTINF:-1 tvg-ID="AE HD" tvg-name="A&E HD" tvg-logo="http://www.playhdtv.pw/img/A&E.jpg" group-title="SERIES",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/745.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="A&E HD" tvg-name="A&E SD" tvg-logo="www.playhdtv.pw/img/A&E.jpg" group-title="SERIES",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1529.ts&name=Tv-Fogo-HD
+#EXTINF:-1 tvg-ID="" tvg-name="A&E (OPÇAO 2)" tvg-logo="http://www.playhdtv.pw/img/A&E.jpg" group-title="SERIES",A&E (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/944.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD" tvg-logo="httpshttp://s15.postimg.org/tzhnubsmz/axn.png" group-title="SERIES",AXN HD
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="SERIES",AXN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/447.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="AXN HD (OPÇAO 2)" tvg-name="AXN HD (OPÇAO 2)" tvg-logo="www.novasdodia.com.br/wp-content/uploads/2015/06/axn-hd-claro-tv-maio.jpg" group-title="SERIES",AXN HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD (OPÇAO 2)" tvg-logo="http://www.novasdodia.com.br/wp-content/uploads/2015/06/axn-hd-claro-tv-maio.jpg" group-title="SERIES",AXN HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1521.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="AXN SD" tvg-name="AXN SD" tvg-logo="httpshttp://s15.postimg.org/tzhnubsmz/axn.png" group-title="SERIES",AXN SD
+#EXTINF:-1 tvg-ID="AXN SD" tvg-name="AXN SD" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="SERIES",AXN SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1028.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TCM SD" tvg-name="TCM SD" tvg-logo="www.playhdtv.pw/img/TCM.png" group-title="FILMES",TCM SD
+#EXTINF:-1 tvg-ID="TCM SD" tvg-name="TCM SD" tvg-logo="http://www.playhdtv.pw/img/TCM.png" group-title="FILMES",TCM SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/682.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TNT HD" tvg-name="TNT HD" tvg-logo="s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT HD
+#EXTINF:-1 tvg-ID="TNT HD" tvg-name="TNT HD" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/482.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TNT HD" tvg-name="TNT HD (OPÇAO 2)" tvg-logo="s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD (OPÇAO 2)" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1519.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TNT SD" tvg-name="TNT SD" tvg-logo="s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT SD
+#EXTINF:-1 tvg-ID="TNT SD" tvg-name="TNT SD" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1073.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TNT SERIES SD" tvg-name="TNT SERIES HD" tvg-logo="www.playhdtv.pw/img/tntseries.png" group-title="SERIES",TNT SERIES HD
+#EXTINF:-1 tvg-ID="TNT SERIES SD" tvg-name="TNT SERIES HD" tvg-logo="http://www.playhdtv.pw/img/tntseries.png" group-title="SERIES",TNT SERIES HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1105.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TNT SERIES SD" tvg-name="TNT SERIES SD" tvg-logo="www.playhdtv.pw/img/tntseries.png" group-title="SERIES",TNT SERIES SD
+#EXTINF:-1 tvg-ID="TNT SERIES SD" tvg-name="TNT SERIES SD" tvg-logo="http://www.playhdtv.pw/img/tntseries.png" group-title="SERIES",TNT SERIES SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1046.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="httpshttp://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="SERIES",WARNER CHANNEL HD
+#EXTINF:-1 tvg-ID="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="SERIES",WARNER CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/500.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="WARNER CHANNEL SD" tvg-name="WARNER CHANNEL SD" tvg-logo="httpshttp://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="SERIES",WARNER CHANNEL SD
+#EXTINF:-1 tvg-ID="WARNER CHANNEL SD" tvg-name="WARNER CHANNEL SD" tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="SERIES",WARNER CHANNEL SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1072.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX HD" tvg-name="FOX HD" tvg-logo="httpshttp://s32.postimg.org/7y1thriph/Fox.png" group-title="FILMES",FOX HD
+#EXTINF:-1 tvg-ID="FOX HD" tvg-name="FOX HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="SERIES",FOX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/972.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX HD (OPÇAO 2)" tvg-logo="httpshttp://s32.postimg.org/7y1thriph/Fox.png" group-title="FILMES",FOX HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD (OPÇAO 2)" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="SERIES",FOX HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1507.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SD" tvg-name="FOX SD" tvg-logo="www.playhdtv.pw/img/fox-.jpg" group-title="SERIES",FOX SD
+#EXTINF:-1 tvg-ID="FOX SD" tvg-name="FOX SD" tvg-logo="http://www.playhdtv.pw/img/fox-.jpg" group-title="SERIES",FOX SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1110.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX PREMIUM 1 HD" tvg-name="FOX PREMIUM 1 HD" tvg-logo="httpshttp://s32.postimg.org/7y1thriph/Fox.png" group-title="SERIES",FOX PREMIUM 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="SERIES",FOX PREMIUM 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/978.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX PREMIUM 2 HD" tvg-name="FOX PREMIUM 2 HD" tvg-logo="cdn.foxplaybrasil.com.br/sites/foxplay-br/files/img/fox-action.png" group-title="SERIES",FOX PREMIUM 2 HD
+#EXTINF:-1 tvg-ID="FOX PREMIUM 1 HD" tvg-name="FOX PREMIUM  2 HD" tvg-logo="http://cdn.foxplaybrasil.com.br/sites/foxplay-br/files/img/fox-action.png" group-title="FILMES",FOX PREMIUM  2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1310.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FX HD" tvg-name="FX HD" tvg-logo="s27.postimg.org/v2ysovgkf/image.png" group-title="SERIES",FX HD
+#EXTINF:-1 tvg-ID="FX HD" tvg-name="FX HD" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="SERIES",FX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/462.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FX HD (OPÇAO 2)" tvg-name="FX HD (OPÇAO 2)" tvg-logo="httpshttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="FILMES",FX HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD (OPÇAO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="FILMES",FX HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1520.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FX SD" tvg-name="FX  SD" tvg-logo="s27.postimg.org/v2ysovgkf/image.png" group-title="SERIES",FX  SD
+#EXTINF:-1 tvg-ID="FX SD" tvg-name="FX  SD" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="SERIES",FX  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1043.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX LIFE - SD" tvg-name="FOX LIFE  HD" tvg-logo="s22.postimg.org/bo4dgvux9/life.png" group-title="SERIES",FOX LIFE  HD
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION HD" tvg-logo="http://www.playhdtv.pw/img/FOXACTION.png" group-title="SERIES",FOX ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/743.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="FOX LIFE - SD" tvg-name="FOX LIFE - SD" tvg-logo="http://s22.postimg.org/bo4dgvux9/life.png" group-title="SERIES",FOX LIFE - SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/463.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="UNIVERSAL CHANNEL HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="httpshttp://s31.postimg.org/6ktxs1ci3/universal.png" group-title="SERIES",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-ID="UNIVERSAL CHANNEL HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="SERIES",UNIVERSAL CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/700.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="UNIVERSAL CHANNEL SD" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="httpshttp://s31.postimg.org/6ktxs1ci3/universal.png" group-title="SERIES",UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/929.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="STUDIO UNIVERSAL SD" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="httpshttp://s31.postimg.org/6ktxs1ci3/universal.png" group-title="VARIEDADES",STUDIO UNIVERSAL SD
+#EXTINF:-1 tvg-ID="STUDIO UNIVERSAL SD" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="VARIEDADES",STUDIO UNIVERSAL SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/720.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="CANAL SONY HD" tvg-name="CANAL SONY  HD" tvg-logo="httpshttp://s31.postimg.org/r52hou6h7/sony2.png" group-title="SERIES",CANAL SONY  HD
+#EXTINF:-1 tvg-ID="CANAL SONY HD" tvg-name="CANAL SONY  HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="SERIES",CANAL SONY  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/507.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL SONY HD (OPÇAO 2)" tvg-logo="1.bp.blogspot.com/-ecyirODpBUQ/VdUVsju_c-I/AAAAAAAAPo0/yp8DK3xQiSA/s200/canal-sony-logo.gif" group-title="SERIES",CANAL SONY HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SONY HD (OPÇAO 2)" tvg-logo="http://1.bp.blogspot.com/-ecyirODpBUQ/VdUVsju_c-I/AAAAAAAAPo0/yp8DK3xQiSA/s200/canal-sony-logo.gif" group-title="SERIES",CANAL SONY HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/833.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL SONY SD" tvg-logo="httpshttp://s31.postimg.org/r52hou6h7/sony2.png" group-title="SERIES",CANAL SONY SD
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SONY SD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="SERIES",CANAL SONY SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/719.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="LIFETIME HD" tvg-name="LIFETIME HD" tvg-logo="httpshttp://s19.postimg.org/s6k70av4j/Lifetime_logo.png" group-title="SERIES",LIFETIME HD
+#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME SD" tvg-logo="https://s19.postimg.org/s6k70av4j/Lifetime_logo.png" group-title="SERIES",LIFETIME SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/725.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SYFY SD" tvg-name="SYFY HD" tvg-logo="www.playhdtv.pw/img/Syfy-HD.png" group-title="VARIEDADES",SYFY HD
+#EXTINF:-1 tvg-ID="" tvg-name="AMC SD" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="FILMES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/701.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="SYFY SD" tvg-name="SYFY SD" tvg-logo="http://www.playhdtv.pw/img/Syfy-HD.png" group-title="SERIES",SYFY SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/480.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SYFY SD" tvg-name="SYFY HD (OPÇAO 2)" tvg-logo="www.playhdtv.pw/img/Syfy-HD.png" group-title="VARIEDADES",SYFY HD (OPÇAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1672.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="COMEDY CENTRAL SD" tvg-name="COMEDY CENTRAL SD" tvg-logo="www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="VARIEDADES",COMEDY CENTRAL SD
+#EXTINF:-1 tvg-ID="COMEDY CENTRAL SD" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="VARIEDADES",COMEDY CENTRAL SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/849.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TBS SD" tvg-name="TBS SD" tvg-logo="httpshttp://s31.postimg.org/hj4nfr0az/tbs.png" group-title="FILMES",TBS SD
+#EXTINF:-1 tvg-ID="TBS SD" tvg-name="TBS SD" tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" group-title="FILMES",TBS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/683.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="I-SAT SD" tvg-name="I-SAT  SD" tvg-logo="www.playhdtv.pw/img/isat.png" group-title="FILMES",I-SAT  SD
+#EXTINF:-1 tvg-ID="I-SAT" tvg-name="I-SAT  SD" tvg-logo="http://www.playhdtv.pw/img/isat.png" group-title="FILMES",I-SAT  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/727.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="CANAL BRASIL HD" tvg-name="CANAL BRASIL HD" tvg-logo="httpshttp://s19.postimg.org/3mi6f8o0j/Logo_Canal_Brasil.png Canal Brasil" group-title="TV ABERTA",CANAL BRASIL HD
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL BRASIL HD" tvg-logo="https://s19.postimg.org/3mi6f8o0j/Logo_Canal_Brasil.png Canal Brasil" group-title="TV ABERTA",CANAL BRASIL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/708.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="### INFANTIL ###" tvg-logo="3.bp.blogspot.com/-clngXmB3HpM/VpO4JrrTn-I/AAAAAAAAAM8/rWMqvmp27Yg/s640/canais%2Binfantiss%2Bsem%2Blogo.png" group-title="INFANTIL",### INFANTIL ###
+#EXTINF:-1 tvg-ID="" tvg-name="### INFANTIL ###" tvg-logo="http://3.bp.blogspot.com/-clngXmB3HpM/VpO4JrrTn-I/AAAAAAAAAM8/rWMqvmp27Yg/s640/canais%2Binfantiss%2Bsem%2Blogo.png" group-title="INFANTIL",### INFANTIL ###
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1328.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BOOMERANG HD" tvg-name="BOOMERANG SD" tvg-logo="s20.postimg.org/9cdieyw09/Bloomberg.png" group-title="INFANTIL",BOOMERANG SD
+#EXTINF:-1 tvg-ID="BOOMERANG HD" tvg-name="BOOMERANG HD" tvg-logo="http://s20.postimg.org/9cdieyw09/Bloomberg.png" group-title="INFANTIL",BOOMERANG HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/448.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD - SD" tvg-logo="s20.postimg.org/y2714ldop/Disney_XD.png" group-title="INFANTIL",DISNEY XD - SD
+#EXTINF:-1 tvg-ID="DISNEY XD HD" tvg-name="DISNEY XD - SD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="INFANTIL",DISNEY XD - SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/460.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISNEY JUNIOR HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="INFANTIL",DISNEY JUNIOR HD
+#EXTINF:-1 tvg-ID="DISNEY XD HD" tvg-name="DISNEY XD HD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="INFANTIL",DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/590.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="DISNEY JUNIOR HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="INFANTIL",DISNEY JUNIOR HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/459.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISNEY CHANNEL HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="INFANTIL",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-ID="DISNEY CHANNEL HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="INFANTIL",DISNEY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/494.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY KIDS HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="httpshttp://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS HD
+#EXTINF:-1 tvg-ID="DISCOVERY KIDS HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/455.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY KIDS HD" tvg-name="DISCOVERY KIDS SD" tvg-logo="www.playhdtv.pw/img/Discovery-Kids.png" group-title="INFANTIL",DISCOVERY KIDS SD
+#EXTINF:-1 tvg-ID="DISCOVERY KIDS HD" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://www.playhdtv.pw/img/Discovery-Kids.png" group-title="INFANTIL",DISCOVERY KIDS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1058.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK  HD" tvg-logo="httpshttp://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK  HD
+#EXTINF:-1 tvg-ID="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK  HD" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/449.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK  SD" tvg-logo="httpshttp://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK  SD
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK  SD" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/587.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TOONCAST SD" tvg-name="TOONCAST SD" tvg-logo="httpshttp://s19.postimg.org/jnfd5yb9v/tooncast.png" group-title="INFANTIL",TOONCAST SD
+#EXTINF:-1 tvg-ID="TOONCAST HD" tvg-name="TOONCAST HD" tvg-logo="https://s19.postimg.org/jnfd5yb9v/tooncast.png" group-title="INFANTIL",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/489.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="TOONCAST SD" tvg-name="TOONCAST SD" tvg-logo="https://s19.postimg.org/jnfd5yb9v/tooncast.png" group-title="INFANTIL",TOONCAST SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/702.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="NICKLODEON SD" tvg-name="NICKLODEON SD" tvg-logo="s20.postimg.org/e7rgp8w3t/nick.png" group-title="INFANTIL",NICKLODEON SD
+#EXTINF:-1 tvg-ID="NICKLODEON SD" tvg-name="NICKLODEON SD" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="INFANTIL",NICKLODEON SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/477.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="NICK JR SD" tvg-name="NICK JR SD" tvg-logo="s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="INFANTIL",NICK JR SD
+#EXTINF:-1 tvg-ID="NICK JR SD" tvg-name="NICK JR SD" tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="INFANTIL",NICK JR SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/506.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOOB HD" tvg-name="GLOOB HD" tvg-logo="s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB HD
+#EXTINF:-1 tvg-ID="GLOOB HD" tvg-name="GLOOB HD" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/156.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="GLOOB (OPÇAO 2)" tvg-logo="s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="GLOOB (OPÇAO 2)" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/951.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOOB SD" tvg-name="GLOOB  SD" tvg-logo="s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB  SD
+#EXTINF:-1 tvg-ID="GLOOB SD" tvg-name="GLOOB  SD" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/823.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="### VARIEDADES E MUSICAS" tvg-logo="skyassinatura.com.br/tv-sky/icones/master_hdii/Canais%20Variedades.png" group-title="VARIEDADES",### VARIEDADES E MUSICAS
+#EXTINF:-1 tvg-ID="" tvg-name="### VARIEDADES E MUSICAS" tvg-logo="http://skyassinatura.com.br/tv-sky/icones/master_hdii/Canais%20Variedades.png" group-title="VARIEDADES",### VARIEDADES E MUSICAS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1329.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MULTISHOW HD" tvg-name="MULTISHOW HD" tvg-logo="s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW HD
+#EXTINF:-1 tvg-ID="MULTISHOW HD" tvg-name="MULTISHOW HD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/476.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MULTISHOW HD" tvg-name="MULTISHOW HD (OPÇAO 2)" tvg-logo="s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW HD (OPÇAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1558.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="MULTISHOW SD" tvg-name="MULTISHOW SD" tvg-logo="s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW SD
+#EXTINF:-1 tvg-ID="MULTISHOW SD" tvg-name="MULTISHOW SD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/174.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MTV HD" tvg-name="MTV HD" tvg-logo="s24.postimg.org/9czz4sgdt/MTV.png" group-title="VARIEDADES",MTV HD
+#EXTINF:-1 tvg-ID="MTV HD" tvg-name="MTV HD" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="VARIEDADES",MTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/620.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="MTV SD" tvg-logo="s24.postimg.org/9czz4sgdt/MTV.png" group-title="",MTV SD
+#EXTINF:-1 tvg-ID="" tvg-name="MTV (OPÇAO 2 )" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="",MTV (OPÇAO 2 )
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/891.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="OFF HD" tvg-name="OFF HD" tvg-logo="httpshttp://s19.postimg.org/nezbjq4k3/canal_off_2.png" group-title="VARIEDADES",OFF HD
+#EXTINF:-1 tvg-ID="OFF HD" tvg-name="OFF HD" tvg-logo="https://s19.postimg.org/nezbjq4k3/canal_off_2.png" group-title="VARIEDADES",OFF HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/183.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="VIVA HD" tvg-name="VIVA HD" tvg-logo="httpshttp://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png" group-title="VARIEDADES",VIVA HD
+#EXTINF:-1 tvg-ID="VIVA HD" tvg-name="VIVA HD" tvg-logo="https://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png" group-title="VARIEDADES",VIVA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/491.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="VIVA SD" tvg-name="VIVA  SD" tvg-logo="httpshttp://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png" group-title="VARIEDADES",VIVA  SD
+#EXTINF:-1 tvg-ID="VIVA SD" tvg-name="VIVA  SD" tvg-logo="https://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png" group-title="VARIEDADES",VIVA  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/243.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BIS HD" tvg-name="BIS HD" tvg-logo="httpshttp://s19.postimg.org/wj8o62ro3/Canal_Bis.png" group-title="VARIEDADES",BIS HD
+#EXTINF:-1 tvg-ID="BIS HD" tvg-name="BIS HD" tvg-logo="https://s19.postimg.org/wj8o62ro3/Canal_Bis.png" group-title="VARIEDADES",BIS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/102.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="VH1 HD" tvg-name="VH1 HD" tvg-logo="httpshttp://s19.postimg.org/yzbyh4djn/vh1_logo.png" group-title="VARIEDADES",VH1 HD
+#EXTINF:-1 tvg-ID="VH1 HD" tvg-name="VH1 HD" tvg-logo="https://s19.postimg.org/yzbyh4djn/vh1_logo.png" group-title="VARIEDADES",VH1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/676.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="VH 1 MEGA HITS SD" tvg-logo="www.playhdtv.pw/img/vh1megahits.png" group-title="VARIEDADES",VH 1 MEGA HITS SD
+#EXTINF:-1 tvg-ID="VH1 Mega Hits" tvg-name="VH 1 MEGA HITS SD" tvg-logo="http://www.playhdtv.pw/img/vh1megahits.png" group-title="VARIEDADES",VH 1 MEGA HITS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/735.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TruTV SD" tvg-name="TruTV SD" tvg-logo="httpshttp://s19.postimg.org/r9nqh3iqb/Tru_TV.png" group-title="VARIEDADES",TruTV SD
+#EXTINF:-1 tvg-ID="TruTV SD" tvg-name="TruTV SD" tvg-logo="https://s19.postimg.org/r9nqh3iqb/Tru_TV.png" group-title="VARIEDADES",TruTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1071.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="WOOHOO SD" tvg-logo="httpshttp://www.compretvclaro.com.br/blog/wp-content/uploads/2015/07/wohoo-canal-claro-tv.jpg" group-title="VARIEDADES",WOOHOO SD
+#EXTINF:-1 tvg-ID="" tvg-name="WOOHOO SD" tvg-logo="https://www.compretvclaro.com.br/blog/wp-content/uploads/2015/07/wohoo-canal-claro-tv.jpg" group-title="VARIEDADES",WOOHOO SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1361.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOOD NETWORK   HD" tvg-logo="httpshttp://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1000px-Food_Network_Logo.svg.png" group-title="VARIEDADES",FOOD NETWORK   HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1542.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOOD NETWORK  SD" tvg-logo="httpshttp://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1000px-Food_Network_Logo.svg.png" group-title="VARIEDADES",FOOD NETWORK  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1531.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="Play TV SD" tvg-logo="www.playhdtv.pw/img/playtv.jpg" group-title="VARIEDADES",Play TV SD
+#EXTINF:-1 tvg-ID="" tvg-name="Play TV SD" tvg-logo="http://www.playhdtv.pw/img/playtv.jpg" group-title="",Play TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1025.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="MUSIC BOX BRASIL SD" tvg-name="MUSIC BOX BRASIL  SD" tvg-logo="www.playhdtv.pw/img/musicbox.png" group-title="VARIEDADES",MUSIC BOX BRASIL  SD
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC BOX BRASIL  SD" tvg-logo="http://www.playhdtv.pw/img/musicbox.png" group-title="VARIEDADES",MUSIC BOX BRASIL  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/762.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="PRIME BOX BRASIL SD" tvg-name="PRIME BOX BRASIL  SD" tvg-logo="www.playhdtv.pw/img/Prime_Box_Brazil.png" group-title="VARIEDADES",PRIME BOX BRASIL  SD
+#EXTINF:-1 tvg-ID="" tvg-name="PRIME BOX BRASIL  SD" tvg-logo="http://www.playhdtv.pw/img/Prime_Box_Brazil.png" group-title="VARIEDADES",PRIME BOX BRASIL  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/764.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="GLOBOSAT-HD" tvg-logo="httpshttp://s19.postimg.org/f53vmdggj/1280x720.png" group-title="VARIEDADES",GLOBOSAT-HD
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBOSAT HD" tvg-logo="https://s19.postimg.org/f53vmdggj/1280x720.png" group-title="VARIEDADES",GLOBOSAT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/93.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="GLOBOSAT SD" tvg-logo="httpshttp://s19.postimg.org/f53vmdggj/1280x720.png" group-title="VARIEDADES",GLOBOSAT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1566.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="GNT HD" tvg-name="GNT HD" tvg-logo="s32.postimg.org/mfp4sxpch/GNT.png" group-title="VARIEDADES",GNT HD
+#EXTINF:-1 tvg-ID="GNT HD" tvg-name="GNT HD" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="VARIEDADES",GNT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/157.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="GNT SD" tvg-logo="www.playhdtv.pw/img/Gnt_logo.jpg" group-title="VARIEDADES",GNT SD
+#EXTINF:-1 tvg-ID="" tvg-name="GNT SD" tvg-logo="http://www.playhdtv.pw/img/Gnt_logo.jpg" group-title="VARIEDADES",GNT SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/829.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO NEWS HD" tvg-name="GLOBO NEWS HD" tvg-logo="s10.postimg.org/nmpvs4hkl/gnews.png Globo News" group-title="NOTICIAS",GLOBO NEWS HD
+#EXTINF:-1 tvg-ID="GLOBO NEWS HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png Globo News" group-title="NOTICIAS",GLOBO NEWS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/663.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO NEWS SD" tvg-name="GLOBO NEWS SD" tvg-logo="www.playhdtv.pw/img/globonews.png" group-title="NOTICIAS",GLOBO NEWS SD
+#EXTINF:-1 tvg-ID="GLOBO NEWS SD" tvg-name="GLOBO NEWS SD" tvg-logo="http://www.playhdtv.pw/img/globonews.png" group-title="NOTICIAS",GLOBO NEWS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1108.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="RECORD NEWS SD" tvg-name="RECORD NEWS SD" tvg-logo="www.playhdtv.pw/img/RecordNews.png" group-title="NOTICIAS",RECORD NEWS SD
+#EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS SD" tvg-logo="http://www.playhdtv.pw/img/RecordNews.png" group-title="NOTICIAS",RECORD NEWS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/734.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND NEWS SD" tvg-name="BAND NEWS  SD" tvg-logo="www.playhdtv.pw/img/bandind.png" group-title="NOTICIAS",BAND NEWS  SD
+#EXTINF:-1 tvg-ID="BAND NEWS HD" tvg-name="BAND NEWS HD" tvg-logo="https://s32.postimg.org/8pydcnfhx/band_news.png Band News" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/495.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="BAND NEWS SD" tvg-name="BAND NEWS  SD" tvg-logo="http://www.playhdtv.pw/img/bandind.png" group-title="NOTICIAS",BAND NEWS  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/726.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="CNN SD" tvg-logo="httpshttp://s19.postimg.org/qam0dwrrn/Cnn_svg.png" group-title="NOTICIAS",CNN SD
+#EXTINF:-1 tvg-ID="" tvg-name="CNN SD" tvg-logo="https://s19.postimg.org/qam0dwrrn/Cnn_svg.png" group-title="NOTICIAS",CNN SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/724.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HISTORY CHANNEL HD" tvg-name="HISTORY CHANNEL HD" tvg-logo="s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-ID="HISTORY CHANNEL HD" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/499.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="HISTORY CHANNEL HD" tvg-name="HISTORY CHANNEL HD (OPÇAO 2)" tvg-logo="s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD (OPÇAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1673.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="HISTORY CHANNEL SD" tvg-name="HISTORY CHANNEL  SD" tvg-logo="s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL  SD
+#EXTINF:-1 tvg-ID="HISTORY CHANNEL SD" tvg-name="HISTORY CHANNEL  SD" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1067.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="H2 HD" tvg-name="H2 HD" tvg-logo="httpshttp://s32.postimg.org/hzun1s1md/history2.png" group-title="DOCUMENTARIOS",H2 HD
+#EXTINF:-1 tvg-ID="H2 HD" tvg-name="H2 HD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="DOCUMENTARIOS",H2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/470.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="H2 SD" tvg-name="H2 SD" tvg-logo="httpshttp://s32.postimg.org/hzun1s1md/history2.png" group-title="DOCUMENTARIOS",H2 SD
+#EXTINF:-1 tvg-ID="H2 SD" tvg-name="H2 SD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="DOCUMENTARIOS",H2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/714.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TLC HD" tvg-name="TLC HD" tvg-logo="s7.postimg.org/9xq1acbgn/TLC.png" group-title="VARIEDADES",TLC HD
+#EXTINF:-1 tvg-ID="TLC HD" tvg-name="TLC HD" tvg-logo="http://s7.postimg.org/9xq1acbgn/TLC.png" group-title="VARIEDADES",TLC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/644.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC SD" tvg-logo="www.playhdtv.pw/img/TLC.png" group-title="VARIEDADES",TLC SD
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC SD" tvg-logo="http://www.playhdtv.pw/img/TLC.png" group-title="VARIEDADES",TLC SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/825.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="E! HD" tvg-logo="httpshttp://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1635.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="E! SD" tvg-name="E!  SD" tvg-logo="httpshttp://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="VARIEDADES",E!  SD
+#EXTINF:-1 tvg-ID="E! SD" tvg-name="E!  SD" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="VARIEDADES",E!  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/632.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="NATGEO HD" tvg-name="NATGEO HD" tvg-logo="s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS",NATGEO HD
+#EXTINF:-1 tvg-ID="" tvg-name="E! (OPÇAO 2)" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="",E! (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/868.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="NATGEO HD" tvg-name="NATGEO HD" tvg-logo="http://s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS",NATGEO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/498.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC (OPÇAO 2)" tvg-logo="www.playhdtv.pw/img/national-geographic.jpg" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC (OPÇAO 2)" tvg-logo="http://www.playhdtv.pw/img/national-geographic.jpg" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/899.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="NATGEO SD" tvg-name="NATGEO SD" tvg-logo="s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS",NATGEO SD
+#EXTINF:-1 tvg-ID="NATGEO SD" tvg-name="NATGEO SD" tvg-logo="http://s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS",NATGEO SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1202.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="NAT GEO WILD HD" tvg-name="NAT GEO WILD HD" tvg-logo="www.playhdtv.pw/img/NatgeoWildhD.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+#EXTINF:-1 tvg-ID="NATGEO HD" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/712.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD SD" tvg-logo="www.playhdtv.pw/img/NatgeoWildhD.png" group-title="DOCUMENTARIOS",NATGEO WILD SD
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD SD" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="DOCUMENTARIOS",NATGEO WILD SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/787.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY CHANNEL HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="httpshttp://s19.postimg.org/6fqd4gtcj/Discovery_Channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-ID="DISCOVERY CHANNEL HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://s19.postimg.org/6fqd4gtcj/Discovery_Channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/516.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY CHANNEL SD" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="httpshttp://s19.postimg.org/6fqd4gtcj/Discovery_Channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-ID="DISCOVERY CHANNEL SD" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://s19.postimg.org/6fqd4gtcj/Discovery_Channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1055.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY TURBO HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="httpshttp://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-ID="DISCOVERY TURBO HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1059.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY TURBO HD" tvg-name="DISCOVERY TURBO HD (OPÇAO 2)" tvg-logo="httpshttp://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD (OPÇAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1560.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="DISCOVERY TURBO SD" tvg-name="DISCOVERY TURBO SD" tvg-logo="httpshttp://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
+#EXTINF:-1 tvg-ID="DISCOVERY TURBO SD" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1060.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY SCIENCE SD" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="www.playhdtv.pw/img/DiscoveryScience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CIVILIZATION  SD" tvg-logo="http://www.playhdtv.pw/img/DiscoveryCivilization.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/737.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="DISCOVERY SCIENCE SD" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://www.playhdtv.pw/img/DiscoveryScience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/736.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY HOME & HEALTH HD" tvg-name="DISCOVERY HOME & HEALTH  HD" tvg-logo="httpshttp://s31.postimg.org/d2r4nmuq3/discoveryhome.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH  HD
+#EXTINF:-1 tvg-ID="DISCOVERY HOME & HEALTH HD" tvg-name="DISCOVERY HOME & HEALTH  HD" tvg-logo="https://s31.postimg.org/d2r4nmuq3/discoveryhome.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/656.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY HOME & HEALTH SD" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="www.playhdtv.pw/img/DiscoveryHome&Health.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
+#EXTINF:-1 tvg-ID="DISCOVERY HOME & HEALTH SD" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://www.playhdtv.pw/img/DiscoveryHome&Health.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1054.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY THEATER - HD" tvg-name="DISCOVERY THEATER - HD" tvg-logo="httpshttp://s19.postimg.org/6hlawfswj/Discovery_HD_Theater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER - HD
+#EXTINF:-1 tvg-ID="Discovery Theater" tvg-name="DISCOVERY THEATER - HD" tvg-logo="https://s19.postimg.org/6hlawfswj/Discovery_HD_Theater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER - HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/655.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="DISCOVERY WORLD SD" tvg-name="DISCOVERY WORLD HD" tvg-logo="httpshttp://s19.postimg.org/uue8oedjn/Discovery_world_hd.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/832.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-ID="INVESTIGATION DISCOVERY - HD" tvg-name="INVESTIGATION DISCOVERY - HD" tvg-logo="httpshttp://s19.postimg.org/tkbtvludv/Investigation_discovery_us_hd.png" group-title="DOCUMENTARIOS",INVESTIGATION DISCOVERY - HD
+#EXTINF:-1 tvg-ID="INVESTIGATION DISCOVERY - HD" tvg-name="INVESTIGATION DISCOVERY - HD" tvg-logo="https://s19.postimg.org/tkbtvludv/Investigation_discovery_us_hd.png" group-title="DOCUMENTARIOS",INVESTIGATION DISCOVERY - HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/658.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="httpshttp://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+#EXTINF:-1 tvg-ID="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1324.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="ANIMAL PLANET SD" tvg-name="ANIMAL PLANET SD" tvg-logo="httpshttp://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET (OPÇAO 2)" tvg-logo="https://s29.postimg.org/rweopp7uv/curta.png" group-title="",ANIMAL PLANET (OPÇAO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/884.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-ID="ANIMAL PLANET SD" tvg-name="ANIMAL PLANET SD" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/711.ts&name=Tv-Fogo-HD
