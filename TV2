@@ -37,16 +37,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="" tvg-name="SBT SD" tvg-logo="https://s19.postimg.io/4mye21toz/sbt_logo1.png" group-title="TV ABERTA",SBT SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/678.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="REDE RECORD HD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",REDE RECORD HD
+#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="REDE RECORD HD" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="TV ABERTA",REDE RECORD HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/478.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD HD ( OPÇAO 2)" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",REDE RECORD HD ( OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD HD ( OPÇAO 2)" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="TV ABERTA",REDE RECORD HD ( OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/937.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",REDE RECORD SD
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD SD" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="TV ABERTA",REDE RECORD SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/679.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="RECORD SD" tvg-name="RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",RECORD SD
+#EXTINF:-1 tvg-ID="RECORD SD" tvg-name="RECORD SD" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="TV ABERTA",RECORD SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/659.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="BAND HD" tvg-name="BAND HD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV ABERTA",BAND HD
@@ -58,7 +58,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="REDE TV SD" tvg-name="REDE TV SD" tvg-logo="https://s19.postimg.org/4jn6eg87n/Rede_TV_2009.png" group-title="TV ABERTA",REDE TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/414.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="TV CULTURA HD" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="TV ABERTA",TV CULTURA HD
+#EXTINF:-1 tvg-ID="" tvg-name="TV CULTURA HD" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cultura.jpg" group-title="TV ABERTA",TV CULTURA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/681.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL RURAL SD" tvg-logo="http://www.playhdtv.pw/img/canalruralb.png" group-title="TV ABERTA",CANAL RURAL SD
