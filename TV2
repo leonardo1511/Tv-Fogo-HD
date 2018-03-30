@@ -34,31 +34,31 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="SBT HD" tvg-name="SBT HD" tvg-logo="https://s19.postimg.org/4mye21toz/sbt_logo1.png" group-title="TV ABERTA",SBT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/411.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SBT SD" tvg-logo="https://s19.postimg.io/4mye21toz/sbt_logo1.png  SBT" group-title="TV ABERTA",SBT SD
+#EXTINF:-1 tvg-ID="" tvg-name="SBT SD" tvg-logo="https://s19.postimg.io/4mye21toz/sbt_logo1.png" group-title="TV ABERTA",SBT SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/678.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="REDE RECORD HD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD HD
+#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="REDE RECORD HD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",REDE RECORD HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/478.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD HD ( OPÇAO 2)" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD HD ( OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD HD ( OPÇAO 2)" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",REDE RECORD HD ( OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/937.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD SD
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",REDE RECORD SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/679.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="RECORD SD" tvg-name="RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",RECORD SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/659.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND HD" tvg-name="BAND HD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND HD
+#EXTINF:-1 tvg-ID="BAND HD" tvg-name="BAND HD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV ABERTA",BAND HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/523.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND SD" tvg-name="BAND SD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND SD
+#EXTINF:-1 tvg-ID="BAND SD" tvg-name="BAND SD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV ABERTA",BAND SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/959.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="REDE TV SD" tvg-name="REDE TV SD" tvg-logo="https://s19.postimg.org/4jn6eg87n/Rede_TV_2009.png RedeTV!" group-title="TV ABERTA",REDE TV SD
+#EXTINF:-1 tvg-ID="REDE TV SD" tvg-name="REDE TV SD" tvg-logo="https://s19.postimg.org/4jn6eg87n/Rede_TV_2009.png" group-title="TV ABERTA",REDE TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/414.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="TV CULTURA HD" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png TV Cultura" group-title="TV ABERTA",TV CULTURA HD
+#EXTINF:-1 tvg-ID="" tvg-name="TV CULTURA HD" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="TV ABERTA",TV CULTURA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/681.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL RURAL SD" tvg-logo="http://www.playhdtv.pw/img/canalruralb.png" group-title="TV ABERTA",CANAL RURAL SD
@@ -85,46 +85,46 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="" tvg-name="### ESPORTES ###" tvg-logo="http://colegioatibaia.com.br/imagens/fixas/olimpiadas/logo-esportes.png" group-title="ESPORTES",### ESPORTES ###
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1326.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD
+#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="ESPORTES",SPORTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1404.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD ( OPÇAO 2 )" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD ( OPÇAO 2 )
+#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD ( OPÇAO 2 )" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="ESPORTES",SPORTV HD ( OPÇAO 2 )
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1494.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTV SD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="ESPORTES",SPORTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/212.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="ESPORTES",SPORTV 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/508.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="ESPORTES",SPORTV 2 HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1495.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 SD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="ESPORTES",SPORTV 2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/213.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD
+#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="ESPORTES",SPORTV 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/511.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="ESPORTES",SPORTV 3 HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1496.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 SD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="ESPORTES",SPORTV 3 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/214.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS-HD" tvg-name="FOX SPORTS-HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS-HD
+#EXTINF:-1 tvg-ID="FOX SPORTS-HD" tvg-name="FOX SPORTS-HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="ESPORTES",FOX SPORTS-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/464.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS HD (OPÇAO 2)" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="",FOX SPORTS HD (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS HD (OPÇAO 2)" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="",FOX SPORTS HD (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1493.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="",FOX SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="",FOX SPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/876.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS SD
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="ESPORTES",FOX SPORTS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/695.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-ID="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="ESPORTES",FOX SPORTS 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/465.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 (OPÇAO 2)" tvg-logo="https://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="",FOX SPORTS 2 (OPÇAO 2)
@@ -133,7 +133,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="https://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="",FOX SPORTS 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/878.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="FOX SPORTS SD" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 SD
+#EXTINF:-1 tvg-ID="FOX SPORTS SD" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="ESPORTES",FOX SPORTS 2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/696.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="EI MAXX - HD" tvg-name="EI MAXX - HD" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI MAXX - HD
@@ -169,7 +169,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="ESPN- HD" tvg-name="ESPN- HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN- HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/521.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN (OPÇAO 2)" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="",ESPN (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN (OPÇAO 2)" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/870.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN HD
@@ -181,13 +181,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="ESPN +" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN +
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/698.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS HD
+#EXTINF:-1 tvg-ID="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="ESPORTES",BAND SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/515.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS (OPÇAO 2)" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="",BAND SPORTS (OPÇAO 2)
+#EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS (OPÇAO 2)" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="",BAND SPORTS (OPÇAO 2)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/856.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND SPORTS SD" tvg-name="BAND SPORTS SD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS SD
+#EXTINF:-1 tvg-ID="BAND SPORTS SD" tvg-name="BAND SPORTS SD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="ESPORTES",BAND SPORTS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/717.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="ESPORTES",COMBATE HD
