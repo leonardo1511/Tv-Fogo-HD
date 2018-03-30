@@ -1,0 +1,470 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/312ca130bcced1bd83d3497d1d49cf75.jpg" group-title="CANAIS: ESPORTE",Band Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1348.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/08eeb58fd69c9aa5507847a94cce2bf5.jpg" group-title="CANAIS: ESPORTE",Combate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1337.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/aecddf1dc0f9784fbb3b27f08af753e6.jpg" group-title="CANAIS: ESPORTE",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1413.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c25c6a8cee82149bc59f1588d456e74f.jpg" group-title="CANAIS: ESPORTE",Esporte Interativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1324.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/37b215869dcb1d629a6c8dff3e6063c8.jpg" group-title="CANAIS: ESPORTE",EI MAXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2246.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7a604c6536609efd57c6fbc3473f9444.jpg" group-title="CANAIS: ESPORTE",ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1322.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="CANAIS: ESPORTE",ESPN  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1405.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bb61618b58dbf67528640a1e1853545f.jpg" group-title="CANAIS: ESPORTE",ESPN +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1225.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="CANAIS: ESPORTE",ESPN+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1403.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f60065b123eb19a4a368edd3d0782e3b.jpg" group-title="CANAIS: ESPORTE",Fox Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1397.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/49179bfb57d6769422fb244a999237dc.jpg" group-title="CANAIS: ESPORTE",FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1396.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5b2ccbf3dd5712a3a888094a0e7548a1.jpg" group-title="CANAIS: ESPORTE",Premiere Clubes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1269.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5249895593bf65ac4541ec74f9059c6e.jpg" group-title="CANAIS: ESPORTE",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1377.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/044d4f3a1a5698a185da82e0ed9d3189.jpg" group-title="CANAIS: ESPORTE",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1376.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/40cee2280a1e5664a2d45908dcc52691.jpg" group-title="CANAIS: ESPORTE",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1375.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b174a06fa4e3ebb9a86b6bb6c0d48691.jpg" group-title="CANAIS: ESPORTE",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1374.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cea69b35e14ea2a6117299c3bc01e09c.jpg" group-title="CANAIS: ESPORTE",Premiere 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1273.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/afde10f830b62d4b56e1bd10c8b5ae23.jpg" group-title="CANAIS: ESPORTE",Premiere 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1272.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7a7a1f0af4c0080c146894cf25dfe9cc.jpg" group-title="CANAIS: ESPORTE",Premiere 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1271.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bb7f563bc4ed5fdccdfbd1b63e19e999.jpg" group-title="CANAIS: ESPORTE",Premiere 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1270.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3313e15bd1d9b0d5f0e0fdada2ad46a8.jpg" group-title="CANAIS: ESPORTE",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1367.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ec4e2d9d22d019b1a2472ae999b060c4.jpg" group-title="CANAIS: ESPORTE",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1369.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6d776edf3a54f5c72e6907e7e6463c46.jpg" group-title="CANAIS: ESPORTE",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1368.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/afaaeb572c7f1c991987b88c46de7a8f.jpg" group-title="CANAIS: DOCUMENTARIOS",A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1354.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/09dd6936117f13e7338b29531536790d.jpg" group-title="CANAIS: DOCUMENTARIOS",Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1353.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/94d2c8dd749ea4b3deb388ff3a3ca9ea.jpg" group-title="CANAIS: DOCUMENTARIOS",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1419.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c0b2e76be6ce47195ba6559117d8302.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1334.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bf788bf054c58583138ebfdfae4cf4b6.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1412.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cf2b1de3008f62b1eb9caaade293f284.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Home & Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1332.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/24718f108399f41aa2f52243e73ea001.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1411.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/60bb82e5eb36d2385a5ed98589a4a77e.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1410.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5a4a99711b07d6f36f3373b23d36714c.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1329.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6ffd43a48fbe9ba8aa1fe38d67c8ef5c.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1409.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/98919710a2b5249bdf09669b347fb6a7.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1408.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/750bf19c4d7e077c79332209f86bc3c2.jpg" group-title="CANAIS: DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1392.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/47a0d525bf948955c0c303fc42279d87.jpg" group-title="CANAIS: DOCUMENTARIOS",H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1308.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/138071255ad65ac9f30ae5945f525c79.jpg" group-title="CANAIS: DOCUMENTARIOS",History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1240.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/16bd0e504cdbb00a5f6b2da26b1b10a7.jpg" group-title="CANAIS: DOCUMENTARIOS",History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1386.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4bac5e73b983df9faa923e844c356b1b.jpg" group-title="CANAIS: DOCUMENTARIOS",ID - Investigacao Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1300.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/601a4ea7ae57da06826f71480b65fbf8.jpg" group-title="CANAIS: DOCUMENTARIOS",ID - Investigação Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1385.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dbed2589d8bdb91850708061e0081dfc.jpg" group-title="CANAIS: DOCUMENTARIOS",National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1287.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3532b568056629389bf4e646357278f6.jpg" group-title="CANAIS: DOCUMENTARIOS",National Geography HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1381.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a648a0b2b64cb911a6835f4e565ed1dd.jpg" group-title="CANAIS: DOCUMENTARIOS",NatGeoWild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1382.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8eea34f28f528253dee5be2e65763b81.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2747.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d7294aac81c36897f089d5af75fa2238.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Civilization HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3493.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f74861bd7e60881c488782d7c951ed6f.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3492.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/86e2fa7d6a9540e192915b0f5ec9d8fc.jpg" group-title="CANAIS: INFANTIL",Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1333.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/088e0b5dabd17bf8a56628eca505c045.jpg" group-title="CANAIS: INFANTIL",Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1344.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b1d4002b22c3a483a5a7274072c10788.jpg" group-title="CANAIS: INFANTIL",Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1339.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/564b27ca26db6fa85793df36b352b961.jpg" group-title="CANAIS: INFANTIL",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2257.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b71245946949e4d6639d6a80aa48ea2.jpg" group-title="CANAIS: INFANTIL",Retrô Cartoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1125.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/635220d9840013d464fe1e3bd2f018ef.jpg" group-title="CANAIS: INFANTIL",Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1331.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9837f525f2325926bd4b059a3ed3b6bb.jpg" group-title="CANAIS: INFANTIL",Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1328.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7cada15b3eb77978ae3bd399dad727cc.jpg" group-title="CANAIS: INFANTIL",Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1327.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/834ea42c775b3bf42851322ab50840f4.jpg" group-title="CANAIS: INFANTIL",Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1326.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/17e2e266e11215ad3949b183127aa0a0.jpg" group-title="CANAIS: INFANTIL",Gloob
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1310.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ddfaa8374f8fc5a39b71f423ad890bee.jpg" group-title="CANAIS: INFANTIL",NatGeo Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1810.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9021537cdf1f1a1ff99ead68c822befd.jpg" group-title="CANAIS: INFANTIL",Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1284.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/533316a324fbf52755898d3cfc728c47.jpg" group-title="CANAIS: INFANTIL",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1283.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1307cc968c8ea516bccf81650759be76.jpg" group-title="CANAIS: INFANTIL",TV Globinho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2207.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cd033b8a5f75988f821447eff55cfc9f.jpg" group-title="CANAIS: INFANTIL",Tooncast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1236.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6a4eeba79fc50ae04857c04a2a316fbc.jpg" group-title="CANAIS: INFANTIL",TV Ra tim bum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1232.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0a48a29d2f1dbbb86995ba73815de5db.jpg" group-title="CANAIS: INFANTIL",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2661.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e5956770c72d7d868e82e0e6e5df2d26.jpg" group-title="CANAIS: INFANTIL",NatGeo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3489.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7400869c9750bb13d7e1c7ca9d0096b0.jpg" group-title="CANAIS: INFANTIL",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3488.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d1026e8f4b6e0d94643b4c10f023b8bb.jpg" group-title="CANAIS: INFANTIL",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3491.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b500189d85d8d3e8057262b2105a622b.jpg" group-title="CANAIS: ABERTO",Band
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1347.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/71c26129c88109467258eff631174c44.jpg" group-title="CANAIS: ABERTO",Band HD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3127.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/31f824e76a1c7d574cb5ef1160c1d6d0.jpg" group-title="CANAIS: ABERTO",Canal Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1343.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f8fe6b617f1dd63fc1676badd9fafa0e.jpg" group-title="CANAIS: ABERTO",Futura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1314.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ef74084a24e1a872db68cef27d5b6923.jpg" group-title="CANAIS: ABERTO",Globo SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1312.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b1a24ecdd213a49d6162524d7c89673a.jpg" group-title="CANAIS: ABERTO",Globo Brasilia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2232.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3804c8b3179096cfc94deca09e302ce1.jpg" group-title="CANAIS: ABERTO",Globo Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/5135.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a28259c976cdefdc6e79b3008b5aae63.jpg" group-title="CANAIS: ABERTO",Globo RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2338.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5a76e270ae50c36af004ae46a75e04d7.jpg" group-title="CANAIS: ABERTO",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1394.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/07ae1cd8a63eb4e7bea31b6985dd84b0.jpg" group-title="CANAIS: ABERTO",Globo RBS Porto Alegre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1266.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7500bcff10560785627f18b190e073d3.jpg" group-title="CANAIS: ABERTO",Globo TV Anhanguera Goiânia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2648.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4bc43bd175e99ecf6279c76acd57962a.jpg" group-title="CANAIS: ABERTO",Globo Sorocaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2664.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9a408869c351c2f5fba1c79ae46b797c.jpg" group-title="CANAIS: ABERTO",NBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1286.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d498ed39048d95f797d64851526d2f97.jpg" group-title="CANAIS: ABERTO",NovoTempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1282.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c7f12783a88639f6f28bce5806757106.jpg" group-title="CANAIS: ABERTO",RBI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1267.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d5d997ac48bfef60d19137f6c95feb14.jpg" group-title="CANAIS: ABERTO",Globo MG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3497.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/17cfce34708937734dc70e3eec98e74c.jpg" group-title="CANAIS: ABERTO",Globo RJ HD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3118.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f1076894fef27d4f15ed1233fbaf97c8.jpg" group-title="CANAIS: ABERTO",Record  HD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3104.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c4b6c6efc50c6b35dd1dfc8814698701.jpg" group-title="CANAIS: ABERTO",SBT HD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3103.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0ae87e245fa87542c26054ef8e8b6dff.jpg" group-title="CANAIS: FILMES/SERIES",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2326.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/30681d8210457bfedcc73eb484e71bbc.jpg" group-title="CANAIS: FILMES/SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2264.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/68327ef2222fd7d0b0410f8054a9b674.jpg" group-title="CANAIS: FILMES/SERIES",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1350.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c7c50d38917f504dc7e5244c498e89f0.jpg" group-title="CANAIS: FILMES/SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1418.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/488ed431597cf4c070aaf68e1ed7fded.jpg" group-title="CANAIS: FILMES/SERIES",Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1341.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f7264aeaafc61994b2eeb9f74e58e3c1.jpg" group-title="CANAIS: FILMES/SERIES",Canal Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1414.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9cea38b23dd46fb0acadb5b5cd02e539.jpg" group-title="CANAIS: FILMES/SERIES",Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1338.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3a9c71d73414fbaa1b710f4bd4a7af43.jpg" group-title="CANAIS: FILMES/SERIES",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2256.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8f397e7436321a54edeceac898ff06d5.jpg" group-title="CANAIS: FILMES/SERIES",FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1318.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0f0b0aedebe037ce9116f8adb65ebb0d.jpg" group-title="CANAIS: FILMES/SERIES",FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1399.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a62eedb40e4fe6e39d8b6d0289b3e7e3.jpg" group-title="CANAIS: FILMES/SERIES",FOX Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1401.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f98d3cbe9a07a85ab91fdbb939f8685c.jpg" group-title="CANAIS: FILMES/SERIES",FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1400.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2e35205489b2d9e19ab7e72c874e298c.jpg" group-title="CANAIS: FILMES/SERIES",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1313.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6b1f82ff995074a2731c32a67701102a.jpg" group-title="CANAIS: FILMES/SERIES",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2326.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/937b0a7341b4d578e1fa4a63e658bf9a.jpg" group-title="CANAIS: FILMES/SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2264.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7dec30f974e3a465a83283dad34dda6c.jpg" group-title="CANAIS: FILMES/SERIES",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1350.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/999014aebed73fb7e30dd5e376f4e20f.jpg" group-title="CANAIS: FILMES/SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1418.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7ab80e2361c2614df6f2000dc3f8b83f.jpg" group-title="CANAIS: FILMES/SERIES",Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1341.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6f93e6af6cabb2e80b09dbe3132d439e.jpg" group-title="CANAIS: FILMES/SERIES",Canal Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1414.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7d74920f0abea30d53d89d98167ea86d.jpg" group-title="CANAIS: FILMES/SERIES",Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1338.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3abef995acb5a9f66e774a548e2b87eb.jpg" group-title="CANAIS: FILMES/SERIES",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/2256.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9e46b70fe88fd42266c5778db6d16dab.jpg" group-title="CANAIS: FILMES/SERIES",FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1318.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/95527a8e19f82ad688e8c8482ce3822b.jpg" group-title="CANAIS: FILMES/SERIES",FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1399.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/855f1334766b266cf30d313d041eaced.jpg" group-title="CANAIS: FILMES/SERIES",FOX Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1401.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c44774feb4fe1cf54427f6428bac2c23.jpg" group-title="CANAIS: FILMES/SERIES",FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1400.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6d55a60b34359cca9d2c5ba0d52db62f.jpg" group-title="CANAIS: FILMES/SERIES",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1313.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/26aa440034eaf65d2169f5072ee5fad7.jpg" group-title="CANAIS: FILMES/SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1395.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cafc0f4e9b6f84d4ada67aaa3e1d0f52.jpg" group-title="CANAIS: FILMES/SERIES",HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1307.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4076628bfea2ead96945c982e0175fcd.jpg" group-title="CANAIS: FILMES/SERIES",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1389.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4e37927da88a50a6e04278c0f8dde567.jpg" group-title="CANAIS: FILMES/SERIES",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1302.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/114d5d49ce19f28281b71d59b7456d71.jpg" group-title="CANAIS: FILMES/SERIES",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1391.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/830627e6a3d98e84f171519ba3fe1001.jpg" group-title="CANAIS: FILMES/SERIES",HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1306.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cbd284d0e2857cff5a4493549e3c967b.jpg" group-title="CANAIS: FILMES/SERIES",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1390.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c3fad9b50292fb0c2f7cb937a8df41e2.jpg" group-title="CANAIS: FILMES/SERIES",HBO Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1305.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/66fb60a580e729a14012addb8c47c577.jpg" group-title="CANAIS: FILMES/SERIES",HBO Plus e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1304.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0e3938e00ce89dfffe442e35e7d17e54.jpg" group-title="CANAIS: FILMES/SERIES",HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1388.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/75cfa013b79d0d79f6f500e62cdbd981.jpg" group-title="CANAIS: FILMES/SERIES",HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1303.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/19efa6d3ffe9303e5bd97e69d2241c47.jpg" group-title="CANAIS: FILMES/SERIES",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1387.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/83871b424912bcf694bb7a27f986059f.jpg" group-title="CANAIS: FILMES/SERIES",MAX Prime e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1294.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9869274f2f633296bc2bcc3c74d9c131.jpg" group-title="CANAIS: FILMES/SERIES",MAX Prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1295.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/72bccd8a1e05720dc9bef64538158778.jpg" group-title="CANAIS: FILMES/SERIES",MAX UP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1293.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/14de55a6ab3cb44bc557ae4e5d39e206.jpg" group-title="CANAIS: FILMES/SERIES",MegaPix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1292.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cf9f1b82c1978fbd0df4ecff6b1d6a88.jpg" group-title="CANAIS: FILMES/SERIES",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1384.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/33e164b757c87225ef76edbd879d0447.jpg" group-title="CANAIS: FILMES/SERIES",Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1379.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e504a442d272a08663ec672bd3df89c3.jpg" group-title="CANAIS: FILMES/SERIES",Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1280.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f71a841659339679aa7fc147d79918ea.jpg" group-title="CANAIS: FILMES/SERIES",Prime Box Brazil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1268.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/47b382f91ab11bfcc356dc6137e4140e.jpg" group-title="CANAIS: FILMES/SERIES",Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1255.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0fecdcbb0629c319ba99a54ecdd27f8b.jpg" group-title="CANAIS: FILMES/SERIES",Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1370.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e883ea3d786d2dfe54ac612b753d65be.jpg" group-title="CANAIS: FILMES/SERIES",Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1251.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5229eccd8a518c3b4abe8115fff3f515.jpg" group-title="CANAIS: FILMES/SERIES",Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1250.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f30960f48351d8c13ebae3ce8b64e6f3.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1247.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f86c7e4cb5247847e6ebeb5bc437d4e4.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1365.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0744124bc53f473d631885fdc46b4213.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Cult
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1246.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2dcba611abce3fb126a7c25a7e879a4a.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Pipoca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1244.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f1c34df2cda6d4e75bb0cfb904494cbe.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1363.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c2e3a1fa1d031e2475d4890ff65f71ee.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Fun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1245.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8bf49a8561cffa4bc611e0f25ead50d4.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1364.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f345720c857cd4827761b2ba7ad6df7c.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1243.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0e0ca55d887149d171e8f32df99b75e4.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1362.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/30470cd9f39a0a2167e5efd4bc66e818.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Touch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1242.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/473c3b25e8b2f1d3583b980a6c169a32.jpg" group-title="CANAIS: FILMES/SERIES",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1361.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ebe375035b0e3cdbb8570bce8091ea08.jpg" group-title="CANAIS: FILMES/SERIES",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1248.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/226e1764f9c71e8bee805ec5256b6713.jpg" group-title="CANAIS: FILMES/SERIES",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1238.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9474767e08726a090bbda81275b10a21.jpg" group-title="CANAIS: FILMES/SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1360.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/97aa883f003bdadc5e4ad4c24acb42ce.jpg" group-title="CANAIS: FILMES/SERIES",TNT Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1237.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b8f87de45989d573a198a7ad88c1218a.jpg" group-title="CANAIS: FILMES/SERIES",TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1359.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9097d5a1465b20aa2040f190e6fe5869.jpg" group-title="CANAIS: FILMES/SERIES",Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1230.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7dda866816cb1192919586192649d679.jpg" group-title="CANAIS: FILMES/SERIES",Universal Channels HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1358.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cbba31c73b18bf45076b363518575242.jpg" group-title="CANAIS: FILMES/SERIES",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1355.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8b84f6f1ca0aaa2bd2b5097b54aa22a5.jpg" group-title="CANAIS: FILMES/SERIES",Warner Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/1227.ts&name=Tv-Fogo-HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/46414589c454545313a8b4a1080fa88b.jpg" group-title="CANAIS: FILMES/SERIES",Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.iptvmove.com:25461/live/ayys/whhw/3487.ts&name=Tv-Fogo-HD
