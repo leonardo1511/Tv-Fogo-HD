@@ -511,7 +511,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="I-SAT" tvg-name="I-SAT  SD" tvg-logo="http://www.playhdtv.pw/img/isat.png" group-title="FILMES",I-SAT  SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/727.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL BRASIL HD" tvg-logo="https://s19.postimg.org/3mi6f8o0j/Logo_Canal_Brasil.png Canal Brasil" group-title="TV ABERTA",CANAL BRASIL HD
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL BRASIL HD" tvg-logo="https://s19.postimg.org/3mi6f8o0j/Logo_Canal_Brasil.png" group-title="TV ABERTA",CANAL BRASIL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/708.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="" tvg-name="### INFANTIL ###" tvg-logo="http://3.bp.blogspot.com/-clngXmB3HpM/VpO4JrrTn-I/AAAAAAAAAM8/rWMqvmp27Yg/s640/canais%2Binfantiss%2Bsem%2Blogo.png" group-title="INFANTIL",### INFANTIL ###
@@ -622,7 +622,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="" tvg-name="GNT SD" tvg-logo="http://www.playhdtv.pw/img/Gnt_logo.jpg" group-title="VARIEDADES",GNT SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/829.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="GLOBO NEWS HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png Globo News" group-title="NOTICIAS",GLOBO NEWS HD
+#EXTINF:-1 tvg-ID="GLOBO NEWS HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png" group-title="NOTICIAS",GLOBO NEWS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/663.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="GLOBO NEWS SD" tvg-name="GLOBO NEWS SD" tvg-logo="http://www.playhdtv.pw/img/globonews.png" group-title="NOTICIAS",GLOBO NEWS SD
@@ -631,7 +631,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS SD" tvg-logo="http://www.playhdtv.pw/img/RecordNews.png" group-title="NOTICIAS",RECORD NEWS SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/734.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-ID="BAND NEWS HD" tvg-name="BAND NEWS HD" tvg-logo="https://s32.postimg.org/8pydcnfhx/band_news.png Band News" group-title="NOTICIAS",BAND NEWS HD
+#EXTINF:-1 tvg-ID="BAND NEWS HD" tvg-name="BAND NEWS HD" tvg-logo="https://s32.postimg.org/8pydcnfhx/band_news.png" group-title="NOTICIAS",BAND NEWS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/495.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-ID="BAND NEWS SD" tvg-name="BAND NEWS  SD" tvg-logo="http://www.playhdtv.pw/img/bandind.png" group-title="NOTICIAS",BAND NEWS  SD
