@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB 18 - REALITY",[COLOR yellow][B]BBB 18 - REALITY[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="CANAIS ABERTO",BIG BROTHER BRASIL
+#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="CANAIS ABERTO",BIG BROTHER BRASIL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/2039.ts&name=Tv-Fogo-HD
 
 
