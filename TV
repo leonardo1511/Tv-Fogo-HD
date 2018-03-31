@@ -7,7 +7,7 @@ http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo SP
+#EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO",Globo SP
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo Rj
