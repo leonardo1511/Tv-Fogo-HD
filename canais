@@ -1,0 +1,22 @@
+<?xml version="2.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR gold][B]Sportv[/B][/COLOR][COLOR blue] [B]HD[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/globo-sp/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://www.look-tvs.com/sportv.html</page>
+<referer>http://www.look-tvs.com</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://images.mi.tv/channels/br_rede-globo_m.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/URZq2atxJk0/maxresdefault.jpg</fanart>
+</item>
