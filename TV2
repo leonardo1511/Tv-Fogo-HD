@@ -4,17 +4,17 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB 18 - REALITY",[COLOR yellow][B]BBB 18 - REALITY[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="CANAIS ABERTO",BIG BROTHER BRASIL HD
+#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="CANAIS ABERTO",[COLOR white][B]BIG BROTHER BRASIL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/2039.ts&name=Tv-Fogo-HD
 
 
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR blue] [B]HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/513.ts&name=Tv-Fogo-HD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR blue] [B]SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1065.ts&name=Tv-Fogo-HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO RJ[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
