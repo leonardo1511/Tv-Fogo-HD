@@ -47,7 +47,7 @@ http://0.0.0.0
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DQvWND" group-title="CANAIS ESPORTES",ESPN Brasil
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2th4DE" group-title="CANAIS ESPORTES",Espn
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
@@ -71,7 +71,7 @@ http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SUJxnt" group-title="CANAIS ESPORTES", Esporte Interativo
-http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tCr8uT" group-title="CANAIS ESPORTES",Combate
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
