@@ -208,11 +208,11 @@ http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c
 #EXTINF:-1 tvg-logo="https://goo.gl/DyctLk" group-title="DOCUMENTARIOS",ANIMAL PLANET 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/711.ts&name=AnimalPlanet
 
-#EXTINF:-1 tvg-logo="https://goo.gl/uRmi9b" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/516.ts&name=DiscoveryChannel
+#EXTINF:-1 tvg-logo="https://goo.gl/uRmi9b" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/139.ts&name=DiscoveryChannel
 
 #EXTINF:-1 tvg-logo="https://goo.gl/VYHap4" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1067.ts&name=HistoryChannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/133.ts&name=HistoryChannel
 
 #EXTINF:-1 tvg-logo="https://goo.gl/C1dfGi" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1202.ts&name=NationalGeographic
