@@ -142,6 +142,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 #EXTINF:-1 tvg-logo="https://goo.gl/7mzpMG" group-title="CANAIS FILMES",TELECINE PREMIUM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/120.ts&name=TcPremium
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/131.ts&name=TcTouch
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/132.ts&name=TcTouch
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Mgzhx1" group-title="CANAIS FILMES",AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/105.ts&name=Amc
 
