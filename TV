@@ -62,7 +62,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/214.ts&name=Sportv3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/127.ts&name=Sportv3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/128.ts&name=Sportv3
 
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
