@@ -152,7 +152,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/132.ts&name=TcTouch
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Mgzhx1" group-title="CANAIS FILMES",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/105.ts&name=Amc
+http://redecanais.stream/hls/redecanais-amc.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Mgzhx1" group-title="CANAIS FILMES",AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/106.ts&name=Amc
