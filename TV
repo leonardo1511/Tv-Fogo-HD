@@ -17,7 +17,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="TV ABERTA",BAND SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/959.ts&name=Band
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/1.ts&name=Band
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=909525945
@@ -38,7 +38,7 @@ http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/viva.png?raw=true" group-title="CANAIS ABERTO",VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/243.ts&name=Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/25.ts&name=Viva
 
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
@@ -179,7 +179,10 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/449.ts&name=CartoonNetwork
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/140.ts&name=CartoonNetwork
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/205.TS&name=DISNEYCHANNEL
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Akf7vH" group-title="CANAIS INFANTIL", Disney XD
 http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
@@ -188,13 +191,10 @@ http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com
 http://iptv.ec.cx/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/NikZKK" group-title="CANAIS INFANTIL",NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/459.ts&name=NickJunior
+http://redecanais.stream/hls/redecanais-nickjr.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="https://goo.gl/KAqm8K" group-title="CANAIS INFANTIL",BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/448.ts&name=Boomerang
-
-#EXTINF:-1 tvg-logo="https://goo.gl/9V9bRS" group-title="CANAIS INFANTIL",GLOOB 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/823.ts&name=Gloob
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/245.TS&name=DISCOVERYkIDS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
@@ -203,16 +203,13 @@ http://0.0.0.0
 http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DyctLk" group-title="DOCUMENTARIOS",ANIMAL PLANET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/711.ts&name=AnimalPlanet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/193.ts&name=ANIMALPLANET
 
 #EXTINF:-1 tvg-logo="https://goo.gl/uRmi9b" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/139.ts&name=DiscoveryChannel
 
 #EXTINF:-1 tvg-logo="https://goo.gl/VYHap4" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/133.ts&name=HistoryChannel
-
-#EXTINF:-1 tvg-logo="https://goo.gl/C1dfGi" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1202.ts&name=NationalGeographic
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
@@ -275,12 +272,11 @@ http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6WDpFX" group-title="CANAIS DE RELIGIAO", Tv Evangelizar 
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 
-
 #EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nQzZGz" group-title="CANAIS MUSICA",MULTISHOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/174.ts&name=MultiShow
+http://redecanais.stream/hls/redecanais-multishow-1080.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAIS MUSICA", Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
