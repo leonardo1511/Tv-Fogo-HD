@@ -95,7 +95,7 @@ http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Rwue4P" group-title="CANAIS FILMES",Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/137.ts&name=FOX
+http://redecanais.stream/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LihCTa" group-title="CANAIS FILMES", Universal Channel
 http://redecanais.stream/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
