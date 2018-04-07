@@ -53,7 +53,7 @@ http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/184.ts&name=Sportv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/157.ts&name=Sportv
