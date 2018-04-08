@@ -70,6 +70,21 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",[COLOR white][B]Sportv 3[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/128.ts&name=Sportv3
 
+#EXTINF:-1 tvg-logo="https://goo.gl/xmB6jy" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/11.ts&name=Premiere2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xmB6jy" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 3[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/12.ts&name=Premiere3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xmB6jy" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 4[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/13.ts&name=Premiere4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xmB6jy" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 5[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/14.ts&name=Premiere5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xmB6jy" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 6[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/15.ts&namePremiere6
+
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",[COLOR white][B]EI Maxx[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
 
