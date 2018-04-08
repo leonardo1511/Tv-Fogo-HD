@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB",[COLOR white][B]BIG BROTHER BRASIL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR blue][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/pfoNL" group-title="CANAIS ABERTO",[COLOR white][B]Globo SP[/COLOR] [COLOR yellow]ON[/COLOR][/B]
@@ -40,7 +40,7 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/r1que/Logo/blob/master/viva.png?ra=true" group-title="CANAIS ABERTO",[COLOR white][B]VIVA[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDONLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/25.ts&name=Viva
 
-#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/p-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/p-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR blue][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/PK6iRY" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere Clubes[/COLOR] [COLOR yellow]ON[/COLOR][/B]
@@ -91,7 +91,7 @@ http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/a7ViYD" group-title="CANAIS ESPORTES",[COLOR white][B]Fox Sports2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR blue][B]CANAIS FILMES[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Rue4P" group-title="CANAIS FILMES",[COLOR white][B]Fox[/COLOR] [COLOR yellow]ON[/COLOR][/B]
@@ -169,7 +169,7 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-id="Gospel Movies Television" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="CANAIS FILMES",[COLOR white][B]Gospel Movies Television[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR blue][B]CANAIS INFANTIL[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tX99qe" group-title="CANAIS INFANTIL",[COLOR white][B]Cartoon Netork[/COLOR] [COLOR yellow]ON[/COLOR][/B]
@@ -190,7 +190,7 @@ http://redecanais.stream/hls/redecanais-nickjr.m3u8|Referer=http://.redecanais.c
 #EXTINF:-1 tvg-logo="https://ra.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISCOVERY KIDS[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDONLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/245.TS&name=DISCOVERYkIDS
 
-#EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR blue][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fGho" group-title="DOCUMENTARIOS",[COLOR white][B]CANAL SAUDE[/COLOR] [COLOR yellow]ON[/COLOR][/B]
@@ -205,7 +205,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDONLOADER&url=http://pandaxtream.d
 #EXTINF:-1 tvg-logo="https://goo.gl/VYHap4" group-title="DOCUMENTARIOS",[COLOR white][B]HISTORY CHANNEL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDONLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/133.ts&name=HistoryChannel
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR blue][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KQVsEm" group-title="CANAIS JORNALISMO",[COLOR white][B]GLOBO NES[/COLOR] [COLOR yellow]ON[/COLOR][/B]
@@ -236,7 +236,7 @@ http://dstream4-lh.akamaihd.net:80/i/dstream4_live@131329/index_1_av-b.m3u8
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/eurones_ens/29-live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/8tuXp" group-title="CANAIS DE RELIGIAO",[COLOR yellow][B]CANAIS DE RELIGIAO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/8tuXp" group-title="CANAIS DE RELIGIAO",[COLOR blue][B]CANAIS DE RELIGIAO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/QuNjuH" group-title="CANAIS DE RELIGIAO",[COLOR white][B]PORTAL GOSPEL TV[/COLOR] [COLOR yellow]ON[/COLOR][/B]
@@ -266,7 +266,7 @@ http://z5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6DpFX" group-title="CANAIS DE RELIGIAO",[COLOR white][B]Tv Evangelizar[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 
-#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR blue][B]CANAIS MUSICA[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nQzZGz" group-title="CANAIS MUSICA",[COLOR white][B]MULTISHOW[/COLOR] [COLOR yellow]ON[/COLOR][/B]
