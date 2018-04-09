@@ -13,7 +13,7 @@ http://redecanais.stream/hls/redecanais-combate.m3u8|Referer=http://www.redecana
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPORTE INTERATIVO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://redecanais.stream/hls/redecanais-esporteinterativo1.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/EsporteInterativo2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPORTE INTERATIVO 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPORTE INTERATIVO 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://redecanais.stream/hls/redecanais-esporteinterativo2.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
