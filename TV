@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg" group-title="CANAIS",[COLOR blue][B]Se o Canal Não Estiver Funcionando Avise[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg" group-title="CANAIS",[COLOR yellow][B]https://www.facebook.com/TvFogoHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg" group-title="CANAIS",[COLOR yellow][B]facebook.com/TvFogoHD[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB",[COLOR white][B]BIG BROTHER BRASIL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
