@@ -238,36 +238,21 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 #EXTINF:-1 tvg-logo="https://ra.githubusercontent.com/tvfogo/Logos/master/band_nes.png" group-title="CANAIS JORNALISMO",[COLOR white][B]BAND NES[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/187.ts&name=GloboNes
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/abcnews.png" group-title="CANAIS JORNALISMO",[COLOR white][B]ABC NEWS[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://abclive.abcnes.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/BHNEWS.jpg" group-title="CANAIS JORNALISMO",[COLOR white][B]BH News[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_125301522.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="CANAIS JORNALISMO",[COLOR white][B]Record News (TO)[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="CANAIS JORNALISMO",[COLOR white][B]Record News (TO) 2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/dw.jpg" group-title="CANAIS JORNALISMO",[COLOR white][B]DW NEWS[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://dstream4-lh.akamaihd.net:80/i/dstream4_live@131329/index_1_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/euronews.jpg" group-title="CANAIS JORNALISMO",[COLOR white][B]EURONEWS[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/eurones_ens/29-live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="CANAIS JORNALISMO",[COLOR white][B]Record News[/COLOR] [COLOR yellow]ON[/COLOR][/B]
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w248455652.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/8tuXp" group-title="CANAIS DE RELIGIAO",[COLOR blue][B]CANAIS DE RELIGIAO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/QuNjuH" group-title="CANAIS DE RELIGIAO",[COLOR white][B]PORTAL GOSPEL TV[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://s1.sepanel.com:1935/lukfilm/lukfilm/live.m3u8
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/chunklist_w832076873.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qfIKN.png" group-title="CANAIS DE RELIGIAO",[COLOR white][B]REDE FAMILIA[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://srv9.zoeeb.tv:1935/z901/z901_720p/live.m3u8
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w1041369163_b300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3Zequy" group-title="CANAIS DE RELIGIAO",[COLOR white][B]TV NOVO TEMPO[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w16952092_b4128000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cançaonova.png" group-title="CANAIS DE RELIGIAO",[COLOR white][B]Cancao Nova[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
@@ -280,9 +265,6 @@ http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS DE RELIGIAO",[COLOR white][B]Santuario de Aparecida[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L4onDOE.png" group-title="CANAIS DE RELIGIAO",[COLOR white][B]TVCI[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://z5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://evangelizar.s3.amazonaws.com/wp-content/uploads/2016/12/icone-rec-tv_evangelizar1.png" group-title="CANAIS DE RELIGIAO",[COLOR white][B]Tv Evangelizar[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
