@@ -76,20 +76,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",[COLOR white][B]Sportv 3[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/128.ts&name=Sportv3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/11.ts&name=Premiere2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere[/COLOR] [COLOR yellow]ON[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/179.ts&name=Premiere
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 3[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/12.ts&name=Premiere3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 4[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/13.ts&name=Premiere4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 5[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/14.ts&name=Premiere5
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere 6[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/15.ts&namePremiere6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere[/COLOR] [COLOR yellow]ON[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/180.ts&name=Premiere
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI Maxx[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
@@ -107,7 +98,7 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_549339512.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]Fox Sports[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/182.ts&name=FoxSports
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]Fox Sports2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
