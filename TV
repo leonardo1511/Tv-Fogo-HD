@@ -218,7 +218,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canal-saude.png" group-title="DOCUMENTARIOS",[COLOR white][B]CANAL SAUDE[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+http://200.130.99.222/vod/ocp(t(FSPkIRB7ZBs.)r(PzxGDQ..)a(uw2kKg..)p(d(HgA.)k(fDg.)m(OauMTU57NhO1QGyO7GuTvg..)n(a(to26KA..)s(12E.)'a(-B8KQQ..)s(WzM.)'a(eEE1tg..)s(Qw0.)))s(s(OSc.)b(n_wDrrTrYMZnNqgzYx0-BjeGfebc2EcVp7RXtNymVDbK12P00LSjncrwzm-QBQ..)'s(v3M.)b(RS24f-jCgxqhtKiKtASvmINWgmM0ErBcuIULkBSV)'s(Wm0.)b(7zL5v8W6_A..))m(0))/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTARIOS",[COLOR white][B]ANIMAL PLANET[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/193.ts&name=ANIMALPLANET
