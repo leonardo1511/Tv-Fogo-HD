@@ -41,7 +41,7 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 http://srv3.zoeeb.tv:1935/z315/z315tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalfutura.png" group-title="CANAIS ABERTO",[COLOR white][B]FUTURA[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1002774763.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS ABERTO",[COLOR white][B]VIVA[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/25.ts&name=Viva
