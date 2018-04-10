@@ -29,10 +29,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_2092614085.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS ABERTO",[COLOR white][B]Tv Gazeta[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-https://livestream-f.akamaihd.net/5381476_2395418_lsiuax7lf4qburvwgg5_1_678@408433?v=3.8.0&fp=WIN%2029,0,0,113&r=SHTVO&g=PESBNHLAKVJR
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tv-escola.jpg" group-title="CANAIS ABERTO",[COLOR white][B]Tv Escola[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-https://fast.player.liquidplatform.com/pApiv2/embed/1f9a5d00db56b3c3020b6ac3dd693e12/live/7e49d4c314175751675132379c09bfc5|Referer=http://www.tvescola.org.br/
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]Record Rj[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/812.ts&name=RecordRj
