@@ -8,7 +8,7 @@ http://0.0.0.0
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB",[COLOR white][B]BIG BROTHER BRASIL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/887.ts&name=BBB
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS ABERTO",[COLOR blue][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
