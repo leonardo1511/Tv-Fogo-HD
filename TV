@@ -28,9 +28,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTO",[COLOR white][B]Rede tv[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_2092614085.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS ABERTO",[COLOR white][B]Tv Gazeta[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]Record Rj[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/812.ts&name=RecordRj
 
@@ -42,6 +39,12 @@ http://caikron.com.br:1935/unipar/tvup/chunklist_w1002774763.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS ABERTO",[COLOR white][B]VIVA[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/788.ts&name=Viva
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS ABERTO",[COLOR white][B]Tv Gazeta[/COLOR] [COLOR yellow]ON[/COLOR][/B]
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tv-escola.jpg" group-title="CANAIS ABERTO",[COLOR white][B]Tv Escola[/COLOR] [COLOR yellow]ON[/COLOR][/B]
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8?sts=st=1523293159~exp=1523299759~acl=/*~hmac=ae8e18abdc806aa55f44ae1251c5d7b5015158b88458055af5e5f5ce056e78c4
 
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/p-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR blue][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
