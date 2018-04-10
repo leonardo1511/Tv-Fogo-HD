@@ -16,8 +16,8 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]Globo SP[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]Globo[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/200.ts&name=Globorj
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]Globo Rj[/COLOR] [COLOR yellow]ON[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/854.ts&name=Globorj
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",[COLOR white][B]SBT[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/18.ts&name=SBT
@@ -185,10 +185,10 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS INFANTIL",[COLOR white][B]Cartoon Netork[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/140.ts&name=CartoonNetork
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/884.ts&name=CartoonNetork
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY CHANNEL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/205.TS&name=DISNEYCHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/206.TS&name=DISNEYCHANNEL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="CANAIS INFANTIL",[COLOR white][B]Disney XD[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://redecanais.stream/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
@@ -200,7 +200,7 @@ http://redecanais.stream/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.
 http://redecanaistream/s.hls/redecanais-nickjr.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISCOVERY KIDS[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/245.TS&name=DISCOVERYkIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/876.ts&name=DISCOVERYkIDS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mV8ckcy.png" group-title="CANAIS DOCUMENTARIOS",[COLOR blue][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
@@ -212,10 +212,10 @@ http://200.130.99.222/vod/ocp(t(FSPkIRB7ZBs.)r(PzxGDQ..)a(uw2kKg..)p(d(HgA.)k(fD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/193.ts&name=ANIMALPLANET
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY CHANNEL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/139.ts&name=DiscoveryChannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/916.ts&name=DiscoveryChannel
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTARIOS",[COLOR white][B]HISTORY CHANNEL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/133.ts&name=HistoryChannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/196.ts&name=HistoryChannel
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR blue][B]CANAIS JORNALISMO[/B][/COLOR]
 http://0.0.0.0
