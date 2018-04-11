@@ -59,13 +59,10 @@ http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]Band Sports[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/184.ts&name=BandSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/889.ts&name=BandSports
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SporTV[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/157.ts&name=Sportv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SporTV[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/158.ts&name=Sportv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/807.ts&name=Sportv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]Sportv 2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
