@@ -89,7 +89,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI Maxx 2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/218.ts&name=eimax2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/217.ts&name=eimax2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="CANAIS ESPORTES",[COLOR white][B]Esporte Interativo[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
