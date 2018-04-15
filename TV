@@ -52,6 +52,9 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere Clubes[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere Clubes[/COLOR] [COLOR yellow]ON[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/825.ts&name=PfcClubes
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN Brasil[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
