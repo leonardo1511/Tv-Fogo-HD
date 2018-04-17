@@ -119,13 +119,13 @@ http://n5h5xf4s.redecanais.stream/hls/redecanais-fox.m3u8|Referer=http://www.red
 http://n5h5xf4s.redecanais.stream/hls/redecanais-fx.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="CANAIS FILMES",[COLOR white][B]Universal Channel[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="CANAIS FILMES",[COLOR white][B]MEGAPIX[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-megapix.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-megapix.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png" group-title="CANAIS FILMES",[COLOR white][B]AMC[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-amc.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-amc.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="CANAIS FILMES",[COLOR white][B]CINEMAX[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/116.ts&name=CineMax
@@ -173,13 +173,13 @@ http://0.0.0.0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/884.ts&name=CartoonNetork
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY CHANNEL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-disney-3167.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-disney-3167.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="CANAIS INFANTIL",[COLOR white][B]Disney XD[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png" group-title="CANAIS INFANTIL",[COLOR white][B]Nickelodeon[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="CANAIS INFANTIL",[COLOR white][B]NICK JR[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://redecanaistream/s.hls/redecanais-nickjr.m3u8|Referer=http://www.redecanais.com/
@@ -246,7 +246,7 @@ rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="CANAIS MUSICA",[COLOR white][B]MULTISHOW[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-multisho-1080.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-multisho-1080.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAIS MUSICA",[COLOR white][B]Radio Monte Carlo TV[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
