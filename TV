@@ -116,7 +116,7 @@ http://0.0.0.0
 http://n5h5xf4s.redecanais.stream/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS FILMES",[COLOR white][B]Fx[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-http://redecanais.stream/hls/redecanais-fx.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-fx.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="CANAIS FILMES",[COLOR white][B]Universal Channel[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://redecanais.stream/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
