@@ -8,16 +8,13 @@ http://0.0.0.0
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB",[COLOR white][B]BIG BROTHER BRASIL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/887.ts&name=BBB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/228.ts&name=BBB
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS ABERTO",[COLOR blue][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]Globo SP[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]Globo Rj[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/854.ts&name=Globorj
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",[COLOR white][B]SBT[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/18.ts&name=SBT
@@ -29,7 +26,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_2092614085.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]Record Rj[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/812.ts&name=RecordRj
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/643.ts&name=RecordRj
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]Record[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://srv3.zoeeb.tv:1935/z315/z315tvs/playlist.m3u8
@@ -38,7 +35,7 @@ http://srv3.zoeeb.tv:1935/z315/z315tvs/playlist.m3u8
 http://caikron.com.br:1935/unipar/tvup/chunklist_w1002774763.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS ABERTO",[COLOR white][B]VIVA[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/788.ts&name=Viva
+http://n5h5xf4s.redecanais.stream/hls/redecanais-viva.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS ABERTO",[COLOR white][B]Tv Gazeta[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
@@ -62,10 +59,10 @@ http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]Band Sports[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/889.ts&name=BandSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/184.ts&name=BandSports
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SporTV[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/807.ts&name=Sportv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/158.ts&name=Sportv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]Sportv 2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
@@ -104,10 +101,10 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_549339512.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]Fox Sports[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/860.ts&name=FoxSports
+http://n5h5xf4s.redecanais.stream/hls/redecanais-foxsports1.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]Fox Sports 2[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/859.ts&nameFoxSports2
+http://n5h5xf4s.redecanais.stream/hls/redecanais-foxsports2-1631.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0LklQw.png" group-title="CANAIS FILMES",[COLOR blue][B]CANAIS FILMES[/B][/COLOR]
 http://0.0.0.0
@@ -170,7 +167,7 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS INFANTIL",[COLOR white][B]Cartoon Netork[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/884.ts&name=CartoonNetork
+http://n5h5xf4s.redecanais.stream/hls/redecanais-cartoon.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY CHANNEL[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://n5h5xf4s.redecanais.stream/hls/redecanais-disney-3167.m3u8|Referer=http://www.redecanais.com/
@@ -185,7 +182,7 @@ http://n5h5xf4s.redecanais.stream/hls/redecanais-nick.m3u8|Referer=http://www.re
 http://redecanaistream/s.hls/redecanais-nickjr.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISCOVERY KIDS[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/876.ts&name=DISCOVERYkIDS
+http://n5h5xf4s.redecanais.stream/hls/redecanais-discoverykids.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mV8ckcy.png" group-title="CANAIS DOCUMENTARIOS",[COLOR blue][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
