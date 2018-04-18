@@ -20,10 +20,10 @@ http://n5h5xf4s.redecanais.stream/hls/redecanais-esporteinterativo2.m3u8|Referer
 http://n5h5xf4s.redecanais.stream/hls/redecanais-foxsports1.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-http://n5h5xf4s.redecanais.stream/hls/redecanais-foxsports2-1631.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-foxsports2-1048.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-http://n5h5xf4s.redecanais.stream/hls/redecanais-sportv1.m3u8|Referer=http://www.redecanais.com/
+http://n5h5xf4s.redecanais.stream/hls/redecanais-sportv1-1075.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://n5h5xf4s.redecanais.stream/hls/redecanais-sportv2.m3u8|Referer=http://www.redecanais.com/
