@@ -50,7 +50,7 @@ http://0.0.0.0
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]Premiere Clubes[/COLOR] [COLOR yellow]ON[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/505.ts&name=PfcClubes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/496.ts&name=PfcClubes
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN Brasil[/COLOR] [COLOR yellow]ON[/COLOR][/B]
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
