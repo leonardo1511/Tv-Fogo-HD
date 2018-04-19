@@ -1,191 +1,359 @@
 #EXTM3U          
 #PLAYLISTV: pltv-logo="https://goo.gl/gNxSX4" pltv-name="Tv Fogo HD" pltv-description="Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados." pltv-cover="https://goo.gl/gNxSX4" pltv-author="Tv Fogo HD IPTV" pltv-site="http://iptv-tvfogohd.zyro.com" pltv-email="moraes84@hotmail.com.br" pltv-phone="
 
-#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB",BIG BROTHER BRASIL
-http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo SP
-http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=909525945
-
-#EXTINF:-1 tvg-logo="https://goo.gl/syHrxH" group-title="CANAIS ABERTO", Rede tv 
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2092614085.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/UL733m" group-title="CANAIS ABERTO", Tv Gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/AuaK1C" group-title="CANAIS ABERTO", Tv Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wdrm4x" group-title="CANAIS ABERTO", Record
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/3nhnoa" group-title="CANAIS ABERTO",FUTURA
-http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/PK6iRY" group-title="CANAIS ESPORTES",Premiere Clubes
-http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DQvWND" group-title="CANAIS ESPORTES",ESPN Brasil
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/2th4DE" group-title="CANAIS ESPORTES",Espn
-http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-http://stream.bplaymove.com:8080/ebandsporthd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
-http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/uzYfX5" group-title="CANAIS ESPORTES",Sportv 2
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
-http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/yVN6f4" group-title="CANAIS ESPORTES",EI Maxx 2
-http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SUJxnt" group-title="CANAIS ESPORTES", Esporte Interativo
-http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_400.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-
-#EXTINF:-1 tvg-logo="https://goo.gl/tCr8uT" group-title="CANAIS ESPORTES",Combate
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oMC1vg" group-title="CANAIS ESPORTES", All Sport
-http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DDDws9" group-title="CANAIS ESPORTES",Fox Sports
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/a7ViYD" group-title="CANAIS ESPORTES",Fox Sports2
-http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
-http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/iiY8rV" group-title="CANAIS FILMES",Classic Tv
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DcTL8g" group-title="CANAIS FILMES", Cine + 
-rtmp://189.86.89.116/livecm/flv:livestream?adbe-live-event=liveevent
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SbKeXf" group-title="CANAIS FILMES",Cine sky
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS FILMES",Filmes Tv Web guarani
-http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
-
-#EXTINF:-1 tvg-id="Gospel Movies Television" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="CANAIS FILMES",Gospel Movies Television
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
-http://0.0.0.0
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/fGhWwo" group-title="DOCUMENTARIOS",CANAL SAUDE
-http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
-http://0.0.0.0
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
-http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/zXWzUp" group-title="CANAIS JORNALISMO", BH News 
-http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO", Record News (TO) 
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO", Record News (TO) 2 
-http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO",RECORD NEWS
-http://187.49.86.238:10000/bysid/111
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ujqzNj" group-title="CANAIS JORNALISMO",DW NEWS
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/yYgPEx" group-title="CANAIS JORNALISMO",EURONEWS
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8tuwXp" group-title="CANAIS DE RELIGIAO",[COLOR yellow][B]CANAIS DE RELIGIAO[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/QuNjuH" group-title="CANAIS DE RELIGIAO",PORTAL GOSPEL TV
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ZWWRqQ" group-title="CANAIS DE RELIGIAO",REDE FAMILIA
-http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/3Zequy" group-title="CANAIS DE RELIGIAO",TV NOVO TEMPO
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/uBaajf" group-title="CANAIS DE RELIGIAO", Cancao Nova 
-http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO", Tv Aparecida SD
-http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO", Santuario de Aparecida
-http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DE RELIGIAO", TVCI 
-http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/6WDpFX" group-title="CANAIS DE RELIGIAO", Tv Evangelizar 
-rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAIS MUSICA", Radio Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/hittv.png" group-title="CANAIS MUSICA", HIT TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="CANAIS MUSICA", Virgin TV
-http://fms.105.net:1935/live/virgin2%20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/4y8jHEbp1i/yiJenIEcnPH1SnDl.png" group-title="CANAIS MUSICA", Retrô TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?fix
-
-#EXTINF:-1 tvg-logo="https://lut.im/89tXWicGke/tmTcKXThqKnJUQzE.png" group-title="CANAIS MUSICA", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CANAIS MUSICA", NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CANAIS MUSICA", Capital TiVù
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1 group-title="BRASIL OPCAO 01",All Sports&name=SKY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/301.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Amazon Sat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/281.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Cultura BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/283.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Fonte TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/310.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Rádio Redentor DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/305.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Record AM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/280.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Record ES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/306.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Record GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/309.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Record MT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/314.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Record News MA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/313.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",SBT GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/308.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",SBT MT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/315.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TBO Anapolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/311.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV A Cara da Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/286.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv Ambiental HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/307.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv Aracati HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/293.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Brasil 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/299.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV CN AGITOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/279.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Comunitária Brasília SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/304.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV da Gente HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/297.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Diário SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/291.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Difusora Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/312.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv Geral SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/288.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv InforBahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/289.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv J.SID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/284.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Jangadeiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/292.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Maceió SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/277.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Mar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/276.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Metropole SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/294.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV NBR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/302.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Origem SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/303.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv Padre Cicero HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/298.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV PAN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/290.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV RBC Salvador SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/287.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv Rio Largo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/278.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV União SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/296.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Verde Vale SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/295.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Tv Web Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/285.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TVE Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/282.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TVN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/300.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/317.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Cine+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/316.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Pantanal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/318.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/588.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/587.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/586.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/585.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/584.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Baby TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/583.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/582.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Band SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/581.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Band Sports&name=SKY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/580.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",BBB 18 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/579.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/578.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Boomerang SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/577.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/576.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/575.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/574.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/573.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",CNN International SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/572.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",CNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/571.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/570.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/569.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/568.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/567.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/566.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Discovery Civilization SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/565.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/564.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/563.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/562.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/561.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/560.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Disney JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/559.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Disney XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/558.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/557.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",EI Maxx 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/556.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",EI Maxx SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/555.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",ESPN   SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/554.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",ESPN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/553.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/552.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Esporte Interativo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/551.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",FISH TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/550.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=#EXTINF:-1 group-title="BRASIL OPCAO 01",FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/549.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox Life SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/548.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/547.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox Sports&name=SKY 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/546.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox Sports&name=SKY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/545.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Futura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/544.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/543.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Globo Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/542.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/541.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/540.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Globo Rio SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/539.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/538.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/537.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/536.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/535.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/534.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/533.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",HBO Plus E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/532.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/531.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/530.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/529.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",I SAT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/528.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/527.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",IURD TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/526.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/525.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Mais Globosat SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/524.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Max Prime E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/523.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Max Prime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/522.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",MAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/521.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Max UP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/520.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/519.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/518.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/517.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/516.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",NatGeo Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/515.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",NatGeo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/514.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/513.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Nick Jr. SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/512.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/511.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/510.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Off SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/509.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Paramount SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/508.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Play TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/507.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",PLAYBOY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/506.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/505.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/504.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/503.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/502.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/501.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/500.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/499.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/498.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/497.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/496.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/495.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Primebox Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/494.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/493.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/492.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",RECORD TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/491.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Rede Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/490.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Rede TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/489.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/488.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",RIT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/487.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Sextreme SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/486.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Sexy hot SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/485.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Sony SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/484.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Space SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/483.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/482.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/481.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/480.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/479.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/478.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/477.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/476.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/475.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/474.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/473.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/472.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/471.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/470.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",The History Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/469.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/468.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/467.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/466.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Trutv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/465.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/464.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Canção Nova SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/463.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Diário Fortaleza SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/462.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Evangelizar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/461.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Ra-tim-bum SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/460.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Rio Largo (Maceió) SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/459.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Terceiro Anjo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/458.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",TV Vitória (Record ES) SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/457.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Universal Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/456.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",VH1 Mega Hits&name=SKY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/455.ts&name=SKY
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/454.ts&name=SKY
