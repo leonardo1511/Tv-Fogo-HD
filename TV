@@ -1,7 +1,7 @@
 #EXTM3U          
 #PLAYLISTV: pltv-logo="https://goo.gl/gNxSX4" pltv-name="Tv Fogo HD" pltv-description="Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados." pltv-cover="https://goo.gl/gNxSX4" pltv-author="Tv Fogo HD IPTV" pltv-site="http://iptv-tvfogohd.zyro.com" pltv-email="moraes84@hotmail.com.br" pltv-phone="
 
-#EXTINF:-1 group-title="BRASIL OPCAO 01",All Sports&name=SKY TV SD
+#EXTINF:-1 group-title="BRASIL OPCAO 01",All Sports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/301.ts&name=SKY
 #EXTINF:-1 group-title="BRASIL OPCAO 01",Amazon Sat HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/281.ts&name=SKY
