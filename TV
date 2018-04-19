@@ -103,7 +103,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/582.ts&name=SKY
 #EXTINF:-1 group-title="BRASIL OPCAO 01",Band SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/581.ts&name=SKY
-#EXTINF:-1 group-title="BRASIL OPCAO 01",Band Sports&name=SKY SD
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Band Sports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/580.ts&name=SKY
 #EXTINF:-1 group-title="BRASIL OPCAO 01",BBB 18 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/579.ts&name=SKY
