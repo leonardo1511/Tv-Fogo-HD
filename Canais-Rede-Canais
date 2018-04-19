@@ -43,6 +43,27 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-sportv2.m3u8|Referer=http://ww
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-sportv3.m3u8|Referer=http://www.redecanais.com/
 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE CLUBES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiereclubes.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere3.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 4[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere4.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 5[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere5.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 6[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere6.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 7[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere7.m3u8|Referer=http://www.redecanais.com/
+
 #EXTINF:-1 tvg-logo="https:///raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-espn.m3u8|Referer=http://www.redecanais.com/
 
