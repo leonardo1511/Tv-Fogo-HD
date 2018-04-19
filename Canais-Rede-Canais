@@ -1,10 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
-http://0.0.0.0
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bbb.jpg" group-title="CANAIS REDECANAIS",[COLOR white][B]BIG BROTHER BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/bbb18.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOBO NORDESTE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-bobo.m3u8|Referer=http://www.redecanais.com/
@@ -51,25 +53,25 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-sportv2.m3u8|Referer=http://ww
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-sportv3.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE CLUBES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere-clubes.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE CLUBES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-premiereclubes.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-premiere2.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-premiere3.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 4[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 4[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-premiere4.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 5[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 5[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-premiere5.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 6[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 6[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-premiere6.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 7[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 7[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-premiere7.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https:///raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
