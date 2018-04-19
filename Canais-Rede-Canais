@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bbb.jpg" group-title="CANAIS REDECANAIS",[COLOR white][B]BIG BROTHER BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/bbb18.m3u8|Referer=http://www.redecanais.com/
@@ -15,6 +17,12 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-boboriodejaneiro.m3u8|Referer=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOBO SP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-bobosaopaulo.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL VIVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-viva.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS REDECANAIS",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-bandsports.m3u8|Referer=http://www.redecanais.com/
@@ -73,8 +81,14 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-espnmais.m3u8|Referer=http://w
 #EXTINF:-1 tvg-logo="https:///raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPN +[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-espnmais.m3u8|Referer=http://www.redecanais.com/
 
+#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
+http://0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-tnt.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TNT SERIES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-tntseries.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="CANAIS REDECANAIS",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-aie.m3u8|Referer=http://www.redecanais.com/
@@ -139,6 +153,12 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-comedycentral.m3u8|Referer=htt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="CANAIS REDECANAIS",[COLOR white][B]WARNER TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-warner.m3u8|Referer=http://www.redecanais.com/
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-space.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
+http://0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-cartoon.m3u8|Referer=http://www.redecanais.com/
 
@@ -157,14 +177,18 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-nick.m3u8|Referer=http://www.r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="CANAIS REDECANAIS",[COLOR white][B]NICK JR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-nickjr.m3u8|Referer=http://www.redecanais.com/
 
+#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
+http://0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-mtv.m3u8|Referer=http://www.redecanais.com/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-multishow.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL VIVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-http://u9otne3ii.redecanais.stream/hls/redecanais-viva.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png" group-title="CANAIS REDECANAIS",[COLOR white][B]INVESTIGAÇÃO DISCOVERY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-investigacaodiscovery.m3u8|Referer=http://www.redecanais.com/
