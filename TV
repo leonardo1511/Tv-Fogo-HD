@@ -171,9 +171,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/548.ts&name=SKY
 #EXTINF:-1 group-title="BRASIL OPCAO 01",Fox SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/547.ts&name=SKY
-#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox Sports&name=SKY 2 SD
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox Sports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/546.ts&name=SKY
-#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox Sports&name=SKY SD
+#EXTINF:-1 group-title="BRASIL OPCAO 01",Fox Sports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/545.ts&name=SKY
 #EXTINF:-1 group-title="BRASIL OPCAO 01",Futura SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/544.ts&name=SKY
@@ -353,7 +353,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/457.ts&name=SKY
 #EXTINF:-1 group-title="BRASIL OPCAO 01",Universal Channel SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/456.ts&name=SKY
-#EXTINF:-1 group-title="BRASIL OPCAO 01",VH1 Mega Hits&name=SKY SD
+#EXTINF:-1 group-title="BRASIL OPCAO 01",VH1 Mega Hits
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/455.ts&name=SKY
 #EXTINF:-1 group-title="BRASIL OPCAO 01",Warner Channel SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://andre.iptvbr.tv:8080/live/Apptv/7rkfWKzgON/454.ts&name=SKY
