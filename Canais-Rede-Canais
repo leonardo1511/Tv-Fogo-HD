@@ -254,7 +254,7 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-discoveryturbo.m3u8|Referer=ht
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]NATGEO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-natgeo.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qrOmPHN.png" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qrOmPHN.png" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS NOTÍCIAS[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
