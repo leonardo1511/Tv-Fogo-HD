@@ -1,659 +1,262 @@
-<?xml version="2.0" encoding="utf-8" standalone="yes"?>
-
-<item>
-<title>[COLOR white][B]BIG BROTHER BRASIL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-bbb18.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bbb.jpg</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]GLOBO NORDESTE[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-bobo.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]GLOBO RJ[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-boboriodejaneiro.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]GLOBO SP[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-bobosaopaulo.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]BAND[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-band.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]VIVA[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-viva.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]BAND SPORTS[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-bandsports.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]COMBATE[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-combate.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]ESPORTE INTERATIVO[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-esporteinterativo1.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]ESPORTE INTERATIVO 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-esporteinterativo2.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]FOX SPORTS[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-foxsports1.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]FOX SPORTS 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-foxsports2.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]SPORTV[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-sportv1.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]SPORTV 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-sportv2.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]SPORTV 3[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-sportv3.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PREMIERE CLUBES[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-premiereclubes.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere-clubes.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PREMIERE 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-premiere2.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PREMIERE 3[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-premiere3.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PREMIERE 4[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-premiere4.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PREMIERE 5[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-premiere5.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PREMIERE 6[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-premiere6.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PREMIERE 7[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-premiere7.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]ESPN[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-espn.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https:///raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]ESPN BRASIL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-espnbrasil.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https:///raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]ESPN +[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-espnmais.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https:///raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]MAX[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-max.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]MAX PRIME[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-maxprime.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]MAX UP[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-maxup.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]STUDIO UNIVERSAL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-studiouniversal.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]SYFY[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-syfy.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TNT[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-tnt.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TNT SERIES[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-tntseries.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]A&E[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-aie.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]AMC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-amc.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]AXN[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-axn.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CINEMAX[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-cinemax.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]FOX[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-fox.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]FX[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-fx.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]FOX PREMIUM[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-foxpremium.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]FOX PREMIUM 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-foxpremium2.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/FOXPremium2.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]HBO[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-hbo.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]HBO 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-hbo2.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]HBO FAMILY[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-hbofamily.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]HBO PLUS[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-hboplus.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]HBO SIGNATURE[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-hbosignature.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]MEGAPIX[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-megapix.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PARAMOUNT[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-paramount.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TELECINE ACTION[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-telecineaction.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TELECINE CULT[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-telecinecult.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TELECINE FUN[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-telecinefun.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TELECINE PIPOCA[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-telecinepipoca.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TELECINE PREMIUM[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-telecinepremium.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]TELECINE TOUCH[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-telecinetouch.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]UNIVERSAL CHANNEL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-universal.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]COMEDY CENTRAL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-comedycentral.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]WARNER CHANNEL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-warner.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]SPACE[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-space.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/space.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]SONY[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-sony.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]PRIME BOX BRASIL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-primeboxbrasil.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/Prime_Box_Brazil.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CARTOON NETWORK[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-cartoon.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]BOOMERANG[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-boomerang.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]DISCOVERY KIDS[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-discoverykids.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]DISNEY CHANNEL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-disney.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]DISNEY XD[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]NICK[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-nick.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]NICK JR[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-nickjr.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]NATGEO KIDS[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-natgeokids.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/Nat_Geo_Kids.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]GLOBINHO[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-globinho.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globinho.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]GLOOB[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-gloob.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]MTV[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-mtv.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]MULTISHOW[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-multishow.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]DISCOVERY INVESTIGAÇÃO[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-investigacaodiscovery.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]ANIMAL PLANET[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-animalplanet.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-discovery.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]HISTORY[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-history.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]HISTORY 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-history2.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history2.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]DISCOVERY TURBO[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-discoveryturbo.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]NATGEO[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-natgeo.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]CC[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]redecanais-.m3u8|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page></regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bbb.jpg" group-title="CANAIS REDECANAIS",[COLOR white][B]BIG BROTHER BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/bbb18.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOBO NORDESTE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-bobo.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS REDECANAIS",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-band.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOBO RJ[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-boboriodejaneiro.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOBO SP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-bobosaopaulo.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL VIVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-viva.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS REDECANAIS",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-bandsports.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS REDECANAIS",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-combate.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPORTE INTERATIVO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-esporteinterativo1.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPORTE INTERATIVO 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-esporteinterativo2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-foxsports1.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-foxsports2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-sportv1.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-sportv2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-sportv3.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere-clubes.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE CLUBES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiereclubes.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere3.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 4[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere4.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 5[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere5.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 6[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere6.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PREMIERE 7[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-premiere7.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https:///raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-espn.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https:///raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-espnbrasil.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https:///raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ESPN +[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-espnmais.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
+http://0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-max.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-maxprime.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-maxup.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png" group-title="CANAIS REDECANAIS",[COLOR white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-studiouniversal.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SYFY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-syfy.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-tnt.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TNT SERIES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-tntseries.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="CANAIS REDECANAIS",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-aie.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png" group-title="CANAIS REDECANAIS",[COLOR white][B]AMC[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-amc.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="CANAIS REDECANAIS",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-axn.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CINEMAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-cinemax.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-fox.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-fx.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FOX PREMIUM[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-foxpremium.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/FOXPremium2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]FOX PREMIUM 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-foxpremium2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-hbo.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]HBO 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-hbo2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="CANAIS REDECANAIS",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-hbofamily.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="CANAIS REDECANAIS",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-hboplus.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="CANAIS REDECANAIS",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-hbosignature.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-megapix.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PARAMOUNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-paramount.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-telecineaction.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-telecinecult.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-telecinefun.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-telecinepipoca.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-telecinepremium.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-telecinetouch.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="CANAIS REDECANAIS",[COLOR white][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-universal.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png" group-title="CANAIS REDECANAIS",[COLOR white][B]COMEDY CENTRAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-comedycentral.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="CANAIS REDECANAIS",[COLOR white][B]WARNER TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-warner.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-space.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-sony.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Prime_Box_Brazil.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-primeboxbrasil.m3u8|Referer=http://www.redecanais.com/
+
+
+#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-cartoon.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png" group-title="CANAIS REDECANAIS",[COLOR white][B]BOOMERANG[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-boomerang.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS REDECANAIS",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-discoverykids.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="CANAIS REDECANAIS",[COLOR white][B]DISNEY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-disney.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="CANAIS REDECANAIS",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png" group-title="CANAIS REDECANAIS",[COLOR white][B]NICK[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-nick.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="CANAIS REDECANAIS",[COLOR white][B]NICK JR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-nickjr.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Nat_Geo_Kids.png" group-title="CANAIS REDECANAIS",[COLOR white][B]NATGEO KIDS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-natgeokids.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globinho.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOBINHO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-globinho.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="CANAIS REDECANAIS",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-gloob.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-mtv.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="CANAIS REDECANAIS",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-multishow.m3u8|Referer=http://www.redecanais.com/
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png" group-title="CANAIS REDECANAIS",[COLOR white][B]INVESTIGAÇÃO DISCOVERY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-investigacaodiscovery.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="CANAIS REDECANAIS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-animalplanet.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="CANAIS REDECANAIS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-discovery.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="CANAIS REDECANAIS",[COLOR white][B]HISTORY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-history.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history2.png" group-title="CANAIS REDECANAIS",[COLOR white][B]HISTORY 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-history2.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-discoveryturbo.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="CANAIS REDECANAIS",[COLOR white][B]NATGEO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://u9otne3ii.redecanais.stream/hls/redecanais-natgeo.m3u8|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-154-canal-sex-zone.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SEXZONE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://d2paic1g7uowry.redecanais.stream/hls/redecanais-sexzone.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMTggMToyMDoxMyBQTSZoYXNoX3ZhbHVlPURuMjZzSWVudHQzR2d2Y0RobW9MUUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9NQ==|Referer=http://www.redecanais.com/
+
+#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PLAYBOY TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://d2paic1g7uowry.redecanais.stream/hls/redecanais-playboytv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMTggMToyNzoxOSBQTSZoYXNoX3ZhbHVlPXAwdkNTdkQ3M0JDUmdpVHlxMHZqMnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9NQ==|Referer=http://www.redecanais.com/
