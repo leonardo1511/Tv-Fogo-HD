@@ -21,7 +21,7 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-bobosaopaulo.m3u8|Referer=http
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL VIVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-viva.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTvUrIr.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS REDECANAIS",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
@@ -188,7 +188,7 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-sony.m3u8|Referer=http://www.r
 http://u9otne3ii.redecanais.stream/hls/redecanais-primeboxbrasil.m3u8|Referer=http://www.redecanais.com/
 
 
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrq6JQp.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
