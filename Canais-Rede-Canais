@@ -181,7 +181,7 @@ http://u9otne3ii.redecanais.stream/hls/redecanais-space.m3u8|Referer=http://www.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-sony.m3u8|Referer=http://www.redecanais.com/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Prime_Box_Brazil.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Prime_Box_Brazil.png" group-title="CANAIS REDECANAIS",[COLOR white][B]PRIME BOX BRAZIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://u9otne3ii.redecanais.stream/hls/redecanais-primeboxbrasil.m3u8|Referer=http://www.redecanais.com/
 
 
