@@ -1,11 +1,13 @@
 #EXTM3U          
 #PLAYLISTV: pltv-logo="https://goo.gl/gNxSX4" pltv-name="Tv Fogo HD" pltv-description="Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados." pltv-cover="https://goo.gl/gNxSX4" pltv-author="Tv Fogo HD IPTV" pltv-site="http://iptv-tvfogohd.zyro.com" pltv-email="moraes84@hotmail.com.br" pltv-phone="
 
-#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB",BIG BROTHER BRASIL
-http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="CANAIS ABERTO",GLOBO
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo SP
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
@@ -80,19 +82,19 @@ http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
-http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w473635327.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iiY8rV" group-title="CANAIS FILMES",Classic Tv
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DcTL8g" group-title="CANAIS FILMES", Cine + 
-rtmp://189.86.89.116/livecm/flv:livestream?adbe-live-event=liveevent
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SbKeXf" group-title="CANAIS FILMES",Cine sky
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS FILMES",Filmes Tv Web guarani
-http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8
 
 #EXTINF:-1 tvg-id="Gospel Movies Television" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="CANAIS FILMES",Gospel Movies Television
 http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
