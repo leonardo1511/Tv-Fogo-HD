@@ -437,17 +437,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/186.ts&name=SKY
 #EXTINF:-1 tvg-id="Space (BR)" tvg-name="BR: Space HD" tvg-logo="http://i.imgur.com/eUQPQpA.png" group-title="BRASIL",BR: Space HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4073.ts&name=SKY
-#EXTINF:-1 tvg-id="SporTV (BR)" tvg-name="BR: SporTV" tvg-logo="http://i.imgur.com/cstJhEo.png" group-title="BRASIL",BR: SporTV
+#EXTINF:-1 tvg-id="sportv (BR)" tvg-name="BR: sportv" tvg-logo="http://i.imgur.com/cstJhEo.png" group-title="BRASIL",BR: sportv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5414.ts&name=SKY
-#EXTINF:-1 tvg-id="SporTV (BR)" tvg-name="BR: SporTV HD" tvg-logo="http://i.imgur.com/cstJhEo.png" group-title="BRASIL",BR: SporTV HD
+#EXTINF:-1 tvg-id="sportv (BR)" tvg-name="BR: sportv HD" tvg-logo="http://i.imgur.com/cstJhEo.png" group-title="BRASIL",BR: sportv HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5413.ts&name=SKY
-#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="BR: SporTV 2" tvg-logo="https://i.imgur.com/MEcK58G.png" group-title="BRASIL",BR: SporTV 2
+#EXTINF:-1 tvg-id="sportv 2 (BR)" tvg-name="BR: sportv 2" tvg-logo="https://i.imgur.com/MEcK58G.png" group-title="BRASIL",BR: sportv 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5412.ts&name=SKY
-#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="BR: SporTV 2 HD" tvg-logo="https://i.imgur.com/MEcK58G.png" group-title="BRASIL",BR: SporTV 2 HD
+#EXTINF:-1 tvg-id="sportv 2 (BR)" tvg-name="BR: sportv 2 HD" tvg-logo="https://i.imgur.com/MEcK58G.png" group-title="BRASIL",BR: sportv 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5450.ts&name=SKY
-#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="BR: SporTV 3" tvg-logo="http://i.imgur.com/SHnaJSf.png" group-title="BRASIL",BR: SporTV 3
+#EXTINF:-1 tvg-id="sportv 3 (BR)" tvg-name="BR: sportv 3" tvg-logo="http://i.imgur.com/SHnaJSf.png" group-title="BRASIL",BR: sportv 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5411.ts&name=SKY
-#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="BR: SporTV 3 HD" tvg-logo="http://i.imgur.com/SHnaJSf.png" group-title="BRASIL",BR: SporTV 3 HD
+#EXTINF:-1 tvg-id="sportv 3 (BR)" tvg-name="BR: sportv 3 HD" tvg-logo="http://i.imgur.com/SHnaJSf.png" group-title="BRASIL",BR: sportv 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/106.ts&name=SKY
 #EXTINF:-1 tvg-id="Studio Universal (BR)" tvg-name="BR: Studio Universal" tvg-logo="http://i.imgur.com/EXY5fHG.png" group-title="BRASIL",BR: Studio Universal
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/185.ts&name=SKY
