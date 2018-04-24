@@ -16,7 +16,7 @@ http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?TvFogoHD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?TvFogoHD?wowzasessionid=909525945
+http://158.58.172.243:8081/edge/band/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE4IDExOjA1OjM1IEFNJmhhc2hfdmFsdWU9L3BDZTZNNGM0RngvZXo4R1V5OGRjdz09JnZhbGlkbWludXRlcz01
 
 #EXTINF:-1 tvg-logo="https://goo.gl/syHrxH" group-title="CANAIS ABERTO", Rede tv 
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2092614085.m3u8?TvFogoHD
