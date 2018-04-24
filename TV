@@ -49,7 +49,7 @@ http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 http://stream.bplaymove.com:8080/ebandsporthd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
-https://assistir-tv.online/SporTV.m3u8
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?nimblesessionid=1856247
 
 #EXTINF:-1 tvg-logo="https://goo.gl/uzYfX5" group-title="CANAIS ESPORTES",Sportv 2
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
