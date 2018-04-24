@@ -1,193 +1,549 @@
-#EXTM3U          
-#PLAYLISTV: pltv-logo="https://goo.gl/gNxSX4" pltv-name="Tv Fogo HD" pltv-description="Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados." pltv-cover="https://goo.gl/gNxSX4" pltv-author="Tv Fogo HD IPTV" pltv-site="http://iptv-tvfogohd.zyro.com" pltv-email="moraes84@hotmail.com.br" pltv-phone="
-
-
-
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="CANAIS ABERTO",GLOBO
-http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO", Globo SP
-http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?TvFogoHD
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/BGkYNZ" group-title="CANAIS ABERTO", Band 
-http://158.58.172.243:8081/edge/band/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE4IDExOjA1OjM1IEFNJmhhc2hfdmFsdWU9L3BDZTZNNGM0RngvZXo4R1V5OGRjdz09JnZhbGlkbWludXRlcz01
-
-#EXTINF:-1 tvg-logo="https://goo.gl/syHrxH" group-title="CANAIS ABERTO", Rede tv 
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2092614085.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/UL733m" group-title="CANAIS ABERTO", Tv Gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/AuaK1C" group-title="CANAIS ABERTO", Tv Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wdrm4x" group-title="CANAIS ABERTO", Record
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/3nhnoa" group-title="CANAIS ABERTO",FUTURA
-http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/PK6iRY" group-title="CANAIS ESPORTES",Premiere Clubes
-http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DQvWND" group-title="CANAIS ESPORTES",ESPN Brasil
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/2th4DE" group-title="CANAIS ESPORTES",Espn
-http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-http://stream.bplaymove.com:8080/ebandsporthd/index.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
-http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?TvFogoHD?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/uzYfX5" group-title="CANAIS ESPORTES",Sportv 2
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
-http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/yVN6f4" group-title="CANAIS ESPORTES",EI Maxx 2
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SUJxnt" group-title="CANAIS ESPORTES", Esporte Interativo
-http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_400.m3u8?TvFogoHD?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-
-#EXTINF:-1 tvg-logo="https://goo.gl/tCr8uT" group-title="CANAIS ESPORTES",Combate
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oMC1vg" group-title="CANAIS ESPORTES", All Sport
-http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DDDws9" group-title="CANAIS ESPORTES",Fox Sports
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/a7ViYD" group-title="CANAIS ESPORTES",Fox Sports2
-http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxUBnj" group-title="CANAIS FILMES",FILMES HD
-https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w473635327.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/iiY8rV" group-title="CANAIS FILMES",Classic Tv
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DcTL8g" group-title="CANAIS FILMES", Cine + 
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SbKeXf" group-title="CANAIS FILMES",Cine sky
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS FILMES",Filmes Tv Web guarani
-http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-id="Gospel Movies Television" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="CANAIS FILMES",Gospel Movies Television
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
-http://0.0.0.0
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/fGhWwo" group-title="DOCUMENTARIOS",CANAL SAUDE
-http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8?TvFogoHD
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/kUASgx" group-title="CANAIS JORNALISMO",[COLOR yellow][B]CANAIS JORNALISMO[/B][/COLOR]
-http://0.0.0.0
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
-http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/zXWzUp" group-title="CANAIS JORNALISMO", BH News 
-http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO", Record News (TO) 
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO", Record News (TO) 2 
-http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO",RECORD NEWS
-http://187.49.86.238:10000/bysid/111
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ujqzNj" group-title="CANAIS JORNALISMO",DW NEWS
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/yYgPEx" group-title="CANAIS JORNALISMO",EURONEWS
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8?TvFogoHD
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8tuwXp" group-title="CANAIS DE RELIGIAO",[COLOR yellow][B]CANAIS DE RELIGIAO[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/QuNjuH" group-title="CANAIS DE RELIGIAO",PORTAL GOSPEL TV
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ZWWRqQ" group-title="CANAIS DE RELIGIAO",REDE FAMILIA
-http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/3Zequy" group-title="CANAIS DE RELIGIAO",TV NOVO TEMPO
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/uBaajf" group-title="CANAIS DE RELIGIAO", Cancao Nova 
-http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO", Tv Aparecida SD
-http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO", Santuario de Aparecida
-http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DE RELIGIAO", TVCI 
-http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/6WDpFX" group-title="CANAIS DE RELIGIAO", Tv Evangelizar 
-rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAIS MUSICA", Radio Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/hittv.png" group-title="CANAIS MUSICA", HIT TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="CANAIS MUSICA", Virgin TV
-http://fms.105.net:1935/live/virgin2%20/index.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://lut.im/4y8jHEbp1i/yiJenIEcnPH1SnDl.png" group-title="CANAIS MUSICA", Retrô TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?TvFogoHD?fix
-
-#EXTINF:-1 tvg-logo="https://lut.im/89tXWicGke/tmTcKXThqKnJUQzE.png" group-title="CANAIS MUSICA", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CANAIS MUSICA", NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?TvFogoHD
-
-#EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CANAIS MUSICA", Capital TiVù
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?TvFogoHD
+#EXTM3U
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="BR: A&E HD" tvg-logo="http://i.imgur.com/SKq3sC8.png" group-title="BRASIL",BR: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/162.ts&name=SKY
+#EXTINF:-1 tvg-id="AMC (BR)" tvg-name="BR: AMC" tvg-logo="http://i.imgur.com/wMh8fkU.png" group-title="BRASIL",BR: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5532.ts&name=SKY
+#EXTINF:-1 tvg-id="AMC (BR)" tvg-name="BR: AMC HD" tvg-logo="http://i.imgur.com/wMh8fkU.png" group-title="BRASIL",BR: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5533.ts&name=SKY
+#EXTINF:-1 tvg-id="AXN (BR)" tvg-name="BR: AXN" tvg-logo="http://i.imgur.com/ZLpNJi8.png" group-title="BRASIL",BR: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/264.ts&name=SKY
+#EXTINF:-1 tvg-id="AXN (BR)" tvg-name="BR: AXN HD" tvg-logo="http://i.imgur.com/ZLpNJi8.png" group-title="BRASIL",BR: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/160.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Amazon Sat" tvg-logo="https://s13.postimg.org/c2vw54t3r/Amazon_Sat_Mobile.png" group-title="BRASIL",BR: Amazon Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9724.ts&name=SKY
+#EXTINF:-1 tvg-id="Animal Planet (BR)" tvg-name="BR: Animal Planet" tvg-logo="http://i.imgur.com/xQtUCAw.png" group-title="BRASIL",BR: Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/266.ts&name=SKY
+#EXTINF:-1 tvg-id="Animal Planet (BR)" tvg-name="BR: Animal Planet HD" tvg-logo="http://i.imgur.com/xQtUCAw.png" group-title="BRASIL",BR: Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/161.ts&name=SKY
+#EXTINF:-1 tvg-id="BIS (BR)" tvg-name="BR: BIS" tvg-logo="http://i.imgur.com/KZMubB5.png" group-title="BRASIL",BR: BIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4066.ts&name=SKY
+#EXTINF:-1 tvg-id="BIS (BR)" tvg-name="BR: BIS HD" tvg-logo="http://i.imgur.com/KZMubB5.png" group-title="BRASIL",BR: BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/158.ts&name=SKY
+#EXTINF:-1 tvg-id="Baby TV (BR)" tvg-name="BR: Baby TV" tvg-logo="http://i.imgur.com/UKFLfSf.png" group-title="BRASIL",BR: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/159.ts&name=SKY
+#EXTINF:-1 tvg-id="Baby TV (BR)" tvg-name="BR: Baby TV HD" tvg-logo="http://i.imgur.com/UKFLfSf.png" group-title="BRASIL",BR: Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13606.ts&name=SKY
+#EXTINF:-1 tvg-id="Band (BR)" tvg-name="BR: Band" tvg-logo="http://i.imgur.com/mzvmxsb.png" group-title="BRASIL",BR: Band
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/261.ts&name=SKY
+#EXTINF:-1 tvg-id="Band (BR)" tvg-name="BR: Band HD" tvg-logo="http://i.imgur.com/mzvmxsb.png" group-title="BRASIL",BR: Band HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4070.ts&name=SKY
+#EXTINF:-1 tvg-id="Band News (BR)" tvg-name="BR: Band News" tvg-logo="http://i.imgur.com/qYfQjNT.png" group-title="BRASIL",BR: Band News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/262.ts&name=SKY
+#EXTINF:-1 tvg-id="Band News (BR)" tvg-name="BR: Band News HD" tvg-logo="http://i.imgur.com/qYfQjNT.png" group-title="BRASIL",BR: Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13932.ts&name=SKY
+#EXTINF:-1 tvg-id="Band Sports&name=SKY (BR)" tvg-name="BR: Band Sports&name=SKY" tvg-logo="http://i.imgur.com/b5qUR29.png" group-title="BRASIL",BR: Band Sports&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/263.ts&name=SKY
+#EXTINF:-1 tvg-id="Band Sports&name=SKY (BR)" tvg-name="BR: Band Sports&name=SKY HD" tvg-logo="http://i.imgur.com/b5qUR29.png" group-title="BRASIL",BR: Band Sports&name=SKY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13933.ts&name=SKY
+#EXTINF:-1 tvg-id="Boomerang (BR)" tvg-name="BR: Boomerang" tvg-logo="http://i.imgur.com/9f75DdK.png" group-title="BRASIL",BR: Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/260.ts&name=SKY
+#EXTINF:-1 tvg-id="Boomerang (BR)" tvg-name="BR: Boomerang HD" tvg-logo="http://i.imgur.com/9f75DdK.png" group-title="BRASIL",BR: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9730.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN International" tvg-logo="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/CNN.png" group-title="BRASIL",BR: CNN International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/11724.ts&name=SKY
+#EXTINF:-1 tvg-id="Canal Brasil (BR)" tvg-name="BR: Canal Brasil" tvg-logo="http://i.imgur.com/4xSIeZS.png" group-title="BRASIL",BR: Canal Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4064.ts&name=SKY
+#EXTINF:-1 tvg-id="Sony (BR)" tvg-name="BR: Canal Sony" tvg-logo="http://i.imgur.com/Pvt3u8W.png" group-title="BRASIL",BR: Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/259.ts&name=SKY
+#EXTINF:-1 tvg-id="Sony (BR)" tvg-name="BR: Canal Sony HD" tvg-logo="http://i.imgur.com/Pvt3u8W.png" group-title="BRASIL",BR: Canal Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/157.ts&name=SKY
+#EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="BR: Cartoon Network" tvg-logo="http://i.imgur.com/Atdjaeq.png" group-title="BRASIL",BR: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/258.ts&name=SKY
+#EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="BR: Cartoon Network HD" tvg-logo="http://i.imgur.com/Atdjaeq.png" group-title="BRASIL",BR: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/12393.ts&name=SKY
+#EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="BR: Cartoon Network FHD" tvg-logo="http://i.imgur.com/Atdjaeq.png" group-title="BRASIL",BR: Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/238.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine Sky" tvg-logo="https://sky.spotlight.agilesvcs.com/v1/proxy?image=http://sky-123-storage.s3.amazonaws.com:80/IMAGES/00/00/05/58955_6C710DE13C78327A.png?AWSAccessKeyId=AKIAIIK5T7YRRS4JO2DQ&Expires=1517035026&Signature=r08XYabyIeW0onEFUZIXz8Qj5qU%3D" group-title="BRASIL",BR: Cine Sky
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9725.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine+" tvg-logo="http://i.imgur.com/4pROafv.png" group-title="BRASIL",BR: Cine+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9728.ts&name=SKY
+#EXTINF:-1 tvg-id="Cinemax (BR)" tvg-name="BR: Cinemax" tvg-logo="http://i.imgur.com/SRbgJ3I.png" group-title="BRASIL",BR: Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/257.ts&name=SKY
+#EXTINF:-1 tvg-id="Cinemax (BR)" tvg-name="BR: Cinemax HD" tvg-logo="http://i.imgur.com/SRbgJ3I.png" group-title="BRASIL",BR: Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/156.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Classique TV" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="BRASIL",BR: Classique TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9727.ts&name=SKY
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="BR: Combate" tvg-logo="http://i.imgur.com/XdA8I3D.png" group-title="BRASIL",BR: Combate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/255.ts&name=SKY
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="BR: Combate HD" tvg-logo="http://i.imgur.com/XdA8I3D.png" group-title="BRASIL",BR: Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/155.ts&name=SKY
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="BR: Combate FHD" tvg-logo="http://i.imgur.com/XdA8I3D.png" group-title="BRASIL",BR: Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9718.ts&name=SKY
+#EXTINF:-1 tvg-id="Comedy Central (BR)" tvg-name="BR: Comedy Central" tvg-logo="http://i.imgur.com/oJsWyZP.png" group-title="BRASIL",BR: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/256.ts&name=SKY
+#EXTINF:-1 tvg-id="Comedy Central (BR)" tvg-name="BR: Comedy Central HD" tvg-logo="http://i.imgur.com/oJsWyZP.png" group-title="BRASIL",BR: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13934.ts&name=SKY
+#EXTINF:-1 tvg-id="Canal Rural (BR)" tvg-name="BR: Canal Rural" tvg-logo="http://static.canalrural.com.br/img/logo-cr-degrade.png" group-title="BRASIL",BR: Canal Rural
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15213.ts&name=SKY
+#EXTINF:-1 tvg-id="CNT (BR)" tvg-name="BR: CNT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="BRASIL",BR: CNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15212.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="BR: Discovery Channel" tvg-logo="http://i.imgur.com/kpeMjrn.png" group-title="BRASIL",BR: Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/254.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="BR: Discovery Channel HD" tvg-logo="http://i.imgur.com/kpeMjrn.png" group-title="BRASIL",BR: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/154.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Civilization (BR)" tvg-name="BR: Discovery Civilization" tvg-logo="http://i.imgur.com/6QWNgkA.png" group-title="BRASIL",BR: Discovery Civilization
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/253.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Civilization (BR)" tvg-name="BR: Discovery Civilization HD" tvg-logo="http://i.imgur.com/6QWNgkA.png" group-title="BRASIL",BR: Discovery Civilization HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13935.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery HeH (BR)" tvg-name="BR: Discovery H&H" tvg-logo="http://i.imgur.com/KupmhOn.png" group-title="BRASIL",BR: Discovery H&H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/252.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery HeH (BR)" tvg-name="BR: Discovery H&H HD" tvg-logo="http://i.imgur.com/KupmhOn.png" group-title="BRASIL",BR: Discovery H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/153.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="BR: Discovery Kids" tvg-logo="http://i.imgur.com/s72KT0S.png" group-title="BRASIL",BR: Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/250.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="BR: Discovery Kids HD" tvg-logo="http://i.imgur.com/s72KT0S.png" group-title="BRASIL",BR: Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/152.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Science (BR)" tvg-name="BR: Discovery Science" tvg-logo="http://i.imgur.com/YdkGsFd.png" group-title="BRASIL",BR: Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/249.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Science (BR)" tvg-name="BR: Discovery Science HD" tvg-logo="http://i.imgur.com/YdkGsFd.png" group-title="BRASIL",BR: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14322.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Theater (BR)" tvg-name="BR: Discovery Theater" tvg-logo="http://i.imgur.com/7cpMSh3.png" group-title="BRASIL",BR: Discovery Theater
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/149.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Theater (BR)" tvg-name="BR: Discovery Theater HD" tvg-logo="http://i.imgur.com/7cpMSh3.png" group-title="BRASIL",BR: Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14323.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="BR: Discovery Turbo" tvg-logo="http://i.imgur.com/ze1DDtI.png" group-title="BRASIL",BR: Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/248.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="BR: Discovery Turbo HD" tvg-logo="http://i.imgur.com/ze1DDtI.png" group-title="BRASIL",BR: Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/151.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery World (BR)" tvg-name="BR: Discovery World" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20151128162116" group-title="BRASIL",BR: Discovery World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14324.ts&name=SKY
+#EXTINF:-1 tvg-id="Discovery World (BR)" tvg-name="BR: Discovery World HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20151128162116" group-title="BRASIL",BR: Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9737.ts&name=SKY
+#EXTINF:-1 tvg-id="Disney (BR)" tvg-name="BR: Disney Channel" tvg-logo="http://i.imgur.com/qJw7vBW.png" group-title="BRASIL",BR: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/245.ts&name=SKY
+#EXTINF:-1 tvg-id="Disney (BR)" tvg-name="BR: Disney Channel HD" tvg-logo="http://i.imgur.com/qJw7vBW.png" group-title="BRASIL",BR: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/150.ts&name=SKY
+#EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="BR: Disney Junior" tvg-logo="http://i.imgur.com/4dzzQ0t.png" group-title="BRASIL",BR: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/247.ts&name=SKY
+#EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="BR: Disney Junior HD" tvg-logo="http://i.imgur.com/4dzzQ0t.png" group-title="BRASIL",BR: Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9729.ts&name=SKY
+#EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="BR: Disney XD" tvg-logo="http://i.imgur.com/scusEOY.png" group-title="BRASIL",BR: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/246.ts&name=SKY
+#EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="BR: Disney XD HD" tvg-logo="http://i.imgur.com/scusEOY.png" group-title="BRASIL",BR: Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14325.ts&name=SKY
+#EXTINF:-1 tvg-id="E! (BR)" tvg-name="BR: E!" tvg-logo="http://i.imgur.com/DfsBEFp.png" group-title="BRASIL",BR: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/239.ts&name=SKY
+#EXTINF:-1 tvg-id="E! (BR)" tvg-name="BR: E! HD" tvg-logo="http://i.imgur.com/DfsBEFp.png" group-title="BRASIL",BR: E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/148.ts&name=SKY
+#EXTINF:-1 tvg-id="EI Maxx (BR)" tvg-name="BR: EI Maxx" tvg-logo="http://i.imgur.com/RQeAETn.png" group-title="BRASIL",BR: EI Maxx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/243.ts&name=SKY
+#EXTINF:-1 tvg-id="EI Maxx (BR)" tvg-name="BR: EI Maxx HD" tvg-logo="http://i.imgur.com/RQeAETn.png" group-title="BRASIL",BR: EI Maxx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/146.ts&name=SKY
+#EXTINF:-1 tvg-id="EI Maxx 2 (BR)" tvg-name="BR: EI Maxx 2" tvg-logo="http://i.imgur.com/wZBpdkT.png" group-title="BRASIL",BR: EI Maxx 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/244.ts&name=SKY
+#EXTINF:-1 tvg-id="EI Maxx 2 (BR)" tvg-name="BR: EI Maxx 2 HD" tvg-logo="http://i.imgur.com/wZBpdkT.png" group-title="BRASIL",BR: EI Maxx 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/147.ts&name=SKY
+#EXTINF:-1 tvg-id="ESPN (BR)" tvg-name="BR: ESPN" tvg-logo="http://i.imgur.com/sKlYruT.png" group-title="BRASIL",BR: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5298.ts&name=SKY
+#EXTINF:-1 tvg-id="ESPN (BR)" tvg-name="BR: ESPN HD" tvg-logo="http://i.imgur.com/sKlYruT.png" group-title="BRASIL",BR: ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/145.ts&name=SKY
+#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="BR: ESPN Brasil" tvg-logo="http://i.imgur.com/zBxXVNi.png" group-title="BRASIL",BR: ESPN Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/241.ts&name=SKY
+#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="BR: ESPN Brasil HD" tvg-logo="http://i.imgur.com/zBxXVNi.png" group-title="BRASIL",BR: ESPN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5534.ts&name=SKY
+#EXTINF:-1 tvg-id="ESPN mais (BR)" tvg-name="BR: ESPN+" tvg-logo="http://i.imgur.com/gRwI1do.png" group-title="BRASIL",BR: ESPN+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5449.ts&name=SKY
+#EXTINF:-1 tvg-id="ESPN mais (BR)" tvg-name="BR: ESPN+ HD" tvg-logo="http://i.imgur.com/gRwI1do.png" group-title="BRASIL",BR: ESPN+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/144.ts&name=SKY
+#EXTINF:-1 tvg-id="Esporte Interativo (BR)" tvg-name="BR: Esporte Interativo" tvg-logo="http://i.imgur.com/3cjqIwe.png" group-title="BRASIL",BR: Esporte Interativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4065.ts&name=SKY
+#EXTINF:-1 tvg-id="Esporte Interativo (BR)" tvg-name="BR: Esporte Interativo HD" tvg-logo="http://i.imgur.com/3cjqIwe.png" group-title="BRASIL",BR: Esporte Interativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/12883.ts&name=SKY
+#EXTINF:-1 tvg-id="Esporte Interativo 2 (BR)" tvg-name="BR: Esporte Interativo 2" tvg-logo="http://i.imgur.com/3cjqIwe.png" group-title="BRASIL",BR: Esporte Interativo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4057.ts&name=SKY
+#EXTINF:-1 tvg-id="Esporte Interativo 2 (BR)" tvg-name="BR: Esporte Interativo 2 HD" tvg-logo="http://i.imgur.com/3cjqIwe.png" group-title="BRASIL",BR: Esporte Interativo 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/12884.ts&name=SKY
+#EXTINF:-1 tvg-id="FX (BR)" tvg-name="BR: FX" tvg-logo="http://i.imgur.com/u4AkCcB.png" group-title="BRASIL",BR: FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/234.ts&name=SKY
+#EXTINF:-1 tvg-id="FX (BR)" tvg-name="BR: FX HD" tvg-logo="http://i.imgur.com/u4AkCcB.png" group-title="BRASIL",BR: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/136.ts&name=SKY
+#EXTINF:-1 tvg-id="Fish TV (BR)" tvg-name="BR: Fish TV" tvg-logo="http://i.imgur.com/wgAu38b.png" group-title="BRASIL",BR: Fish TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5451.ts&name=SKY
+#EXTINF:-1 tvg-id="Food Network (BR)" tvg-name="BR: Food Network" tvg-logo="http://i.imgur.com/8usMt92.png" group-title="BRASIL",BR: Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14326.ts&name=SKY
+#EXTINF:-1 tvg-id="Food Network (BR)" tvg-name="BR: Food Network HD" tvg-logo="http://i.imgur.com/8usMt92.png" group-title="BRASIL",BR: Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/140.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox (BR)" tvg-name="BR: Fox" tvg-logo="http://i.imgur.com/AK0dBI3.png" group-title="BRASIL",BR: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/235.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox (BR)" tvg-name="BR: Fox HD" tvg-logo="http://i.imgur.com/AK0dBI3.png" group-title="BRASIL",BR: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/137.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Life (BR)" tvg-name="BR: Fox Life" tvg-logo="http://i.imgur.com/apSexu7.png" group-title="BRASIL",BR: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/233.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Life (BR)" tvg-name="BR: Fox Life HD" tvg-logo="http://i.imgur.com/apSexu7.png" group-title="BRASIL",BR: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14327.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Premium 1 (BR)" tvg-name="BR: Fox Premium 1" tvg-logo="http://i.imgur.com/vbNjYEf.png" group-title="BRASIL",BR: Fox Premium 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14328.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Premium 1 (BR)" tvg-name="BR: Fox Premium 1 HD" tvg-logo="http://i.imgur.com/vbNjYEf.png" group-title="BRASIL",BR: Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/139.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Premium 2 (BR)" tvg-name="BR: Fox Premium 2" tvg-logo="http://i.imgur.com/oexD2x1.png" group-title="BRASIL",BR: Fox Premium 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14329.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Premium 2 (BR)" tvg-name="BR: Fox Premium 2 HD" tvg-logo="http://i.imgur.com/oexD2x1.png" group-title="BRASIL",BR: Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/138.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY (BR)" tvg-name="BR: Fox Sports&name=SKY" tvg-logo="http://i.imgur.com/M43jIxS.png" group-title="BRASIL",BR: Fox Sports&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/236.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY (BR)" tvg-name="BR: Fox Sports&name=SKY HD" tvg-logo="http://i.imgur.com/M43jIxS.png" group-title="BRASIL",BR: Fox Sports&name=SKY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/142.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY 2 (BR)" tvg-name="BR: Fox Sports&name=SKY 2" tvg-logo="http://i.imgur.com/wBmr2h6.png" group-title="BRASIL",BR: Fox Sports&name=SKY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/237.ts&name=SKY
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY 2 (BR)" tvg-name="BR: Fox Sports&name=SKY 2 HD" tvg-logo="http://i.imgur.com/wBmr2h6.png" group-title="BRASIL",BR: Fox Sports&name=SKY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/141.ts&name=SKY
+#EXTINF:-1 tvg-id="Futura (BR)" tvg-name="BR: Futura" tvg-logo="http://i.imgur.com/CLNJ5h7.png" group-title="BRASIL",BR: Futura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4056.ts&name=SKY
+#EXTINF:-1 tvg-id="Futura (BR)" tvg-name="BR: Futura HD" tvg-logo="http://i.imgur.com/CLNJ5h7.png" group-title="BRASIL",BR: Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14330.ts&name=SKY
+#EXTINF:-1 tvg-id="GNT (BR)" tvg-name="BR: GNT" tvg-logo="http://i.imgur.com/LIZDZMI.png" group-title="BRASIL",BR: GNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4059.ts&name=SKY
+#EXTINF:-1 tvg-id="GNT (BR)" tvg-name="BR: GNT HD" tvg-logo="http://i.imgur.com/LIZDZMI.png" group-title="BRASIL",BR: GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/132.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Amazonas" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Amazonas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13923.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Anhanguera Goiania" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Anhanguera Goiania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13924.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo BA (BR)" tvg-name="BR: Globo Bahia HD" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/12394.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo DF (BR)" tvg-name="BR: Globo Brasilia" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Brasilia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5458.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Cuiaba" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Cuiaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13925.ts&name=SKY
+#EXTINF:-1 tvg-id="EPTV Campinas (BR)" tvg-name="BR: Globo EPTV Campinas" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5520.ts&name=SKY
+#EXTINF:-1 tvg-id="EPTV Campinas (BR)" tvg-name="BR: Globo EPTV Campinas HD" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13931.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Ribeirão Preto" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo EPTV Ribeirão Preto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13920.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV São Carlos" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo EPTV São Carlos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13921.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo MG (BR)" tvg-name="BR: Globo MG" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo MG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5316.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo MG (BR)" tvg-name="BR: Globo MG HD" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5456.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo MG (BR)" tvg-name="BR: Globo MG FHD" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9719.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo Nordeste (BR)" tvg-name="BR: Globo Nordeste" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Nordeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9683.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo Nordeste (BR)" tvg-name="BR: Globo Nordeste HD" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9684.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="BR: Globo RJ" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5300.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="BR: Globo RJ HD" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5292.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="BR: Globo RJ HD H265" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo RJ HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/11652.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rio Preto" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Rio Preto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5496.ts&name=SKY
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre (BR)" tvg-name="BR: Globo RBS Porto Alegre" tvg-logo="http://i.imgur.com/kcvgITM.png" group-title="BRASIL",BR: Globo RBS Porto Alegre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/195.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="BR: Globo SP" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5299.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="BR: Globo SP HD" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5319.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="BR: Globo SP HD H265" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo SP HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/12882.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Belem" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Tv Belem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13926.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Cabugi" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Tv Cabugi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13922.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Tem Bauru" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Tv Tem Bauru
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13927.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Tem Sorocaba" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Tv Tem Sorocaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13928.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Tribuna Santos" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Tv Tribuna Santos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9738.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Vanguarda S.J dos Campos" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Tv Vanguarda S.J dos Campos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13929.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Verdes Mares Fortaleza" tvg-logo="http://i.imgur.com/aZP2nIU.png" group-title="BRASIL",BR: Globo Tv Verdes Mares Fortaleza
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13930.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo News (BR)" tvg-name="BR: Globo News" tvg-logo="http://i.imgur.com/3xu3cFN.png" group-title="BRASIL",BR: Globo News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/226.ts&name=SKY
+#EXTINF:-1 tvg-id="Globo News (BR)" tvg-name="BR: Globo News HD" tvg-logo="http://i.imgur.com/3xu3cFN.png" group-title="BRASIL",BR: Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/227.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gospel Cartoon TV" tvg-logo="https://3.bp.blogspot.com/-J5IJTE0DdtY/WjXsl2oTxNI/AAAAAAAAAyA/Api502YaB_QbAOm9LqYZU8o98VDPvgsSgCLcBGAs/s280-c/assistir-gospel-cartoon-online.png" group-title="BRASIL",BR: Gospel Cartoon TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15223.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gospel Movies TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="BRASIL",BR: Gospel Movies TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15222.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gospel Music TV" tvg-logo="https://pbs.twimg.com/profile_images/684008126199246848/X-JlkPN0_400x400.png" group-title="BRASIL",BR: Gospel Music TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15221.ts&name=SKY
+#EXTINF:-1 tvg-id="Mais Globosat (BR)" tvg-name="BR: Globosat +" tvg-logo="http://i.imgur.com/FX6drX4.png" group-title="BRASIL",BR: Globosat +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14331.ts&name=SKY
+#EXTINF:-1 tvg-id="Mais Globosat (BR)" tvg-name="BR: Globosat + HD" tvg-logo="http://i.imgur.com/FX6drX4.png" group-title="BRASIL",BR: Globosat + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5320.ts&name=SKY
+#EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="BR: Gloob" tvg-logo="http://i.imgur.com/K8ltp7V.png" group-title="BRASIL",BR: Gloob
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4058.ts&name=SKY
+#EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="BR: Gloob HD" tvg-logo="http://i.imgur.com/K8ltp7V.png" group-title="BRASIL",BR: Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/133.ts&name=SKY
+#EXTINF:-1 tvg-id="H2 (BR)" tvg-name="BR: H2" tvg-logo="http://i.imgur.com/OUpTooU.png" group-title="BRASIL",BR: H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/219.ts&name=SKY
+#EXTINF:-1 tvg-id="H2 (BR)" tvg-name="BR: H2 HD" tvg-logo="http://i.imgur.com/OUpTooU.png" group-title="BRASIL",BR: H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/127.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO (BR)" tvg-name="BR: HBO" tvg-logo="http://i.imgur.com/1Rm1h6B.png" group-title="BRASIL",BR: HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/221.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO (BR)" tvg-name="BR: HBO HD" tvg-logo="http://i.imgur.com/1Rm1h6B.png" group-title="BRASIL",BR: HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/131.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO 2 (BR)" tvg-name="BR: HBO 2" tvg-logo="http://i.imgur.com/Pi4Qt8V.png" group-title="BRASIL",BR: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/220.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO 2 (BR)" tvg-name="BR: HBO 2 HD" tvg-logo="http://i.imgur.com/Pi4Qt8V.png" group-title="BRASIL",BR: HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/130.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Family (BR)" tvg-name="BR: HBO Family" tvg-logo="http://i.imgur.com/twUU3I4.png" group-title="BRASIL",BR: HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/225.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Family (BR)" tvg-name="BR: HBO Family HD" tvg-logo="http://i.imgur.com/twUU3I4.png" group-title="BRASIL",BR: HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/128.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Plus (BR)" tvg-name="BR: HBO Plus" tvg-logo="http://i.imgur.com/HRjcCRc.png" group-title="BRASIL",BR: HBO Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/11653.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Plus (BR)" tvg-name="BR: HBO Plus HD" tvg-logo="http://i.imgur.com/HRjcCRc.png" group-title="BRASIL",BR: HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/129.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Plus*e (BR)" tvg-name="BR: HBO Plus*e" tvg-logo="http://i.imgur.com/HRjcCRc.png" group-title="BRASIL",BR: HBO Plus*e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/223.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Plus*e (BR)" tvg-name="BR: HBO Plus*e HD" tvg-logo="http://i.imgur.com/HRjcCRc.png" group-title="BRASIL",BR: HBO Plus*e HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14332.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Signature (BR)" tvg-name="BR: HBO Signature" tvg-logo="http://i.imgur.com/8oYRQ43.png" group-title="BRASIL",BR: HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/222.ts&name=SKY
+#EXTINF:-1 tvg-id="HBO Signature (BR)" tvg-name="BR: HBO Signature HD" tvg-logo="http://i.imgur.com/8oYRQ43.png" group-title="BRASIL",BR: HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4072.ts&name=SKY
+#EXTINF:-1 tvg-id="History Channel" tvg-name="BR: History Channel" tvg-logo="http://i.imgur.com/6e27PMv.png" group-title="BRASIL",BR: History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/179.ts&name=SKY
+#EXTINF:-1 tvg-id="History Channel" tvg-name="BR: History Channel HD" tvg-logo="http://i.imgur.com/6e27PMv.png" group-title="BRASIL",BR: History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/126.ts&name=SKY
+#EXTINF:-1 tvg-id="I Sat (BR)" tvg-name="BR: I-Sat" tvg-logo="http://images.mi.tv/channels/br_i-sat_m.png" group-title="BRASIL",BR: I-Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15214.ts&name=SKY
+#EXTINF:-1 tvg-id="ID - Investigação Discovery (BR)" tvg-name="BR: Investigação Discovery" tvg-logo="http://i.imgur.com/cJKZAWO.png" group-title="BRASIL",BR: Investigação Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/251.ts&name=SKY
+#EXTINF:-1 tvg-id="ID - Investigação Discovery (BR)" tvg-name="BR: Investigação Discovery HD" tvg-logo="http://i.imgur.com/cJKZAWO.png" group-title="BRASIL",BR: Investigação Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/125.ts&name=SKY
+#EXTINF:-1 tvg-id="Lifetime (BR)" tvg-name="BR: Lifetime" tvg-logo="http://i.imgur.com/BI9Ldrh.png" group-title="BRASIL",BR: Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14333.ts&name=SKY
+#EXTINF:-1 tvg-id="Lifetime (BR)" tvg-name="BR: Lifetime HD" tvg-logo="http://i.imgur.com/BI9Ldrh.png" group-title="BRASIL",BR: Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/124.ts&name=SKY
+#EXTINF:-1 tvg-id="MTV (BR)" tvg-name="BR: MTV" tvg-logo="http://i.imgur.com/wNvqkOM.png" group-title="BRASIL",BR: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/214.ts&name=SKY
+#EXTINF:-1 tvg-id="MTV (BR)" tvg-name="BR: MTV HD" tvg-logo="http://i.imgur.com/wNvqkOM.png" group-title="BRASIL",BR: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/121.ts&name=SKY
+#EXTINF:-1 tvg-id="Max (BR)" tvg-name="BR: Max" tvg-logo="http://i.imgur.com/wPcVBD0.png" group-title="BRASIL",BR: Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/216.ts&name=SKY
+#EXTINF:-1 tvg-id="Max (BR)" tvg-name="BR: Max HD" tvg-logo="http://i.imgur.com/wPcVBD0.png" group-title="BRASIL",BR: Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14334.ts&name=SKY
+#EXTINF:-1 tvg-id="Max Prime (BR)" tvg-name="BR: Max Prime" tvg-logo="http://i.imgur.com/owdCgSP.png" group-title="BRASIL",BR: Max Prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/218.ts&name=SKY
+#EXTINF:-1 tvg-id="Max Prime (BR)" tvg-name="BR: Max Prime HD" tvg-logo="http://i.imgur.com/owdCgSP.png" group-title="BRASIL",BR: Max Prime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/123.ts&name=SKY
+#EXTINF:-1 tvg-id="MAX Prime*e (BR)" tvg-name="BR: Max Prime*e" tvg-logo="https://i0.wp.com/www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="BRASIL",BR: Max Prime*e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14336.ts&name=SKY
+#EXTINF:-1 tvg-id="MAX Prime*e (BR)" tvg-name="BR: Max Prime*e HD" tvg-logo="https://i0.wp.com/www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="BRASIL",BR: Max Prime*e HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14337.ts&name=SKY
+#EXTINF:-1 tvg-id="MAX UP (BR)" tvg-name="BR: Max Up" tvg-logo="http://i.imgur.com/ppe3Ow7.png" group-title="BRASIL",BR: Max Up
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/217.ts&name=SKY
+#EXTINF:-1 tvg-id="MAX UP (BR)" tvg-name="BR: Max Up HD" tvg-logo="http://i.imgur.com/ppe3Ow7.png" group-title="BRASIL",BR: Max Up HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14335.ts&name=SKY
+#EXTINF:-1 tvg-id="Megapix (BR)" tvg-name="BR: Megapix" tvg-logo="http://i.imgur.com/UTMyzRE.png" group-title="BRASIL",BR: Megapix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/215.ts&name=SKY
+#EXTINF:-1 tvg-id="Megapix (BR)" tvg-name="BR: Megapix HD" tvg-logo="http://i.imgur.com/UTMyzRE.png" group-title="BRASIL",BR: Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/122.ts&name=SKY
+#EXTINF:-1 tvg-id="Multishow (BR)" tvg-name="BR: Multishow" tvg-logo="http://i.imgur.com/kQwiSJF.png" group-title="BRASIL",BR: Multishow
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/213.ts&name=SKY
+#EXTINF:-1 tvg-id="Multishow (BR)" tvg-name="BR: Multishow HD" tvg-logo="http://i.imgur.com/kQwiSJF.png" group-title="BRASIL",BR: Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/120.ts&name=SKY
+#EXTINF:-1 tvg-id="Music Box Brazil (BR)" tvg-name="BR: Music Box Brazil" tvg-logo="http://i.imgur.com/O1jqavN.png" group-title="BRASIL",BR: Music Box Brazil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/212.ts&name=SKY
+#EXTINF:-1 tvg-id="NatGeo Kids (BR)" tvg-name="BR: NatGeo Kids" tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/national-geographic-kids-vector-logo-200x200.png" group-title="BRASIL",BR: NatGeo Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5531.ts&name=SKY
+#EXTINF:-1 tvg-id="NatGeo Kids (BR)" tvg-name="BR: NatGeo Kids HD" tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/national-geographic-kids-vector-logo-200x200.png" group-title="BRASIL",BR: NatGeo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14338.ts&name=SKY
+#EXTINF:-1 tvg-id="National Geographic Wild (BR)" tvg-name="BR: NatGeo Wild" tvg-logo="http://i.imgur.com/emG4pHK.png" group-title="BRASIL",BR: NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/211.ts&name=SKY
+#EXTINF:-1 tvg-id="National Geographic Wild (BR)" tvg-name="BR: NatGeo Wild HD" tvg-logo="http://i.imgur.com/emG4pHK.png" group-title="BRASIL",BR: NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/118.ts&name=SKY
+#EXTINF:-1 tvg-id="National Geographic (BR)" tvg-name="BR: National Geographic" tvg-logo="http://i.imgur.com/Jx7AFvA.png" group-title="BRASIL",BR: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/210.ts&name=SKY
+#EXTINF:-1 tvg-id="National Geographic (BR)" tvg-name="BR: National Geographic HD" tvg-logo="http://i.imgur.com/Jx7AFvA.png" group-title="BRASIL",BR: National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/119.ts&name=SKY
+#EXTINF:-1 tvg-id="Nick Jr (BR)" tvg-name="BR: Nick Jr" tvg-logo="http://images.nickjr.com/nickjr-assets&name=SKY/nickjr-web/assets&name=SKY/common/nickjr-logo-200x200.png?quality=0.75" group-title="BRASIL",BR: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/209.ts&name=SKY
+#EXTINF:-1 tvg-id="Nick Jr (BR)" tvg-name="BR: Nick Jr HD" tvg-logo="http://images.nickjr.com/nickjr-assets&name=SKY/nickjr-web/assets&name=SKY/common/nickjr-logo-200x200.png?quality=0.75" group-title="BRASIL",BR: Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/208.ts&name=SKY
+#EXTINF:-1 tvg-id="Nickelodeon (BR)" tvg-name="BR: Nickelodeon" tvg-logo="http://i.imgur.com/SDMtV91.png" group-title="BRASIL",BR: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9734.ts&name=SKY
+#EXTINF:-1 tvg-id="Nickelodeon (BR)" tvg-name="BR: Nickelodeon HD" tvg-logo="http://i.imgur.com/SDMtV91.png" group-title="BRASIL",BR: Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14339.ts&name=SKY
+#EXTINF:-1 tvg-id="NBR (BR)" tvg-name="BR: NBR" tvg-logo="http://images.mi.tv/channels/br_nbr_m.png" group-title="BRASIL",BR: NBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15215.ts&name=SKY
+#EXTINF:-1 tvg-id="Novo Tempo (BR)" tvg-name="BR: Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="BRASIL",BR: Novo Tempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15219.ts&name=SKY
+#EXTINF:-1 tvg-id="OFF (BR)" tvg-name="BR: OFF" tvg-logo="http://i.imgur.com/6FAkXm9.png" group-title="BRASIL",BR: OFF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14340.ts&name=SKY
+#EXTINF:-1 tvg-id="OFF (BR)" tvg-name="BR: OFF HD" tvg-logo="http://i.imgur.com/6FAkXm9.png" group-title="BRASIL",BR: OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/117.ts&name=SKY
+#EXTINF:-1 tvg-id="Paramount (BR)" tvg-name="BR: Paramount" tvg-logo="http://i.imgur.com/FpFl4zU.png" group-title="BRASIL",BR: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/207.ts&name=SKY
+#EXTINF:-1 tvg-id="Paramount (BR)" tvg-name="BR: Paramount HD" tvg-logo="http://i.imgur.com/FpFl4zU.png" group-title="BRASIL",BR: Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/109.ts&name=SKY
+#EXTINF:-1 tvg-id="Play TV (BR)" tvg-name="BR: Play TV" tvg-logo="http://playtv.com.br/cdn/images/logo_playtv.png" group-title="BRASIL",BR: Play TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/11725.ts&name=SKY
+#EXTINF:-1 tvg-id="Polishop TV (BR)" tvg-name="BR: Polishop Tv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="BRASIL",BR: Polishop Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15216.ts&name=SKY
+#EXTINF:-1 tvg-id="PFC (BR)" tvg-name="BR: Premiere 1" tvg-logo="http://i.imgur.com/kvmx029.png" group-title="BRASIL",BR: Premiere 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/206.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 2 (BR)" tvg-name="BR: Premiere 2" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/204.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 2 (BR)" tvg-name="BR: Premiere 2 HD" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/10872.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="BR: Premiere 3" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/203.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="BR: Premiere 3 HD" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/112.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="BR: Premiere 4" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/202.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="BR: Premiere 4 HD" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/10873.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 5 (BR)" tvg-name="BR: Premiere 5" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/201.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 5 (BR)" tvg-name="BR: Premiere 5 HD" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/10874.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 6 (BR)" tvg-name="BR: Premiere 6" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/200.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 7 (BR)" tvg-name="BR: Premiere 7" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/199.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere 8 (BR)" tvg-name="BR: Premiere 8" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/198.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 9" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/197.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="BR: Premiere Clubes" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere Clubes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/196.ts&name=SKY
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="BR: Premiere Clubes HD" tvg-logo="http://i.imgur.com/hdfe1Ms.png" group-title="BRASIL",BR: Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/11660.ts&name=SKY
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="BR: Record" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="BRASIL",BR: Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/193.ts&name=SKY
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="BR: Record HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="BRASIL",BR: Record HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/116.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record FHD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="BRASIL",BR: Record FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9722.ts&name=SKY
+#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="BR: Record News" tvg-logo="http://i.imgur.com/cjzvVHv.png" group-title="BRASIL",BR: Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/194.ts&name=SKY
+#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="BR: Record News HD" tvg-logo="http://i.imgur.com/cjzvVHv.png" group-title="BRASIL",BR: Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/115.ts&name=SKY
+#EXTINF:-1 tvg-id="Rede TV (BR)" tvg-name="BR: Rede TV" tvg-logo="http://i.imgur.com/aPKCwi8.png" group-title="BRASIL",BR: Rede TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4060.ts&name=SKY
+#EXTINF:-1 tvg-id="Rede TV (BR)" tvg-name="BR: Rede TV HD" tvg-logo="http://i.imgur.com/aPKCwi8.png" group-title="BRASIL",BR: Rede TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14342.ts&name=SKY
+#EXTINF:-1 tvg-id="Rede Vida (BR)" tvg-name="BR: Rede Vida" tvg-logo="https://i.imgur.com/eyD9aoc.png" group-title="BRASIL",BR: Rede Vida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5321.ts&name=SKY
+#EXTINF:-1 tvg-id="Rede Vida (BR)" tvg-name="BR: Rede Vida HD" tvg-logo="https://i.imgur.com/eyD9aoc.png" group-title="BRASIL",BR: Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14341.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rit Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="BRASIL",BR: Rit Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13939.ts&name=SKY
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="BR: SBT" tvg-logo="http://i.imgur.com/XPRHraS.png" group-title="BRASIL",BR: SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/192.ts&name=SKY
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="BR: SBT HD" tvg-logo="http://i.imgur.com/XPRHraS.png" group-title="BRASIL",BR: SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/105.ts&name=SKY
+#EXTINF:-1 tvg-id="Space (BR)" tvg-name="BR: Space" tvg-logo="http://i.imgur.com/eUQPQpA.png" group-title="BRASIL",BR: Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/186.ts&name=SKY
+#EXTINF:-1 tvg-id="Space (BR)" tvg-name="BR: Space HD" tvg-logo="http://i.imgur.com/eUQPQpA.png" group-title="BRASIL",BR: Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4073.ts&name=SKY
+#EXTINF:-1 tvg-id="SporTV (BR)" tvg-name="BR: SporTV" tvg-logo="http://i.imgur.com/cstJhEo.png" group-title="BRASIL",BR: SporTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5414.ts&name=SKY
+#EXTINF:-1 tvg-id="SporTV (BR)" tvg-name="BR: SporTV HD" tvg-logo="http://i.imgur.com/cstJhEo.png" group-title="BRASIL",BR: SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5413.ts&name=SKY
+#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="BR: SporTV 2" tvg-logo="https://i.imgur.com/MEcK58G.png" group-title="BRASIL",BR: SporTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5412.ts&name=SKY
+#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="BR: SporTV 2 HD" tvg-logo="https://i.imgur.com/MEcK58G.png" group-title="BRASIL",BR: SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5450.ts&name=SKY
+#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="BR: SporTV 3" tvg-logo="http://i.imgur.com/SHnaJSf.png" group-title="BRASIL",BR: SporTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5411.ts&name=SKY
+#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="BR: SporTV 3 HD" tvg-logo="http://i.imgur.com/SHnaJSf.png" group-title="BRASIL",BR: SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/106.ts&name=SKY
+#EXTINF:-1 tvg-id="Studio Universal (BR)" tvg-name="BR: Studio Universal" tvg-logo="http://i.imgur.com/EXY5fHG.png" group-title="BRASIL",BR: Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/185.ts&name=SKY
+#EXTINF:-1 tvg-id="Studio Universal (BR)" tvg-name="BR: Studio Universal HD" tvg-logo="http://i.imgur.com/EXY5fHG.png" group-title="BRASIL",BR: Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9733.ts&name=SKY
+#EXTINF:-1 tvg-id="Syfy (BR)" tvg-name="BR: SyFy" tvg-logo="http://i.imgur.com/0YeoIkN.png" group-title="BRASIL",BR: SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4055.ts&name=SKY
+#EXTINF:-1 tvg-id="Syfy (BR)" tvg-name="BR: SyFy HD" tvg-logo="http://i.imgur.com/0YeoIkN.png" group-title="BRASIL",BR: SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/5415.ts&name=SKY
+#EXTINF:-1 tvg-id="TBS (BR)" tvg-name="BR: TBS" tvg-logo="http://i.imgur.com/I0txDfB.png" group-title="BRASIL",BR: TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4061.ts&name=SKY
+#EXTINF:-1 tvg-id="TBS (BR)" tvg-name="BR: TBS HD" tvg-logo="http://i.imgur.com/I0txDfB.png" group-title="BRASIL",BR: TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9732.ts&name=SKY
+#EXTINF:-1 tvg-id="TCM (BR)" tvg-name="BR: TCM" tvg-logo="http://i.imgur.com/SiIg1NL.png" group-title="BRASIL",BR: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/174.ts&name=SKY
+#EXTINF:-1 tvg-id="TCM (BR)" tvg-name="BR: TCM HD" tvg-logo="http://i.imgur.com/SiIg1NL.png" group-title="BRASIL",BR: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14343.ts&name=SKY
+#EXTINF:-1 tvg-id="TLC (BR)" tvg-name="BR: TLC" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="BRASIL",BR: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4068.ts&name=SKY
+#EXTINF:-1 tvg-id="TLC (BR)" tvg-name="BR: TLC HD" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="BRASIL",BR: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/98.ts&name=SKY
+#EXTINF:-1 tvg-id="TNT (BR)" tvg-name="BR: TNT" tvg-logo="http://i.imgur.com/EeJ2B0I.png" group-title="BRASIL",BR: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/177.ts&name=SKY
+#EXTINF:-1 tvg-id="TNT (BR)" tvg-name="BR: TNT HD" tvg-logo="http://i.imgur.com/EeJ2B0I.png" group-title="BRASIL",BR: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/103.ts&name=SKY
+#EXTINF:-1 tvg-id="TNT Series (BR)" tvg-name="BR: TNT Séries" tvg-logo="http://i.imgur.com/Xge3yA9.png" group-title="BRASIL",BR: TNT Séries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/176.ts&name=SKY
+#EXTINF:-1 tvg-id="TNT Series (BR)" tvg-name="BR: TNT Séries HD" tvg-logo="http://i.imgur.com/Xge3yA9.png" group-title="BRASIL",BR: TNT Séries HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/97.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Premium (BR)" tvg-name="BR: Telecine Premium" tvg-logo="http://i.imgur.com/U0PNx5d.png" group-title="BRASIL",BR: Telecine Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/178.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Premium (BR)" tvg-name="BR: Telecine Premium HD" tvg-logo="http://i.imgur.com/U0PNx5d.png" group-title="BRASIL",BR: Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/102.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Action (BR)" tvg-name="BR: Telecine Action" tvg-logo="http://i.imgur.com/4FrBURQ.png" group-title="BRASIL",BR: Telecine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/184.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Action (BR)" tvg-name="BR: Telecine Action HD" tvg-logo="http://i.imgur.com/4FrBURQ.png" group-title="BRASIL",BR: Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/99.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Pipoca (BR)" tvg-name="BR: Telecine Pipoca" tvg-logo="http://i.imgur.com/mxV1tlX.png" group-title="BRASIL",BR: Telecine Pipoca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/181.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Pipoca (BR)" tvg-name="BR: Telecine Pipoca HD" tvg-logo="http://i.imgur.com/mxV1tlX.png" group-title="BRASIL",BR: Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4074.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Fun (BR)" tvg-name="BR: Telecine Fun" tvg-logo="http://i.imgur.com/MeGrKd4.png" group-title="BRASIL",BR: Telecine Fun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/182.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Fun (BR)" tvg-name="BR: Telecine Fun HD" tvg-logo="http://i.imgur.com/MeGrKd4.png" group-title="BRASIL",BR: Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/104.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Touch (BR)" tvg-name="BR: Telecine Touch" tvg-logo="http://i.imgur.com/LInEOpD.png" group-title="BRASIL",BR: Telecine Touch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/180.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Touch (BR)" tvg-name="BR: Telecine Touch HD" tvg-logo="http://i.imgur.com/LInEOpD.png" group-title="BRASIL",BR: Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/101.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Cult (BR)" tvg-name="BR: Telecine Cult" tvg-logo="http://i.imgur.com/xrn3k7Q.png" group-title="BRASIL",BR: Telecine Cult
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/183.ts&name=SKY
+#EXTINF:-1 tvg-id="Telecine Cult (BR)" tvg-name="BR: Telecine Cult HD" tvg-logo="http://i.imgur.com/xrn3k7Q.png" group-title="BRASIL",BR: Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/100.ts&name=SKY
+#EXTINF:-1 tvg-id="Tooncast (BR)" tvg-name="BR: Tooncast" tvg-logo="http://i.imgur.com/rMMpNnE.png" group-title="BRASIL",BR: Tooncast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/175.ts&name=SKY
+#EXTINF:-1 tvg-id="Tooncast (BR)" tvg-name="BR: Tooncast HD" tvg-logo="http://i.imgur.com/rMMpNnE.png" group-title="BRASIL",BR: Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14344.ts&name=SKY
+#EXTINF:-1 tvg-id="TruTV (BR)" tvg-name="BR: TruTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="BRASIL",BR: TruTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13607.ts&name=SKY
+#EXTINF:-1 tvg-id="TV Aparecida (BR)" tvg-name="BR: TV Aparecida" tvg-logo="http://www.npdbrasil.net.br/images/logo_tvapr.png" group-title="BRASIL",BR: TV Aparecida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/11730.ts&name=SKY
+#EXTINF:-1 tvg-id="TV Aparecida (BR)" tvg-name="BR: TV Aparecida HD" tvg-logo="http://www.npdbrasil.net.br/images/logo_tvapr.png" group-title="BRASIL",BR: TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14345.ts&name=SKY
+#EXTINF:-1 tvg-id="Terra Viva (BR)" tvg-name="BR: Terra Viva" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo-1.png" group-title="BRASIL",BR: Terra Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15217.ts&name=SKY
+#EXTINF:-1 tvg-id="TV Justica (BR)" tvg-name="BR: TV Justiça" tvg-logo="http://www.tvjustica.jus.br/imagens/logo02.PNG" group-title="BRASIL",BR: TV Justiça
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15218.ts&name=SKY
+#EXTINF:-1 tvg-id="TV Gazeta (BR)" tvg-name="BR: Tv Gazeta" tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2015/10/share-logo-tv-300x300.png" group-title="BRASIL",BR: Tv Gazeta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9714.ts&name=SKY
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tv Boa Vontade" tvg-logo="http://img.new.livestream.com/events&name=SKY/0000000000423453/3c49bd26-cfd5-48d0-b92d-3ea9470fe9c0.png" group-title="BRASIL",BR: Tv Boa Vontade
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13941.ts&name=SKY
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="BR: Tv Escola" tvg-logo="https://skyassineonline.com.br/img/channels/lg-164-canal-tv-escola.png" group-title="BRASIL",BR: Tv Escola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13940.ts&name=SKY
+#EXTINF:-1 tvg-id="TV Ra Tim Bum (BR)" tvg-name="BR: TV Ra Ti Bum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="BRASIL",BR: TV Ra Ti Bum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/15220.ts&name=SKY
+#EXTINF:-1 tvg-id="Universal Channel (BR)" tvg-name="BR: Universal Channel" tvg-logo="http://i.imgur.com/QXxwLNq.png" group-title="BRASIL",BR: Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/173.ts&name=SKY
+#EXTINF:-1 tvg-id="Universal Channel (BR)" tvg-name="BR: Universal Channel HD" tvg-logo="http://i.imgur.com/QXxwLNq.png" group-title="BRASIL",BR: Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/95.ts&name=SKY
+#EXTINF:-1 tvg-id="VH1 (BR)" tvg-name="BR: VH1" tvg-logo="http://i.imgur.com/Nn30UkT.png" group-title="BRASIL",BR: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/96.ts&name=SKY
+#EXTINF:-1 tvg-id="VH1 (BR)" tvg-name="BR: VH1 HD" tvg-logo="http://i.imgur.com/Nn30UkT.png" group-title="BRASIL",BR: VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14346.ts&name=SKY
+#EXTINF:-1 tvg-id="Viva (BR)" tvg-name="BR: VIVA" tvg-logo="http://i.imgur.com/1E19gRB.png" group-title="BRASIL",BR: VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4062.ts&name=SKY
+#EXTINF:-1 tvg-id="Viva (BR)" tvg-name="BR: VIVA HD" tvg-logo="http://i.imgur.com/1E19gRB.png" group-title="BRASIL",BR: VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/9731.ts&name=SKY
+#EXTINF:-1 tvg-id="Warner Channel (BR)" tvg-name="BR: Warner Channel" tvg-logo="http://i.imgur.com/IdYuBAJ.png" group-title="BRASIL",BR: Warner Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4063.ts&name=SKY
+#EXTINF:-1 tvg-id="Warner Channel (BR)" tvg-name="BR: Warner Channel HD" tvg-logo="http://i.imgur.com/IdYuBAJ.png" group-title="BRASIL",BR: Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/94.ts&name=SKY
+#EXTINF:-1 tvg-id="Woohoo (BR)" tvg-name="BR: Woohoo" tvg-logo="http://i.imgur.com/a58ExYM.png" group-title="BRASIL",BR: Woohoo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4069.ts&name=SKY
+#EXTINF:-1 tvg-id="Woohoo (BR)" tvg-name="BR: Woohoo HD" tvg-logo="http://i.imgur.com/a58ExYM.png" group-title="BRASIL",BR: Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13938.ts&name=SKY
+#EXTINF:-1 tvg-id="Zoomoo (BR)" tvg-name="BR: Zoomoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2000px-ZooMoo_logo.svg.png" group-title="BRASIL",BR: Zoomoo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13936.ts&name=SKY
+#EXTINF:-1 tvg-id="Zoomoo (BR)" tvg-name="BR: Zoomoo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2000px-ZooMoo_logo.svg.png" group-title="BRASIL",BR: Zoomoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/13937.ts&name=SKY
