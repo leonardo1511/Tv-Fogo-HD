@@ -179,13 +179,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/14329.ts&name=SKY
 #EXTINF:-1 tvg-id="Fox Premium 2 (BR)" tvg-name="BR: Fox Premium 2 HD" tvg-logo="http://i.imgur.com/oexD2x1.png" group-title="BRASIL",BR: Fox Premium 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/138.ts&name=SKY
-#EXTINF:-1 tvg-id="Fox Sports&name=SKY (BR)" tvg-name="BR: Fox Sports&name=SKY" tvg-logo="http://i.imgur.com/M43jIxS.png" group-title="BRASIL",BR: Fox Sports&name=SKY
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY (BR)" tvg-name="BR: Fox Sports&name=SKY" tvg-logo="http://i.imgur.com/M43jIxS.png" group-title="BRASIL",BR: Fox Sports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/236.ts&name=SKY
-#EXTINF:-1 tvg-id="Fox Sports&name=SKY (BR)" tvg-name="BR: Fox Sports&name=SKY HD" tvg-logo="http://i.imgur.com/M43jIxS.png" group-title="BRASIL",BR: Fox Sports&name=SKY HD
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY (BR)" tvg-name="BR: Fox Sports&name=SKY HD" tvg-logo="http://i.imgur.com/M43jIxS.png" group-title="BRASIL",BR: Fox Sports HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/142.ts&name=SKY
-#EXTINF:-1 tvg-id="Fox Sports&name=SKY 2 (BR)" tvg-name="BR: Fox Sports&name=SKY 2" tvg-logo="http://i.imgur.com/wBmr2h6.png" group-title="BRASIL",BR: Fox Sports&name=SKY 2
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY 2 (BR)" tvg-name="BR: Fox Sports&name=SKY 2" tvg-logo="http://i.imgur.com/wBmr2h6.png" group-title="BRASIL",BR: Fox Sports 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/237.ts&name=SKY
-#EXTINF:-1 tvg-id="Fox Sports&name=SKY 2 (BR)" tvg-name="BR: Fox Sports&name=SKY 2 HD" tvg-logo="http://i.imgur.com/wBmr2h6.png" group-title="BRASIL",BR: Fox Sports&name=SKY 2 HD
+#EXTINF:-1 tvg-id="Fox Sports&name=SKY 2 (BR)" tvg-name="BR: Fox Sports&name=SKY 2 HD" tvg-logo="http://i.imgur.com/wBmr2h6.png" group-title="BRASIL",BR: Fox Sports 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/141.ts&name=SKY
 #EXTINF:-1 tvg-id="Futura (BR)" tvg-name="BR: Futura" tvg-logo="http://i.imgur.com/CLNJ5h7.png" group-title="BRASIL",BR: Futura
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://leaderpro.pt:25461/live/william/william/4056.ts&name=SKY
