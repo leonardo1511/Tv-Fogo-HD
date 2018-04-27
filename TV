@@ -1,1018 +1,619 @@
 #EXTM3U
-
-#EXTINF:-1,ALL Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1215.ts&name=SKY
-#EXTINF:-1,A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1354.ts&name=SKY
-#EXTINF:-1,Arte 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1351.ts&name=SKY
-#EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2326.ts&name=SKY
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2264.ts&name=SKY
-#EXTINF:-1,Amazon Sat Manaus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1943.ts&name=SKY
-#EXTINF:-1,Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1353.ts&name=SKY
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1419.ts&name=SKY
-#EXTINF:-1,Anime TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1124.ts&name=SKY
-#EXTINF:-1,Aljazeera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2147.ts&name=SKY
-#EXTINF:-1,Aparecida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1352.ts&name=SKY
-#EXTINF:-1,Aparecida [2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1854.ts&name=SKY
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1350.ts&name=SKY
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1418.ts&name=SKY
-#EXTINF:-1,Band
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1347.ts&name=SKY
-#EXTINF:-1,Band HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1417.ts&name=SKY
-#EXTINF:-1,Band Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1348.ts&name=SKY
-#EXTINF:-1,Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1416.ts&name=SKY
-#EXTINF:-1,Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1333.ts&name=SKY
-#EXTINF:-1,Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1344.ts&name=SKY
-#EXTINF:-1,Band News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1349.ts&name=SKY
-#EXTINF:-1,BIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1345.ts&name=SKY
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1415.ts&name=SKY
-#EXTINF:-1,Bloomberg HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1211.ts&name=SKY
-#EXTINF:-1,Canal Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1343.ts&name=SKY
-#EXTINF:-1,Canal Sony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1341.ts&name=SKY
-#EXTINF:-1,Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1414.ts&name=SKY
-#EXTINF:-1,Catve HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1117.ts&name=SKY
-#EXTINF:-1,Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1812.ts&name=SKY
-#EXTINF:-1,Cancao Nova HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1340.ts&name=SKY
-#EXTINF:-1,Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1339.ts&name=SKY
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2257.ts&name=SKY
-#EXTINF:-1,RetrÃ´ Cartoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1125.ts&name=SKY
-#EXTINF:-1,Cinemax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1338.ts&name=SKY
-#EXTINF:-1,CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2256.ts&name=SKY
-#EXTINF:-1,CBSN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1212.ts&name=SKY
-#EXTINF:-1,Combate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1337.ts&name=SKY
+#EXTINF:-1,A&E HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3091.ts&name=MEGASERVER
+#EXTINF:-1,A&E SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3092.ts&name=MEGASERVER
+#EXTINF:-1,AMC HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3089.ts&name=MEGASERVER
+#EXTINF:-1,AMC SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3090.ts&name=MEGASERVER
+#EXTINF:-1,Animal Planet HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3083.ts&name=MEGASERVER
+#EXTINF:-1,Animal Planet SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4480.ts&name=MEGASERVER
+#EXTINF:-1,Animal Planet SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3084.ts&name=MEGASERVER
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3081.ts&name=MEGASERVER
+#EXTINF:-1,Arte 1 SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3082.ts&name=MEGASERVER
+#EXTINF:-1,AXN HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3087.ts&name=MEGASERVER
+#EXTINF:-1,AXN SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4477.ts&name=MEGASERVER
+#EXTINF:-1,AXN SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3088.ts&name=MEGASERVER
+#EXTINF:-1,Baby TV SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3078.ts&name=MEGASERVER
+#EXTINF:-1,Band HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3076.ts&name=MEGASERVER
+#EXTINF:-1,Band News SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3075.ts&name=MEGASERVER
+#EXTINF:-1,Band SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3077.ts&name=MEGASERVER
+#EXTINF:-1,Band SP SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4474.ts&name=MEGASERVER
+#EXTINF:-1,Band Sports HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3072.ts&name=MEGASERVER
+#EXTINF:-1,Band Sports SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3073.ts&name=MEGASERVER
+#EXTINF:-1,BBB 18 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3094.ts&name=MEGASERVER
+#EXTINF:-1,BBB 18 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4468.ts&name=MEGASERVER
+#EXTINF:-1,BBB 18 SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4469.ts&name=MEGASERVER
+#EXTINF:-1,BBB 18 SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3095.ts&name=MEGASERVER
+#EXTINF:-1,BIS HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3079.ts&name=MEGASERVER
+#EXTINF:-1,BIS SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3080.ts&name=MEGASERVER
+#EXTINF:-1,Boa Vontade HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3071.ts&name=MEGASERVER
+#EXTINF:-1,Boomerang HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3069.ts&name=MEGASERVER
+#EXTINF:-1,Boomerang SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3070.ts&name=MEGASERVER
+#EXTINF:-1,Canal Brasil HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3066.ts&name=MEGASERVER
+#EXTINF:-1,Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3067.ts&name=MEGASERVER
+#EXTINF:-1,Canal Sony HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3064.ts&name=MEGASERVER
+#EXTINF:-1,Canal Sony SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3065.ts&name=MEGASERVER
+#EXTINF:-1,CanÃ§Ã£o Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3062.ts&name=MEGASERVER
+#EXTINF:-1,CARTOON NETWORK FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4461.ts&name=MEGASERVER
+#EXTINF:-1,Cartoon Network HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3060.ts&name=MEGASERVER
+#EXTINF:-1,Cartoon Network SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3061.ts&name=MEGASERVER
+#EXTINF:-1,Cinemax HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3058.ts&name=MEGASERVER
+#EXTINF:-1,CINEMAX SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4456.ts&name=MEGASERVER
+#EXTINF:-1,CINEMAX SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4455.ts&name=MEGASERVER
+#EXTINF:-1,Cinemax SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3059.ts&name=MEGASERVER
+#EXTINF:-1,CNN Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3068.ts&name=MEGASERVER
+#EXTINF:-1,Combate HD 720 +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4452.ts&name=MEGASERVER
 #EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1413.ts&name=SKY
-#EXTINF:-1,Combate HD [2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2255.ts&name=SKY
-#EXTINF:-1,Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1336.ts&name=SKY
-#EXTINF:-1,Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1334.ts&name=SKY
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1412.ts&name=SKY
-#EXTINF:-1,Discovery H&H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1332.ts&name=SKY
-#EXTINF:-1,Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1411.ts&name=SKY
-#EXTINF:-1,Discovery Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1331.ts&name=SKY
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2348.ts&name=SKY
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1410.ts&name=SKY
-#EXTINF:-1,Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1329.ts&name=SKY
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1409.ts&name=SKY
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1408.ts&name=SKY
-#EXTINF:-1,Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1328.ts&name=SKY
-#EXTINF:-1,Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1327.ts&name=SKY
-#EXTINF:-1,Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1326.ts&name=SKY
-#EXTINF:-1,EI MAXX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2246.ts&name=SKY
-#EXTINF:-1,EI MAXX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2247.ts&name=SKY
-#EXTINF:-1,Esporte Interativo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1324.ts&name=SKY
-#EXTINF:-1,Esporte Interativo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1402.ts&name=SKY
-#EXTINF:-1,Esporte Interativo 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1323.ts&name=SKY
-#EXTINF:-1,Esporte Interativo 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1406.ts&name=SKY
-#EXTINF:-1,Esporte Interativo BR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1407.ts&name=SKY
-#EXTINF:-1,E! Entertainment Television
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1325.ts&name=SKY
-#EXTINF:-1,ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1322.ts&name=SKY
-#EXTINF:-1,ESPN  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1405.ts&name=SKY
-#EXTINF:-1,ESPN HD [2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2244.ts&name=SKY
-#EXTINF:-1,ESPN +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1225.ts&name=SKY
-#EXTINF:-1,ESPN+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1403.ts&name=SKY
-#EXTINF:-1,ESPN Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1321.ts&name=SKY
-#EXTINF:-1,ESPN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1404.ts&name=SKY
-#EXTINF:-1,Globo EPTV Ribeirao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2245.ts&name=SKY
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1318.ts&name=SKY
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1399.ts&name=SKY
-#EXTINF:-1,Fish TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1320.ts&name=SKY
-#EXTINF:-1,Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1319.ts&name=SKY
-#EXTINF:-1,Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1317.ts&name=SKY
-#EXTINF:-1,Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1316.ts&name=SKY
-#EXTINF:-1,Fox Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1397.ts&name=SKY
-#EXTINF:-1,Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1315.ts&name=SKY
-#EXTINF:-1,FOX Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1396.ts&name=SKY
-#EXTINF:-1,Futura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1314.ts&name=SKY
-#EXTINF:-1,FOX Premium 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1401.ts&name=SKY
-#EXTINF:-1,FOX Premium 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1400.ts&name=SKY
-#EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1313.ts&name=SKY
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1395.ts&name=SKY
-#EXTINF:-1,Gospel Movies Television
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1422.ts&name=SKY
-#EXTINF:-1,Gospel Music Television
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1423.ts&name=SKY
-#EXTINF:-1,Globo Brasilia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2232.ts&name=SKY
-#EXTINF:-1,Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1394.ts&name=SKY
-#EXTINF:-1,Globo SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1312.ts&name=SKY
-#EXTINF:-1,Globo BH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2230.ts&name=SKY
-#EXTINF:-1,Globo RBS Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1266.ts&name=SKY
-#EXTINF:-1,Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2180.ts&name=SKY
-#EXTINF:-1,Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2337.ts&name=SKY
-#EXTINF:-1,Globo News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1311.ts&name=SKY
-#EXTINF:-1,GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2235.ts&name=SKY
-#EXTINF:-1,Globo TV Fronteira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2648.ts&name=SKY
-#EXTINF:-1,Globo Sorocaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2664.ts&name=SKY
-#EXTINF:-1,Globo GoiÃ¢nia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2665.ts&name=SKY
-#EXTINF:-1,Gloob
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1310.ts&name=SKY
-#EXTINF:-1,GNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1309.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3056.ts&name=MEGASERVER
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3057.ts&name=MEGASERVER
+#EXTINF:-1,Comedy Central HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3054.ts&name=MEGASERVER
+#EXTINF:-1,Comedy Central SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3055.ts&name=MEGASERVER
+#EXTINF:-1,Conexao BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3053.ts&name=MEGASERVER
+#EXTINF:-1,Cultura HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2857.ts&name=MEGASERVER
+#EXTINF:-1,Cultura SP HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4448.ts&name=MEGASERVER
+#EXTINF:-1,Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3051.ts&name=MEGASERVER
+#EXTINF:-1,Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3052.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Channel FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4446.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Channel HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3049.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Channel SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3050.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Civilization HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3047.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Home & Health HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3045.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Home & Health SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3048.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Home & Health SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3046.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3043.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Investigation SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3044.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Kids HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3041.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Kids SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3042.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Theater HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3037.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Turbo FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3033.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Turbo HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3035.ts&name=MEGASERVER
+#EXTINF:-1,Discovery Turbo SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3036.ts&name=MEGASERVER
+#EXTINF:-1,Discovery World HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3034.ts&name=MEGASERVER
+#EXTINF:-1,Disney Channel HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3031.ts&name=MEGASERVER
+#EXTINF:-1,Disney Channel SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3032.ts&name=MEGASERVER
+#EXTINF:-1,Disney Junior HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3029.ts&name=MEGASERVER
+#EXTINF:-1,Disney Junior SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3030.ts&name=MEGASERVER
+#EXTINF:-1,DISNEY XD HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4431.ts&name=MEGASERVER
+#EXTINF:-1,Disney XD SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3028.ts&name=MEGASERVER
+#EXTINF:-1,E! HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3026.ts&name=MEGASERVER
+#EXTINF:-1,E! SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4428.ts&name=MEGASERVER
+#EXTINF:-1,E! SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3027.ts&name=MEGASERVER
+#EXTINF:-1,EI MAXX HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3096.ts&name=MEGASERVER
+#EXTINF:-1,EI Maxx SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3097.ts&name=MEGASERVER
+#EXTINF:-1,ESPN Brasil HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3021.ts&name=MEGASERVER
+#EXTINF:-1,ESPN Brasil SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3022.ts&name=MEGASERVER
+#EXTINF:-1,ESPN HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3023.ts&name=MEGASERVER
+#EXTINF:-1,ESPN SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3025.ts&name=MEGASERVER
+#EXTINF:-1,Esporte Interativo 2 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3017.ts&name=MEGASERVER
+#EXTINF:-1,Esporte Interativo 2 SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3018.ts&name=MEGASERVER
+#EXTINF:-1,Esporte Interativo BR HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3015.ts&name=MEGASERVER
+#EXTINF:-1,Esporte Interativo BR SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3016.ts&name=MEGASERVER
+#EXTINF:-1,Esporte Interativo HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3019.ts&name=MEGASERVER
+#EXTINF:-1,Esporte Interativo SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3020.ts&name=MEGASERVER
+#EXTINF:-1,Fish TV SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3012.ts&name=MEGASERVER
+#EXTINF:-1,Food Network HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3010.ts&name=MEGASERVER
+#EXTINF:-1,Food Network SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3011.ts&name=MEGASERVER
+#EXTINF:-1,FOX FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4406.ts&name=MEGASERVER
+#EXTINF:-1,FOX HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4407.ts&name=MEGASERVER
+#EXTINF:-1,Fox Life HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4405.ts&name=MEGASERVER
+#EXTINF:-1,Fox Life SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3007.ts&name=MEGASERVER
+#EXTINF:-1,Fox Premium 1 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3005.ts&name=MEGASERVER
+#EXTINF:-1,Fox Premium 2 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3004.ts&name=MEGASERVER
+#EXTINF:-1,FOX SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3009.ts&name=MEGASERVER
+#EXTINF:-1,Fox Sports 2 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2998.ts&name=MEGASERVER
+#EXTINF:-1,Fox Sports 2 SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2999.ts&name=MEGASERVER
+#EXTINF:-1,FOX SPORTS FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3361.ts&name=MEGASERVER
+#EXTINF:-1,Fox Sports HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3000.ts&name=MEGASERVER
+#EXTINF:-1,Fox Sports SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3001.ts&name=MEGASERVER
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2996.ts&name=MEGASERVER
+#EXTINF:-1,Futura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2997.ts&name=MEGASERVER
+#EXTINF:-1,FX HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3013.ts&name=MEGASERVER
+#EXTINF:-1,FX SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3014.ts&name=MEGASERVER
+#EXTINF:-1,Globo Amazonica Manaus SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4392.ts&name=MEGASERVER
+#EXTINF:-1,Globo Anhanguera FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4391.ts&name=MEGASERVER
+#EXTINF:-1,Globo Bauru SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4376.ts&name=MEGASERVER
+#EXTINF:-1,Globo Brasilia HD -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4390.ts&name=MEGASERVER
+#EXTINF:-1,Globo Brasilia HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2984.ts&name=MEGASERVER
+#EXTINF:-1,Globo Brasilia SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4389.ts&name=MEGASERVER
+#EXTINF:-1,Globo Brasilia SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2985.ts&name=MEGASERVER
+#EXTINF:-1,Globo Gazeta ES HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4395.ts&name=MEGASERVER
+#EXTINF:-1,Globo Gazeta SP HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4393.ts&name=MEGASERVER
+#EXTINF:-1,Globo Internacional FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4387.ts&name=MEGASERVER
+#EXTINF:-1,Globo Internacional SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4388.ts&name=MEGASERVER
+#EXTINF:-1,Globo Minas HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2988.ts&name=MEGASERVER
+#EXTINF:-1,Globo News HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4385.ts&name=MEGASERVER
+#EXTINF:-1,Globo News SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2981.ts&name=MEGASERVER
+#EXTINF:-1,Globo Nordeste HD -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4384.ts&name=MEGASERVER
+#EXTINF:-1,Globo Nordeste HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2978.ts&name=MEGASERVER
+#EXTINF:-1,Globo Nordeste SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2979.ts&name=MEGASERVER
+#EXTINF:-1,Globo RJ HD -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4382.ts&name=MEGASERVER
+#EXTINF:-1,Globo RJ HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2992.ts&name=MEGASERVER
+#EXTINF:-1,Globo RJ SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4380.ts&name=MEGASERVER
+#EXTINF:-1,Globo RJ SD (3) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4381.ts&name=MEGASERVER
+#EXTINF:-1,Globo RJ SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2993.ts&name=MEGASERVER
+#EXTINF:-1,Globo Sao Jose Dos Campos SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4379.ts&name=MEGASERVER
+#EXTINF:-1,Globo SP HD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4383.ts&name=MEGASERVER
+#EXTINF:-1,Globo SP HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2990.ts&name=MEGASERVER
+#EXTINF:-1,Globo SP SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4378.ts&name=MEGASERVER
+#EXTINF:-1,Globo SP SD (3) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2991.ts&name=MEGASERVER
+#EXTINF:-1,Globo SP SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4377.ts&name=MEGASERVER
+#EXTINF:-1,GloboSat HD -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4375.ts&name=MEGASERVER
+#EXTINF:-1,GloboSat HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2970.ts&name=MEGASERVER
+#EXTINF:-1,Globosat SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2971.ts&name=MEGASERVER
+#EXTINF:-1,Gloob HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2968.ts&name=MEGASERVER
+#EXTINF:-1,Gloob SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2969.ts&name=MEGASERVER
 #EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1393.ts&name=SKY
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1392.ts&name=SKY
-#EXTINF:-1,H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1308.ts&name=SKY
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1307.ts&name=SKY
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1389.ts&name=SKY
-#EXTINF:-1,HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1302.ts&name=SKY
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1391.ts&name=SKY
-#EXTINF:-1,HBO Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1306.ts&name=SKY
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1390.ts&name=SKY
-#EXTINF:-1,HBO Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1305.ts&name=SKY
-#EXTINF:-1,HBO Plus e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1304.ts&name=SKY
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1388.ts&name=SKY
-#EXTINF:-1,HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1303.ts&name=SKY
-#EXTINF:-1,HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1387.ts&name=SKY
-#EXTINF:-1,History Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1240.ts&name=SKY
-#EXTINF:-1,History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1386.ts&name=SKY
-#EXTINF:-1,HIT TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1809.ts&name=SKY
-#EXTINF:-1,Igreja Mundial do Poder de Deus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2340.ts&name=SKY
-#EXTINF:-1,I-SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1301.ts&name=SKY
-#EXTINF:-1,ID - Investigacao Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1300.ts&name=SKY
-#EXTINF:-1,ID - InvestigaÃ§Ã£o Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1385.ts&name=SKY
-#EXTINF:-1,IURD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2350.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2994.ts&name=MEGASERVER
+#EXTINF:-1,GNT SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2995.ts&name=MEGASERVER
+#EXTINF:-1,H2 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2966.ts&name=MEGASERVER
+#EXTINF:-1,H2 SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2967.ts&name=MEGASERVER
+#EXTINF:-1,HBO 2 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2963.ts&name=MEGASERVER
+#EXTINF:-1,HBO 2 SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2964.ts&name=MEGASERVER
+#EXTINF:-1,HBO Family HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2961.ts&name=MEGASERVER
+#EXTINF:-1,HBO Family SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2962.ts&name=MEGASERVER
+#EXTINF:-1,HBO FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2980.ts&name=MEGASERVER
+#EXTINF:-1,HBO HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2960.ts&name=MEGASERVER
+#EXTINF:-1,HBO Plus e SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2957.ts&name=MEGASERVER
+#EXTINF:-1,HBO Plus HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2958.ts&name=MEGASERVER
+#EXTINF:-1,HBO Plus SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2959.ts&name=MEGASERVER
+#EXTINF:-1,HBO SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2965.ts&name=MEGASERVER
+#EXTINF:-1,HBO Signature HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2955.ts&name=MEGASERVER
+#EXTINF:-1,HBO Signature SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2956.ts&name=MEGASERVER
+#EXTINF:-1,HISTORY CHANNEL FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4370.ts&name=MEGASERVER
+#EXTINF:-1,History Channel HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2953.ts&name=MEGASERVER
+#EXTINF:-1,History Channel SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2954.ts&name=MEGASERVER
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4368.ts&name=MEGASERVER
+#EXTINF:-1,ID - INVESTIGATION DISCOVERY HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4367.ts&name=MEGASERVER
 #EXTINF:-1,IURD TV Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2351.ts&name=SKY
-#EXTINF:-1,Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1298.ts&name=SKY
-#EXTINF:-1,Mais Globosat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1297.ts&name=SKY
-#EXTINF:-1,MAX Prime e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1294.ts&name=SKY
-#EXTINF:-1,MAX Prime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1295.ts&name=SKY
-#EXTINF:-1,MAX UP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1293.ts&name=SKY
-#EXTINF:-1,MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1296.ts&name=SKY
-#EXTINF:-1,MegaPix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1292.ts&name=SKY
-#EXTINF:-1,Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1384.ts&name=SKY
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1291.ts&name=SKY
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2357.ts&name=SKY
-#EXTINF:-1,Music Box Brazil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1289.ts&name=SKY
-#EXTINF:-1,MegaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1213.ts&name=SKY
-#EXTINF:-1,Mix TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1118.ts&name=SKY
-#EXTINF:-1,Multishow
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1290.ts&name=SKY
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1383.ts&name=SKY
-#EXTINF:-1,National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1287.ts&name=SKY
-#EXTINF:-1,National Geography HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1381.ts&name=SKY
-#EXTINF:-1,NBR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1286.ts&name=SKY
-#EXTINF:-1,NHK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1285.ts&name=SKY
-#EXTINF:-1,NovoTempo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1282.ts&name=SKY
-#EXTINF:-1,NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1288.ts&name=SKY
-#EXTINF:-1,NatGeoWild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1382.ts&name=SKY
-#EXTINF:-1,NatGeo Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1810.ts&name=SKY
-#EXTINF:-1,Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1284.ts&name=SKY
-#EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1283.ts&name=SKY
-#EXTINF:-1,Play TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1279.ts&name=SKY
-#EXTINF:-1,Playboy TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1278.ts&name=SKY
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1380.ts&name=SKY
-#EXTINF:-1,OFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1281.ts&name=SKY
-#EXTINF:-1,Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1379.ts&name=SKY
-#EXTINF:-1,Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1280.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2951.ts&name=MEGASERVER
+#EXTINF:-1,IURD TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2952.ts&name=MEGASERVER
+#EXTINF:-1,Lifetime HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2949.ts&name=MEGASERVER
+#EXTINF:-1,Lifetime SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2950.ts&name=MEGASERVER
+#EXTINF:-1,Max HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2945.ts&name=MEGASERVER
+#EXTINF:-1,Max Prime e +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2942.ts&name=MEGASERVER
+#EXTINF:-1,Max Prime HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2943.ts&name=MEGASERVER
+#EXTINF:-1,Max Prime SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2944.ts&name=MEGASERVER
+#EXTINF:-1,Max SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2946.ts&name=MEGASERVER
+#EXTINF:-1,Max Up HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2940.ts&name=MEGASERVER
+#EXTINF:-1,Max Up SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2941.ts&name=MEGASERVER
+#EXTINF:-1,Megapix HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2938.ts&name=MEGASERVER
+#EXTINF:-1,Megapix SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2939.ts&name=MEGASERVER
+#EXTINF:-1,MTV HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2947.ts&name=MEGASERVER
+#EXTINF:-1,MTV SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2948.ts&name=MEGASERVER
+#EXTINF:-1,Multishow HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2936.ts&name=MEGASERVER
+#EXTINF:-1,Multishow SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2937.ts&name=MEGASERVER
+#EXTINF:-1,Music Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2934.ts&name=MEGASERVER
+#EXTINF:-1,Music Box Brasil SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2935.ts&name=MEGASERVER
+#EXTINF:-1,Nat Geo Kids HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2929.ts&name=MEGASERVER
+#EXTINF:-1,Nat Geo Kids SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2930.ts&name=MEGASERVER
+#EXTINF:-1,Nat Geo Wild HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2927.ts&name=MEGASERVER
+#EXTINF:-1,Nat Geo Wild SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2928.ts&name=MEGASERVER
+#EXTINF:-1,Nat Geograph HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2931.ts&name=MEGASERVER
+#EXTINF:-1,Nat Geograph HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2932.ts&name=MEGASERVER
+#EXTINF:-1,NBR SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2933.ts&name=MEGASERVER
+#EXTINF:-1,Nick HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2925.ts&name=MEGASERVER
+#EXTINF:-1,Nick Jr SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2926.ts&name=MEGASERVER
+#EXTINF:-1,NICK SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4478.ts&name=MEGASERVER
+#EXTINF:-1,Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2924.ts&name=MEGASERVER
+#EXTINF:-1,Nickelodeon SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2923.ts&name=MEGASERVER
+#EXTINF:-1,Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2922.ts&name=MEGASERVER
+#EXTINF:-1,Novo Tempo RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2921.ts&name=MEGASERVER
+#EXTINF:-1,Novo Tempo SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2920.ts&name=MEGASERVER
+#EXTINF:-1,OFF HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2918.ts&name=MEGASERVER
+#EXTINF:-1,OFF SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2919.ts&name=MEGASERVER
+#EXTINF:-1,Paramount Channel HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2915.ts&name=MEGASERVER
+#EXTINF:-1,Paramount Channel SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2916.ts&name=MEGASERVER
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2917.ts&name=MEGASERVER
 #EXTINF:-1,Portal Gospel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1425.ts&name=SKY
-#EXTINF:-1,Premiere Clubes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1269.ts&name=SKY
-#EXTINF:-1,Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1378.ts&name=SKY
-#EXTINF:-1,Premiere 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1277.ts&name=SKY
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1377.ts&name=SKY
-#EXTINF:-1,Premiere 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1276.ts&name=SKY
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1376.ts&name=SKY
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1375.ts&name=SKY
-#EXTINF:-1,Premiere 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1275.ts&name=SKY
-#EXTINF:-1,Premiere 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1274.ts&name=SKY
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1374.ts&name=SKY
-#EXTINF:-1,Premiere 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1273.ts&name=SKY
-#EXTINF:-1,Premiere 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1272.ts&name=SKY
-#EXTINF:-1,Premiere 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1271.ts&name=SKY
-#EXTINF:-1,Premiere 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1270.ts&name=SKY
-#EXTINF:-1,Prime Box Brazil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1268.ts&name=SKY
-#EXTINF:-1,RBI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1267.ts&name=SKY
-#EXTINF:-1,Rede Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1263.ts&name=SKY
-#EXTINF:-1,Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1261.ts&name=SKY
-#EXTINF:-1,Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1424.ts&name=SKY
-#EXTINF:-1,RIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1260.ts&name=SKY
-#EXTINF:-1,Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1264.ts&name=SKY
-#EXTINF:-1,Record HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1373.ts&name=SKY
-#EXTINF:-1,REDE RECORD HD SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2207.ts&name=SKY
-#EXTINF:-1,Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1265.ts&name=SKY
-#EXTINF:-1,Rede Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1120.ts&name=SKY
-#EXTINF:-1,Rede Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1940.ts&name=SKY
-#EXTINF:-1,Rede Genesis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1855.ts&name=SKY
-#EXTINF:-1,Rede TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1262.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2914.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 1 SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4347.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 2 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4346.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 2 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2911.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 2 SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2910.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 3 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2908.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 3 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2909.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 4 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2906.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 4 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2907.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 5 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4345.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 5 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2905.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 5 SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2904.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 6 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4344.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 6 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2903.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 6 SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2902.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 7 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4343.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 7 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2901.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 7 SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2900.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 8 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4349.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 8 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4352.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 9 HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4336.ts&name=MEGASERVER
+#EXTINF:-1,Premiere 9 SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4351.ts&name=MEGASERVER
+#EXTINF:-1,Premiere Clubes FHD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4337.ts&name=MEGASERVER
+#EXTINF:-1,Premiere Clubes HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2912.ts&name=MEGASERVER
+#EXTINF:-1,Premiere Clubes SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3170.ts&name=MEGASERVER
+#EXTINF:-1,Premiere Clubes SD (2) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4348.ts&name=MEGASERVER
+#EXTINF:-1,Premiere Clubes SD (3) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2913.ts&name=MEGASERVER
+#EXTINF:-1,Record HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2896.ts&name=MEGASERVER
+#EXTINF:-1,Record Portugal $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2892.ts&name=MEGASERVER
+#EXTINF:-1,Record SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2897.ts&name=MEGASERVER
+#EXTINF:-1,Record SP HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2890.ts&name=MEGASERVER
+#EXTINF:-1,RECORD TV SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4330.ts&name=MEGASERVER
+#EXTINF:-1,REDE RECORD FHD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3359.ts&name=MEGASERVER
+#EXTINF:-1,Rede SÃ©culo 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2888.ts&name=MEGASERVER
+#EXTINF:-1,Rede Super SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2889.ts&name=MEGASERVER
+#EXTINF:-1,REDE SUPER SD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4333.ts&name=MEGASERVER
 #EXTINF:-1,Rede TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1372.ts&name=SKY
-#EXTINF:-1,SIC Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1256.ts&name=SKY
-#EXTINF:-1,Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1255.ts&name=SKY
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1370.ts&name=SKY
-#EXTINF:-1,SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1254.ts&name=SKY
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1367.ts&name=SKY
-#EXTINF:-1,SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1253.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2886.ts&name=MEGASERVER
+#EXTINF:-1,REDE TV HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4332.ts&name=MEGASERVER
+#EXTINF:-1,Rede TV SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2887.ts&name=MEGASERVER
+#EXTINF:-1,Rede Vida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2885.ts&name=MEGASERVER
+#EXTINF:-1,SBT Goias HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2883.ts&name=MEGASERVER
+#EXTINF:-1,SBT HD (1) +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2884.ts&name=MEGASERVER
+#EXTINF:-1,SBT HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2882.ts&name=MEGASERVER
+#EXTINF:-1,Space HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2878.ts&name=MEGASERVER
+#EXTINF:-1,Space SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2879.ts&name=MEGASERVER
 #EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1369.ts&name=SKY
-#EXTINF:-1,SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1252.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2874.ts&name=MEGASERVER
+#EXTINF:-1,SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2875.ts&name=MEGASERVER
 #EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1368.ts&name=SKY
-#EXTINF:-1,Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1251.ts&name=SKY
-#EXTINF:-1,Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1250.ts&name=SKY
-#EXTINF:-1,SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1259.ts&name=SKY
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1371.ts&name=SKY
-#EXTINF:-1,SBT SC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2367.ts&name=SKY
-#EXTINF:-1,SBT HD PE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1988.ts&name=SKY
-#EXTINF:-1,Sextreme
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1258.ts&name=SKY
-#EXTINF:-1,Sexy Hot
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1257.ts&name=SKY
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1249.ts&name=SKY
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1366.ts&name=SKY
-#EXTINF:-1,Telecine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1247.ts&name=SKY
-#EXTINF:-1,Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1365.ts&name=SKY
-#EXTINF:-1,Telecine Cult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1246.ts&name=SKY
-#EXTINF:-1,Telecine Pipoca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1244.ts&name=SKY
-#EXTINF:-1,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1363.ts&name=SKY
-#EXTINF:-1,Telecine Fun
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1245.ts&name=SKY
-#EXTINF:-1,Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1364.ts&name=SKY
-#EXTINF:-1,Telecine Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1243.ts&name=SKY
-#EXTINF:-1,Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1362.ts&name=SKY
-#EXTINF:-1,Telecine Touch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1242.ts&name=SKY
-#EXTINF:-1,Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1361.ts&name=SKY
-#EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1248.ts&name=SKY
-#EXTINF:-1,Terra Viva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1241.ts&name=SKY
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1239.ts&name=SKY
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1238.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2872.ts&name=MEGASERVER
+#EXTINF:-1,SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2873.ts&name=MEGASERVER
+#EXTINF:-1,SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3358.ts&name=MEGASERVER
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2876.ts&name=MEGASERVER
+#EXTINF:-1,SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2877.ts&name=MEGASERVER
+#EXTINF:-1,Studio Universal HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2870.ts&name=MEGASERVER
+#EXTINF:-1,Studio Universal SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2871.ts&name=MEGASERVER
+#EXTINF:-1,Syfy HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2868.ts&name=MEGASERVER
+#EXTINF:-1,Syfy SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2869.ts&name=MEGASERVER
+#EXTINF:-1,TBS SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2867.ts&name=MEGASERVER
+#EXTINF:-1,TCM SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2865.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Action HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2852.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Action SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2853.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Cult HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2850.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Cult SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2851.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Fun HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2848.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Fun SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2849.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Pipoca HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2846.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Pipoca SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2847.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Premium HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4296.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Preminum SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4295.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Touch HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2842.ts&name=MEGASERVER
+#EXTINF:-1,Telecine Touch SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2843.ts&name=MEGASERVER
+#EXTINF:-1,Terra Viva - DR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2841.ts&name=MEGASERVER
+#EXTINF:-1,TLC HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2863.ts&name=MEGASERVER
+#EXTINF:-1,TLC SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2864.ts&name=MEGASERVER
 #EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1360.ts&name=SKY
-#EXTINF:-1,TNT Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1237.ts&name=SKY
-#EXTINF:-1,TNT Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1359.ts&name=SKY
-#EXTINF:-1,Tooncast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1236.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2861.ts&name=MEGASERVER
+#EXTINF:-1,TNT HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4290.ts&name=MEGASERVER
+#EXTINF:-1,TNT SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2862.ts&name=MEGASERVER
+#EXTINF:-1,TNT Series HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2859.ts&name=MEGASERVER
+#EXTINF:-1,TNT Series SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2860.ts&name=MEGASERVER
 #EXTINF:-1,TruTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1235.ts&name=SKY
-#EXTINF:-1,TV Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1234.ts&name=SKY
-#EXTINF:-1,TV Cultura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1233.ts&name=SKY
-#EXTINF:-1,TV Clima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1944.ts&name=SKY
-#EXTINF:-1,TV Ra tim bum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1232.ts&name=SKY
-#EXTINF:-1,TV LIBERAL BELEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2186.ts&name=SKY
-#EXTINF:-1,Globo Bauru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2185.ts&name=SKY
-#EXTINF:-1,TV BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2189.ts&name=SKY
-#EXTINF:-1,TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1231.ts&name=SKY
-#EXTINF:-1,TVE Bahia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2130.ts&name=SKY
-#EXTINF:-1,TV BR NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1216.ts&name=SKY
-#EXTINF:-1,TV DiÃ¡rio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1119.ts&name=SKY
-#EXTINF:-1,TV Gazeta RN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1217.ts&name=SKY
-#EXTINF:-1,TV Master Joao Pessoa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1837.ts&name=SKY
-#EXTINF:-1,TV Nova Nordeste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1941.ts&name=SKY
-#EXTINF:-1,TV Gideoes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2339.ts&name=SKY
-#EXTINF:-1,TV Plenitude
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2342.ts&name=SKY
-#EXTINF:-1,Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2341.ts&name=SKY
-#EXTINF:-1,Universal Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1230.ts&name=SKY
-#EXTINF:-1,Universal Channels HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1358.ts&name=SKY
-#EXTINF:-1,VH1 Megahits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1229.ts&name=SKY
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1357.ts&name=SKY
-#EXTINF:-1,Viva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1228.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2839.ts&name=MEGASERVER
+#EXTINF:-1,Tv Aparecida SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2838.ts&name=MEGASERVER
+#EXTINF:-1,TV BAHIA SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4287.ts&name=MEGASERVER
+#EXTINF:-1,TV Brasil SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2858.ts&name=MEGASERVER
+#EXTINF:-1,Tv CÃ¢mara SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2837.ts&name=MEGASERVER
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2856.ts&name=MEGASERVER
+#EXTINF:-1,Tv Gazeta SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2836.ts&name=MEGASERVER
+#EXTINF:-1,Tv Gideoes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4915.ts&name=MEGASERVER
+#EXTINF:-1,TV LIBERAL BELEM SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4280.ts&name=MEGASERVER
+#EXTINF:-1,TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2834.ts&name=MEGASERVER
+#EXTINF:-1,Tv Ra Tim Bum SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2835.ts&name=MEGASERVER
+#EXTINF:-1,TV TEM RIO PRETO SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4279.ts&name=MEGASERVER
+#EXTINF:-1,TV TRIBUNA SANTOS SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4278.ts&name=MEGASERVER
+#EXTINF:-1,TV Verdade
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2855.ts&name=MEGASERVER
+#EXTINF:-1,TV VERDES MARES FORTALEZA SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4277.ts&name=MEGASERVER
+#EXTINF:-1,TV VITORIA SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4276.ts&name=MEGASERVER
+#EXTINF:-1,Universal Channel HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2832.ts&name=MEGASERVER
+#EXTINF:-1,Universal Channel SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2833.ts&name=MEGASERVER
+#EXTINF:-1,Vem & VÃª TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2828.ts&name=MEGASERVER
+#EXTINF:-1,Vem & VÃª TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2827.ts&name=MEGASERVER
+#EXTINF:-1,Vem & VÃª TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2826.ts&name=MEGASERVER
+#EXTINF:-1,VH1 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2830.ts&name=MEGASERVER
+#EXTINF:-1,VH1 Mega Hits SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2829.ts&name=MEGASERVER
+#EXTINF:-1,VH1 SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2831.ts&name=MEGASERVER
+#EXTINF:-1,VIRGIN TV HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4273.ts&name=MEGASERVER
+#EXTINF:-1,Viva HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2824.ts&name=MEGASERVER
+#EXTINF:-1,Viva SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2825.ts&name=MEGASERVER
 #EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1355.ts&name=SKY
-#EXTINF:-1,Warner Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1227.ts&name=SKY
-#EXTINF:-1,Woohoo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1226.ts&name=SKY
-#EXTINF:-1,Move Jogos 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2081.ts&name=SKY
-#EXTINF:-1,Move Jogos 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2145.ts&name=SKY
-#EXTINF:-1,Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2338.ts&name=SKY
-#EXTINF:-1,Brasileirinhas - As Mina Pira 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2305.mp4
-#EXTINF:-1,Brasileirinhas - As Mina Pira 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2306.mp4
-#EXTINF:-1,Brasileirinhas - Baile Proibido
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2303.mp4
-#EXTINF:-1,Brasileirinhas - Big Bundas Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2302.mp4
-#EXTINF:-1,Brasileirinhas - Brasibelezas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2304.mp4
-#EXTINF:-1,Brasileirinhas - Derretendo de Tesao 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2299.mp4
-#EXTINF:-1,Brasileirinhas - Derretendo de Tesao 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2298.mp4
-#EXTINF:-1,Brasileirinhas - Lambuzadas 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2327.mp4
-#EXTINF:-1,Brasileirinhas - Lambuzadas 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2328.mp4
-#EXTINF:-1,Brasileirinhas - Lambuzadas 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2329.mp4
-#EXTINF:-1,Brasileirinhas - Lambuzadas 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2330.mp4
-#EXTINF:-1,Brasileirinhas - Novinhas 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2309.mp4
-#EXTINF:-1,Brasileirinhas - Novinhas 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2310.mp4
-#EXTINF:-1,Brasileirinhas - Novinhas 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2311.mp4
-#EXTINF:-1,Brasileirinhas - Novinhas 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2312.mp4
-#EXTINF:-1,Brasileirinhas - Novinhas 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2313.mp4
-#EXTINF:-1,Brasileirinhas - OperaÃ§Ã£o Leva-Jato 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2314.mp4
-#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2315.mp4
-#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2316.mp4
-#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2317.mp4
-#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2318.mp4
-#EXTINF:-1,Brasileirinhas Historias de uma Gueixa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2294.mp4
-#EXTINF:-1,Brazzers TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2363.ts&name=SKY
-#EXTINF:-1,Zoomoo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2658.ts&name=SKY
-#EXTINF:-1,SexZone HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2649.ts&name=SKY
-#EXTINF:-1,PPV 1 SKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2654.ts&name=SKY
-#EXTINF:-1,PPV 2 SKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2653.ts&name=SKY
-#EXTINF:-1,PPV 3 SKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2652.ts&name=SKY
-#EXTINF:-1,PPV 4 SKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2651.ts&name=SKY
-#EXTINF:-1,PPV 5 SKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2650.ts&name=SKY
-#EXTINF:-1,Mosaico Move
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2080.ts&name=SKY
-#EXTINF:-1,NatGeo Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2663.ts&name=SKY
-#EXTINF:-1,Nick JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2655.ts&name=SKY
-#EXTINF:-1,A cabana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1938.mp4
-#EXTINF:-1,A Cura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1673.mp4
-#EXTINF:-1,A Mumia 2017
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1667.mp4
-#EXTINF:-1,The Bad Batch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1671.mp4
-#EXTINF:-1,A Vigilante do AmanhÃ£: Ghost in the Shell
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1800.mp4
-#EXTINF:-1,Assassin's Creed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1805.mp4
-#EXTINF:-1,Baywatch: S.O.S. Malibu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1796.mp4
-#EXTINF:-1,Deadpool
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1696.mp4
-#EXTINF:-1,Doutor Estranho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1804.mp4
-#EXTINF:-1,Era de Ultron
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1801.mp4
-#EXTINF:-1,Guardioes da Galaxia 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1808.mp4
-#EXTINF:-1,Kong A Ilha da Caveira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1799.mp4
-#EXTINF:-1,Logan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1797.mp4
-#EXTINF:-1,Wonder Woman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1665.mp4
-#EXTINF:-1,Meu Malvado Favorito 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1697.mp4
-#EXTINF:-1,O Culto de Chucky
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1806.mp4
-#EXTINF:-1,O Poderoso Chefinho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1803.mp4
-#EXTINF:-1,Os Smurfs E A Vila Perdida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1669.mp4
-#EXTINF:-1,Pirates of the Caribbean: Dead Men Tell No Tales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1666.mp4
-#EXTINF:-1,Transformers O Ãšltimo Cavaleiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1664.mp4
-#EXTINF:-1,Lego Dc Super Girls
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1668.mp4
-#EXTINF:-1,Silencio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1672.mp4
-#EXTINF:-1,Velozes E Furiosos 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1670.mp4
-#EXTINF:-1,Homem-Aranha: De Volta ao Lar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1795.mp4
-#EXTINF:-1,Power Rangers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1798.mp4
-#EXTINF:-1,Z: A Cidade Perdida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1817.mp4
-#EXTINF:-1,A Bela e a Fera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1828.mp4
-#EXTINF:-1,A Grande Muralha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1831.mp4
-#EXTINF:-1,A Torre Negra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1820.mp4
-#EXTINF:-1,Animais fantasticos e Onde Habitam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1832.mp4
-#EXTINF:-1,Annabelle 2: A CriaÃ§Ã£o do Mal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1847.mp4
-#EXTINF:-1,Assalto Sobre Trilhos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1836.mp4
-#EXTINF:-1,Churchil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2319.mp4
-#EXTINF:-1,Como Treinar O Seu DragÃ£o 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1674.mp4
-#EXTINF:-1,Corra!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1845.mp4
-#EXTINF:-1,Death Note
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1824.mp4
-#EXTINF:-1,Eu Fico louco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1841.mp4
-#EXTINF:-1,JOHN WICK 2: UM NOVO DIA PARA MATAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1829.mp4
-#EXTINF:-1,Menina Ma.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1851.mp4
-#EXTINF:-1,Meu Malvado Favorito 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1683.mp4
-#EXTINF:-1,Minions
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1684.mp4
-#EXTINF:-1,Nu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1843.mp4
-#EXTINF:-1,Nunca Diga Seu Nome
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1846.mp4
-#EXTINF:-1,O Bom Dinossauro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1685.mp4
-#EXTINF:-1,O Circulo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1825.mp4
-#EXTINF:-1,O Contrato
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1852.mp4
-#EXTINF:-1,O Espaco entre Nos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1826.mp4
-#EXTINF:-1,O Ritual
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1850.mp4
-#EXTINF:-1,O Sequestro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1822.mp4
-#EXTINF:-1,Os Pinguins De Madagascar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1689.mp4
-#EXTINF:-1,PaixÃ£o Obsessiva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1844.mp4
-#EXTINF:-1,Passageiros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1848.mp4
-#EXTINF:-1,Pets A Vida Secreta Dos Bichos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1690.mp4
-#EXTINF:-1,Pixels
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1691.mp4
-#EXTINF:-1,Punhos de Sangue
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1849.mp4
-#EXTINF:-1,Rei Arthur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1840.mp4
-#EXTINF:-1,TRAINSPOTTING 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1827.mp4
-#EXTINF:-1,Valente*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1694.mp4
-#EXTINF:-1,Vida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1839.mp4
-#EXTINF:-1,Cine Move
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1420.ts&name=SKY
-#EXTINF:-1,Cine Move 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1813.ts&name=SKY
-#EXTINF:-1,Cine Move 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1814.ts&name=SKY
-#EXTINF:-1,Cine Move 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1815.ts&name=SKY
-#EXTINF:-1,Cine Move 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1861.ts&name=SKY
-#EXTINF:-1,Cine Move 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1862.ts&name=SKY
-#EXTINF:-1,Cine Move 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1863.ts&name=SKY
-#EXTINF:-1,Cine Move 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1864.ts&name=SKY
-#EXTINF:-1,Cine Move 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1865.ts&name=SKY
-#EXTINF:-1,Cine Move 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1866.ts&name=SKY
-#EXTINF:-1,A Fabulosa Gilly Hopkins
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1959.mp4
-#EXTINF:-1,A Lei da Noite
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1960.mp4
-#EXTINF:-1,A Peregrinacao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1962.mp4
-#EXTINF:-1,A Promessa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1963.mp4
-#EXTINF:-1,Andron
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1965.mp4
-#EXTINF:-1,Animais Noturnos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1966.mp4
-#EXTINF:-1,Anjos da Noite - Guerras de Sangue
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1967.mp4
-#EXTINF:-1,Antes Que Eu Va
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1968.mp4
-#EXTINF:-1,Armas Na Mesa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1969.mp4
-#EXTINF:-1,As Aventuras de Ozzy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1970.mp4
-#EXTINF:-1,Beyond the Call to Duty
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1974.mp4
-#EXTINF:-1,Busca Sem Limites
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1973.mp4
-#EXTINF:-1,Campo Minado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1975.mp4
-#EXTINF:-1,Cao Selvagem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1976.mp4
-#EXTINF:-1,Get the Girl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1972.mp4
-#EXTINF:-1,Hacksaw Ridge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1971.mp4
-#EXTINF:-1,A Filha do Patrao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2066.mp4
-#EXTINF:-1,Alice - O Lado Negro do Espelho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2065.mp4
-#EXTINF:-1,Estrelas Alem do tempo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2069.mp4
-#EXTINF:-1,Filha de Deus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2070.mp4
-#EXTINF:-1,Frank e Lola - Amor Obsessivo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2071.mp4
-#EXTINF:-1,MonsterTrucks
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2075.mp4
-#EXTINF:-1,Mulheres do Seculo 20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2074.mp4
-#EXTINF:-1,Rei Arthur: A Lenda da Espada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2073.mp4
-#EXTINF:-1,TOC - Transtornada Compulsiva Obseciva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2072.mp4
-#EXTINF:-1,Complete Unknown
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2067.mp4
-#EXTINF:-1,Drone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2068.mp4
-#EXTINF:-1,Hard Sell CO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2083.mp4
-#EXTINF:-1,Colossal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2084.mp4
-#EXTINF:-1,Jackie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2086.mp4
-#EXTINF:-1,Free Fire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2085.mp4
-#EXTINF:-1,Lion - Uma Jornada Para Casa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2088.mp4
-#EXTINF:-1,Patriots Day
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2089.mp4
-#EXTINF:-1,La La Land
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2087.mp4
-#EXTINF:-1,Nina Simone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2090.mp4
-#EXTINF:-1,Warcraft
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2093.mp4
-#EXTINF:-1,Max Steel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2092.mp4
-#EXTINF:-1,Alien: Covenant
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2094.mp4
-#EXTINF:-1,Minha Vida De Abobrinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2101.mp4
-#EXTINF:-1,Amantes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2102.mp4
-#EXTINF:-1,The Good Neighbor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2103.mp4
-#EXTINF:-1,Um Limite Entre Nos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2104.mp4
-#EXTINF:-1,Raze
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2105.mp4
-#EXTINF:-1,Moonlight: Sob a Luz do Luar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2113.mp4
-#EXTINF:-1,Mr. Right
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2115.mp4
-#EXTINF:-1,Natal as Escuras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2114.mp4
-#EXTINF:-1,The Diary of Anne Frank
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2117.mp4
-#EXTINF:-1,O Chamado 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2116.mp4
-#EXTINF:-1,O Homem da Meia Noite
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2119.mp4
-#EXTINF:-1,Planeta dos Macacos - A Guerra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2131.mp4
-#EXTINF:-1,Sem Perdao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2142.mp4
-#EXTINF:-1,Triple 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2143.mp4
-#EXTINF:-1,A Noite e Delas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2136.mp4
-#EXTINF:-1,American Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2137.mp4
-#EXTINF:-1,Warrior's Gate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2150.mp4
-#EXTINF:-1,Resident Evil 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2152.mp4
-#EXTINF:-1,Sangue Pela Gloria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2153.mp4
-#EXTINF:-1,Te Pego na Saida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2154.mp4
-#EXTINF:-1,Snowden - Heroi ou Traidor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2155.mp4
-#EXTINF:-1,Um Homem Chamado Ove
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2156.mp4
-#EXTINF:-1,Onde Esta Segunda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2157.mp4
-#EXTINF:-1,Uma Historia de Vinganca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2158.mp4
-#EXTINF:-1,Resident Evil: Vendetta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2164.mp4
-#EXTINF:-1,xXx: Return of Xander Cage
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2161.mp4
-#EXTINF:-1,Um Mergulho No Passado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2163.mp4
-#EXTINF:-1,A Kind of Murder
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2162.mp4
-#EXTINF:-1,Paris Pode Esperar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2169.mp4
-#EXTINF:-1,50 Tons Mais Escuros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1991.mp4
-#EXTINF:-1,A Ultima Ressaca do Ano
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2095.mp4
-#EXTINF:-1,As aventuras Do Capitao Cueca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2165.mp4
-#EXTINF:-1,Descendentes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1675.mp4
-#EXTINF:-1,Don't Think Twice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2118.mp4
-#EXTINF:-1,Em Ritmo de Fuga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1823.mp4
-#EXTINF:-1,Forsaken
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2151.mp4
-#EXTINF:-1,Fragmentado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1830.mp4
-#EXTINF:-1,Galinha Pintadinha 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1676.mp4
-#EXTINF:-1,Galinha Pintadinha 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1677.mp4
-#EXTINF:-1,Galinha Pintadinha 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1678.mp4
-#EXTINF:-1,Galinha Pintadinha 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1679.mp4
-#EXTINF:-1,Laid In America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1994.mp4
-#EXTINF:-1,Limitless 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1842.mp4
-#EXTINF:-1,Lucas Formigueiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1681.mp4
-#EXTINF:-1,Mune - Guardiao da Lua
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2167.mp4
-#EXTINF:-1,My Pet Dinossauro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2168.mp4
-#EXTINF:-1,Os Croods
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1688.mp4
-#EXTINF:-1,Red Sky
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1990.mp4
-#EXTINF:-1,Rock Dog
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2097.mp4
-#EXTINF:-1,Shepherds and Butchers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1992.mp4
-#EXTINF:-1,Tempos de Violencia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1853.mp4
-#EXTINF:-1,The Nut Job 2 Nutty by Nature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2177.mp4
-#EXTINF:-1,The Model
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2096.mp4
-#EXTINF:-1,Tinha Que Ser Ele
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2098.mp4
-#EXTINF:-1,Carros 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2166.mp4
-#EXTINF:-1,Castelo de Areia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/1989.mp4
-#EXTINF:-1,6 Below Miracle on the Mountain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2170.mp4
-#EXTINF:-1,Jackals
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2172.mp4
-#EXTINF:-1,Logan Lucky
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2173.mp4
-#EXTINF:-1,Uma Verdade Mais Inconveniente
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2178.mp4
-#EXTINF:-1,Valerian and the City of a Thousand Planets
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2179.mp4
-#EXTINF:-1,kingsman: O Circulo Dourado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2278.mp4
-#EXTINF:-1,O Assassino: o Primeiro Alvo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2280.mp4
-#EXTINF:-1,Her Dark Past / The Many Faces of Alice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2279.mp4
-#EXTINF:-1,Storm: Letters van Vuur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2276.mp4
-#EXTINF:-1,Una
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2321.mp4
-#EXTINF:-1,Eu Daniel Blake
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2320.mp4
-#EXTINF:-1,A Baba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2323.mp4
-#EXTINF:-1,Olaf Em Uma Aventura Congelante
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2332.mp4
-#EXTINF:-1,Bruxarias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2331.mp4
-#EXTINF:-1,Ghost Patrol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2333.mp4
-#EXTINF:-1,TÃ¡ Chovendo Hamburger
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2334.mp4
-#EXTINF:-1,TÃ¡ Chovendo Hamburger 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2335.mp4
-#EXTINF:-1,Frozen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2336.mp4
-#EXTINF:-1,BEN 10 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2369.ts&name=SKY
-#EXTINF:-1,CAVALEIROS ZODIACO 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2370.ts&name=SKY
-#EXTINF:-1,O MASCARA 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2371.ts&name=SKY
-#EXTINF:-1,OS SIMPSONS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2368.ts&name=SKY
-#EXTINF:-1,Feito Na America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2646.mp4
-#EXTINF:-1,Bright
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2733.mp4
-#EXTINF:-1,Tom e Jerry
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2647.ts&name=SKY
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2659.ts&name=SKY
-#EXTINF:-1,Disney Jr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2660.ts&name=SKY
-#EXTINF:-1,Deutsch+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2656.ts&name=SKY
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2661.ts&name=SKY
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2662.ts&name=SKY
-#EXTINF:-1,Emoji
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/movie/pedroraposo/123456/2277.mp4
-#EXTINF:-1,Anitta Planeta AtlÃ¢ntida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2135.ts&name=SKY
-#EXTINF:-1,Bruno e Marrone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2134.ts&name=SKY
-#EXTINF:-1,Henrique e Juliano no Salvador Fest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2132.ts&name=SKY
-#EXTINF:-1,Show CabarÃ©
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2133.ts&name=SKY
-#EXTINF:-1,AviÃµes do ForrÃ³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1859.ts&name=SKY
-#EXTINF:-1,Jorge Matheus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1857.ts&name=SKY
-#EXTINF:-1,Maiara e Maraisa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1860.ts&name=SKY
-#EXTINF:-1,Marilha MendonÃ§a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1856.ts&name=SKY
-#EXTINF:-1,Wesley safadÃ£o
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1858.ts&name=SKY
-#EXTINF:-1,RÃ¡dio ForrÃ³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/139.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Funk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/141.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Gospel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/142.ts&name=SKY
-#EXTINF:-1,Radio Jovem Pan FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/143.ts&name=SKY
-#EXTINF:-1,Radio Mania Estacao Volta Redonda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2352.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Pagode
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/140.ts&name=SKY
-#EXTINF:-1,Radio Contemporanea AM 990
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2345.ts&name=SKY
-#EXTINF:-1,Radio Mania Juiz de Fora
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2349.ts&name=SKY
-#EXTINF:-1,Radio Melodia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2354.ts&name=SKY
-#EXTINF:-1,Radio Mania RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2353.ts&name=SKY
-#EXTINF:-1,Radio TUPI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2355.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Rock ClÃ¡ssico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/136.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Sertanejo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/134.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Sertanejo UniversitÃ¡rio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/135.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Talisma FM PB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1794.ts&name=SKY
-#EXTINF:-1,Radio FM O Dia 100.5 RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2346.ts&name=SKY
-#EXTINF:-1,Radio Mania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2347.ts&name=SKY
-#EXTINF:-1,RÃ¡dio Band News FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1937.ts&name=SKY
-#EXTINF:-1,Radio Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/1936.ts&name=SKY
-#EXTINF:-1,teste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2325.ts&name=SKY
-#EXTINF:-1,Caverna do DragÃ£o
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2364.ts&name=SKY
-#EXTINF:-1,Chaves & Chapolin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.iptvmove.com:25461/live/pedroraposo/123456/2365.ts&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2822.ts&name=MEGASERVER
+#EXTINF:-1,WARNER CHANNEL HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4270.ts&name=MEGASERVER
+#EXTINF:-1,Warner Channel SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2823.ts&name=MEGASERVER
+#EXTINF:-1,Woohoo SD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2821.ts&name=MEGASERVER
