@@ -40,7 +40,7 @@ http://0.0.0.0
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DQvWND" group-title="CANAIS ESPORTES",ESPN Brasil
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?TvFogoHD
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2th4DE" group-title="CANAIS ESPORTES",Espn
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?TvFogoHD
@@ -55,7 +55,7 @@ http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?TvFogoHD?TvFogoHD
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?TvFogoHD
@@ -73,7 +73,7 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?TvFogoHD
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DDDws9" group-title="CANAIS ESPORTES",Fox Sports
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?TvFogoHD
+http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/a7ViYD" group-title="CANAIS ESPORTES",Fox Sports2
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?TvFogoHD
