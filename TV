@@ -1,619 +1,155 @@
 #EXTM3U
-#EXTINF:-1,A&E HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3091.ts&name=MEGASERVER
-#EXTINF:-1,A&E SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3092.ts&name=MEGASERVER
-#EXTINF:-1,AMC HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3089.ts&name=MEGASERVER
-#EXTINF:-1,AMC SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3090.ts&name=MEGASERVER
-#EXTINF:-1,Animal Planet HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3083.ts&name=MEGASERVER
-#EXTINF:-1,Animal Planet SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4480.ts&name=MEGASERVER
-#EXTINF:-1,Animal Planet SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3084.ts&name=MEGASERVER
-#EXTINF:-1,Arte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3081.ts&name=MEGASERVER
-#EXTINF:-1,Arte 1 SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3082.ts&name=MEGASERVER
-#EXTINF:-1,AXN HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3087.ts&name=MEGASERVER
-#EXTINF:-1,AXN SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4477.ts&name=MEGASERVER
-#EXTINF:-1,AXN SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3088.ts&name=MEGASERVER
-#EXTINF:-1,Baby TV SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3078.ts&name=MEGASERVER
-#EXTINF:-1,Band HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3076.ts&name=MEGASERVER
-#EXTINF:-1,Band News SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3075.ts&name=MEGASERVER
-#EXTINF:-1,Band SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3077.ts&name=MEGASERVER
-#EXTINF:-1,Band SP SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4474.ts&name=MEGASERVER
-#EXTINF:-1,Band Sports HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3072.ts&name=MEGASERVER
-#EXTINF:-1,Band Sports SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3073.ts&name=MEGASERVER
-#EXTINF:-1,BBB 18 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3094.ts&name=MEGASERVER
-#EXTINF:-1,BBB 18 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4468.ts&name=MEGASERVER
-#EXTINF:-1,BBB 18 SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4469.ts&name=MEGASERVER
-#EXTINF:-1,BBB 18 SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3095.ts&name=MEGASERVER
-#EXTINF:-1,BIS HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3079.ts&name=MEGASERVER
-#EXTINF:-1,BIS SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3080.ts&name=MEGASERVER
-#EXTINF:-1,Boa Vontade HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3071.ts&name=MEGASERVER
-#EXTINF:-1,Boomerang HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3069.ts&name=MEGASERVER
-#EXTINF:-1,Boomerang SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3070.ts&name=MEGASERVER
-#EXTINF:-1,Canal Brasil HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3066.ts&name=MEGASERVER
-#EXTINF:-1,Canal Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3067.ts&name=MEGASERVER
-#EXTINF:-1,Canal Sony HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3064.ts&name=MEGASERVER
-#EXTINF:-1,Canal Sony SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3065.ts&name=MEGASERVER
-#EXTINF:-1,CanÃ§Ã£o Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3062.ts&name=MEGASERVER
-#EXTINF:-1,CARTOON NETWORK FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4461.ts&name=MEGASERVER
-#EXTINF:-1,Cartoon Network HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3060.ts&name=MEGASERVER
-#EXTINF:-1,Cartoon Network SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3061.ts&name=MEGASERVER
-#EXTINF:-1,Cinemax HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3058.ts&name=MEGASERVER
-#EXTINF:-1,CINEMAX SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4456.ts&name=MEGASERVER
-#EXTINF:-1,CINEMAX SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4455.ts&name=MEGASERVER
-#EXTINF:-1,Cinemax SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3059.ts&name=MEGASERVER
-#EXTINF:-1,CNN Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3068.ts&name=MEGASERVER
-#EXTINF:-1,Combate HD 720 +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4452.ts&name=MEGASERVER
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3056.ts&name=MEGASERVER
-#EXTINF:-1,Combate SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3057.ts&name=MEGASERVER
-#EXTINF:-1,Comedy Central HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3054.ts&name=MEGASERVER
-#EXTINF:-1,Comedy Central SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3055.ts&name=MEGASERVER
-#EXTINF:-1,Conexao BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3053.ts&name=MEGASERVER
-#EXTINF:-1,Cultura HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2857.ts&name=MEGASERVER
-#EXTINF:-1,Cultura SP HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4448.ts&name=MEGASERVER
-#EXTINF:-1,Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3051.ts&name=MEGASERVER
-#EXTINF:-1,Curta! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3052.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Channel FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4446.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Channel HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3049.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Channel SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3050.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Civilization HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3047.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Home & Health HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3045.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Home & Health SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3048.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Home & Health SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3046.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3043.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Investigation SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3044.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Kids HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3041.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Kids SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3042.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Theater HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3037.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Turbo FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3033.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Turbo HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3035.ts&name=MEGASERVER
-#EXTINF:-1,Discovery Turbo SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3036.ts&name=MEGASERVER
-#EXTINF:-1,Discovery World HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3034.ts&name=MEGASERVER
-#EXTINF:-1,Disney Channel HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3031.ts&name=MEGASERVER
-#EXTINF:-1,Disney Channel SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3032.ts&name=MEGASERVER
-#EXTINF:-1,Disney Junior HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3029.ts&name=MEGASERVER
-#EXTINF:-1,Disney Junior SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3030.ts&name=MEGASERVER
-#EXTINF:-1,DISNEY XD HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4431.ts&name=MEGASERVER
-#EXTINF:-1,Disney XD SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3028.ts&name=MEGASERVER
-#EXTINF:-1,E! HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3026.ts&name=MEGASERVER
-#EXTINF:-1,E! SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4428.ts&name=MEGASERVER
-#EXTINF:-1,E! SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3027.ts&name=MEGASERVER
-#EXTINF:-1,EI MAXX HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3096.ts&name=MEGASERVER
-#EXTINF:-1,EI Maxx SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3097.ts&name=MEGASERVER
-#EXTINF:-1,ESPN Brasil HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3021.ts&name=MEGASERVER
-#EXTINF:-1,ESPN Brasil SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3022.ts&name=MEGASERVER
-#EXTINF:-1,ESPN HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3023.ts&name=MEGASERVER
-#EXTINF:-1,ESPN SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3025.ts&name=MEGASERVER
-#EXTINF:-1,Esporte Interativo 2 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3017.ts&name=MEGASERVER
-#EXTINF:-1,Esporte Interativo 2 SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3018.ts&name=MEGASERVER
-#EXTINF:-1,Esporte Interativo BR HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3015.ts&name=MEGASERVER
-#EXTINF:-1,Esporte Interativo BR SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3016.ts&name=MEGASERVER
-#EXTINF:-1,Esporte Interativo HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3019.ts&name=MEGASERVER
-#EXTINF:-1,Esporte Interativo SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3020.ts&name=MEGASERVER
-#EXTINF:-1,Fish TV SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3012.ts&name=MEGASERVER
-#EXTINF:-1,Food Network HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3010.ts&name=MEGASERVER
-#EXTINF:-1,Food Network SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3011.ts&name=MEGASERVER
-#EXTINF:-1,FOX FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4406.ts&name=MEGASERVER
-#EXTINF:-1,FOX HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4407.ts&name=MEGASERVER
-#EXTINF:-1,Fox Life HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4405.ts&name=MEGASERVER
-#EXTINF:-1,Fox Life SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3007.ts&name=MEGASERVER
-#EXTINF:-1,Fox Premium 1 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3005.ts&name=MEGASERVER
-#EXTINF:-1,Fox Premium 2 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3004.ts&name=MEGASERVER
-#EXTINF:-1,FOX SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3009.ts&name=MEGASERVER
-#EXTINF:-1,Fox Sports 2 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2998.ts&name=MEGASERVER
-#EXTINF:-1,Fox Sports 2 SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2999.ts&name=MEGASERVER
-#EXTINF:-1,FOX SPORTS FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3361.ts&name=MEGASERVER
-#EXTINF:-1,Fox Sports HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3000.ts&name=MEGASERVER
-#EXTINF:-1,Fox Sports SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3001.ts&name=MEGASERVER
-#EXTINF:-1,Futura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2996.ts&name=MEGASERVER
-#EXTINF:-1,Futura SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2997.ts&name=MEGASERVER
-#EXTINF:-1,FX HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3013.ts&name=MEGASERVER
-#EXTINF:-1,FX SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3014.ts&name=MEGASERVER
-#EXTINF:-1,Globo Amazonica Manaus SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4392.ts&name=MEGASERVER
-#EXTINF:-1,Globo Anhanguera FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4391.ts&name=MEGASERVER
-#EXTINF:-1,Globo Bauru SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4376.ts&name=MEGASERVER
-#EXTINF:-1,Globo Brasilia HD -
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4390.ts&name=MEGASERVER
-#EXTINF:-1,Globo Brasilia HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2984.ts&name=MEGASERVER
-#EXTINF:-1,Globo Brasilia SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4389.ts&name=MEGASERVER
-#EXTINF:-1,Globo Brasilia SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2985.ts&name=MEGASERVER
-#EXTINF:-1,Globo Gazeta ES HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4395.ts&name=MEGASERVER
-#EXTINF:-1,Globo Gazeta SP HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4393.ts&name=MEGASERVER
-#EXTINF:-1,Globo Internacional FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4387.ts&name=MEGASERVER
-#EXTINF:-1,Globo Internacional SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4388.ts&name=MEGASERVER
-#EXTINF:-1,Globo Minas HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2988.ts&name=MEGASERVER
-#EXTINF:-1,Globo News HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4385.ts&name=MEGASERVER
-#EXTINF:-1,Globo News SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2981.ts&name=MEGASERVER
-#EXTINF:-1,Globo Nordeste HD -
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4384.ts&name=MEGASERVER
-#EXTINF:-1,Globo Nordeste HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2978.ts&name=MEGASERVER
-#EXTINF:-1,Globo Nordeste SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2979.ts&name=MEGASERVER
-#EXTINF:-1,Globo RJ HD -
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4382.ts&name=MEGASERVER
-#EXTINF:-1,Globo RJ HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2992.ts&name=MEGASERVER
-#EXTINF:-1,Globo RJ SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4380.ts&name=MEGASERVER
-#EXTINF:-1,Globo RJ SD (3) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4381.ts&name=MEGASERVER
-#EXTINF:-1,Globo RJ SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2993.ts&name=MEGASERVER
-#EXTINF:-1,Globo Sao Jose Dos Campos SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4379.ts&name=MEGASERVER
-#EXTINF:-1,Globo SP HD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4383.ts&name=MEGASERVER
-#EXTINF:-1,Globo SP HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2990.ts&name=MEGASERVER
-#EXTINF:-1,Globo SP SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4378.ts&name=MEGASERVER
-#EXTINF:-1,Globo SP SD (3) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2991.ts&name=MEGASERVER
-#EXTINF:-1,Globo SP SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4377.ts&name=MEGASERVER
-#EXTINF:-1,GloboSat HD -
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4375.ts&name=MEGASERVER
-#EXTINF:-1,GloboSat HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2970.ts&name=MEGASERVER
-#EXTINF:-1,Globosat SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2971.ts&name=MEGASERVER
-#EXTINF:-1,Gloob HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2968.ts&name=MEGASERVER
-#EXTINF:-1,Gloob SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2969.ts&name=MEGASERVER
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2994.ts&name=MEGASERVER
-#EXTINF:-1,GNT SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2995.ts&name=MEGASERVER
-#EXTINF:-1,H2 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2966.ts&name=MEGASERVER
-#EXTINF:-1,H2 SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2967.ts&name=MEGASERVER
-#EXTINF:-1,HBO 2 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2963.ts&name=MEGASERVER
-#EXTINF:-1,HBO 2 SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2964.ts&name=MEGASERVER
-#EXTINF:-1,HBO Family HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2961.ts&name=MEGASERVER
-#EXTINF:-1,HBO Family SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2962.ts&name=MEGASERVER
-#EXTINF:-1,HBO FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2980.ts&name=MEGASERVER
-#EXTINF:-1,HBO HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2960.ts&name=MEGASERVER
-#EXTINF:-1,HBO Plus e SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2957.ts&name=MEGASERVER
-#EXTINF:-1,HBO Plus HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2958.ts&name=MEGASERVER
-#EXTINF:-1,HBO Plus SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2959.ts&name=MEGASERVER
-#EXTINF:-1,HBO SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2965.ts&name=MEGASERVER
-#EXTINF:-1,HBO Signature HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2955.ts&name=MEGASERVER
-#EXTINF:-1,HBO Signature SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2956.ts&name=MEGASERVER
-#EXTINF:-1,HISTORY CHANNEL FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4370.ts&name=MEGASERVER
-#EXTINF:-1,History Channel HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2953.ts&name=MEGASERVER
-#EXTINF:-1,History Channel SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2954.ts&name=MEGASERVER
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4368.ts&name=MEGASERVER
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4367.ts&name=MEGASERVER
-#EXTINF:-1,IURD TV Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2951.ts&name=MEGASERVER
-#EXTINF:-1,IURD TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2952.ts&name=MEGASERVER
-#EXTINF:-1,Lifetime HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2949.ts&name=MEGASERVER
-#EXTINF:-1,Lifetime SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2950.ts&name=MEGASERVER
-#EXTINF:-1,Max HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2945.ts&name=MEGASERVER
-#EXTINF:-1,Max Prime e +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2942.ts&name=MEGASERVER
-#EXTINF:-1,Max Prime HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2943.ts&name=MEGASERVER
-#EXTINF:-1,Max Prime SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2944.ts&name=MEGASERVER
-#EXTINF:-1,Max SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2946.ts&name=MEGASERVER
-#EXTINF:-1,Max Up HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2940.ts&name=MEGASERVER
-#EXTINF:-1,Max Up SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2941.ts&name=MEGASERVER
-#EXTINF:-1,Megapix HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2938.ts&name=MEGASERVER
-#EXTINF:-1,Megapix SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2939.ts&name=MEGASERVER
-#EXTINF:-1,MTV HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2947.ts&name=MEGASERVER
-#EXTINF:-1,MTV SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2948.ts&name=MEGASERVER
-#EXTINF:-1,Multishow HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2936.ts&name=MEGASERVER
-#EXTINF:-1,Multishow SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2937.ts&name=MEGASERVER
-#EXTINF:-1,Music Box Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2934.ts&name=MEGASERVER
-#EXTINF:-1,Music Box Brasil SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2935.ts&name=MEGASERVER
-#EXTINF:-1,Nat Geo Kids HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2929.ts&name=MEGASERVER
-#EXTINF:-1,Nat Geo Kids SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2930.ts&name=MEGASERVER
-#EXTINF:-1,Nat Geo Wild HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2927.ts&name=MEGASERVER
-#EXTINF:-1,Nat Geo Wild SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2928.ts&name=MEGASERVER
-#EXTINF:-1,Nat Geograph HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2931.ts&name=MEGASERVER
-#EXTINF:-1,Nat Geograph HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2932.ts&name=MEGASERVER
-#EXTINF:-1,NBR SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2933.ts&name=MEGASERVER
-#EXTINF:-1,Nick HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2925.ts&name=MEGASERVER
-#EXTINF:-1,Nick Jr SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2926.ts&name=MEGASERVER
-#EXTINF:-1,NICK SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4478.ts&name=MEGASERVER
-#EXTINF:-1,Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2924.ts&name=MEGASERVER
-#EXTINF:-1,Nickelodeon SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2923.ts&name=MEGASERVER
-#EXTINF:-1,Novo Tempo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2922.ts&name=MEGASERVER
-#EXTINF:-1,Novo Tempo RS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2921.ts&name=MEGASERVER
-#EXTINF:-1,Novo Tempo SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2920.ts&name=MEGASERVER
-#EXTINF:-1,OFF HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2918.ts&name=MEGASERVER
-#EXTINF:-1,OFF SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2919.ts&name=MEGASERVER
-#EXTINF:-1,Paramount Channel HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2915.ts&name=MEGASERVER
-#EXTINF:-1,Paramount Channel SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2916.ts&name=MEGASERVER
-#EXTINF:-1,PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2917.ts&name=MEGASERVER
-#EXTINF:-1,Portal Gospel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2914.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 1 SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4347.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 2 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4346.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 2 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2911.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 2 SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2910.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 3 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2908.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 3 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2909.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 4 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2906.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 4 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2907.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 5 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4345.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 5 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2905.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 5 SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2904.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 6 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4344.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 6 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2903.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 6 SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2902.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 7 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4343.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 7 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2901.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 7 SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2900.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 8 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4349.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 8 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4352.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 9 HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4336.ts&name=MEGASERVER
-#EXTINF:-1,Premiere 9 SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4351.ts&name=MEGASERVER
-#EXTINF:-1,Premiere Clubes FHD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4337.ts&name=MEGASERVER
-#EXTINF:-1,Premiere Clubes HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2912.ts&name=MEGASERVER
-#EXTINF:-1,Premiere Clubes SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3170.ts&name=MEGASERVER
-#EXTINF:-1,Premiere Clubes SD (2) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4348.ts&name=MEGASERVER
-#EXTINF:-1,Premiere Clubes SD (3) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2913.ts&name=MEGASERVER
-#EXTINF:-1,Record HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2896.ts&name=MEGASERVER
-#EXTINF:-1,Record Portugal $
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2892.ts&name=MEGASERVER
-#EXTINF:-1,Record SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2897.ts&name=MEGASERVER
-#EXTINF:-1,Record SP HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2890.ts&name=MEGASERVER
-#EXTINF:-1,RECORD TV SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4330.ts&name=MEGASERVER
-#EXTINF:-1,REDE RECORD FHD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3359.ts&name=MEGASERVER
-#EXTINF:-1,Rede SÃ©culo 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2888.ts&name=MEGASERVER
-#EXTINF:-1,Rede Super SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2889.ts&name=MEGASERVER
-#EXTINF:-1,REDE SUPER SD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4333.ts&name=MEGASERVER
-#EXTINF:-1,Rede TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2886.ts&name=MEGASERVER
-#EXTINF:-1,REDE TV HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4332.ts&name=MEGASERVER
-#EXTINF:-1,Rede TV SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2887.ts&name=MEGASERVER
-#EXTINF:-1,Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2885.ts&name=MEGASERVER
-#EXTINF:-1,SBT Goias HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2883.ts&name=MEGASERVER
-#EXTINF:-1,SBT HD (1) +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2884.ts&name=MEGASERVER
-#EXTINF:-1,SBT HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2882.ts&name=MEGASERVER
-#EXTINF:-1,Space HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2878.ts&name=MEGASERVER
-#EXTINF:-1,Space SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2879.ts&name=MEGASERVER
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2874.ts&name=MEGASERVER
-#EXTINF:-1,SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2875.ts&name=MEGASERVER
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2872.ts&name=MEGASERVER
-#EXTINF:-1,SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2873.ts&name=MEGASERVER
-#EXTINF:-1,SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/3358.ts&name=MEGASERVER
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2876.ts&name=MEGASERVER
-#EXTINF:-1,SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2877.ts&name=MEGASERVER
-#EXTINF:-1,Studio Universal HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2870.ts&name=MEGASERVER
-#EXTINF:-1,Studio Universal SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2871.ts&name=MEGASERVER
-#EXTINF:-1,Syfy HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2868.ts&name=MEGASERVER
-#EXTINF:-1,Syfy SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2869.ts&name=MEGASERVER
-#EXTINF:-1,TBS SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2867.ts&name=MEGASERVER
-#EXTINF:-1,TCM SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2865.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Action HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2852.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Action SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2853.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Cult HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2850.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Cult SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2851.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Fun HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2848.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Fun SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2849.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Pipoca HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2846.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Pipoca SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2847.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Premium HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4296.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Preminum SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4295.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Touch HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2842.ts&name=MEGASERVER
-#EXTINF:-1,Telecine Touch SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2843.ts&name=MEGASERVER
-#EXTINF:-1,Terra Viva - DR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2841.ts&name=MEGASERVER
-#EXTINF:-1,TLC HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2863.ts&name=MEGASERVER
-#EXTINF:-1,TLC SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2864.ts&name=MEGASERVER
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2861.ts&name=MEGASERVER
-#EXTINF:-1,TNT HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4290.ts&name=MEGASERVER
-#EXTINF:-1,TNT SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2862.ts&name=MEGASERVER
-#EXTINF:-1,TNT Series HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2859.ts&name=MEGASERVER
-#EXTINF:-1,TNT Series SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2860.ts&name=MEGASERVER
-#EXTINF:-1,TruTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2839.ts&name=MEGASERVER
-#EXTINF:-1,Tv Aparecida SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2838.ts&name=MEGASERVER
-#EXTINF:-1,TV BAHIA SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4287.ts&name=MEGASERVER
-#EXTINF:-1,TV Brasil SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2858.ts&name=MEGASERVER
-#EXTINF:-1,Tv CÃ¢mara SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2837.ts&name=MEGASERVER
-#EXTINF:-1,TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2856.ts&name=MEGASERVER
-#EXTINF:-1,Tv Gazeta SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2836.ts&name=MEGASERVER
-#EXTINF:-1,Tv Gideoes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4915.ts&name=MEGASERVER
-#EXTINF:-1,TV LIBERAL BELEM SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4280.ts&name=MEGASERVER
-#EXTINF:-1,TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2834.ts&name=MEGASERVER
-#EXTINF:-1,Tv Ra Tim Bum SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2835.ts&name=MEGASERVER
-#EXTINF:-1,TV TEM RIO PRETO SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4279.ts&name=MEGASERVER
-#EXTINF:-1,TV TRIBUNA SANTOS SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4278.ts&name=MEGASERVER
-#EXTINF:-1,TV Verdade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2855.ts&name=MEGASERVER
-#EXTINF:-1,TV VERDES MARES FORTALEZA SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4277.ts&name=MEGASERVER
-#EXTINF:-1,TV VITORIA SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4276.ts&name=MEGASERVER
-#EXTINF:-1,Universal Channel HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2832.ts&name=MEGASERVER
-#EXTINF:-1,Universal Channel SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2833.ts&name=MEGASERVER
-#EXTINF:-1,Vem & VÃª TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2828.ts&name=MEGASERVER
-#EXTINF:-1,Vem & VÃª TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2827.ts&name=MEGASERVER
-#EXTINF:-1,Vem & VÃª TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2826.ts&name=MEGASERVER
-#EXTINF:-1,VH1 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2830.ts&name=MEGASERVER
-#EXTINF:-1,VH1 Mega Hits SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2829.ts&name=MEGASERVER
-#EXTINF:-1,VH1 SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2831.ts&name=MEGASERVER
-#EXTINF:-1,VIRGIN TV HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4273.ts&name=MEGASERVER
-#EXTINF:-1,Viva HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2824.ts&name=MEGASERVER
-#EXTINF:-1,Viva SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2825.ts&name=MEGASERVER
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2822.ts&name=MEGASERVER
-#EXTINF:-1,WARNER CHANNEL HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/4270.ts&name=MEGASERVER
-#EXTINF:-1,Warner Channel SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2823.ts&name=MEGASERVER
-#EXTINF:-1,Woohoo SD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.masterr.cf:25461/live/Carlos/Bm5ADfIAGw/2821.ts&name=MEGASERVER
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",Globo
+http://switch01.servep2p.com/020/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",Globo 2
+http://switch01.servep2p.com/021/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",GLOBO 3
+http://switch03.serveexchange.com/095/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SBT
+http://switch01.servep2p.com/031/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",BAND
+http://switch03.serveexchange.com/081/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",REDETV
+http://switch02.golffan.us/063/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",GLOBO NEWS
+http://switch03.serveexchange.com/076/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",LIFE TIME
+http://switch03.serveexchange.com/090/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",BIS
+http://switch02.golffan.us/061/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",BANDNEWS
+http://switch01.servep2p.com/032/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",RECORNWES
+http://switch02.golffan.us/049/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",COMBATE
+http://switch01.servep2p.com/016/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",CURTA
+http://switch01.servep2p.com/014/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SUNDANCE TV
+http://switch01.servep2p.com/010/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",AMC
+http://switch01.servep2p.com/007/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",BABY TV
+http://switch03.serveexchange.com/066/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SEM NOME
+http://switch03.serveexchange.com/088/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",DISNEY
+http://switch03.serveexchange.com/075/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",DISNEY XD
+http://switch03.serveexchange.com/086/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TOOCAST
+http://switch03.serveexchange.com/085/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",BOOMERANG
+http://switch03.serveexchange.com/091/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",CARTOON NETWORK
+http://switch01.servep2p.com/027/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",NICK
+http://switch03.serveexchange.com/077/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",NICK JR.
+http://switch02.golffan.us/052/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",ZOOMOO
+http://switch01.servep2p.com/006/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",STUDIO UNIVERSAL
+http://switch03.serveexchange.com/096/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",PARAMOUNT
+http://switch01.servep2p.com/004/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",COMEDY CENTRAL
+http://switch01.servep2p.com/030/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SONY
+http://switch01.servep2p.com/003/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TBS
+http://switch02.golffan.us/038/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",FOX LIFE
+http://switch03.serveexchange.com/083/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SEM NOME
+http://switch03.serveexchange.com/084/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",VH1
+http://switch02.golffan.us/040/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",VIVA
+http://switch03.serveexchange.com/079/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TCM
+http://switch02.golffan.us/039/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",MTV
+http://switch03.serveexchange.com/072/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",MULTISHOW
+http://switch01.servep2p.com/022/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",HISTORY
+http://switch01.servep2p.com/024/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",H2
+http://switch02.golffan.us/054/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",DISCOVERY SCIENCE
+http://switch03.serveexchange.com/074/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",DISCOVERY TURBO
+http://switch01.servep2p.com/026/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",DISCOVERY CIVILIZATION
+http://switch02.golffan.us/050/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",DISCOVERY WORLD
+http://switch03.serveexchange.com/094/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",NATGEO WILD
+http://switch03.serveexchange.com/082/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TCL
+http://switch02.golffan.us/034/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",ID
+http://switch02.golffan.us/056/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TNT SERIES
+http://switch01.servep2p.com/025/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",MEGAPIX
+http://switch02.golffan.us/033/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",FOX
+http://switch02.golffan.us/064/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SPACE
+http://switch01.servep2p.com/029/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",WARNER
+http://switch03.serveexchange.com/080/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",E!
+http://switch03.serveexchange.com/070/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",AXN
+http://switch03.serveexchange.com/078/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SYFY
+http://switch03.serveexchange.com/093/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",CINEMAX
+http://switch02.golffan.us/035/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",UNIVERSAL
+http://switch03.serveexchange.com/068/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TC PIPOCA
+http://switch03.serveexchange.com/065/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TC FUN
+http://switch02.golffan.us/060/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",TC ACTION
+http://switch03.serveexchange.com/069/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",HBO
+http://switch02.golffan.us/053/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",HBO 2
+http://switch02.golffan.us/047/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",HBO SIGNATURE
+http://switch03.serveexchange.com/071/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",HBO PLUS
+http://switch02.golffan.us/037/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",MAX
+http://switch02.golffan.us/051/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",MAX UP
+http://switch02.golffan.us/045/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",MAXPRIME
+http://switch03.serveexchange.com/092/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",COMBATE
+http://switch01.servep2p.com/016/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",ESPORTE INTERATIVO
+http://switch02.golffan.us/048/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",FOX SPORTS 
+http://switch02.golffan.us/036/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",FOX SPORTS *
+http://198.255.22.59:18082/TV1459?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8?TvFogoHD
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SPORTV
+http://198.255.22.59:18082/TV1456?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SPORTV 2
+http://198.255.22.59:18082/TV1251?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",SPORTV 3
+http://198.255.22.59:18082/TV1252?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",PREMIERE 2
+http://switch02.golffan.us/044/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",PREMIERE 3
+http://switch02.golffan.us/043/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",PREMIERE 4
+http://switch02.golffan.us/042/myStream/playlist.m3u8?TvFogoHD.ts
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS VIP",PREMIERE 5
+http://switch02.golffan.us/041/myStream/playlist.m3u8?TvFogoHD.ts
