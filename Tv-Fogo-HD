@@ -102,7 +102,8 @@ http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?TvFogoHD
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
 http://0.0.0.0
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/HHbP4lo.jpg" group-title="DESENHOS",GOSPEL CARTOONS
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3Hf1ah" group-title="CANAIS DOCUMENTARIOS",[COLOR yellow][B]CANAIS DOCUMENTARIOS[/B][/COLOR]
 http://0.0.0.0
