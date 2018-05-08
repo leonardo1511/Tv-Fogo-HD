@@ -36,32 +36,35 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?TvFogoHD
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://goo.gl/PK6iRY" group-title="CANAIS ESPORTES",Pfc
+http://apk.goo.ac:8081/live/4/playlist.m3u8?TvFogoHD
+
 #EXTINF:-1 tvg-logo="https://goo.gl/PK6iRY" group-title="CANAIS ESPORTES",Premiere Clubes
-http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/16/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DQvWND" group-title="CANAIS ESPORTES",ESPN Brasil
-http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/19/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2th4DE" group-title="CANAIS ESPORTES",Espn
-http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/3/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
 http://stream.bplaymove.com:8080/ebandsporthd/index.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
-http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?TvFogoHD?TvFogoHD
+http://apk.goo.ac:8081/live/20/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/uzYfX5" group-title="CANAIS ESPORTES",Sportv 2
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/15/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
-http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/7/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
-http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/8/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/yVN6f4" group-title="CANAIS ESPORTES",EI Maxx 2
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/2/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/SUJxnt" group-title="CANAIS ESPORTES", Esporte Interativo
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_400.m3u8?TvFogoHD?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
@@ -73,10 +76,10 @@ http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?TvFogoHD
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DDDws9" group-title="CANAIS ESPORTES",Fox Sports
-http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/4/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/a7ViYD" group-title="CANAIS ESPORTES",Fox Sports2
-http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?TvFogoHD
+http://apk.goo.ac:8081/live/19/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
 http://0.0.0.0
