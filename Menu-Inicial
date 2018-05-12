@@ -11,6 +11,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Canais Do Rede Canais[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Canais-Rede-Canais</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]FILMES {Tv Fogo HD}[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/UstPceh.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Menu-Filmes</externallink>
