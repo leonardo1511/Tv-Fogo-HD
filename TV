@@ -1,556 +1,556 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",A&E
-http://painel.kingiptv.com.br:25461/live/admin/admin/6336.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6336.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",A&E HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6335.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6335.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AMC
-http://painel.kingiptv.com.br:25461/live/admin/admin/6334.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6334.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AMC HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6333.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6333.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AXN
-http://painel.kingiptv.com.br:25461/live/admin/admin/6332.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6332.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AXN HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6331.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6331.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Amazon Sat
-http://painel.kingiptv.com.br:25461/live/admin/admin/6330.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6330.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Animal Planet
-http://painel.kingiptv.com.br:25461/live/admin/admin/6329.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6329.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Animal Planet HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6328.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6328.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",BIS
-http://painel.kingiptv.com.br:25461/live/admin/admin/6327.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6327.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",BIS HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6326.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6326.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Baby TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6325.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6325.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Baby TV HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6324.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6324.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band
-http://painel.kingiptv.com.br:25461/live/admin/admin/6323.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6323.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6322.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6322.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band News
-http://painel.kingiptv.com.br:25461/live/admin/admin/6321.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6321.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band News HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6320.m3u8?formigatv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band Sporm3u8?formigatv
-http://painel.kingiptv.com.br:25461/live/admin/admin/6319.m3u8?formigatv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band Sporm3u8?formigatv HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6318.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6320.ts&name=SKY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band Sports&name=SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6319.ts&name=SKY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band Sports&name=SKY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6318.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Boomerang
-http://painel.kingiptv.com.br:25461/live/admin/admin/6317.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6317.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Boomerang HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6316.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6316.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",CNN International
-http://painel.kingiptv.com.br:25461/live/admin/admin/6315.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6315.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",CNT
-http://painel.kingiptv.com.br:25461/live/admin/admin/6297.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6297.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Brasil
-http://painel.kingiptv.com.br:25461/live/admin/admin/6314.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6314.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Rural
-http://painel.kingiptv.com.br:25461/live/admin/admin/6298.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6298.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Sony
-http://painel.kingiptv.com.br:25461/live/admin/admin/6313.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6313.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Sony HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6312.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6312.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cartoon Network
-http://painel.kingiptv.com.br:25461/live/admin/admin/6311.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6311.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cartoon Network FHD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6309.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6309.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cartoon Network HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6310.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6310.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cine
-http://painel.kingiptv.com.br:25461/live/admin/admin/6307.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6307.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cine Sky
-http://painel.kingiptv.com.br:25461/live/admin/admin/6308.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6308.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cinemax
-http://painel.kingiptv.com.br:25461/live/admin/admin/6306.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6306.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cinemax HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6305.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6305.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Classique TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6304.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6304.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Combate
-http://painel.kingiptv.com.br:25461/live/admin/admin/6303.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6303.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Combate HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6301.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6301.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Combate FHD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6302.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6302.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Comedy Central
-http://painel.kingiptv.com.br:25461/live/admin/admin/6300.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6300.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Comedy Central HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6299.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6299.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Channel
-http://painel.kingiptv.com.br:25461/live/admin/admin/6296.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6296.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Channel HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6295.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6295.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Civilization
-http://painel.kingiptv.com.br:25461/live/admin/admin/6294.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6294.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Civilization HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6293.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6293.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery H&H
-http://painel.kingiptv.com.br:25461/live/admin/admin/6292.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6292.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery H&H HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6291.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6291.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Kids
-http://painel.kingiptv.com.br:25461/live/admin/admin/6290.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6290.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Kids HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6289.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6289.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Science
-http://painel.kingiptv.com.br:25461/live/admin/admin/6288.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6288.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Science HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6287.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6287.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Theater
-http://painel.kingiptv.com.br:25461/live/admin/admin/6286.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6286.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Theater HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6285.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6285.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Turbo
-http://painel.kingiptv.com.br:25461/live/admin/admin/6284.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6284.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Turbo HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6283.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6283.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery World
-http://painel.kingiptv.com.br:25461/live/admin/admin/6282.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6282.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery World HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6281.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6281.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Channel
-http://painel.kingiptv.com.br:25461/live/admin/admin/6280.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6280.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Channel HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6279.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6279.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Junior
-http://painel.kingiptv.com.br:25461/live/admin/admin/6278.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6278.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Junior HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6277.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6277.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney XD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6276.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6276.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney XD HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6275.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6275.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",E!
-http://painel.kingiptv.com.br:25461/live/admin/admin/6274.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6274.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",E! HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6273.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6273.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx
-http://painel.kingiptv.com.br:25461/live/admin/admin/6272.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6272.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx 2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6270.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6270.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx 2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6269.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6269.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6271.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6271.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN
-http://painel.kingiptv.com.br:25461/live/admin/admin/6268.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6268.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN Brasil
-http://painel.kingiptv.com.br:25461/live/admin/admin/6266.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6266.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN Brasil HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6265.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6265.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6267.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6267.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN  HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6264.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6264.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo
-http://painel.kingiptv.com.br:25461/live/admin/admin/6263.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6263.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo 2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6261.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6261.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo 2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6260.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6260.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6262.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6262.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",FX
-http://painel.kingiptv.com.br:25461/live/admin/admin/6259.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6259.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",FX HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6258.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6258.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fish TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6257.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6257.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fish  TV HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6256.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6256.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Food Network
-http://painel.kingiptv.com.br:25461/live/admin/admin/6255.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6255.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Food Network HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6254.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6254.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox
-http://painel.kingiptv.com.br:25461/live/admin/admin/6253.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6253.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6252.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6252.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Life
-http://painel.kingiptv.com.br:25461/live/admin/admin/6251.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6251.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Life HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6250.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6250.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 1
-http://painel.kingiptv.com.br:25461/live/admin/admin/6249.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6249.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 1 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6248.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6248.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6247.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6247.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6246.m3u8?formigatv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sporm3u8?formigatv*
-http://painel.kingiptv.com.br:25461/live/admin/admin/6245.m3u8?formigatv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sporm3u8?formigatv* 2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6243.m3u8?formigatv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sporm3u8?formigatv* 2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6242.m3u8?formigatv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sporm3u8?formigatv* HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6244.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6246.ts&name=SKY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6245.ts&name=SKY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY* 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6243.ts&name=SKY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY* 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6242.ts&name=SKY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY* HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6244.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Futura
-http://painel.kingiptv.com.br:25461/live/admin/admin/6241.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6241.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Futura HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6240.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6240.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",GNT
-http://painel.kingiptv.com.br:25461/live/admin/admin/6239.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6239.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",GNT HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6238.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6238.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Amazonas
-http://painel.kingiptv.com.br:25461/live/admin/admin/6237.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6237.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Anhanguera Goiania
-http://painel.kingiptv.com.br:25461/live/admin/admin/6236.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6236.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Bahia HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6235.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6235.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Brasilia
-http://painel.kingiptv.com.br:25461/live/admin/admin/6234.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6234.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Cuiaba
-http://painel.kingiptv.com.br:25461/live/admin/admin/6233.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6233.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV Campinas
-http://painel.kingiptv.com.br:25461/live/admin/admin/6232.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6232.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV Campinas HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6231.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6231.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV Ribeirão Preto
-http://painel.kingiptv.com.br:25461/live/admin/admin/6230.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6230.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV São Carlos
-http://painel.kingiptv.com.br:25461/live/admin/admin/6229.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6229.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo MG
-http://painel.kingiptv.com.br:25461/live/admin/admin/6228.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6228.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo MG FHD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6226.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6226.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo MG HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6227.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6227.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo News
-http://painel.kingiptv.com.br:25461/live/admin/admin/6208.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6208.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo News HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6207.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6207.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Nordeste
-http://painel.kingiptv.com.br:25461/live/admin/admin/6225.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6225.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Nordeste HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6224.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6224.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RBS Porto Alegre
-http://painel.kingiptv.com.br:25461/live/admin/admin/6219.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6219.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RJ
-http://painel.kingiptv.com.br:25461/live/admin/admin/6223.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6223.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RJ HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6222.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6222.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RJ HD H265
-http://painel.kingiptv.com.br:25461/live/admin/admin/6221.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6221.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Rio Preto
-http://painel.kingiptv.com.br:25461/live/admin/admin/6220.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6220.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo SP
-http://painel.kingiptv.com.br:25461/live/admin/admin/6218.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6218.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo SP HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6217.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6217.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo SP HD H265
-http://painel.kingiptv.com.br:25461/live/admin/admin/6216.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6216.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Belem
-http://painel.kingiptv.com.br:25461/live/admin/admin/6215.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6215.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Cabugi
-http://painel.kingiptv.com.br:25461/live/admin/admin/6214.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6214.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Tem Bauru
-http://painel.kingiptv.com.br:25461/live/admin/admin/6213.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6213.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Tem Sorocaba
-http://painel.kingiptv.com.br:25461/live/admin/admin/6212.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6212.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Tribuna Santos
-http://painel.kingiptv.com.br:25461/live/admin/admin/6211.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6211.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Vanguarda S.J dos Campos
-http://painel.kingiptv.com.br:25461/live/admin/admin/6210.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6210.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Verdes Mares Fortaleza
-http://painel.kingiptv.com.br:25461/live/admin/admin/6209.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6209.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globosat
-http://painel.kingiptv.com.br:25461/live/admin/admin/6203.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6203.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globosat   HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6202.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6202.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gloob
-http://painel.kingiptv.com.br:25461/live/admin/admin/6201.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6201.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gloob HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6200.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6200.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gospel Cartoon TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6206.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6206.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gospel Movies TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6205.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6205.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gospel Music TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6204.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6204.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",H2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6199.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6199.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",H2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6198.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6198.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO
-http://painel.kingiptv.com.br:25461/live/admin/admin/6197.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6197.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO 2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6195.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6195.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO 2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6194.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6194.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Family
-http://painel.kingiptv.com.br:25461/live/admin/admin/6193.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6193.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Family HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6192.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6192.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6196.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6196.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus
-http://painel.kingiptv.com.br:25461/live/admin/admin/6191.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6191.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6190.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6190.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus*e
-http://painel.kingiptv.com.br:25461/live/admin/admin/6189.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6189.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus*e HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6188.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6188.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Signature
-http://painel.kingiptv.com.br:25461/live/admin/admin/6187.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6187.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Signature HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6186.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6186.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",History Channel
-http://painel.kingiptv.com.br:25461/live/admin/admin/6185.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6185.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",History Channel HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6184.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6184.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",I-Sat
-http://painel.kingiptv.com.br:25461/live/admin/admin/6183.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6183.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Investigação Discovery
-http://painel.kingiptv.com.br:25461/live/admin/admin/6182.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6182.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Investigação Discovery HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6181.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6181.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Lifetime
-http://painel.kingiptv.com.br:25461/live/admin/admin/6180.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6180.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Lifetime HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6179.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6179.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",MTV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6178.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6178.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",MTV HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6177.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6177.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max
-http://painel.kingiptv.com.br:25461/live/admin/admin/6176.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6176.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6175.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6175.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime
-http://painel.kingiptv.com.br:25461/live/admin/admin/6174.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6174.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6173.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6173.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime*e
-http://painel.kingiptv.com.br:25461/live/admin/admin/6172.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6172.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime*e HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6171.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6171.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Up
-http://painel.kingiptv.com.br:25461/live/admin/admin/6170.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6170.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Up HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6169.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6169.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Megapix
-http://painel.kingiptv.com.br:25461/live/admin/admin/6168.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6168.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Megapix HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6167.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6167.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Multishow
-http://painel.kingiptv.com.br:25461/live/admin/admin/6166.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6166.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Multishow HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6165.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6165.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Music Box Brazil
-http://painel.kingiptv.com.br:25461/live/admin/admin/6164.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6164.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NBR
-http://painel.kingiptv.com.br:25461/live/admin/admin/6153.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6153.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Kids
-http://painel.kingiptv.com.br:25461/live/admin/admin/6163.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6163.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Kids HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6162.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6162.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Wild
-http://painel.kingiptv.com.br:25461/live/admin/admin/6161.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6161.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Wild HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6160.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6160.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",National Geographic
-http://painel.kingiptv.com.br:25461/live/admin/admin/6159.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6159.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",National Geographic HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6158.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6158.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nick Jr
-http://painel.kingiptv.com.br:25461/live/admin/admin/6157.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6157.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nick Jr HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6156.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6156.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nickelodeon
-http://painel.kingiptv.com.br:25461/live/admin/admin/6155.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6155.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nickelodeon HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6154.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6154.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Novo Tempo
-http://painel.kingiptv.com.br:25461/live/admin/admin/6152.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6152.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",OFF
-http://painel.kingiptv.com.br:25461/live/admin/admin/6151.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6151.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",OFF HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6150.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6150.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Paramount
-http://painel.kingiptv.com.br:25461/live/admin/admin/6149.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6149.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Paramount HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6148.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6148.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Pica Pau 24 Hs (Teste)
-http://painel.kingiptv.com.br:25461/live/admin/admin/6061.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6061.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Play TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6147.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6147.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Polishop Tv
-http://painel.kingiptv.com.br:25461/live/admin/admin/6146.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6146.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 1
-http://painel.kingiptv.com.br:25461/live/admin/admin/6145.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6145.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6144.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6144.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6143.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6143.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 3
-http://painel.kingiptv.com.br:25461/live/admin/admin/6142.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6142.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 3 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6141.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6141.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 4
-http://painel.kingiptv.com.br:25461/live/admin/admin/6140.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6140.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 4 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6139.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6139.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 5
-http://painel.kingiptv.com.br:25461/live/admin/admin/6138.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6138.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 5 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6137.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6137.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 6
-http://painel.kingiptv.com.br:25461/live/admin/admin/6136.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6136.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 7
-http://painel.kingiptv.com.br:25461/live/admin/admin/6135.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6135.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 8
-http://painel.kingiptv.com.br:25461/live/admin/admin/6134.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6134.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 9
-http://painel.kingiptv.com.br:25461/live/admin/admin/6133.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6133.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere Clubes
-http://painel.kingiptv.com.br:25461/live/admin/admin/6132.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6132.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere Clubes HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6131.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6131.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record
-http://painel.kingiptv.com.br:25461/live/admin/admin/6130.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6130.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record FHD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6128.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6128.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6129.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6129.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record News
-http://painel.kingiptv.com.br:25461/live/admin/admin/6127.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6127.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record News HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6126.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6126.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede TV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6125.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6125.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede TV HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6124.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6124.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede Vida
-http://painel.kingiptv.com.br:25461/live/admin/admin/6123.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6123.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede Vida HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6122.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6122.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rit Tv
-http://painel.kingiptv.com.br:25461/live/admin/admin/6121.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6121.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SBT
-http://painel.kingiptv.com.br:25461/live/admin/admin/6120.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6120.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SBT HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6119.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6119.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Space
-http://painel.kingiptv.com.br:25461/live/admin/admin/6118.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6118.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Space HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6117.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6117.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV
-http://painel.kingiptv.com.br:25461/live/admin/admin/6116.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6116.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 2
-http://painel.kingiptv.com.br:25461/live/admin/admin/6114.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6114.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 2 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6113.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6113.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 3
-http://painel.kingiptv.com.br:25461/live/admin/admin/6112.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6112.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 3 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6111.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6111.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6115.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6115.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Studio Universal
-http://painel.kingiptv.com.br:25461/live/admin/admin/6110.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6110.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Studio Universal HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6109.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6109.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SyFy
-http://painel.kingiptv.com.br:25461/live/admin/admin/6108.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6108.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SyFy HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6107.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6107.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TBS
-http://painel.kingiptv.com.br:25461/live/admin/admin/6106.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6106.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TBS HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6105.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6105.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TCM
-http://painel.kingiptv.com.br:25461/live/admin/admin/6104.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6104.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TCM HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6103.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6103.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TLC
-http://painel.kingiptv.com.br:25461/live/admin/admin/6102.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6102.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TLC HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6101.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6101.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT
-http://painel.kingiptv.com.br:25461/live/admin/admin/6100.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6100.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6099.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6099.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT Séries
-http://painel.kingiptv.com.br:25461/live/admin/admin/6098.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6098.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT Séries HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6097.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6097.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Aparecida
-http://painel.kingiptv.com.br:25461/live/admin/admin/6081.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6081.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Aparecida HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6080.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6080.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Justiça
-http://painel.kingiptv.com.br:25461/live/admin/admin/6078.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6078.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Ra Ti Bum
-http://painel.kingiptv.com.br:25461/live/admin/admin/6074.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6074.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Action
-http://painel.kingiptv.com.br:25461/live/admin/admin/6094.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6094.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Action HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6093.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6093.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Cult
-http://painel.kingiptv.com.br:25461/live/admin/admin/6086.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6086.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Cult HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6085.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6085.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Fun
-http://painel.kingiptv.com.br:25461/live/admin/admin/6090.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6090.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Fun HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6089.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6089.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Pipoca
-http://painel.kingiptv.com.br:25461/live/admin/admin/6092.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6092.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Pipoca HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6091.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6091.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Premium
-http://painel.kingiptv.com.br:25461/live/admin/admin/6096.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6096.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Premium HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6095.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6095.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Touch
-http://painel.kingiptv.com.br:25461/live/admin/admin/6088.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6088.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Touch HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6087.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6087.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Terra Viva
-http://painel.kingiptv.com.br:25461/live/admin/admin/6079.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6079.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tooncast
-http://painel.kingiptv.com.br:25461/live/admin/admin/6084.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6084.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tooncast HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6083.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6083.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TruTv
-http://painel.kingiptv.com.br:25461/live/admin/admin/6082.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6082.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tv Boa Vontade
-http://painel.kingiptv.com.br:25461/live/admin/admin/6076.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6076.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tv Escola
-http://painel.kingiptv.com.br:25461/live/admin/admin/6075.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6075.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tv Gazeta
-http://painel.kingiptv.com.br:25461/live/admin/admin/6077.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6077.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Universal Channel
-http://painel.kingiptv.com.br:25461/live/admin/admin/6073.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6073.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Universal Channel HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6072.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6072.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VH1
-http://painel.kingiptv.com.br:25461/live/admin/admin/6071.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6071.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VH1 HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6070.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6070.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VIVA
-http://painel.kingiptv.com.br:25461/live/admin/admin/6069.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6069.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VIVA HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6068.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6068.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Warner Channel
-http://painel.kingiptv.com.br:25461/live/admin/admin/6067.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6067.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Warner Channel HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6066.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6066.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Woohoo
-http://painel.kingiptv.com.br:25461/live/admin/admin/6065.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6065.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Woohoo HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6064.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6064.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Zoomoo
-http://painel.kingiptv.com.br:25461/live/admin/admin/6063.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6063.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Zoomoo HD
-http://painel.kingiptv.com.br:25461/live/admin/admin/6062.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6062.ts&name=SKY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Século XXI
-http://painel.kingiptv.com.br:25461/live/admin/admin/6412.m3u8?formigatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6412.ts&name=SKY
