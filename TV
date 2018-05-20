@@ -1,556 +1,462 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6336.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6335.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6334.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6333.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6332.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6331.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Amazon Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6330.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6329.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6328.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",BIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6327.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6326.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6325.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Baby TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6324.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6323.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6322.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6321.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6320.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band Sports&name=SKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6319.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Band Sports&name=SKY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6318.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6317.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6316.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",CNN International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6315.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",CNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6297.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6314.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Rural
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6298.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Sony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6313.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6312.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6311.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6309.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6310.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6307.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cine Sky
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6308.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cinemax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6306.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6305.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Classique TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6304.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Combate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6303.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6301.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6302.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6300.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6299.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6296.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6295.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Civilization
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6294.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Civilization HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6293.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery H&H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6292.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6291.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6290.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6289.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6288.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6287.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Theater
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6286.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6285.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6284.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6283.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6282.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6281.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6280.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6279.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6278.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6277.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6276.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6275.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6274.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6273.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6272.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6270.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6269.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",EI Maxx HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6271.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6268.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6266.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6265.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6267.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",ESPN  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6264.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6263.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6261.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6260.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Esporte Interativo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6262.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6259.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6258.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fish TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6257.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fish  TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6256.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6255.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6254.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6253.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6252.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6251.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6250.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6249.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6248.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6247.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6246.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6245.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY* 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6243.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY* 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6242.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Fox Sports&name=SKY* HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6244.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Futura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6241.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6240.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",GNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6239.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6238.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Amazonas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6237.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Anhanguera Goiania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6236.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6235.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Brasilia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6234.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Cuiaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6233.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6232.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6231.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV Ribeirão Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6230.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo EPTV São Carlos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6229.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo MG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6228.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo MG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6226.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6227.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6208.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6207.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Nordeste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6225.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6224.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RBS Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6219.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6223.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6222.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo RJ HD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6221.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Rio Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6220.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6218.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6217.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo SP HD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6216.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Belem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6215.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Cabugi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6214.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Tem Bauru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6213.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Tem Sorocaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6212.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Tribuna Santos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6211.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Vanguarda S.J dos Campos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6210.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globo Tv Verdes Mares Fortaleza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6209.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globosat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6203.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Globosat   HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6202.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gloob
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6201.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6200.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gospel Cartoon TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6206.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gospel Movies TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6205.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Gospel Music TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6204.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6199.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6198.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6197.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6195.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6194.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6193.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6192.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6196.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6191.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6190.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus*e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6189.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Plus*e HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6188.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6187.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6186.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",History Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6185.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6184.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",I-Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6183.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Investigação Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6182.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Investigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6181.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6180.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6179.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6178.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6177.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6176.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6175.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6174.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6173.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime*e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6172.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Prime*e HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6171.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Up
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6170.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Max Up HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6169.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Megapix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6168.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6167.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Multishow
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6166.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6165.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Music Box Brazil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6164.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NBR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6153.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6163.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6162.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6161.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6160.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6159.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6158.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6157.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6156.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6155.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6154.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6152.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",OFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6151.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6150.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6149.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6148.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Pica Pau 24 Hs (Teste)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6061.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Play TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6147.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Polishop Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6146.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6145.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6144.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6143.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6142.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6141.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6140.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6139.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6138.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6137.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6136.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6135.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6134.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6133.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere Clubes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6132.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6131.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6130.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6128.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6129.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6127.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6126.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6125.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6124.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6123.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rede Vida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6122.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Rit Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6121.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6120.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6119.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6118.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Space HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6117.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6116.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6114.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6113.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6112.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6111.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6115.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6110.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6109.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6108.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6107.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6106.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6105.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6104.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6103.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6102.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6101.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6100.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6099.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT Séries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6098.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TNT Séries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6097.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Aparecida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6081.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Aparecida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6080.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Justiça
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6078.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Ra Ti Bum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6074.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6094.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6093.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Cult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6086.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6085.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Fun
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6090.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6089.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Pipoca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6092.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6091.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6096.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6095.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Touch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6088.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6087.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Terra Viva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6079.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tooncast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6084.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6083.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TruTv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6082.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tv Boa Vontade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6076.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tv Escola
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6075.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Tv Gazeta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6077.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Universal Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6073.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Universal Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6072.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6071.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6070.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6069.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6068.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Warner Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6067.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6066.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Woohoo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6065.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Woohoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6064.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Zoomoo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6063.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6062.ts&name=SKY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg"  group-title="CANAIS VIP",TV Século XXI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.kingiptv.com.br:25461/live/admin/admin/6412.ts&name=SKY
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",A & E HD 
+http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/3371.ts?token=SUZYUxZQRwJGClxSBgdUCVJRUQABUAdQUA1bVwZWUAFRVFFTUggGXQIRFERGFhddV1loCFdHC1UHAggfExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYEUQFRHkZAWwEaXxpVBghSDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYJBAFTFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",AXN 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1860.ts?token=SUZYUxZQRwJGA1kEDVRUCAdRAlECVlUEAwQKAgEHVFFUBVYKUw0DDVMRFERGFhddV1loCFdHC1cMAwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFVQNRHkZAWwEaXxpVCwtSAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAwVXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQKBghSFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",AXN HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2165.ts?token=SUZYUxZQRwJGVlkFBFNWDQcBVldWB1UDUAwIAgdVAgBRUgVTU10ECwERFERGFhddV1loCFdHC1QFAwwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFWg1RHkZAWwEaXxpWAw1XA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwVTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQBAgNASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",BAND NEWS
+http://185.152.66.81:25461/live/ezequiel/12345/1857.m3u8?token=SUZYUxZQRwJGAw4CUQNRClADBFZXUQUDBAFcUgNWBAEFVAgCBA1XWwURFERGFhddV1loCFdHC1cMAA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRAlABEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAVAJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlUCVRZI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",BAND SP
+http://185.152.66.81:25461/live/leticia/123456/1855.m3u8?token=SUZYUxZQRwJGVV5XAFEAXVcCD1YFAQNRAFZcCwJQDAECB1MLVg5XXVwRFERGFhddV1loCFdHC1cMAAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXBVYEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTAlMCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVIDVgEXRA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",BAND SPORT
+http://185.152.66.81:25461/live/leticia/123456/1856.m3u8?token=SUZYUxZQRwJGAFsHVFBcWQMBVFZWAwhfV1QOBFADAlUKBQRTUgBQAAERFERGFhddV1loCFdHC1cMAA8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlECVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIUwYDG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Band Sports HD
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/1600.ts?token=TxAMVEBeQwMQVANZWgMGAVNRAwBQXwwECQcLVlRWBgZWUV1WBwdRWgsUGxoRRRBRV1hpXFYbDwIHUgJOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVlRaGBAUXFcUWxsKAQAAQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwQBCw8XHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UDQECARtI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",BOOMERANG
+http://185.152.66.81:25461/live/ezequiel/12345/1852.m3u8?token=SUZYUxZQRwJGUV1fU1pSWgcBAwRQAQhfVVQNBQZQBFUFXAlTVg9UAV0RFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQAFYHEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVYBlYTShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVA1IHREk
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",BOOMERANG 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.ts?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",CARTOON NETWORK
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1847.ts?token=SUZYUxZQRwJGBFpVU1NUWlMAVAIHVAlSAAcNBwlWDAEHVlIGUAFUAQURFERGFhddV1loCFdHC1cMAQ4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVwdUHkZAWwEaXxpXAgtWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgwOBBNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNfAQEAEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",CARTOON NETWORK
+http://185.152.66.81:25461/live/genaro/12345/1847.m3u8?token=SUZYUxZQRwJGClkCDVABCVUDUwAAAQZXVVELCwlVBVFXVwUKUQ1dAAYRFERGFhddV1loCFdHC1cMAQ4fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWAFQJBkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlUGXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVgwHG04=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",CARTOON NETWORK HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/3369.ts?token=SUZYUxZQRwJGAAEFBVFcXFMEAAJSV1AHA1MOVwdRAlNRVgcHAAtWC1QRFERGFhddV1loCFdHC1UHAwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVw1QHkZAWwEaXxpVAwFSBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcKBAdaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQMBANWFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",CINEMAX
+http://185.152.66.81:25461/live/genaro/12345/1846.m3u8?token=SUZYUxZQRwJGUAtXBARcDQ5XU1kDUlJRVg0PBgJSAlVRUlEBA11RD1IRFERGFhddV1loCFdHC1cMAQ8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSBFQJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBVAIXhZI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",COMBATE
+http://185.152.66.81:25461/live/ezequiel/12345/1845.m3u8?token=SUZYUxZQRwJGVw9QAAAEDA4FU1JQAANWDAYKAlcAB1xXVFQGVQhTCwARFERGFhddV1loCFdHC1cMAQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1MCAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVQCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUA0MG04=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Combate HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1601.ts?token=TxAMVEBeQwMQBQ8PUAADVgAFBVEEWAEHV1oKUwNUBAANBlNUCg9UAFcUGxoRRRBRV1hpXFYbDwIHUgNOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVVtTGBAUXFcUWxsAAwMKVRNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg4BER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwMHAQwXTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",COMEDY CENTRAL
+http://185.152.66.81:25461/live/ezequiel/12345/1843.m3u8?token=SUZYUxZQRwJGAl0FA1cAD1RWAlMGVlVVB1dYAAUGV1YFXQhQXQlXClQRFERGFhddV1loCFdHC1cMAQofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlEEB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClwCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlEEUgUXRA
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",DISCOVERY  CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFDQYADwUEU1hWBwheAQNfBwRTDQcAAAkEUF4DXFERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAV0BCkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEGUBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYBVQ0HG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Discovery Channel
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1841.ts?token=SUZYUxZQRwJGVglWAQMDWwcDDlIDVwIDBFMOVwFXUFdTAlRRXV4ADlQRFERGFhddV1loCFdHC1cMAQgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVABVHkZAWwEaXxpXAgpXF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgQACghAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUBChMf
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Discovery Kids
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1836.ts?token=SUZYUxZQRwJGVg0ABQAHDFRQDlEHBghfBwcBUFUDDFwCBgICUABdXFIRFERGFhddV1loCFdHC1cMBg8fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUwVUHkZAWwEaXxpVCgpUA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAQhSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQIAQlASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Discovery Kids HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/3367.ts?token=SUZYUxZQRwJGAA4AAFBdWwAMAVJSBgBSAlQLBlQGU1YCVwRQBA8DAVQRFERGFhddV1loCFdHC1UHAw4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUAdTHkZAWwEaXxpRAwtEGUAAQEJRRQ9SCW4CUUNQUFRADwpHCFweR1cLZwBWVQdbBkcCFAUVTREMQhYWDxtyUgcVJ10JVUAGUQoYARNrA0cUDFtZRxcFVkV4CFJaS15QFlwHU0R8RgFZRRVEfn1EGUAHUUJGVhVWRwtEBw0BABNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNeBAIbTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",DISNEY JUNIOR 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1831.ts?token=SUZYUxZQRwJGBQ0HVANUDg5XUVcHVAgCUlQAUlBWUwADXAVWBgFdD1MRFERGFhddV1loCFdHC1cMBggfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUQJcHkZAWwEaXxpWBQlWAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAgVUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcMCgFTFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",DISNEY XD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1830.ts?token=SUZYUxZQRwJGCwpeAwMHXFUEU1IHBAcAB1ENAwEGA1dQAglTUwxQAAARFERGFhddV1loCFdHC1cMBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHVgJcHkZAWwEaXxpWBA9RAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwZAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBgIJBQZASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",ESPN
+http://185.152.66.81:25461/live/ezequiel/12345/1824.m3u8?token=SUZYUxZQRwJGUl4DBwcHAVcBUwQLUQcABAMBBQQBVlUFAAkDAQlTXgcRFERGFhddV1loCFdHC1cMBw0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAFUHEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQBl0IRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVcAVBZI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",ESPN
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/232.ts?token=TxAMVEBeQwMQUw5cAFJSAwcCV1NTDgIGCQAKAwUHU1MHBVAABA9QAAYUGxoRRRBRV1hpXFYbDwECUB5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUHU1ZOFkINUREMQw0EBhUUQFQaQFNHWFReZlFWRwtRBxNeDBdYXkgXXFg+XVdbVlYGE1gWBxcaF1tKRRELQGQLRwtCMRpzShcfFANQRkRWTAcTWBYDDQ4XHhtWXEQMRhBIRlhAdmBGGRFTGU1XWERRDV9ADhRBRRceG1xAbhBXEUUWBwNZVxYXCRRRGx4UWlkabgFbWFtTVkZQWl1CQAhAAEZOQFldClxHWRNmQl9TGlgTUQ0EF0s=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",ESPN + FHD
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/17511.ts?token=TxAMVEBeQwMQA1RaBgMBVw5UBABWX1NSVwAKAAJSWgEGB10EVVIHXAMUGxoRRRBRV1hpXFYbDwIGVwNTHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHU1pSDR5GRVpSQwMQBAQJWgRAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwwXAA0HBxNOEAFeEQwWRktGDxF0MxseFFJAFlQMR19aWBcIG0FAE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHAQsEBBMf
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",ESPN + HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1603.ts?token=TxAMVEBeQwMQBVQJBwJWBAJUVVYKDFMLU1EDVARVB1cMAgBQBVJYDlcUGxoRRRBRV1hpXFYbDwIHUgFOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGXFBXGBAUXFcUWxsDDgEOVRNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg8AER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcNBAwEEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",ESPN BR
+http://185.152.66.81:25461/live/genaro/12345/1866.m3u8?token=SUZYUxZQRwJGBV4DVwNUXgRRVVEFUldWAARYVlNRU1RXUwhXAApSXVARFERGFhddV1loCFdHC1cMAw8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdVA1UCAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAl0BXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVgIAG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",ESPN Brasil FHD
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/13523.ts?token=TxAMVEBeQwMQBgJcW1VaV1cEAAJXCQYBVwYBBAECU1RVUFdTUg8DDQIUGxoRRRBRV1hpXFYbDwICVwBRHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHU1dVBh5GRVpSQwMQBQYPUQhAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwwXAA0DBBNOEAFeEQwWRktGDxF0MxseFFJAFlQMR19aWBcIG0FAE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHBQoNBhMf
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",ESPN Brasil HD
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/1588.ts?token=TxAMVEBeQwMQDwcPWgcGDFcFAwEHCgJWBgBUUAkCVQcFBFEGAgYDDwIUGxoRRRBRV1hpXFYbDwIEWgpOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGUVpUGBAUXFcUWxsDBQ8LVBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBgEGER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQBAwEXTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Esporte Interativo 2 FHD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/17120.ts?token=TxAMVEBeQwMQA1MNUgMAUQVUAwQLDlZWVwdRVgMFB1dXV1wFB1BTDAsUGxoRRRBRV1hpXFYbDwIGUwBSHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHXFJXBh5GRVpSQwMQAwYIWhNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBgoBER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQNAwoBEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Esporte Interativo BR HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1676.ts?token=TxAMVEBeQwMQBQMIVlVVAFMDA1FTDgEECVsGBwgHVgNSVlNUBgYEXQQUGxoRRRBRV1hpXFYbDwIHVQROExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVVBVGBAUXFcUWxsABAAIURNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkNER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQHBAACEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",FOX
+http://185.152.66.81:25461/live/genaro/12345/1820.m3u8?token=SUZYUxZQRwJGAF1RAFYHW1QMUgJXVgECBgQAAlRXU1xTVVUFUw1WC10RFERGFhddV1loCFdHC1cMBwkfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBlcHA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAAXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcFVQYCG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",FOX SPORTS
+http://185.152.66.81:25461/live/leticia/123456/1815.m3u8?token=SUZYUxZQRwJGUVwDBFRWCQJWBAQDB1VXVQYIUAdVUFEAUQkFBlsAXlERFERGFhddV1loCFdHC1cMBAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVBlUDB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlADVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFVwQFG04=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Fox Sports 2
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/367.ts?token=TxAMVEBeQwMQBwMPBAdbUQYEA1FXWAAHAFVTB1UHVFVRB1MCVgMACQMUGxoRRRBRV1hpXFYbDwAHVR5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUEV1JOFkINUREMQwoCAQYOQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFw4HBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYEDQMBBxtI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Fox Sports 2 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1499.ts?token=TxAMVEBeQwMQA1JaUwhXAlMFAwEAD1YGVQADVglXBABWBAcCCgBWD1cUGxoRRRBRV1hpXFYbDwIFWwtOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGUVNXGBAUXFcUWxsAAQUNURNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg8HER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQBBwwBEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Fox Sports HD
+http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/1816.ts?token=SUZYUxZQRwJGAgxWBVpSXgECVQcGVlADAVcBAAkHBVEEXFRQVVxRDlARFERGFhddV1loCFdHC1cMBA8fExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYFWgdTHkZAWwEaXxpWBQ1TDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYABgdASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",FX 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1812.ts?token=SUZYUxZQRwJGAlwCDFcEAAQMVANRUQhVBFEBBwgBUFMFUVQKUVtXCAIRFERGFhddV1loCFdHC1cMBAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGWgNRHkZAWwEaXxpXAglfAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICgZWF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYIAglbFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",FX HD 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2157.ts?token=SUZYUxZQRwJGUFxUA1YDWg9WBVEGBFAFBgRcBwVUDFwEXVRUBFsEAAURFERGFhddV1loCFdHC1QFAA4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGWwJUHkZAWwEaXxpVCg5fAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAlUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0KAwBASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Globo HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Globo News
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/227.ts?token=TxAMVEBeQwMQUwENUQYABwJQBAACAQAGVFZRAFNQBAYGBlcAAwMHDwMUGxoRRRBRV1hpXFYbDwEDVR5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUAVldOFkINUREMQwgLAgcaThMHTEJQRFtTVWpXVBRbAVRGWAxBXggZEVkPZlZTWlkMVUAOFAQUGRBQRkMTWBA0WBINQmccJRsRGkNbW0JFWRZUQA4UBAcNChsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYHBgIGBhtI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",GLOBO NEWS
+http://185.152.66.81:25461/live/ezequiel/12345/1809.m3u8?token=SUZYUxZQRwJGVVsEBwRRWwAHD1QEUQNfBAMJVwYEVwEDUQcDUAgEDVQRFERGFhddV1loCFdHC1cMBQAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRBlAEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA1IDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQJVQMXRA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",GLOBO RJ HD
+http://185.152.66.81:25461/live/ezequiel/12345/1811.m3u8?token=SUZYUxZQRwJGVwpXVlIDXgUGA1EDAVcHAAQMAVBWAgcKVVQDAQhUDAcRFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVB1QIBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEUAcAG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Gloob
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1808.ts?token=SUZYUxZQRwJGAgxVBldXDVQFUgNQU1NeBAMIVVBTBFBUXVIEAFpcCAIRFERGFhddV1loCFdHC1cMBQEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUwBWHkZAWwEaXxpVBApUAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAAZTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQPAglWFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HBO 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1805.ts?token=SUZYUxZQRwJGBAtRUFpdDgQGBVgEU1NTUlMJAAJVAgZTUQIEXAEEClIRFERGFhddV1loCFdHC1cMBQwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJVgVQHkZAWwEaXxpVCw9QBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICglWF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0KBQNASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HBO 2 BR
+http://185.152.66.81:25461/live/leticia/123456/1798.m3u8?token=SUZYUxZQRwJGBFkDVAdRCFUFAAdSVwUDBgZdB1MEDAcHBgBTBF1UDVwRFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAlACAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVUCXgMXRA
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HBO BR
+http://185.152.66.81:25461/live/leticia/123456/1802.m3u8?token=SUZYUxZQRwJGA1pTB1EHXAMFUlRVA1VWAQRaBFMHUVIHVVYGB11VD1QRFERGFhddV1loCFdHC1cMBQsfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1QEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEIURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFUQUHG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HBO FAMILY HD BR
+http://185.152.66.81:25461/live/genaro/12345/1803.m3u8?token=SUZYUxZQRwJGClpTAAEDClcEBVQGVFAFUlAACgUHUwUEVANUVA9RXV0RFERGFhddV1loCFdHC1cMBQofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HBO PLUS BR
+http://185.152.66.81:25461/live/ezequiel/12345/2154.m3u8?token=SUZYUxZQRwJGBV5fUFRVD1MFBVFQVQFRV1FaBAVXVlYCUQFTUwsHXFMRFERGFhddV1loCFdHC1QFAA0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXClYDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTB1wJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAF0BUBZI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HBO SIGNATURE
+http://185.152.66.81:25461/live/ezequiel/12345/1799.m3u8?token=SUZYUxZQRwJGUVxRAVtTDgVSVlVSXQkDDQ0PUVQDVgULBQlRXApXAFQRFERGFhddV1loCFdHC1cDDAAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HBO2 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1798.ts?token=SUZYUxZQRwJGB1pXAlNVXQZVBFUDUAQEUA0ABlVaAgULXFYFUA5RDFURFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJWwZXHkZAWwEaXxpWAA1UBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcACgFAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBgUBAwRASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",HISTORY 2
+http://185.152.66.81:25461/live/ezequiel/12345/1806.m3u8?token=SUZYUxZQRwJGBghVDVVcDAcBAQMGBwEDUQBdUVNQAgYEXQUDXV1XCV0RFERGFhddV1loCFdHC1cMBQ8fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWB1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlwJXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAMDG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",IFC TV GERAL
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",MAX
+http://185.152.66.81:25461/live/ezequiel/12345/3358.m3u8?token=SUZYUxZQRwJGVloAV1ddXAIEU1kLUlJUAFMABwBbAFRWBgkCVA1TCgARFERGFhddV1loCFdHC1UHAAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",MAX PRIME BR
+http://185.152.66.81:25461/live/leticia/123456/1790.m3u8?token=SUZYUxZQRwJGAglVA1VVXgAAVFgDXVIHBQZcCwJUAQFUXQIBUgoGWVIRFERGFhddV1loCFdHC1cDDAkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1YGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcDXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUwwMG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",MEGAPIX 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1787.ts?token=SUZYUxZQRwJGAwhTDVNUDQQNU1UHUFBTDAELA1RbDVxQVFIFUV5QWlYRFERGFhddV1loCFdHC1cDDQ4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBUwZUHkZAWwEaXxpVCgBXAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAQlbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0JBARASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",MEGAPIX HD 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2111.ts?token=SUZYUxZQRwJGAQ1fUVpSDg8BU1UKXVADVlZfCgZRBlNXAQACAV4HCFARFERGFhddV1loCFdHC1QFBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBUw1RHkZAWwEaXxpWAw9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwBbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgwPAwdASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",NBA TV
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/12236.ts?token=TxAMVEBeQwMQBlUOBAcEUAZRUgMACgFWUgcKBwlVUQYFClZTUVBYXAEUGxoRRRBRV1hpXFYbDwIDUAFUHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHXFBbAB5GRVpSQwMQBAQKVAFAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwwXAQEBCxNOEAFeEQwWRktGDxF0MxseFFJAFlQMR19aWBcIG0FAE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEBA4AAhMf
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",PARAMOUNT CHANNEL
+http://185.152.66.81:25461/live/ezequiel/12345/2117.m3u8?token=SUZYUxZQRwJGV1lWV1NcAFBSBlRWVlcFUlMIA1IHBVBXBlMAUQFVDFwRFERGFhddV1loCFdHC1QFBA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAFYEAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEHVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBXgQHG04=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Premiere Clubes FHD
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/13517.ts?token=TxAMVEBeQwMQBwcBAQBaUQ8BDwAEXVQLAAFTAQBcW1UGVlAGAAJUWlQUGxoRRRBRV1hpXFYbDwICVwNVHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHXFFQAR5GRVpSQwMQBAcBUwlAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwwXAQgHBhNOEAFeEQwWRktGDxF0MxseFFJAFlQMR19aWBcIG0FAE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQECw0HBhMf
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",PREMIERES CLUBES
+http://185.152.66.81:25461/live/ezequiel/12345/1758.m3u8?token=SUZYUxZQRwJGCwsDDQAHCgQFUgMGXAMAAQBaUlNQV1BTUgRQAAxcAAYRFERGFhddV1loCFdHC1cDAAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXA1MIEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAFQDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQHUBZI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",RECORD NEWS
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",Rede TV HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1862.ts?token=TxAMVEBeQwMQD1NeBANbV1ANBgwHAQZSAlMKWwNTV1IHClcNCwMEAAQUGxoRRRBRV1hpXFYbDwIJVABOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QHU1tTGBAUXFcUWxsADgQOVBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBgwCER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBQAEEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SBT 
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SPACE
+http://185.152.66.81:25461/live/genaro/12345/1742.m3u8?token=SUZYUxZQRwJGBFwCVwEDDQ4CBFkLXVMCUQUJAFAHAlVUUAlRVwhUDVwRFERGFhddV1loCFdHC1cDAQsfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWB1YAAUcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEVwENG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SPORTV
+http://185.152.66.81:25461/live/ezequiel/12345/1738.m3u8?token=SUZYUxZQRwJGAVoHVFVTAFcEA1BSVQJeUQRcC1NVAVZQAQAEXAEAC1QRFERGFhddV1loCFdHC1cDBgEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXBlwFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1YBRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlwIVgwXRA
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SporTv 2
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/402.ts?token=TxAMVEBeQwMQUAdeUANXVw5TBw0LXQEGCAEFUgVRUlBQV1MGUgZVWwYUGxoRRRBRV1hpXFYbDwcBUB5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUCUlJOFkINUREMQwsEAwEOQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwcDCwsXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBwIBAg0XTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SPORTV 2
+http://185.152.66.81:25461/live/ezequiel/12345/1737.m3u8?token=SUZYUxZQRwJGCwtQDFMEClMNBwALUAheVgNfBghbVFQAVwkAAQAECAYRFERGFhddV1loCFdHC1cDBg4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAlMHBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlwCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUQEMG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SporTV 2 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1619.ts?token=TxAMVEBeQwMQAgVdB1QGAFUBBgEHDVZXVwEFU1IFB1cHBQYECwFZC1YUGxoRRRBRV1hpXFYbDwIHUwtOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGV1ZTGBAUXFcUWxsDDgUOWxNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkBER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBA8DEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SPORTV 3
+http://185.152.66.81:25461/live/leticia/123456/1735.m3u8?token=SUZYUxZQRwJGAl5WUQQAXgdXUwMDXQhXA1QMBgNUBAYFBVFQVllRW1cRFERGFhddV1loCFdHC1cDBgwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAVwFC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg0PRgldShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVQAVMHVBZI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",SporTV 3 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1620.ts?token=TxAMVEBeQwMQB1ENWgkHAQEHAgFUDVYEVFEBVFcGVAAMAldRAwRVDAUUGxoRRRBRV1hpXFYbDwIHUAJOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGV1VUGBAUXFcUWxsABAMBVBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkMER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcFAgAGEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",STUDIO UNIVERSAL
+http://185.152.66.81:25461/live/genaro/12345/1733.m3u8?token=SUZYUxZQRwJGAAkHB1ZcWQYFBwJVU1dfDQUMUAIHAQEFUgQGAAlVAQcRFERGFhddV1loCFdHC1cDBgofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSC1MDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVWClQTShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVXClAHREk
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TBS
+http://185.152.66.81:25461/live/ezequiel/12345/1731.m3u8?token=SUZYUxZQRwJGCw5TBwdRAAZSVlYLUQNfAwVfBVJTVlwHAFQBXA4HWgARFERGFhddV1loCFdHC1cDBggfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TCM
+http://185.152.66.81:25461/live/leticia/123456/1726.m3u8?token=SUZYUxZQRwJGVQtTBARXCAEDBlABUwdRVlYPAQRVV1VRUQcCUwFWCwERFERGFhddV1loCFdHC1cDBw8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdQAFIFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDlkUXwkdRFdaTF1FEExGCEZyYEcUR10cR10IRgsKVhQOFQwAEAlEGBdQQG4QUBdGFlVTCF0XGl4RCEQZQAhZTmtUDl0LVAVAXFZdQkAPRgNGHBAIVwtREFxKOUULARoMFgNTAVYTGw
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE ACTION 
+http://185.152.66.81:25461/live/ezequiel/12345/1725.m3u8?token=SUZYUxZQRwJGAlpWAwdUXAVWBgBXBlVRBwcKAAUHDQJWU1MLUQ4GCAcRFERGFhddV1loCFdHC1cDBwwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVC1UGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAJVBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQIVwIEG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE ACTION HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1730.ts?token=SUZYUxZQRwJGUAlWDVZVDFRRBVQFUAdfVlAPBQNRDVwAB1EAUABQDl0RFERGFhddV1loCFdHC1cDBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVwJWHkZAWwEaXxpWAg9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAhUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcIBQdQFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE Fun HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1729.ts?token=SUZYUxZQRwJGUlwAUVdSC1dRUVVWUgADBVBdCwBRBlRWUAgBBwpUWQcRFERGFhddV1loCFdHC1cDBwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQRWHkZAWwEaXxpWAghSBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICwlSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcJCwhTFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE PIPOCA
+http://185.152.66.81:25461/live/ezequiel/12345/1722.m3u8?token=SUZYUxZQRwJGB1pUVFEDW1AFBAIAAwkEBgIMAAEGDVxXAAcGV1lUDVERFERGFhddV1loCFdHC1cDBwsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlECBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFUwYHG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE PIPOCA HD 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1728.ts?token=SUZYUxZQRwJGUQgAAgNUAA4EDgALVQMEA1APC1dXUVIKUAYBAFsAXVcRFERGFhddV1loCFdHC1cDBwEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWgVQHkZAWwEaXxpWAw1XDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYPBwhASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE PREMIUM
+http://185.152.66.81:25461/live/ezequiel/12345/1721.m3u8?token=SUZYUxZQRwJGBAxRDFQEDQMFAlVSUQNUBVMMBVAEAlUKBlQKVgBWWQYRFERGFhddV1loCFdHC1cDBwgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAVACB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEDURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQBVgUGG04=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE PREMIUM 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1721.ts?token=SUZYUxZQRwJGBl4EAgdXXQ5VBQcCUlJWUgJfBwFVBVEFBgAKVQAEWlwRFERGFhddV1loCFdHC1cDBwgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWgBVHkZAWwEaXxpVAgleA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAQBbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcPAwRASA==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TELECINE PREMIUM HD 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1727.ts?token=SUZYUxZQRwJGBAxSAgYDAFcEUgcHVFRfVVQOUFdUVgEGUQJWXQtWCAIRFERGFhddV1loCFdHC1cDBw4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWwRVHkZAWwEaXxpVCw9TAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYICgJaFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TNT SERIES
+http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TOONCAST
+http://185.152.66.81:25461/live/leticia/123456/1713.m3u8?token=SUZYUxZQRwJGVQleBlBQD1QFAgUCUVIAAAEBAQJRB1wFAQADA1xcXQYRFERGFhddV1loCFdHC1cDBAofExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAFYECkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVAABG04=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",TV KID MAIS
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",UNIVELSAL CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1707.m3u8?token=SUZYUxZQRwJGAg1XBlAHDgRVBVAGBwJfBg0JAwFUDQUDXQELUQ5WXlYRFERGFhddV1loCFdHC1cDBQ4fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAF0IC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEJVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQDXwwHG04
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",WARNER
+http://185.152.66.81:25461/live/ezequiel/12345/1704.m3u8?token=SUZYUxZQRwJGVQsHUQBSAAcDU1VRAFdXVlYNAVNTBlxXBwJWBgBRWlwRFERGFhddV1loCFdHC1cDBQ0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1UIAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClQFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQAUAQXRA
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",WARNER CHANNEL 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1704.ts?token=SUZYUxZQRwJGAQpWAFdRDQRWAAUEVAEFV1ZcVQYGU1xQVwEKUwBXAVQRFERGFhddV1loCFdHC1cDBQ0fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUgxTHkZAWwEaXxpWAg5TAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAgBTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQJAQFVFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="Temporários",WARNER CHANNEL HD 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2146.ts?token=SUZYUxZQRwJGVVpUB1RXCQIEAQBSBwlSAg1cCgFSDF0LXVNWXQBdXFwRFERGFhddV1loCFdHC1QFAQ8fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUw1RHkZAWwEaXxpWCgtUA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgFaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcAAwZRFxk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1", Meio Norte - Piauí
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",All Sports (DF)
+https://5a0c3936c25c8.streamlock.net:1443/allsportstv/allsportstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Band
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/372.ts?token=TxAMVEBeQwMQUANeUwBUAQIDAgUAWwdVBVFXWgNUB1oHBQADBg4EXwMUGxoRRRBRV1hpXFYbDwAGUB5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFQHVVVOFkINUREMQwsLAQEOQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwcMCwAXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBwcCAxtI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Band - (PA)
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Band Minas FHD
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/17189.ts?token=TxAMVEBeQwMQAw8AB1dbBFcEBAxWXFMDBgQGUQYCU1RRAVABVQBSXAcUGxoRRRBRV1hpXFYbDwIGUwpbHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHUldVBB5GRVpSQwMQBAQIVAJAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwxbR1VZHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBwQMBwkXTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Band Sports
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/370.ts?token=TxAMVEBeQwMQDwBZBFVSUg8BUAUBXVYBBAYAB1UHW1FWV1MCCwJZXAQUGxoRRRBRV1hpXFYbDwAGUh5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFoDXFFOFkINUREMQwsCAgUMQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwMABRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYCAQQGEEQ=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",ESPN +
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/408.ts?token=TxAMVEBeQwMQDg8ABAYBBgMCBgJXWwAHAgRWA1JUWloAV1BQBg5YWgIUGxoRRRBRV1hpXFYbDwcBWh5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUIUVpOFkINUREMQwsLBQEAQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwcHCw8XHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBw8GCw0XTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",ESPN Brasil
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/369.ts?token=TxAMVEBeQwMQVFRZBlNSAFNXBwYBCwcBVwYDUQEBAVVQAVRQUFVYAAYUGxoRRRBRV1hpXFYbDwAHWx5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUHVFBOFkINUREMQwgGBw4PQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwcCAQwXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBAEEBwsXTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",ESPN HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1602.ts?token=TxAMVEBeQwMQU1QPBwEGBwJXAQdXAQYCAARRAQNXUlEBB1NQVgJXWlQUGxoRRRBRV1hpXFYbDwIHUgBOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGUldbGBAUXFcUWxsBBAEIUBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg4AER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcMAggBEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Esporte Interativo
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/365.ts?token=TxAMVEBeQwMQAVEPUVdaDA8MBlQFDFMCA1ICWldUUwFXCgcMAgBTWAoUGxoRRRBRV1hpXFYbDwAHVx5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFoBUFJOFkINUREMQw4BAQQaThMHTEJQRFtTVWpXVBRbAVRGWAxBXggZEVkPZlZTWlkMVUAOFAQUGRBQRkMTWBA0WBINQmccJRsRGkNbW0JFWRZUQA4UBA4MAxsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYEBwQCBhtI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",ESPORTE INTERATIVO 2 HD
+http://178.132.4.88:25461/live/cliente1/zgoJ4CjWeV/17120.ts?token=TxAMVEBeQwMQBVUIB1RXAlVTUlcKAAFWA1sGV1MFWwBVClACAFAEDFEUGxoRRRBRV1hpXFYbDwIGUwBSHUYXEVFAO1xXFFsbAAAFDFMBQBgUQV9YVxsPAgRQAVEHUFRTBh5GRVpSQwMQDgQPVhNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBgAMER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFw4GBw4XTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",FOX SPORTS 2 HD
+http://178.132.4.88:25461/live/cliente1/zgoJ4CjWeV/1499.ts?token=TxAMVEBeQwMQAQJdVlBQUlICBlcGCVcCAloGBlVTUAAHU1ZWBA4CAVEUGxoRRRBRV1hpXFYbDwIFWwtOExERB0ZtDVERDEMLBAQDCVITThZCXFtQEAMEBgNRAVQFUFRXGBAUXFcUWxsADg8MVxNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkEER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQNCggMEUw=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Premiere 2
+http://178.132.4.88:25461/live/Ko6IVXEmDL/vzwSEtJXxe/259.ts?token=TxAMVEBeQwMQVA5bV1NWUlBWVFZTAFYDBVBWBlMBUlRXBQAMBFdYDlEUGxoRRRBRV1hpXFYbDwEEWx5ARBcHEGtbABcJFFIJAQcDAEAdQEBfWFMXCAgAAQJXBVIEXFNOFkINUREMD0xeWhsaB0kWUURbV1ltXVBFWAFXQAsKFw5YHkZaXWkFXF9XWVxAC0AFFBkUXEFJFwkTNFsUXkQxTHUcRhkRVAhNQFdDXUALDEFaWRoXUVZAXUUQS0ALRiAwFh5GUEtCBFdBX1hWQAtAQEUXGhdbSmpBVBFGEFQFDwdGEF4XAxRNG19XT2cBXgxaU1ZCXF1XRhELQANAHUYPDVpbEFpBaRFQVhQNVhddDkk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Premiere 2 HD
+http://178.132.4.88:25461/live/Ko6IVXEmDL/vzwSEtJXxe/1717.ts?token=TxAMVEBeQwMQAgAIUwZUBQ8EAgYGWgMBBVoCAQRWUAFVVlUCV1VYXQQUGxoRRRBRV1hpXFYbDwIGUwVOExERB0ZtDVERDEMKAgUGDFoTThZCXFtQEAMEBgNRB1UBUVRRGBAUXFcUWxsGBwAAQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwEFChsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYCBAADEEQ=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Premiere 3
+http://185.2.83.16:25461/live/Ko6IVXEmDL/vzwSEtJXxe/269.ts?token=TxAMVEBeQwMQVwEJBAZRVQBTV1cLDgNSCAQLB1cFBFVWUFMFB1VXXQoUGxoRRRBRV1hpXFYbDwEHWx5ARBcHEGtbABcJFFIJAQcDAEAdQEBfWFMXCAgAAQJXBVIHUlFOFkINUREMD0xeWhsaB0kWUURbV1ltXVBFWAFXQAsKFw5YHkZaXWkFXF9XWVxAC0AFFBkUXEFJFwkTNFsUXkQxTHUcRhkRVAhNQFdDXUALDEFaWRoXUVZAXUUQS0ALRiAwFh5GUEtCBFdBX1hWQAtAQEUXGhdbSmpBVBFGEFQFDwdGEF4XAxRNG19XT2cBXgxaU1ZCXF1XRhELQANAHUYPDVpbEFpBaRFQVhQNVhddDkk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Premiere 4
+http://185.2.83.16:25461/live/Ko6IVXEmDL/vzwSEtJXxe/270.ts?token=TxAMVEBeQwMQBQYNAAlXBw4DAQZQCQMCV1pRBgBUWgEGUVIMUVVUXAcUGxoRRRBRV1hpXFYbDwEGUh5ARBcHEGtbABcJFFIJAQcDAEAdQEBfWFMXCAgAAQJXBVIGVlVOFkINUREMD0xeWhsaB0kWUURbV1ltXVBFWAFXQAsKFw5YHkZaXWkFXF9XWVxAC0AFFBkUXEFJFwkTNFsUXkQxTHUcRhkRVAhNQFdDXUALDEFaWRoXUVZAXUUQS0ALRiAwFh5GUEtCBFdBX1hWQAtAQEUXGhdbSmpBVBFGEFQFDwdGEF4XAxRNG19XT2cBXgxaU1ZCXF1XRhELQANAHUYPDVpbEFpBaRFQVhQNVhddDkk=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Premiere 5 HD
+http://178.132.4.88:25461/live/Ko6IVXEmDL/vzwSEtJXxe/1723.ts?token=TxAMVEBeQwMQAgJcBAcGDFRTBlcLDQdVU1cDVgBQWlVWAFIABg5UCwcUGxoRRRBRV1hpXFYbDwIGUAFOExERB0ZtDVERDEMKAgUGDFoTThZCXFtQEAMEBgNRB1UBXFJQGBAUXFcUWxsABA4JUhNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUD1hAXlUZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYEBgYBChtI
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Premiere Clubes -FHD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/17293.ts?token=TxAMVEBeQwMQBFUPVQBSAVABAw1WAVMBA1IDUwcGVVMCC1MGVgQCXAQUGxoRRRBRV1hpXFYbDwIGUAtRHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHXFFRAh5GRVpSQwMQBAQLUgZAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwxbR1VZHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBwUEBw8XTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Premiere Clubes HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/204.ts?token=TxAMVEBeQwMQDlUJB1RbAlQFVFcGXFcKAAcDVlJWBAcCA1EGCwcCXwUUGxoRRRBRV1hpXFYbDwEBVh5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFoCUVFOFkINUREMQwgKBwQNQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwQBCgsXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBA4EBQgXTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Record Es
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Record News
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/290.ts?token=TxAMVEBeQwMQVVRcBAVaUAUHBVFRXwBWBQMDVwBQBgZQC1ZWVw5YAAcUGxoRRRBRV1hpXFYbDwEIUh5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUDVlNOFkINUREMQwgGAg4OQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwcDAwoXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBwECAgEXTg==
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Record News - (MA)
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",RecordTV - (GO)
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",RecordTV - (GO)
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Rede Brasil
+https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Rede Tv
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/297.ts?token=TxAMVEBeQwMQDgJbUwAAUgcFDgNXCgUCV1QKAQQABFoBClIFCgACWlEUGxoRRRBRV1hpXFYbDwEIVR5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFQJVFFOFkINUREMQw4DDg8aThMHTEJQRFtTVWpXVBRbAVRGWAxBXggZEVkPZlZTWlkMVUAOFAQUGRBQRkMTWBA0WBINQmccJRsRGkNbW0JFWRZUQA4UBAcHBhsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYBBA4GEEQ=
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Rede TV! - (SP)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",Rede TV! HD
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",SBT- (GO)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",SBT Tv Cidade Verde
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="OPÇÃO 1",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1,Music Choice Alternative | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:-1,MC Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Music Choice Brits + Hits | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:-1,Music Choice Dance | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,Music Choice Hip-Hop And R&B | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1,Music Choice Hit | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1,Music Choice Indie | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1,Music Choice Metal | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1,Music Choice Pop & Country | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1,Music Choice Pop Hits | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1,Music Choice R&B Soul | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1,Music Choice Rap | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1,Music Choice Rap 2K | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:-1,Music Choice Rock | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1,Music Choice Today | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:-1,Music Choice 90 | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1,Music Choice Throwback Jamz | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:-1,Music Choice Y2K | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1,Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Music Choice Mexicana | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1,Music Choice Musica Urbana | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:-1,Music Choice Pop Latino | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1,Music Choice Tropicales | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1,Music Choice Teen Beats | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:-1,Music Choice Kidz Only | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:-1,Music Choice Toddler Tunes | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ddd93C" group-title="VARIEDADES E MUSICAS", 1HD MUSIC TELEVISION (ON)
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4TugLsj.png" group-title="VARIEDADES E MUSICAS", City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lcb9lGq.png" group-title="VARIEDADES E MUSICAS", Fresh Tv Music
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8SZ1t1f.png" group-title="VARIEDADES E MUSICAS", Hard Life
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLUDHfq.jpg" group-title="VARIEDADES E MUSICAS", HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4GHrROo.png" group-title="VARIEDADES E MUSICAS", Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7icilYb.png" group-title="VARIEDADES E MUSICAS", MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/G6e1GJ" group-title="VARIEDADES E MUSICAS", MTV AM HD (ON)
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qVGbH7r.png" group-title="VARIEDADES E MUSICAS", MUSIC BOX
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2vLcYET.jpg" group-title="VARIEDADES E MUSICAS", Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/veNEs7m.jpg" group-title="VARIEDADES E MUSICAS", MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="VARIEDADES E MUSICAS", NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oMDf6OZ.png" group-title="VARIEDADES E MUSICAS", ONE MUSIC
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4FkRdOq.png" group-title="VARIEDADES E MUSICAS", Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m2vH9Nj.png" group-title="VARIEDADES E MUSICAS", Rádio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.jpg" group-title="VARIEDADES E MUSICAS", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wIb4ZwM.png" group-title="VARIEDADES E MUSICAS", RUTV
+https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hXLIf9T.png" group-title="VARIEDADES E MUSICAS", Vibbe TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TdznZEH.png" group-title="VARIEDADES E MUSICAS", Virgin
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
