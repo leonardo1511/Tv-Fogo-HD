@@ -19,6 +19,19 @@ http://iptv.filmesonline.top/hls/redecanais-bobosp.m3u8|Referer=http://www.redec
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS REDECANAIS",[COLOR white][B]CANAL VIVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://iptv.filmesonline.top/hls/redecanais-viva.m3u8|Referer=http://www.redecanais.link/
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS REDECANAIS",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://iptv.filmesonline.top/hls/redecanais-sbt.m3u8|Referer=http://www.redecanais.link/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS REDECANAIS",[COLOR white][B]REDE TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://iptv.filmesonline.top/hls/redecanais-redetv.m3u8|Referer=http://www.redecanais.link/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS REDECANAIS",[COLOR white][B]RECORD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://iptv.filmesonline.top/hls/redecanais-recordbrasil.m3u8|Referer=http://www.redecanais.link/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS REDECANAIS",[COLOR white][B]TV GAZETA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+http://iptv.filmesonline.top/hls/redecanais-tvgazeta.m3u8|Referer=http://www.redecanais.link/
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTvUrIr.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
 
