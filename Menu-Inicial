@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[COLOR white][B]Canais De Tv Fogo[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
+<name>[COLOR white][B]Canais De Tv Fogo 1[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/BvoNyWj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Tv-Fogo-HD</externallink>
 <fanart></fanart>
@@ -11,9 +11,9 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]CANAIS DE TV REDECANAIS[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
-<thumbnail>https://loukosporandroid.com/wp-content/uploads/2017/05/RedeCanais-HD-Promocional.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Canais-Rede-Canais</externallink>
+<name>[COLOR white][B]Canais De Tv Fogo 2[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/BvoNyWj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/TV</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
