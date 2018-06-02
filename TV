@@ -17,9 +17,6 @@ http://paraisotv.ddns.net/081/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede TV.igor"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="TV Aberta HD",REDE TV
 http://paraisotv.ddns.net/063/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes HD",SPORTV
-http://paraisotv.ddns.net/c008/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes HD",ESPN BRASIL
 http://paraisotv.ddns.net/c001/myStream/playlist.m3u8
 
@@ -28,6 +25,9 @@ http://paraisotv.ddns.net/036/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Esportes HD",ESPN
 http://paraisotv.ddns.net/c002/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes HD",SPORTV
+http://paraisotv.ddns.net/c008/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Esportes HD",SPORTV 2
 http://paraisotv.ddns.net/c007/myStream/playlist.m3u8
