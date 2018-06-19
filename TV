@@ -1,234 +1,234 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD",GLOBO SP
-http://paraisotv.ddns.net/020/myStream/playlist.m3u8
+http://duocdn.ddns.net/020/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GloboRj.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD",GLOBO RJ
-http://paraisotv.ddns.net/021/myStream/playlist.m3u8
+http://duocdn.ddns.net/021/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Globo.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD",GLOBO PARANA
-http://paraisotv.ddns.net/095/myStream/playlist.m3u8
+http://duocdn.ddns.net/095/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT.igor" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="TV Aberta HD",SBT
-http://paraisotv.ddns.net/084/myStream/playlist.m3u8
+http://duocdn.ddns.net/084/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandeirantes.igor"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV Aberta HD",BAND
-http://paraisotv.ddns.net/081/myStream/playlist.m3u8
+http://duocdn.ddns.net/081/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rede TV.igor"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="TV Aberta HD",REDE TV
-http://paraisotv.ddns.net/063/myStream/playlist.m3u8
+http://duocdn.ddns.net/063/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes HD",ESPN BRASIL
-http://paraisotv.ddns.net/c001/myStream/playlist.m3u8
+http://duocdn.ddns.net/c001/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes HD",FOX SPORTS
-http://paraisotv.ddns.net/036/myStream/playlist.m3u8
+http://duocdn.ddns.net/036/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Esportes HD",ESPN
-http://paraisotv.ddns.net/c002/myStream/playlist.m3u8
+http://duocdn.ddns.net/c002/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes HD",SPORTV
-http://paraisotv.ddns.net/c008/myStream/playlist.m3u8
+http://duocdn.ddns.net/c008/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Esportes HD",SPORTV 2
-http://paraisotv.ddns.net/c007/myStream/playlist.m3u8
+http://duocdn.ddns.net/c007/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/6ju0FK?SporTV-3.png?" group-title="Esportes HD",SPORTV 3 
-http://paraisotv.ddns.net/c016/myStream/playlist.m3u8
+http://duocdn.ddns.net/c016/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes HD",PREMIERE
-http://paraisotv.ddns.net/097/myStream/playlist.m3u8
+http://duocdn.ddns.net/097/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="Esportes HD",COMBATE
-http://paraisotv.ddns.net/016/myStream/chunklist.m3u8
+http://duocdn.ddns.net/016/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes HD",FOX SPORTS 2
-http://paraisotv.ddns.net/c009/myStream/playlist.m3u8
+http://duocdn.ddns.net/c009/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="Esportes HD",BAND SPORTS
-http://paraisotv.ddns.net/c015/myStream/playlist.m3u8
+http://duocdn.ddns.net/c015/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes HD",ESPORTE INTERATIVO 
-http://paraisotv.ddns.net/c004/myStream/playlist.m3u8
+http://duocdn.ddns.net/c004/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="E Interativo BR.igor" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="Esportes HD",ESPORTE INTERATIVO BR
-http://paraisotv.ddns.net/048/myStream/playlist.m3u8
+http://duocdn.ddns.net/048/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 1
-http://paraisotv.ddns.net/097/myStream/playlist.m3u8
+http://duocdn.ddns.net/097/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 2
-http://paraisotv.ddns.net/099/myStream/playlist.m3u8
+http://duocdn.ddns.net/099/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 3
-http://paraisotv.ddns.net/100/myStream/playlist.m3u8
+http://duocdn.ddns.net/100/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 4
-http://paraisotv.ddns.net/110/myStream/playlist.m3u8
+http://duocdn.ddns.net/110/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 5
-http://paraisotv.ddns.net/044/myStream/playlist.m3u8
+http://duocdn.ddns.net/044/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 6
-http://paraisotv.ddns.net/042/myStream/playlist.m3u8
+http://duocdn.ddns.net/042/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 7
-http://paraisotv.ddns.net/043/myStream/playlist.m3u8
+http://duocdn.ddns.net/043/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 8.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 8
-http://paraisotv.ddns.net/041/myStream/playlist.m3u8
+http://duocdn.ddns.net/041/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TcPipoca.igor"  tvg-logo="http://goo.gl/5IKysn?" group-title="Filmes HD",TELECINE PIPOCA
-http://paraisotv.ddns.net/065/myStream/playlist.m3u8
+http://duocdn.ddns.net/065/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TcPremium.igor"  tvg-logo="http://goo.gl/XaOWO6?" group-title="Filmes HD",TELECINE PREMIUM
-http://paraisotv.ddns.net/069/myStream/playlist.m3u8
+http://duocdn.ddns.net/069/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TcAction.igor"  tvg-logo="http://goo.gl/P79aKf?" group-title="Filmes HD",TELECINE ACTION
-http://paraisotv.ddns.net/068/myStream/playlist.m3u8
+http://duocdn.ddns.net/068/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TcFun.igor"  tvg-logo="http://goo.gl/Dk6F7h?" group-title="Filmes HD",TELECINE FUN
-http://paraisotv.ddns.net/060/myStream/playlist.m3u8
+http://duocdn.ddns.net/060/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TcTouch.igor"  tvg-logo="http://goo.gl/AfJkib?" group-title="Filmes HD",TELECINE TOUCH
-http://paraisotv.ddns.net/102/myStream/playlist.m3u8
+http://duocdn.ddns.net/102/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TcCult.igor"  tvg-logo="http://goo.gl/fLmSUL?" group-title="Filmes HD",TELECINE CULT
-http://paraisotv.ddns.net/055/myStream/playlist.m3u8
+http://duocdn.ddns.net/055/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.igor"  tvg-logo="http://goo.gl/N9ccs5?" group-title="Filmes HD",HBO
-http://paraisotv.ddns.net/053/myStream/playlist.m3u8
+http://duocdn.ddns.net/053/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2.igor"  tvg-logo="http://goo.gl/yrDz67?" group-title="Filmes HD",HBO 2
-http://paraisotv.ddns.net/047/myStream/playlist.m3u8
+http://duocdn.ddns.net/047/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family.igor"  tvg-logo="http://goo.gl/2BXhGr?" group-title="Filmes HD",HBO FAMILY
-http://paraisotv.ddns.net/088/myStream/playlist.m3u8
+http://duocdn.ddns.net/088/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus.igor"  tvg-logo="http://goo.gl/ISXYSM?" group-title="Filmes HD",HBO PLUS
-http://paraisotv.ddns.net/037/myStream/playlist.m3u8
+http://duocdn.ddns.net/037/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE.igor"  tvg-logo="http://goo.gl/pTRcv8?" group-title="Filmes HD",HBO SIGNATURE
-http://paraisotv.ddns.net/071/myStream/playlist.m3u8
+http://duocdn.ddns.net/071/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/GY0nyM?" group-title="Filmes HD",SPACE
-http://paraisotv.ddns.net/029/myStream/playlist.m3u8
+http://duocdn.ddns.net/029/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Megapix.igor" tvg-logo="http://goo.gl/qXR9CS?" group-title="Filmes HD",MEGAPIX
-http://paraisotv.ddns.net/033/myStream/playlist.m3u8
+http://duocdn.ddns.net/033/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT.igor" tvg-logo="https://goo.gl/iwCiPM?" group-title="Filmes HD",PARAMOUNT CHANNEL
-http://paraisotv.ddns.net/004/myStream/playlist.m3u8
+http://duocdn.ddns.net/004/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT.igor" tvg-logo="http://goo.gl/vUl6oy?" group-title="Filmes HD",TNT
-http://paraisotv.ddns.net/009/myStream/playlist.m3u8
+http://duocdn.ddns.net/009/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX.igor" tvg-logo="https://goo.gl/oDAihL?" group-title="Filmes HD",CINEMAX
-http://paraisotv.ddns.net/035/myStream/playlist.m3u8
+http://duocdn.ddns.net/035/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MAX UP.igor" tvg-logo="http://goo.gl/Hbr506?" group-title="Filmes HD",MAX UP
-http://paraisotv.ddns.net/045/myStream/playlist.m3u8
+http://duocdn.ddns.net/045/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MAX PRIME.igor" tvg-logo="http://goo.gl/JG4dUv?" group-title="Filmes HD",MAX PRIME
-http://paraisotv.ddns.net/092/myStream/playlist.m3u8
+http://duocdn.ddns.net/092/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SUniversal.igor" tvg-logo="http://goo.gl/T8ICde?" group-title="Filmes HD",STUDIO
-http://paraisotv.ddns.net/096/myStream/playlist.m3u8
+http://duocdn.ddns.net/096/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES.igor" tvg-logo="https://goo.gl/2ZBWuk?" group-title="Seriados HD",TNT SERIES
-http://paraisotv.ddns.net/025/myStream/playlist.m3u8
+http://duocdn.ddns.net/025/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq?" group-title="Seriados HD",FOX
-http://paraisotv.ddns.net/064/myStream/playlist.m3u8
+http://duocdn.ddns.net/064/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX PREMIUM 1.igor" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="Seriados HD",FOX PREMIUM 1
-http://paraisotv.ddns.net/018/myStream/playlist.m3u8
+http://duocdn.ddns.net/018/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/RnqXjY?" group-title="Seriados HD",FX
-http://paraisotv.ddns.net/046/myStream/playlist.m3u8
+http://duocdn.ddns.net/046/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TBS.igor" tvg-logo="http://goo.gl/6Y4LUI?" group-title="Seriados HD",TBS
-http://paraisotv.ddns.net/038/myStream/playlist.m3u8
+http://duocdn.ddns.net/038/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCH.igor" tvg-logo="http://goo.gl/K8V00r?" group-title="Seriados HD",UNIVERSAL CHANNEL
-http://paraisotv.ddns.net/067/myStream/playlist.m3u8
+http://duocdn.ddns.net/067/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Warner.igor" tvg-logo="http://goo.gl/u2Eh6h?" group-title="Seriados HD",WARNER
-http://paraisotv.ddns.net/080/myStream/playlist.m3u8
+http://duocdn.ddns.net/080/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central.igor" tvg-logo="http://goo.gl/7GDv0O?" group-title="Seriados HD",COMEDY CENTRAL
-http://paraisotv.ddns.net/030/myStream/playlist.m3u8
+http://duocdn.ddns.net/030/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="FOX LIFE.igor" group-title="Seriados HD" tvg-logo="https://goo.gl/STGSLK",FOX LIFE
-http://paraisotv.ddns.net/083/myStream/playlist.m3u8
+http://duocdn.ddns.net/083/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="SyFy.igor" group-title="Seriados HD" tvg-logo="http://goo.gl/VDyslJ",SYFY
-http://paraisotv.ddns.net/093/myStream/playlist.m3u8
+http://duocdn.ddns.net/093/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony.igor" tvg-logo="http://goo.gl/omksVK?" group-title="Seriados HD",SONY
-http://paraisotv.ddns.net/003/myStream/playlist.m3u8
+http://duocdn.ddns.net/003/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/U4atFv?" group-title="Seriados HD",AXN
-http://paraisotv.ddns.net/078/myStream/playlist.m3u8
+http://duocdn.ddns.net/078/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC.igor" tvg-logo="https://goo.gl/TLM39Z?" group-title="Seriados HD",AMC
-http://paraisotv.ddns.net/007/myStream/playlist.m3u8
+http://duocdn.ddns.net/007/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multishow.igor"  tvg-logo="http://goo.gl/7LIjII?" group-title="Variedades HD",MULTISHOW
-http://paraisotv.ddns.net/022/myStream/playlist.m3u8
+http://duocdn.ddns.net/022/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV.igor"  tvg-logo="http://goo.gl/XQfSPS?" group-title="Variedades HD",MTV
-http://paraisotv.ddns.net/072/myStream/playlist.m3u8
+http://duocdn.ddns.net/072/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Viva.igor"  tvg-logo="http://goo.gl/TWuTpO?" group-title="Variedades HD",VIVA
-http://paraisotv.ddns.net/079/myStream/playlist.m3u8
+http://duocdn.ddns.net/079/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BIS.igor"  tvg-logo="https://goo.gl/09Wgmh?" group-title="Variedades HD",BIS
-http://paraisotv.ddns.net/061/myStream/playlist.m3u8
+http://duocdn.ddns.net/061/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment.igor"  tvg-logo="https://goo.gl/n5bzdX?" group-title="Variedades HD",E! Entertainment
-http://paraisotv.ddns.net/070/myStream/playlist.m3u8
+http://duocdn.ddns.net/070/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/oF6osu?" group-title="Infantil HD",CARTOON NETWORK
-http://paraisotv.ddns.net/027/myStream/playlist.m3u8
+http://duocdn.ddns.net/027/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nick.igor" tvg-logo="http://goo.gl/welGCW?" group-title="Infantil HD",NICK
-http://paraisotv.ddns.net/077/myStream/playlist.m3u8
+http://duocdn.ddns.net/077/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD.igor" tvg-logo="http://goo.gl/aWbwb4?" group-title="Infantil HD",DISNEY XD
-http://paraisotv.ddns.net/086/myStream/playlist.m3u8
+http://duocdn.ddns.net/086/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://goo.gl/HYutK0?" group-title="Infantil HD",DISNEY JR
 http://23.237.22.190:8080/live/CanaisSDSmtpturbo/kzPsesM7YtFFPgqI/303.m3u8?User-Agent=iPhone
 
 #EXTINF:-1 tvg-id="Discovery Kids.igor" tvg-logo="http://goo.gl/eVuVEw?" group-title="Infantil HD",DISCOVERY KIDS
-http://paraisotv.ddns.net/c014/myStream/playlist.m3u8
+http://duocdn.ddns.net/c014/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gloob.igor" tvg-logo="http://goo.gl/aghxnu?" group-title="Infantil HD",GLOOB
-http://paraisotv.ddns.net/089/myStream/playlist.m3u8
+http://duocdn.ddns.net/089/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aHrprS?" group-title="Infantil HD",DISNEY CHANNEL
-http://paraisotv.ddns.net/075/myStream/playlist.m3u8
+http://duocdn.ddns.net/075/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr.igor" tvg-logo="http://goo.gl/gZkEi0?" group-title="Infantil HD",NICK JR
-http://paraisotv.ddns.net/052/myStream/playlist.m3u8
+http://duocdn.ddns.net/052/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="https://goo.gl/kRtYPd?" group-title="Infantil HD",BOOMERANG
-http://paraisotv.ddns.net/091/myStream/playlist.m3u8
+http://duocdn.ddns.net/091/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="Documentários HD",ANIMAL PLANET
-http://paraisotv.ddns.net/082/myStream/playlist.m3u8
+http://duocdn.ddns.net/082/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/5rr2ab?" group-title="Documentários HD",THE HISTORY CHANNEL
-http://paraisotv.ddns.net/024/myStream/playlist.m3u8
+http://duocdn.ddns.net/024/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo.igor" tvg-logo="http://goo.gl/B8yVJo?"  group-title="Documentários HD",DISCOVERY TURBO
-http://paraisotv.ddns.net/026/myStream/playlist.m3u8
+http://duocdn.ddns.net/026/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="H2.igor" tvg-logo="https://goo.gl/dzX1M2?"  group-title="Documentários HD",H2
-http://paraisotv.ddns.net/054/myStream/playlist.m3u8
+http://duocdn.ddns.net/054/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="TLC.igor?" group-title="Documentários HD" tvg-logo="https://goo.gl/46JvTg",TLC
-http://paraisotv.ddns.net/034/myStream/playlist.m3u8
+http://duocdn.ddns.net/034/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Liv.ttwrs" tvg-logo="http://goo.gl/N5R6l8?"  group-title="Documentários HD",DISCOVERY ID
-http://paraisotv.ddns.net/056/myStream/playlist.m3u8
+http://duocdn.ddns.net/056/myStream/playlist.m3u8
