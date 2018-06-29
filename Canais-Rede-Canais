@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR white][B]BAND[/B][/COLOR]</title>
-<link>http://duocdn.ddns.net/077/myStream/playlist.m3u8|Referer=http://www.redecanais.link/</link>
+<link>https://world.pornthe.top/hls/redecanais-band.m3u8|Referer=http://www.redecanais.link/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).m3u8</expres><page>http://redecanais.link/player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png</fanart>
