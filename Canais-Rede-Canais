@@ -1,7 +1,359 @@
 <item>
-<title>[COLOR white][B]BAND[/B][/COLOR]</title>
-<link>https://world.pornthe.top/hls/redecanais-band.m3u8|Referer=http://www.redecanais.link/</link>
-<regex><name>BrazucaPlay</name><expres>file: "(.*?).m3u8</expres><page>http://redecanais.link/player3/server8http2.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png</fanart>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/mV8ckcy.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]animalplanet.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]discovery.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]discoverycivilization.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]discoverysience.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]discoverytheater.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]discoveryturbo.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]history.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]history2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]natgeo.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]natgeowind.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]bandsports.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]combate.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]espn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN+[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]espnmais.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]espnbrasil.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO BR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]esporteinterativobr.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]esporteinterativo1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]esporteinterativo2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]foxsports1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]foxsports2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]premiereclubes.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]premiere2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]premiere3.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]premiere4.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]premiere5.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]premiere6.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]premiere7.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]sportv1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]sportv2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]sportv3.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]aie.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]axn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]amc.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]axn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]cinemax.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]fox.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]foxpremium1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]foxpremium2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]boomerang.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]cartoon.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]discoverykids.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]disney.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]disneyjunior.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]disneyx.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]gloob.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]nickjr.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]nick.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[TvFogoHD]tooncast.m3u8|Referer=https://canais.ink/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).cg</expres><page>encurtador.com.br/jCDX5</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png</thumbnail>
 </item>
