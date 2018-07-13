@@ -1,775 +1,312 @@
 <item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]079$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]020$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]021$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]RPC TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]081$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]066$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]REDE TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]036$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/redetv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]084$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png</thumbnail>
-</item>
-<item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
 <link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
+<thumbnail>https://i.imgur.com/mV8ckcy.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]017$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png</thumbnail>
+<link>https://world.pornthe.top/hls/animalplanet.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c016$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png</thumbnail>
+<link>https://world.pornthe.top/hls/discovery.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]058$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_civilization.png</thumbnail>
+<link>https://world.pornthe.top/hls/discoverycivilization.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]074$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_science.png</thumbnail>
+<link>https://world.pornthe.top/hls/discoverysience.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png</thumbnail>
 </item>
+
 <item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]094$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_world.png</thumbnail>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://world.pornthe.top/hls/discoverytheater.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://world.pornthe.top/hls/discoveryturbo.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
+</item>
+
 <item>
 <title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]024$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png</thumbnail>
+<link>https://world.pornthe.top/hls/history.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]034$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png</thumbnail>
+<link>https://world.pornthe.top/hls/history2.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BrazucaPlay]natgeo.m3u8|Referer=https://canais.ink/</link>
-<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png</thumbnail>
+<link>https://world.pornthe.top/hls/natgeo.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]082$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png</thumbnail>
+<link>https://world.pornthe.top/hls/natgeowind.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
 <link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
+<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c015$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bandsports.png</thumbnail>
+<link>https://world.pornthe.top/hls/bandsports.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]016$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/combate.png</thumbnail>
+<link>https://world.pornthe.top/hls/combate.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png</thumbnail>
 </item>
-<item>
-<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]002$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_turbo.png</thumbnail>
-</item>
+
 <item>
 <title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c001$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn.png</thumbnail>
+<link>https://world.pornthe.top/hls/espn.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]ESPN+[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c003$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_plus.png</thumbnail>
+<link>https://world.pornthe.top/hls/espnmais.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c002$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_brasil.png</thumbnail>
+<link>$doregex[BrazucaPlay]espnbrasil.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]ESPORTE INTERATIVO BR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]045$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
+<link>https://world.pornthe.top/hls/esporteinterativobr.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]ESPORTE INTERATIVO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c004$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
+<link>https://world.pornthe.top/hls/esporteinterativo1.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]ESPORTE INTERATIVO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c005$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei2.png</thumbnail>
+<link>https://world.pornthe.top/hls/esporteinterativo2.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]039$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png</thumbnail>
+<link>https://world.pornthe.top/hls/foxsports1.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c009$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports2.png</thumbnail>
+<link>https://world.pornthe.top/hls/foxsports2.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]109$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+<link>https://world.pornthe.top/hls/premiereclubes.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]110$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+<link>https://world.pornthe.top/hls/premiere2.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]111$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+<link>https://world.pornthe.top/hls/premiere3.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]041$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+<link>https://world.pornthe.top/hls/premiere4.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]042$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+<link>https://world.pornthe.top/hls/premiere5.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]043$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+<link>https://world.pornthe.top/hls/premiere6.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]044$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+<link>https://world.pornthe.top/hls/premiere7.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c008$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+<link>https://world.pornthe.top/hls/sportv1.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BrazucaPlay]sportv2.m3u8|Referer=https://canais.ink/</link>
-<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+<link>https://world.pornthe.top/hls/sportv2.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]112$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+<link>https://world.pornthe.top/hls/sportv3.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
 <link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
+<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]031$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png</thumbnail>
+<link>https://world.pornthe.top/hls/aie.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
 </item>
-<item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]007$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/amc.png</thumbnail>
-</item>
+
 <item>
 <title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]076$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png</thumbnail>
+<link>https://world.pornthe.top/hls/axn.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://world.pornthe.top/hls/amc.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://world.pornthe.top/hls/axn.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
+</item>
+
 <item>
 <title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]040$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cinemax.png</thumbnail>
+<link>https://world.pornthe.top/hls/cinemax.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]053$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox.png</thumbnail>
+<link>https://world.pornthe.top/hls/fox.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]018$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
+<link>https://world.pornthe.top/hls/foxpremium1.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]019$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
+<link>https://world.pornthe.top/hls/foxpremium2.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
 </item>
-<item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]099$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fx.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]047$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]048$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]088$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_family.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]055$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_plus.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]089$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_signature.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]060$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]046$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_up.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]093$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_prime.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]038$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/megapix.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]004$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/paramount.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]003$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sony.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]029$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/space.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]096$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/studio_universal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]067$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/syfy.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]090$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_action.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]054$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_cult.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]101$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_fun.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]092$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_pipoca.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]091$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_premium.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]056$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_touch.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]009$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]025$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt_series.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]083$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/universal_channel.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]077$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png</thumbnail>
-</item>
+
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
 <link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
+<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
 </item>
-<item>
-<title>[B][COLOR white]BABY TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]080$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/babytv.png</thumbnail>
-</item>
+
 <item>
 <title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]072$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png</thumbnail>
+<link>https://world.pornthe.top/hls/boomerang.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]027$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png</thumbnail>
+<link>https://world.pornthe.top/hls/cartoon.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c014$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png</thumbnail>
+<link>https://world.pornthe.top/hls/discoverykids.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]095$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png</thumbnail>
+<link>https://world.pornthe.top/hls/disney.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]087$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png</thumbnail>
+<link>https://world.pornthe.top/hls/disneyjunior.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]086$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png</thumbnail>
+<link>https://world.pornthe.top/hls/disneyx.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]073$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png</thumbnail>
+<link>https://world.pornthe.top/hls/gloob.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png</thumbnail>
 </item>
-<item>
-<title>[B][COLOR white]NICK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]015$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png</thumbnail>
-</item>
+
 <item>
 <title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]059$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png</thumbnail>
+<link>https://world.pornthe.top/hls/nickjr.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://world.pornthe.top/hls/nick.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png</thumbnail>
+</item>
+
 <item>
 <title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]085$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TV RÁ-TIM-BUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]023$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BIS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]035$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bis.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]068$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/off.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]030$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/comedy_central.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c013$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_home_health.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]050$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fishtv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]c012$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/food_network.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]069$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_life.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]065$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gnt.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ID[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]033$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_investigation.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]005$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/lifetime.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]057$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mais_globosat.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]103$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mtv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]022$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/multishow.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PLAY TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]071$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/playtv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TBS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]052$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tbs.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]049$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tcm.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]037$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tlc.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TRUTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]097$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/trutv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]VH1 HD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]012$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/vh1.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]051$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/vh1.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]001$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]WOOHOO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]070$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/woohoo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]032$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]013$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://$doregex[BP1]100$doregex[BP2].m3u8</link>
-<regex><name>BP1</name><expres>(.*?).ds</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>https://tv-gratis.000webhostapp.com/Tv/h15-servidor-rc.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record_news.png</thumbnail>
+<link>https://world.pornthe.top/hls/tooncast.m3u8|Referer=https://canais.ink/</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png</thumbnail>
 </item>
