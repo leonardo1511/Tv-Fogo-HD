@@ -1,0 +1,19 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR white][B]Canais De Tv Fogo 1[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/BvoNyWj.jpg</thumbnail>
+<externallink>https://tv-fogo.github.io/HD/tv</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Canais De Tv Fogo 2[/B][/COLOR] [COLOR yellow][B]ON[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/BvoNyWj.jpg</thumbnail>
+<externallink>https://tv-fogo.github.io/HD/tv1</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
