@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white][/COLOR] [COLOR white]Pedidos[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/BvoNyWj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Menu-Tv</externallink>
+<fanart></fanart>
+<info>[B][COLOR blue]●[/COLOR][COLOR white]PEDIDOS: [COLOR gold]FILMES, SÉRIES, DESENHOS E ANIMES.[/COLOR] [COLOR blue]●[/COLOR][COLOR white]https://www.facebook.com/TvFogoHD[/COLOR][/COLOR][/B]</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white][/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/BvoNyWj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Menu-Tv</externallink>
