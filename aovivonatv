@@ -1,2 +1,4 @@
+#EXTM3U
+
 #EXTINF:-1 $ExtFilter="ekostreams | TV" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_sp.png",GLOBO SP
 http://ekostreams.co/ch/bobo.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
