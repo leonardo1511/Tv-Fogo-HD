@@ -1,4 +1,20 @@
-#EXTM3U
-
-#EXTINF:-1 $ExtFilter="ekostreams | TV" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_sp.png",GLOBO SP
-http://ekostreams.co/ch/bobo.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+<item>
+<title>[COLOR gold][B]Globo SP[/B][/COLOR][COLOR blue] [B]HD[/B][/COLOR]</title>
+<link>http://$doregex[TvFogoHD]/loadbalance/tvglobosaopaulo-640p/chunks.m3u8?$doregex[TvFogoHD_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>TvFogoHD</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-ao-vivo-online-tv-globo-sp-hd-gratis/</page>
+<referer>http://aovivonatv.com/online/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>TvFogoHD_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online</page>
+<referer>http://aovivonatv.com/online/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://images.mi.tv/channels/br_rede-globo_m.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/URZq2atxJk0/maxresdefault.jpg</fanart>
+</item>
