@@ -1,0 +1,111 @@
+<item>
+<title>[COLOR gold][B]Globo SP[/B][/COLOR][COLOR blue] [B]HD[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/globo-sp/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://images.mi.tv/channels/br_rede-globo_m.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/URZq2atxJk0/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Bandeirantes[/COLOR][COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/bandhd/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.otvfoco.com.br/wp-content/uploads/2017/01/band-logo-550x520.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Record SP[/COLOR][/B]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/record2278/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://recordtv.r7.com/files/2016/11/logo-ok-.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Tv Diario - CE[/COLOR][COLOR blue] [B]SD[/B][/COLOR] </title>
+<link>http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8</link>
+<thumbnail>http://tvdiario.verdesmares.com.br/img/tvdiario/tvdiario-comp3.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]SBT[COLOR blue][/COLOR] [B]SD[/B][/COLOR] </title>
+<link>http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8</link>
+<thumbnail>http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]REDE TV![/COLOR][COLOR blue] [B]SD[/B][/COLOR] </title>
+<link>http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w606118417.m3u8</link>
+<thumbnail>http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]TV Cultura[COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/83597224752339757438/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://goo.gl/qytiM2</thumbnail>
+<fanart>https://i.ytimg.com/vi/1gUuRyb-5GE/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]TV APARECIDA[COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8</link>
+<thumbnail>http://arquidiocesesalvador.org.br/site/wp-content/uploads/2015/08/TV-Aparecida21.jpg</thumbnail>
+<fanart></fanart>
+</item>
