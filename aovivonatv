@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR gold][B]Globo SP[/B][/COLOR][COLOR blue] [B]HD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/globo-sp/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tvglobosaopaulo-640p/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres> = "http://(.*)/loa</expres>
@@ -25,7 +25,7 @@
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres> = "http://(.*)/loa</expres>
-<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<page>http://aovivonatv.com/band-ao-vivo/?IGOR_RANGEL</page>
 <referer>http://aovivonatv.com/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
