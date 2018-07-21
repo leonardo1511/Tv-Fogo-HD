@@ -1,11 +1,11 @@
-<subitem>
-    <title>Globo</title>
-    <link>$doregex[file]|User-Agent: Mozilla/5.0</link>
-    <regex>
-    <name>file</name>
-    <expres>.{0,6}[',"](.*?=)[',"],</expres>
-    <page>http://pxstream.tv/embed.php?file=534422e1f49693ea8-bobo0964&amp;referrer=http://ekostreams.co/ch/bobo.php&amp;width=600&amp;height=384&amp;jwplayer=flash</page>
-    <referer>http://ekostreams.co/</referer>
-    </regex>
-    <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-    </subitem>
+ <item>
+ <title>Globo</title>
+ <link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+ <regex>
+ <name>file</name>
+ <expres>.{0,6}[',"](.*?=)[',"],</expres>
+ <page>http://pxstream.tv/embed.php?file=534422e1f49693ea8-bobo0964&amp;referrer=http://ekostreams.co/ch/bobo.php&amp;width=600&amp;height=384&amp;jwplayer=flash</page>
+ <referer>http://ekostreams.co/</referer>
+ </regex>
+ <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
+ <item>
