@@ -1,17 +1,17 @@
-<item>
-<title>RECORD</title>
-<link>$doregex[m3u8]</link>
+ <item>
+<title>Globo[COLOR lime]HD[/COLOR]</title>
+<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
 <name>m3u8</name>
 <expres>file: '([^']*)</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
-<referer>http://ekostreams.co/ch/record.php?width=600&height=384</referer>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=34&amp;width=640&amp;height=360&amp;jwplayer=mpegdash</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=640&amp;height=360</referer>
 </regex>
 <regex>
 <name>page</name>
 <expres>file='([^']*)</expres>
-<page>http://ekostreams.co/ch/record.php?width=600&height=384</page>
+<page>http://ekostreams.co/ch/bobo.php?width=640&amp;height=360</page>
+<referer> </referer>
 </regex>
-<thumbnail>http://iptv.codigolivre.net/logos/Record%20SP.png</thumbnail>
-<fanart>http://iptv.codigolivre.net/logos/Record%20SP.png</fanart>
+<thumbnail>http://geekpublicitario.com.br/wp-content/uploads/2015/04/novo-logo-globo-2015-blog-geek-publicitario.png</thumbnail>
 </item>
