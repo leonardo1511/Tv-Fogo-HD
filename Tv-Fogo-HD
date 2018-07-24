@@ -12,7 +12,7 @@
         <regex>
             <name>get-wms</name>
             <expres>wmsAuthSign=(.*)'</expres>
-            <page>http://pxstream.tv/embed.php?file=off24</page>
+            <page>http://pxstream.tv/embed.php?file=58d62fff00a084d5d-combatefurf</page>
             <referer>http://ekostreams.co/</referer>
         </regex>
     </item>
