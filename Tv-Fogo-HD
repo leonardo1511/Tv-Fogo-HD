@@ -1,11 +1,24 @@
 <item>
-    <title>Combate</title>
-    <link>$doregex[file]|User-Agent: Mozilla/5.0</link>
-    <regex>
-    <name>file</name>
-    <expres>.{0,6}[',"](.*?=)[',"],</expres>
-    <page>http://pxstream.tv/embed.php?file=58d62fff00a084d5d-combatefurf&amp;referrer=http://ekostreams.co/ch/combate.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
-    <referer>http://ekostreams.co/</referer>
-    </regex>
-    <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-    <item>
+<title>Combate</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>file</name>
+<expres>.{0,6}[',"](.*?=)[',"],</expres>
+<page>http://pxstream.tv/embed.php?file=58d62fff00a084d5d-combatefurf&amp;referrer=http://ekostreams.co/ch/combate.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
+<item>
+
+<item>
+<title>sportv</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>file</name>
+<expres>.{0,6}[',"](.*?=)[',"],</expres>
+<page>http://pxstream.tv/embed.php?file=5e546e62cbd01a9db-sportvhd34&amp;referrer=http://ekostreams.co/ch/sportvhd.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
