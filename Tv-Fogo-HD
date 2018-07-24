@@ -1,6 +1,6 @@
 <item>
 <title>Combate</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+<link>rtmp://$doregex[get-ip]/loadbalance?wmsAuthSign=$doregex[get-wms]/slv1 timeout=15</link>
 <regex>
 <name>file</name>
 <expres>.{0,6}[',"](.*?=)[',"],</expres>
@@ -12,7 +12,7 @@
 
 <item>
 <title>sportv</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+<link>rtmp://$doregex[get-ip]/loadbalance?wmsAuthSign=$doregex[get-wms]/slv1 timeout=15</link>
 <regex>
 <name>file</name>
 <expres>.{0,6}[',"](.*?=)[',"],</expres>
