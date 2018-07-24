@@ -22,3 +22,22 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+        <title>[COLOR red][B]COMBATE (OP 4) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+        <link>rtmp://$doregex[get-ip]/loadbalance?wmsAuthSign=$doregex[get-wms]/slv1 timeout=15</link>
+        <thumbnail>http://logosc.ucoz.com/Combate.png</thumbnail>
+        <fanart>http://logosc.ucoz.com/Combate.png</fanart>
+        <regex>
+            <name>get-ip</name>
+            <expres>file: 'http://(.*?)/</expres>
+            <page>http://pxstream.tv/embed.php?file=off24</page>
+            <referer>http://ekostreams.co/</referer>
+        </regex>
+        <regex>
+            <name>get-wms</name>
+            <expres>wmsAuthSign=(.*)'</expres>
+            <page>http://pxstream.tv/embed.php?file=off24</page>
+            <referer>http://ekostreams.co/</referer>
+        </regex>
+    </item>
