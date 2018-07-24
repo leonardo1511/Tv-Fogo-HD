@@ -1,29 +1,4 @@
 <item>
-<title>Combate</title>
-<link>rtmp://$doregex[get-ip]/loadbalance?wmsAuthSign=$doregex[get-wms]/slv1 timeout=15</link>
-<regex>
-<name>file</name>
-<expres>.{0,6}[',"](.*?=)[',"],</expres>
-<page>http://pxstream.tv/embed.php?file=58d62fff00a084d5d-combatefurf&amp;referrer=http://ekostreams.co/ch/combate.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<item>
-
-<item>
-<title>sportv</title>
-<link>rtmp://$doregex[get-ip]/loadbalance?wmsAuthSign=$doregex[get-wms]/slv1 timeout=15</link>
-<regex>
-<name>file</name>
-<expres>.{0,6}[',"](.*?=)[',"],</expres>
-<page>http://pxstream.tv/embed.php?file=5e546e62cbd01a9db-sportvhd34&amp;referrer=http://ekostreams.co/ch/sportvhd.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
         <title>[COLOR red][B]COMBATE (OP 4) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
         <link>rtmp://$doregex[get-ip]/loadbalance?wmsAuthSign=$doregex[get-wms]/slv1 timeout=15</link>
         <thumbnail>http://logosc.ucoz.com/Combate.png</thumbnail>
@@ -31,7 +6,7 @@
         <regex>
             <name>get-ip</name>
             <expres>file: 'http://(.*?)/</expres>
-            <page>http://pxstream.tv/embed.php?file=off24</page>
+            <page>http://pxstream.tv/embed.php?file=58d62fff00a084d5d-combatefurf</page>
             <referer>http://ekostreams.co/</referer>
         </regex>
         <regex>
