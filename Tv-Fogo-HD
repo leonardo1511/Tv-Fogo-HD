@@ -1,4 +1,4 @@
-<subitem>
+<item>
     <title>Combate</title>
     <link>$doregex[file]|User-Agent: Mozilla/5.0</link>
     <regex>
@@ -8,4 +8,4 @@
     <referer>http://ekostreams.co/</referer>
     </regex>
     <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-    </subitem>
+    <item>
