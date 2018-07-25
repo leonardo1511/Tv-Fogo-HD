@@ -1,730 +1,586 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/513.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1065.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO RJ[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/467.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO RJ (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1506.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO MG[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/466.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-name="GLOBO VITORIA HD" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO VITORIA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/152.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/rbstv.png" group-title="CANAIS ABERTO",[COLOR white][B]RBS TV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1492.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO BAHIA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/983.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO NORDESTE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/817.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS PORTUGAL",[COLOR white][B]GLOBO INTERNACIONAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/153.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/411.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/678.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE RECORD[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/478.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE RECORD ( OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/937.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE RECORD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/679.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]RECORD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/659.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTO",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/523.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTO",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/959.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE TV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/414.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cultura.jpg" group-title="CANAIS ABERTO",[COLOR white][B]TV CULTURA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/681.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalrural.png" group-title="CANAIS ABERTO",[COLOR white][B]CANAL RURAL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/761.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://www.javet.com.br/images/javet/logo%20canal_do_boi.jpg" group-title="CANAIS ABERTO",[COLOR white][B]CANAL DO BOI[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1362.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/NBR.gif" group-title="CANAIS ABERTO",[COLOR white][B]NBR[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/763.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS ABERTO",[COLOR white][B]CANÇAO NOVA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1360.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS ABERTO",[COLOR white][B]TV APARECIDA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/790.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS ABERTO",[COLOR white][B]TV GAZETA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/789.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalbrasil.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/788.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalbrasil.png" group-title="CANAIS ABERTO",[COLOR white][B]CANAL BRASIL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/708.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/CANAIS ESPORTES.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS CANAIS ESPORTES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1404.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV ( OPÇAO 2 )[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1494.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/212.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/508.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 2(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1495.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/213.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/511.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 3 (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1496.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/214.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/464.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1493.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/876.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/695.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/465.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2 (OPÇAO 2)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/877.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/878.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/696.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/660.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1504.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",[COLOR white][B]EIMAX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1069.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX - 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/661.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX 2 (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1515.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1070.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPORTE INTERATIVO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/662.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1109.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN BRASIL (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/520.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1023.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/521.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/870.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/697.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN +[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/522.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN +[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/698.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/515.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="",[COLOR white][B]BAND SPORTS (OPÇAO 2)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/856.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/717.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/451.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1505.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/862.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/114.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/allsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]ALL SPORTS BR[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/765.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png" group-title="CANAIS MUSICA",[COLOR white][B]FISHTV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/854.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/PFC.png" group-title="CANAIS ESPORTES",[COLOR white][B]PFC[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/537.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/PFC.png" group-title="CANAIS ESPORTES",[COLOR white][B]PFC INTERNACIONAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/186.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 24HS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/509.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 24HS (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1526.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 24HS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1090.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 1[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/645.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/646.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 3[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/647.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER  4[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/648.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 5[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/649.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 6[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/650.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 7[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/651.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 8[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/652.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 9[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/653.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 10[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/654.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/510.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 3[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/543.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 4[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/544.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 5[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/545.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 6[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/976.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 7[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/977.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/487.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PREMIUM (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1511.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1049.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/483.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE ACTION (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1513.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1050.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/488.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE TOUCH( OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1510.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1057.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/486.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PIPOCA(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1514.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/687.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/485.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE FUN(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1512.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1047.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/484.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/685.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="CANAIS FILMES",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/473.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="CANAIS FILMES",[COLOR white][B]HBO(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1518.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="CANAIS FILMES",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1031.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="CANAIS FILMES",[COLOR white][B]HBO 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/690.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="CANAIS FILMES",[COLOR white][B]HBO 2(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1508.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="CANAIS FILMES",[COLOR white][B]HBO2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1030.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="CANAIS FILMES",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/497.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="CANAIS FILMES",[COLOR white][B]HBO PLUS(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1517.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="CANAIS FILMES",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1032.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="CANAIS FILMES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/472.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="CANAIS FILMES",[COLOR white][B]HBO FAMILY(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1509.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="CANAIS FILMES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/691.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="CANAIS FILMES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/474.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="CANAIS FILMES",[COLOR white][B]HBO SIGNATURE(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1516.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="CANAIS FILMES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/694.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="CANAIS FILMES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/501.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="CANAIS FILMES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/728.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="CANAIS FILMES",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/503.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="CANAIS FILMES",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/730.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="CANAIS FILMES",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/502.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="CANAIS FILMES",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/729.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="CANAIS FILMES",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/475.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="CANAIS FILMES",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1026.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="CANAIS FILMES",[COLOR white][B]CINEMAX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/450.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="CANAIS FILMES",[COLOR white][B]CINEMAX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1044.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png" group-title="CANAIS FILMES",[COLOR white][B]PARAMOUNT CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/709.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="CANAIS FILMES",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/479.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="CANAIS FILMES",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1042.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="CANAIS FILMES",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/745.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="CANAIS FILMES",[COLOR white][B]A&E (OPÇAO 2)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/944.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="CANAIS FILMES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/447.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="CANAIS FILMES",[COLOR white][B]AXN(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1521.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="CANAIS FILMES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1028.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tcm.png" group-title="CANAIS FILMES",[COLOR white][B]TCM[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/682.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS FILMES",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/482.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS FILMES",[COLOR white][B]TNT(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1519.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS FILMES",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1073.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-CANAIS FILMES.png" group-title="CANAIS FILMES",[COLOR white][B]TNT CANAIS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1105.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-CANAIS FILMES.png" group-title="CANAIS FILMES",[COLOR white][B]TNT CANAIS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1046.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="CANAIS FILMES",[COLOR white][B]WARNER CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/500.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="CANAIS FILMES",[COLOR white][B]WARNER CHANNEL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1072.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="CANAIS FILMES",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/972.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="CANAIS FILMES",[COLOR white][B]FOX(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1507.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="CANAIS FILMES",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1110.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="CANAIS FILMES",[COLOR white][B]FOX PREMIUM 1[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/978.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="CANAIS FILMES",[COLOR white][B]FOX PREMIUM  2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1310.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS FILMES",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/462.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS FILMES",[COLOR white][B]FX(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1520.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS FILMES",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1043.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_action.png" group-title="CANAIS FILMES",[COLOR white][B]FOX ACTION[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/743.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png" group-title="CANAIS FILMES",[COLOR white][B]FOX LIFE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/463.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="CANAIS FILMES",[COLOR white][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/700.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png" group-title="CANAIS MUSICA",[COLOR white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/720.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS FILMES",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/507.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS FILMES",[COLOR white][B]CANAL SONY(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/833.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS FILMES",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/719.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/lifetime.png" group-title="CANAIS FILMES",[COLOR white][B]LIFETIME[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/725.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png" group-title="CANAIS FILMES",[COLOR white][B]AMC[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/701.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="CANAIS FILMES",[COLOR white][B]SYFY[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/480.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png" group-title="CANAIS FILMES",[COLOR white][B]COMEDY CENTRAL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/849.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tbs.png" group-title="CANAIS FILMES",[COLOR white][B]TBS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/683.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/isat.png" group-title="CANAIS FILMES",[COLOR white][B]I-SAT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/727.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png" group-title="CANAIS INFANTIL",[COLOR white][B]BOOMERANG[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/448.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/460.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/590.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY JUNIOR[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/459.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/494.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/455.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1058.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS INFANTIL",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/449.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS INFANTIL",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/587.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png" group-title="CANAIS INFANTIL",[COLOR white][B]TOONCAST[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/489.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png" group-title="CANAIS INFANTIL",[COLOR white][B]TOONCAST[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/702.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png" group-title="CANAIS INFANTIL",[COLOR white][B]NICKLODEON[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/477.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="CANAIS INFANTIL",[COLOR white][B]NICK JR[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/506.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="CANAIS INFANTIL",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/156.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="CANAIS INFANTIL",[COLOR white][B]GLOOB (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/951.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="CANAIS INFANTIL",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/823.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="CANAIS MUSICA",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/476.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="CANAIS MUSICA",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/174.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="CANAIS MUSICA",[COLOR white][B]MTV[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/620.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="CANAIS MUSICA",[COLOR white][B]MTV (OPÇAO 2 )[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/891.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/off.png" group-title="CANAIS MUSICA",[COLOR white][B]OFF[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/183.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS MUSICA",[COLOR white][B]VIVA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/491.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS MUSICA",[COLOR white][B]VIVA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/243.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canal-bis.png" group-title="CANAIS MUSICA",[COLOR white][B]BIS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/102.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png" group-title="CANAIS MUSICA",VH1[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/676.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png" group-title="CANAIS MUSICA",[COLOR white][B]VH 1 MEGA HITS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/735.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/trutv.png" group-title="CANAIS MUSICA",[COLOR white][B]TruTV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1071.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/wohoo.jpg" group-title="CANAIS MUSICA",[COLOR white][B]WOOHOO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1361.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/playtv.png" group-title="CANAIS MUSICA",[COLOR white][B]Play TV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1025.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/musicbox.png" group-title="CANAIS MUSICA",[COLOR white][B]MUSIC BOX BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/762.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Prime_Box_Brazil.png" group-title="CANAIS MUSICA",[COLOR white][B]PRIME BOX BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/764.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globosat.png" group-title="CANAIS MUSICA",[COLOR white][B]GLOBOSAT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/93.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.jpg" group-title="CANAIS MUSICA",[COLOR white][B]GNT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/157.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.jpg" group-title="CANAIS MUSICA",[COLOR white][B]GNT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/829.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qrOmPHN.png" group-title="CANAIS NOTICIAS",[COLOR yellow][B]CANAIS NOTICIAS[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="CANAIS NOTICIAS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/663.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="CANAIS NOTICIAS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1108.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="CANAIS NOTICIAS",[COLOR white][B]RECORD NEWS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/734.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="CANAIS NOTICIAS",[COLOR white][B]BAND NEWS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/495.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="CANAIS NOTICIAS",[COLOR white][B]BAND NEWS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/726.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Cnn.png" group-title="CANAIS NOTICIAS",[COLOR white][B]CNN[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/724.ts&name=Tv-Fogo-HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KejL8N6.png" group-title="DOCUMENTARIOS",[COLOR yellow][B]DOCUMENTARIOS[/B][/COLOR]
-http://0.0.0.0
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTARIOS",[COLOR white][B]HISTORY CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/499.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTARIOS",[COLOR white][B]HISTORY CHANNEL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1067.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png" group-title="DOCUMENTARIOS",[COLOR white][B]H2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/470.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png" group-title="DOCUMENTARIOS",[COLOR white][B]H2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/714.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png" group-title="DOCUMENTARIOS",[COLOR white][B]TLC[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/644.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png" group-title="DOCUMENTARIOS",[COLOR white][B]TLC[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/825.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/E!.jpg" group-title="DOCUMENTARIOS",[COLOR white][B]E![/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/632.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/E!.jpg" group-title="DOCUMENTARIOS",[COLOR white][B]E! (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/868.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATGEO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/498.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATIONAL GEOGRAPHIC (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/899.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATGEO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1202.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png" group-title="DOCUMENTARIOS",[COLOR white][B]NAT GEO WILD[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/712.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATGEO WILD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/787.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/516.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1055.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1059.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1060.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY CIVILIZATION[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/737.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/736.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/656.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1054.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY THEATER[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/655.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png" group-title="DOCUMENTARIOS",[COLOR white][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/658.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTARIOS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/1324.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTARIOS",[COLOR white][B]ANIMAL PLANET (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/884.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTARIOS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/AndreiaCosta/0412/711.ts&name=Tv-Fogo-HD
-
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Filmes e Séries",AXN HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil HD" tvg-logo="http://t.likeiptv.com/agrobrasil.png" group-title="Abertos",Agro Brasil HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Notícias",Band News HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV SD" tvg-logo="http://t.likeiptv.com/baby.png" group-title="Infantil",Baby TV SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="http://t.likeiptv.com/BANDHD.png" group-title="Abertos",Band SP HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://t.likeiptv.com/animalplanethd.png" group-title="Documentários",Animal Planet HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="http://t.likeiptv.com/bandsport.png" group-title="Esportes",Band Sports SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD" tvg-logo="http://t.likeiptv.com/animalplanet.png" group-title="Documentários",Animal Planet SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Notícias",Band News SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://t.likeiptv.com/arte1.png" group-title="Variedades",Arte 1 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV HD" tvg-logo="http://t.likeiptv.com/bloo.png" group-title="Internacional",Bloomberg TV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/1891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://t.likeiptv.com/a&e.png" group-title="Filmes e Séries",A&E HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="http://t.likeiptv.com/Boomerang.png" group-title="Infantil",Boomerang SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="http://images.mi.tv/channels/br_discovery-home-health-hd_m.png" group-title="Variedades",Discovery Home & Health SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Infantil",Cartoon Network HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://t.likeiptv.com/discoverykids.png" group-title="Infantil",Discovery Kids HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="http://t.likeiptv.com/discoverykids.png" group-title="Infantil",Discovery Kids SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://images.mi.tv/channels/br_discovery-home-health-hd_m.png" group-title="Variedades",Discovery Home & Health HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Filmes e Séries",Comedy Central HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://t.likeiptv.com/discoverychannel.png" group-title="Documentários",Discovery Channel HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="http://t.likeiptv.com/discoverychannel.png" group-title="Documentários",Discovery Channel SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curta! SD" tvg-logo="http://t.likeiptv.com/curta.png" group-title="Variedades",Curta! SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cultura SD" tvg-logo="http://t.likeiptv.com/culturaoriginal.png" group-title="Abertos",Cultura SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/discovery-civilization-channel-logo-png-transparent.png" group-title="Documentários",Discovery Civilization HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="California Music Channel HD" tvg-logo="http://t.likeiptv.com/cmc.png" group-title="Música e Entretenimento",California Music Channel HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://t.likeiptv.com/canalrural.png" group-title="Abertos",Canal Rural SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://t.likeiptv.com/cinemaxhd.png" group-title="Filmes e Séries",Cinemax HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Esportes",Combate
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="http://t.likeiptv.com/cinemax1080.png" group-title="Filmes e Séries",Cinemax SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON RETRO SD" tvg-logo="" group-title="Infantil",CARTOON RETRO SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Comunitario" tvg-logo="https://skyassineonline.com.br/img/channels/lg-377-canal-comunitario.png" group-title="Abertos",Canal Comunitario
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal RBI" tvg-logo="https://skyassineonline.com.br/img/channels/lg-177-canal-rbi-tv.png" group-title="Religiosos",Canal RBI
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Infantil",Cartoon Network SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://t.likeiptv.com/Boomerang.png" group-title="Infantil",Boomerang HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Filmes e Séries",AXN SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="http://t.likeiptv.com/a&e.png" group-title="Filmes e Séries",A&E SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png/revision/latest?cb=20170325195850" group-title="Documentários",Discovery Theater HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://t.likeiptv.com/discoverryscience.png" group-title="Documentários",Discovery Science HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Esportes",Combate HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/5617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo SD" tvg-logo="http://t.likeiptv.com/discoverryturbo.png" group-title="Documentários",Discovery Turbo SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV HD" tvg-logo="" group-title="Adultos",Dorcel TV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://t.likeiptv.com/discoverworld.png" group-title="Documentários",Discovery World HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD" tvg-logo="http://t.likeiptv.com/disney%20channel.png" group-title="Infantil",Disney Channel SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx SD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="Variedades",E! HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="" group-title="Variedades",E! SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN  HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-logo="http://t.likeiptv.com/foxlifehdnovo.png" group-title="Filmes e Séries",Fox Life HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx HD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN Brasil HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN+ HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN Brasil SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2 HD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR SD" tvg-logo="http://t.likeiptv.com/disneyjunior10.png" group-title="Infantil",Disney JR SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades",FOOD NETWORK HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title="Esportes",Esporte Interativo HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR HD" tvg-logo="http://t.likeiptv.com/disneyjunior10.png" group-title="Infantil",Disney JR HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_FISH_TV.png" group-title="Variedades",FISH TV SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades",FOOD NETWORK SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title="Esportes",Esporte Interativo SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD SD" tvg-logo="http://t.likeiptv.com/disneyxd.png" group-title="Infantil",Disney XD SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox SD" tvg-logo="http://t.likeiptv.com/fox.png" group-title="Filmes e Séries",Fox SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://t.likeiptv.com/fxhd.png" group-title="Filmes e Séries",FX HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://t.likeiptv.com/fx.png" group-title="Filmes e Séries",FX SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://t.likeiptv.com/foxhd.png" group-title="Filmes e Séries",FOX HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="G2P TV HD" tvg-logo="http://t.likeiptv.com/g2ptv.png" group-title="Abertos",G2P TV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="http://t.likeiptv.com/fp2.png" group-title="Filmes e Séries",Fox Premium 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="" group-title="Variedades",GNT SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="" group-title="Variedades",GNT HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports SD" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esportes",Fox Sports SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esportes",Fox Sports 2 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esportes",Fox Sports 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esportes",Fox Sports HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="http://t.likeiptv.com/futura.png" group-title="Abertos",Futura SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life SD" tvg-logo="http://t.likeiptv.com/lifenovo.png" group-title="Filmes e Séries",Fox Life SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="" group-title="Filmes e Séries",Fox 1 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="" group-title="Filmes e Séries",Fox Premium 1 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://t.likeiptv.com/discoverryturbo.png" group-title="Documentários",Discovery Turbo HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://t.likeiptv.com/disney%20channel.png" group-title="Infantil",Disney Channel HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Nordeste SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://t.likeiptv.com/GLOBONEWS.png" group-title="Notícias",Globo News SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Minas HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="" group-title="Notícias",Globo News HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Nordeste HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2 SD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx 2 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Filmes e Séries",HBO Signature HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Filmes e Séries",HBO Plus HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus E SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Filmes e Séries",HBO HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Filmes e Séries",HBO Family HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://t.likeiptv.com/hbofamilia.png" group-title="Filmes e Séries",HBO Family SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="" group-title="Música e Entretenimento",HIT TV
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/5471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Filmes e Séries",HBO Signature SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Filmes e Séries",HBO 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://t.likeiptv.com/hbo2.png" group-title="Filmes e Séries",HBO 2 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://t.likeiptv.com/hbo.png" group-title="Filmes e Séries",HBO SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="http://t.likeiptv.com/h2.PNG" group-title="Documentários",H2 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_GLOOB.png" group-title="Infantil",Gloob HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_GLOOB.png" group-title="Infantil",Gloob SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Rio HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo SP HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://t.likeiptv.com/h2.PNG" group-title="Documentários",H2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Rio SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo SP SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Premium" tvg-logo="" group-title="Abertos",Globo Premium
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN + SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/5620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kidz Only!" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Kidz Only!
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV SD" tvg-logo="http://t.likeiptv.com/iurd.png" group-title="Religiosos",IURD TV SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="http://t.likeiptv.com/maxhd.png" group-title="Filmes e Séries",MAX HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX SD" tvg-logo="http://t.likeiptv.com/max.png" group-title="Filmes e Séries",MAX SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Filmes e Séries",LIFETIME HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD" tvg-logo="http://t.likeiptv.com/lifetime.png" group-title="Filmes e Séries",Lifetime SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV HD" tvg-logo="http://t.likeiptv.com/jasmintv.png" group-title="Adultos",Jasmin TV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I SAT SD" tvg-logo="http://t.likeiptv.com/isat.png" group-title="Filmes e Séries",I SAT SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal HD" tvg-logo="http://t.likeiptv.com/universaldejesus.png" group-title="Abertos",Igreja Universal HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal SD" tvg-logo="http://t.likeiptv.com/igrejauniversal.png" group-title="Abertos",Igreja Universal SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="http://t.likeiptv.com/idhd1.png" group-title="Documentários",ID HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID SD" tvg-logo="http://t.likeiptv.com/idhd1.png" group-title="Documentários",ID SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hot TV" tvg-logo="" group-title="Adultos",Hot TV
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo 2 HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title="Esportes",Esporte Interativo 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 7 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 1 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 1 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBR SD" tvg-logo="" group-title="Variedades",NBR SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Família HD (Record News Campinas)" tvg-logo="http://t.likeiptv.com/redefamilia.png" group-title="Abertos",Rede Família HD (Record News Campinas)
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Notícias",Record News HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_PRIMEBOX_BRASIL.png" group-title="Música e Entretenimento",Prime Box Brazil SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="" group-title="Variedades",Polishop TV SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse HD" tvg-logo="" group-title="Adultos",Penthouse HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="" group-title="Música e Entretenimento",Music Box Brazil SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIC TV (Record Curitiba) SD" tvg-logo="http://t.likeiptv.com/rictv.png" group-title="Abertos",RIC TV (Record Curitiba) SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV HD" tvg-logo="" group-title="Música e Entretenimento",HIT TV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIC TV Maringá ( Record ) SD" tvg-logo="http://t.likeiptv.com/rictv.png" group-title="Abertos",RIC TV Maringá ( Record ) SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="http://t.likeiptv.com/redetv10.png" group-title="Abertos",Rede TV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",Record HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="http://t.likeiptv.com/recordnewshd.png" group-title="Abertos",Record News SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Full HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",Record Full HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primebox Brasil SD" tvg-logo="http://t.likeiptv.com/primebox.png" group-title="Filmes e Séries",Primebox Brasil SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere Clubes HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere Clubes SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 9 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 8 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 7 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 6 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 6 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 5 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 5 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 4 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 4 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 3 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 3 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 2 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="" group-title="Adultos",Playboy HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play TV SD" tvg-logo="" group-title="Música e Entretenimento",Play TV SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Filmes e Séries",Paramount HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount SD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Filmes e Séries",Paramount SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="http://t.likeiptv.com/canaloff.png" group-title="Variedades",Off HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Off SD" tvg-logo="http://t.likeiptv.com/canaloff.png" group-title="Variedades",Off SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD" tvg-logo="" group-title="Música e Entretenimento",NRJ Hits HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo SD" tvg-logo="http://t.likeiptv.com/novotempo.png" group-title="Abertos",Novo Tempo SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="" group-title="Infantil",Nickelodeon SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="" group-title="Infantil",Nick Jr. HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. SD" tvg-logo="" group-title="Infantil",Nick Jr. SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="" group-title="Infantil",Nick Jr HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="http://t.likeiptv.com/nationalhd.png" group-title="Documentários",National Geographic HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="http://t.likeiptv.com/nacionalgeo.png" group-title="Documentários",National Geographic SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="http://t.likeiptv.com/natwildhd.png" group-title="Documentários",NatGeo Wild HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild SD" tvg-logo="http://t.likeiptv.com/natgeowild1.png" group-title="Documentários",NatGeo Wild SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids SD" tvg-logo="" group-title="Infantil",NatGeo Kids SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="" group-title="Infantil",NatGeo Kids HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MULTISHOW.png" group-title="Música e Entretenimento",Multishow HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MULTISHOW.png" group-title="Música e Entretenimento",Multishow SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://www.netcombo.com.br/imagens/logo/mtv-456_95x39.png" group-title="Música e Entretenimento",MTV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="http://www.netcombo.com.br/imagens/logo/mtv-456_95x39.png" group-title="Música e Entretenimento",MTV SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Filmes e Séries",Megapix HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix SD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Filmes e Séries",Megapix SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max UP HD" tvg-logo="http://t.likeiptv.com/maxup1.png" group-title="Filmes e Séries",Max UP HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max UP SD" tvg-logo="http://t.likeiptv.com/maxup1.png" group-title="Filmes e Séries",Max UP SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="http://t.likeiptv.com/redevida.png" group-title="Abertos",Rede Vida SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC FULL HD" tvg-logo="http://t.likeiptv.com/qvchd.png" group-title="Internacional",QVC FULL HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="http://t.likeiptv.com/rtp2.png" group-title="Internacional",RTP 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/1900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FULL HD" tvg-logo="http://t.likeiptv.com/redbull.png" group-title="Internacional",Red Bull TV FULL HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD" tvg-logo="http://t.likeiptv.com/rtp.png" group-title="Internacional",RTP 1 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/1901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play HD" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Play HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="" group-title="Variedades",Mais Globosat HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat SD" tvg-logo="" group-title="Variedades",Mais Globosat SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Infantil",Nickelodeon HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Recife HD" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT Recife HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Piauí HD (TV Cidade Verde)" tvg-logo="http://t.likeiptv.com/sbt.png" group-title="Abertos",SBT Piauí HD (TV Cidade Verde)
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo SD" tvg-logo="http://t.likeiptv.com/terceiroanjo.png" group-title="Religiosos",TV Terceiro Anjo SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Rondonia" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT Rondonia
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme SD" tvg-logo="" group-title="Adultos",Sextreme SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy hot SD" tvg-logo="" group-title="Adultos",Sexy hot SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexzone HD" tvg-logo="" group-title="Adultos",Sexzone HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional SD" tvg-logo="" group-title="Internacional",SIC Internacional SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SD" tvg-logo="http://t.likeiptv.com/canalsonynovo.png" group-title="Filmes e Séries",Sony SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="http://t.likeiptv.com/canalsonynovo.png" group-title="Filmes e Séries",Canal Sony HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space SD" tvg-logo="http://t.likeiptv.com/space.png" group-title="Filmes e Séries",Space SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://t.likeiptv.com/spaacehd.png" group-title="Filmes e Séries",Space HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 2 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ShopTime SD" tvg-logo="" group-title="Variedades",ShopTime SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="http://t.likeiptv.com/tvsenado.png" group-title="Abertos",TV SENADO
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 3 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 3 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA" tvg-logo="http://t.likeiptv.com/tvjustica.png" group-title="Abertos",TV JUSTICA
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV INES" tvg-logo="http://t.likeiptv.com/tvines.png" group-title="Abertos",TV INES
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",Sportv HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal SD" tvg-logo="http://t.likeiptv.com/studio.png" group-title="Filmes e Séries",Studio Universal SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://t.likeiptv.com/uhd.png" group-title="Filmes e Séries",Studio Universal HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="http://t.likeiptv.com/sy.png" group-title="Filmes e Séries",SYFY SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="http://t.likeiptv.com/syhd.png" group-title="Filmes e Séries",Syfy HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC TV HD" tvg-logo="http://t.likeiptv.com/sicoriginal.png" group-title="Internacional",SIC TV HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/1895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://t.likeiptv.com/tbs.png" group-title="Filmes e Séries",TBS SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil SD" tvg-logo="http://t.likeiptv.com/tvbrasil.png" group-title="Abertos",TV Brasil SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV INES HD" tvg-logo="http://t.likeiptv.com/tvines.png" group-title="Abertos",TV INES HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida SD" tvg-logo="http://t.likeiptv.com/tvaparecida.png" group-title="Abertos",TV Aparecida SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://t.likeiptv.com/tbshd.png" group-title="Filmes e Séries",TBS HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="http://t.likeiptv.com/tcm.png" group-title="Filmes e Séries",TCM SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Filmes e Séries",TNT Series HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series SD" tvg-logo="http://t.likeiptv.com/tntseries.png" group-title="Filmes e Séries",TNT Series SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Filmes e Séries",TNT HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário Fortaleza SD" tvg-logo="" group-title="Abertos",TV Diário Fortaleza SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar SD" tvg-logo="http://t.likeiptv.com/tvevangelizar.png" group-title="Religiosos",TV Evangelizar SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3107.m3u8
+#EXTINF:-1 tvg-id="TLC SD" tvg-name="TLC SD" tvg-logo="" group-title="Variedades",TLC SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="http://t.likeiptv.com/tnt.png" group-title="Filmes e Séries",TNT SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Variedades",TLC HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="http://t.likeiptv.com/sbt.png" group-title="Abertos",SBT HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova Esperança SD (Maranhão)" tvg-logo="http://t.likeiptv.com/tvnovaesperanca.png" group-title="Abertos",TV Nova Esperança SD (Maranhão)
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura BA HD" tvg-logo="http://t.likeiptv.com/culturaoriginal.png" group-title="Abertos",TV Cultura BA HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo HD" tvg-logo="http://t.likeiptv.com/novotempo.png" group-title="Abertos",TV Novo Tempo HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Canção Nova SD" tvg-logo="http://t.likeiptv.com/CANCANOVA.png" group-title="Abertos",TV Canção Nova SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara HD" tvg-logo="http://t.likeiptv.com/tvcamara.png" group-title="Abertos",TV Camara HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Aperipê HD (Sergipe)" tvg-logo="http://t.likeiptv.com/aperipe.png" group-title="Abertos",TV Aperipê HD (Sergipe)
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT GO
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Século 21 SD" tvg-logo="http://t.likeiptv.com/tvseculo.png" group-title="Religiosos",TV Século 21 SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Largo (Maceió) SD" tvg-logo="http://t.likeiptv.com/riolargo.png" group-title="Abertos",TV Rio Largo (Maceió) SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Y2K
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="" group-title="Variedades",Woohoo
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="" group-title="Variedades",Viva HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="" group-title="Variedades",Viva
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 Megahits
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="Filmes e Séries",Universal Channel HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="Filmes e Séries",Universal Channel SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVW HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Internacional",TVW HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVW-2 HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Internacional",TVW-2 HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Camara" tvg-logo="" group-title="Abertos",Tv Camara
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Escola" tvg-logo="" group-title="Variedades",Tv Escola
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Gideoes" tvg-logo="http://t.likeiptv.com/tvgideoes.png" group-title="Abertos",Tv Gideoes
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 Mega Hits SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 Megahits HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trutv SD" tvg-logo="" group-title="Variedades",Trutv SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="" group-title="Infantil",Tooncast HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="" group-title="Infantil",Tooncast SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_TOUCH.png" group-title="Filmes e Séries",Telecine Touch HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_TOUCH.png" group-title="Filmes e Séries",Telecine Touch SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Filmes e Séries",Telecine Premium HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Filmes e Séries",Telecine Premium SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_PIPOCA.png" group-title="Filmes e Séries",Telecine Pipoca HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_PIPOCA.png" group-title="Filmes e Séries",Telecine Pipoca SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_FUN.png" group-title="Filmes e Séries",Telecine Fun HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_FUN.png" group-title="Filmes e Séries",Telecine Fun SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_CULT.png" group-title="Filmes e Séries",Telecine Cult SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://cliente.kudaplay.tv/tema/canais_logo/HD_TC_ACTION.png" group-title="Filmes e Séries",Telecine Action HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="http://cliente.kudaplay.tv/tema/canais_logo/HD_TC_ACTION.png" group-title="Filmes e Séries",Telecine Action SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" tvg-logo="http://t.likeiptv.com/hnovo.png" group-title="Documentários",The History Channel HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel SD" tvg-logo="http://t.likeiptv.com/hnovo.png" group-title="Documentários",The History Channel SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória (Record ES) SD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",TV Vitória (Record ES) SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/6891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime HD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Filmes e Séries",MAX Prime HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime E SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime E SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBC - Rede Brasil de Comunicação" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_REDE_BRASIL.png" group-title="Abertos",RBC - Rede Brasil de Comunicação
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Milagre" tvg-logo="https://static.tvmilagre.com.br/assets/images/marca.png" group-title="Religiosos",TV Milagre
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Full HD" tvg-logo="http://t.likeiptv.com/fox.png" group-title="Filmes e Séries",Fox Full HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Full HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV Full HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium Full HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Filmes e Séries",Telecine Premium Full HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel Full HD" tvg-logo="http://t.likeiptv.com/hnovo.png" group-title="Documentários",The History Channel Full HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS Full HD" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esportes",FOX SPORTS Full HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="Abertos",RBS TV Porto Alegre SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://t.likeiptv.com/CANCANOVA.png" group-title="Abertos",CANÇÃO NOVA HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/7691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo="https://seeklogo.com/images/W/Warner_Bros-logo-1B27F81742-seeklogo.com.png" group-title="Filmes e Séries",Warner Channel SD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://seeklogo.com/images/W/Warner_Bros-logo-1B27F81742-seeklogo.com.png" group-title="Filmes e Séries",Warner Channel HD
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4617.m3u8
