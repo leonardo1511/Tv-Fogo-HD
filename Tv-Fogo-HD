@@ -94,13 +94,13 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4179.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",COMBATE
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/5617.m3u8
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4159.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ESPORTES",EI
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4133.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ESPORTES",EI Maxx
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4136.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="ESPORTES",EI 2
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4134.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="ESPORTES",EI Maxx 2
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4135.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="ESPORTES",ESPN BRASIL
 http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4131.m3u8
@@ -109,13 +109,13 @@ http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4131.m3u8
 http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4132.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="ESPORTES",FOX SPORTS
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4113.m3u8
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4116.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4114.m3u8
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4115.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",SPORTV
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3909.m3u8
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3914.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",SPORTV 2
 http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3912.m3u8
@@ -127,10 +127,10 @@ http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3910.m3u8
 http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4019.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",PREMIERE 2
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4032.m3u8
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3913.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",PREMIERE 3
-http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4031.m3u8
+http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/3911.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",PREMIERE 4
 http://br1.e-tv.xyz:8081/live/like9h3745/dU6UtNa7b4/4029.m3u8
