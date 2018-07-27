@@ -155,6 +155,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0LklQw.png" group-title="FILMES & SÉRIES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]
 http://0.0.0.0
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="FILMES & SÉRIES",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4194.ts&name=TvFogoHD
 
@@ -197,7 +198,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4086.ts&name=TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4081.ts&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
