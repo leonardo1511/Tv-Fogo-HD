@@ -103,7 +103,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4135.ts&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4131.ts&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4130.ts&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4132.ts&name=TvFogoHD
