@@ -179,7 +179,7 @@
 <item>
 <title>[COLOR blue][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/fxhd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/RnqXjY</thumbnail>
@@ -188,7 +188,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/telecinepipoca/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
 </item>
@@ -196,7 +196,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/telecinepremium/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-premium-ao-vivo-24-horas-em-hd/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-premium-ao-vivo-24-horas-em-hd/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
 </item>
@@ -204,7 +204,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/telecineaction/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-action-ao-vivo-em-hd-gratis/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-action-ao-vivo-em-hd-gratis/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/P79aKf</thumbnail>
 </item>
@@ -212,7 +212,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/telecinefun/chunks.m3u8$doregex[TvFogoHD_AuthSign]|Referer=$doregex[TvFogoHD_Site]</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-fun-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-fun-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/Dk6F7h</thumbnail>
 </item>
@@ -220,7 +220,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/telecinetouch/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-touch-ao-vivo-em-hd-gratis/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-touch-ao-vivo-em-hd-gratis/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/AfJkib</thumbnail>
 </item>
@@ -228,7 +228,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/78821716219658219924/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-cult-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-cult-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/fLmSUL</thumbnail>
 </item>
@@ -236,7 +236,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/hbohd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-hbo-ao-vivo-24-horas-em-hd-gratis/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-hbo-ao-vivo-24-horas-em-hd-gratis/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
@@ -244,7 +244,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/hbo2hd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-hbo-2-ao-vivo-online-em-hd-gratis/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-hbo-2-ao-vivo-online-em-hd-gratis/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
@@ -252,7 +252,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/hbofamily/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-hbo-family-ao-vivo-24-horas-hd-720p/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-hbo-family-ao-vivo-24-horas-hd-720p/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/2BXhGr</thumbnail>
 </item>
@@ -260,7 +260,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/hboplus/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-hbo-plus-ao-vivo-sem-travar-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-hbo-plus-ao-vivo-sem-travar-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
@@ -268,7 +268,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/28347661835572978857/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-hbo-signature-ao-vivo-em-720p-gratis/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-hbo-signature-ao-vivo-em-720p-gratis/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/pTRcv8</thumbnail>
 </item>
@@ -276,7 +276,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/spacehd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-space-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-space-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
@@ -284,7 +284,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/megapixhd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-megapix-ao-vivo-24-horas-online-em-hd/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-megapix-ao-vivo-24-horas-online-em-hd/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
@@ -292,7 +292,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/paramount/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-canal-paramount-channel-online-ao-vivo-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-canal-paramount-channel-online-ao-vivo-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://goo.gl/iwCiPM</thumbnail>
 </item>
@@ -300,7 +300,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/tnthd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-tnt-ao-vivo-online-gratis-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-tnt-ao-vivo-online-gratis-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/vUl6oy</thumbnail>
 </item>
@@ -308,7 +308,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]TCM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/tcm/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-tcm-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-tcm-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://goo.gl/MBRjjf</thumbnail>
 </item>
@@ -316,7 +316,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/cinemax-hd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-cinemax-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-cinemax-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://goo.gl/oDAihL</thumbnail>
 </item>
@@ -324,7 +324,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/maxhd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-max-hd-ao-vivo-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-max-hd-ao-vivo-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
 </item>
@@ -332,7 +332,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/maxup/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-max-up-ao-vivo-gratis-em-hd-confira/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-max-up-ao-vivo-gratis-em-hd-confira/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/Hbr506</thumbnail>
 </item>
@@ -340,7 +340,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/maxprime/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-max-prime-ao-vivo-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-max-prime-ao-vivo-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/JG4dUv</thumbnail>
 </item>
@@ -356,7 +356,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/brasilhd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-canal-brasil-hd-ao-vivo-online-gratis-confira/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-canal-brasil-hd-ao-vivo-online-gratis-confira/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/zddqpQ</thumbnail>
 </item>
@@ -364,7 +364,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]FOX PREMIUM 1[/B][/COLOR]  [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/13945963548438544165/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-fox-premium-ao-vivo-24-horas-em-hd/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-fox-premium-ao-vivo-24-horas-em-hd/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://goo.gl/Z9UCZQ</thumbnail>
 </item>
@@ -372,7 +372,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]FOX PREMIUM 2[/B][/COLOR] [COLOR blue] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/86286526837465378731/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-fox-premium-2-ao-vivo-gratis-em-hd/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-fox-premium-2-ao-vivo-gratis-em-hd/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://goo.gl/RUDViH</thumbnail>
 </item>
@@ -380,7 +380,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]TBS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/tbs/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-tbs-muitodivertido-ao-vivo-24-horas-pela-internet/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-tbs-muitodivertido-ao-vivo-24-horas-pela-internet/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/TBS.png</thumbnail>
 </item>
@@ -388,7 +388,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]UNIVERSAL CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/universalch/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-universal-channel-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-universal-channel-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/K8V00r</thumbnail>
 </item>
@@ -396,7 +396,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]WARNER[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/warnerchannel/chunks.m3u8$doregex[TvFogoHD_AuthSign]|Referer=$doregex[TvFogoHD_Site]</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-warner-channel-ao-vivo-24-horas-gratis/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-warner-channel-ao-vivo-24-horas-gratis/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Warner.png</thumbnail>
 </item>
@@ -404,7 +404,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]COMEDY CENTRAL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/26796742673143856911/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-comedy-central-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-comedy-central-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://logosc.ucoz.com/Comedy-Central.png</thumbnail>
 </item>
@@ -412,7 +412,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]FOX LIFE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/foxlife/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-canal-fox-life-ao-vivo-gratis-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-canal-fox-life-ao-vivo-gratis-online/</page><agent>iPad</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Fox_Life.png</fanart>
 <thumbnail>https://goo.gl/STGSLK</thumbnail>
 </item>
@@ -420,7 +420,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]SYFY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/56962667793296852617/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-o-canal-syfy-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-o-canal-syfy-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/VDyslJ</thumbnail>
 </item>
@@ -428,7 +428,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]SONY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/55987292618779665195/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-sony-ao-vivo-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-sony-ao-vivo-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/omksVK</thumbnail>
 </item>
@@ -436,7 +436,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]AXN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/79541451929174648572/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-canal-axn-ao-vivo-online-ao-vivo-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-canal-axn-ao-vivo-online-ao-vivo-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/2f3ZDJ</thumbnail>
 </item>
@@ -444,7 +444,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR white][B]A&E[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/53728121535649232781/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tudotv.tv/assistir-canal-ae-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tudotv.tv/assistir-canal-ae-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/A%26E.png</thumbnail>
 </item>
@@ -638,7 +638,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/show/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/7LIjII</thumbnail>
 </item>
@@ -646,7 +646,7 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/83792545658779361413/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/XQfSPS</thumbnail>
 </item>
