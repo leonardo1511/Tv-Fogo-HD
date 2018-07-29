@@ -177,9 +177,9 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<title>[COLOR red][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/fxhd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/</page><agent>iPad</agent></regex>
 page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart></fanart>
 <thumbnail>http://goo.gl/RnqXjY</thumbnail>
