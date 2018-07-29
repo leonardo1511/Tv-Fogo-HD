@@ -170,18 +170,18 @@
 <title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/fox-hd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
-<fanart>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</fanart>
-<thumbnail></thumbnail>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[TvFogoHD_IP]/loadbalance/fox-hd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<link>http://$doregex[TvFogoHD_IP]/loadbalance/fxhd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
-<fanart>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</fanart>
-<thumbnail></thumbnail>
+page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
+<fanart></fanart>
+<thumbnail>http://goo.gl/RnqXjY</thumbnail>
 </item>
-
 
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
