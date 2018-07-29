@@ -167,22 +167,15 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]AMC[/B][/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>AMC HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<title>[COLOR blue][B]FOX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/fox-hd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-fox-ao-vivo-online-24-horas-gratis/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-fox-ao-vivo-online-24-horas-gratis/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<title>[COLOR blue][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[TvFogoHD_IP]/loadbalance/fxhd/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
 page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
