@@ -167,11 +167,9 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]AMC[/B][/COLOR]</title>
-<link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://tvonlineaovivo.net/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://tvonlineaovivo.net/assistir-amc-ao-vivo/amc.php</page></regex>
-<info></info>
+<title>[COLOR yellow][B]AMC[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[TvFogoHD_IP]/104/chunks.m3u8$doregex[TvFogoHD_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>TvFogoHD_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://tvonlineaovivo.net/assistir-amc-ao-vivo</page><agent>iPad</agent></regex><regex><name>TvFogoHD_AuthSign</name><expres>m3u8(.*)";</expres><page>http://tvonlineaovivo.net/assistir-amc-ao-vivo/</page><agent>iPad</agent></regex>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
 </item>
