@@ -95,7 +95,7 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4179.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7632.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/5617.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ESPORTES",[COLOR white][B]EI Maxx[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4136.ts?|User-Agent=iPhone&name=TvFogoHD
