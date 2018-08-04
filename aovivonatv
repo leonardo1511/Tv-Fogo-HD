@@ -1,577 +1,825 @@
 #EXTM3U
-#EXTINF:-1,[COLOR white][B]Agro Brasil [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/133.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]AXN [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/134.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Band News [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/128.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Band SP [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/195.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Band Sports [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/127.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]BIS [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/194.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Canal Brasil [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/154.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Channel [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/192.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Civilization [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/139.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Home & Health [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/126.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Science [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/138.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Theater [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/190.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Turbo [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/129.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery World [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/189.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Disney Channel [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/152.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]E! [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/151.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]EI Maxx 2 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/187.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]EI Maxx [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/188.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ESPN [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/186.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]FOOD NETWORK [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/150.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Life [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/184.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Premium 1 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/185.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Premium 2 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/131.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Sports [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/182.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]FX [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/132.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo Rio [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/181.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Gloob [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/148.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GNT [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/180.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]H2 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/179.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO Family [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/177.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO Plus [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/176.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO Signature [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/175.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ID [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/173.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]LIFETIME [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/147.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Mais Globosat [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/146.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]MAX [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/145.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]MAX Prime [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/144.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Max UP [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/143.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Megapix [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/172.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]MTV [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/142.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]NatGeo Kids [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/137.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]NatGeo Wild [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/171.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Nick Jr. [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/140.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Off [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/170.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Paramount [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/169.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 1 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/122.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 5 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/166.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 6 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/135.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 7 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/136.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Record [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/165.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Rede TV [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/163.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]SBT [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/164.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]SporTV 3 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/161.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TBS [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/160.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]The History Channel [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/174.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TLC [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/130.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TNT [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/159.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TNT Series [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/158.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Tooncast [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/120.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Universal Channel [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/157.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]VH1 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/121.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]VH1 Megahits [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/125.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Viva [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/156.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Warner [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/155.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO INTERNACIONAL FHD
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1520.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO MINAS [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1523.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO PARANA [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1527.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo SP [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1106.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO TV ANHANGUERA [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1524.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO TV GAZETA ES [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1538.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]COMBATE [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1557.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO NEWS [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1560.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]RECORD [COLOR gold]HD[/B][/COLOR] SP
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1559.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]COMEDY CENTRAL [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1558.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]SBT GO [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1566.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]A&E [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/334.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Animal Planet [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/332.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Arte 1 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/331.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]AXN [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/330.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Baby TV [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/329.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Boomerang [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/322.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Band News [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/328.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Band [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/327.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Band Sports [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/326.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]BIS [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/324.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]AMC [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/333.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]BAND PARANA [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1545.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO RN [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1533.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO RIBEIRAO PRETO [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1535.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO PORTUGAL [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1522.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO MT [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1534.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO INTERNACIONAL [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1521.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO FORTALEZA [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1532.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO EPTV [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1525.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO CAMPINAS [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1531.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO BAHIA [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1526.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO AM [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1528.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Warner Channel [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/207.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]VH1 Mega Hits [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/208.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Universal Channel [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/216.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV VitÃ³ria (Record ES) [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/215.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV Terceiro Anjo [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/211.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV Rio Largo (MaceiÃ³) [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/205.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV Ra-tim-bum [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/204.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV Evangelizar [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/212.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV DiÃ¡rio Fortaleza [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/217.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV CanÃ§Ã£o Nova [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/218.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV Brasil [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/219.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Trutv [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/220.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TNT Series [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/201.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TNT [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/203.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TLC [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/221.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]The History Channel [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/222.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Touch [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/223.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Premium [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/224.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Pipoca [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/225.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Fun [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/226.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Cult [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/227.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Action [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/228.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TCM [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/202.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TBS [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/229.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]SYFY [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/230.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Studio Universal [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/231.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
 #EXTINF:-1,[COLOR white][B]SporTV [COLOR gold]SD[/B][/COLOR]
 http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/232.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]SporTV 3 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/233.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]SporTV 2 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/234.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Space [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/235.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Sony [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/236.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]RIT [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/239.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Rede Vida [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/240.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Rede TV [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/200.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Rede Brasil [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/241.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]RECORD TV [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/242.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Record News [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/243.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]RBS TV Porto Alegre [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/199.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Prime Box Brazil [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/245.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere Clubes [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/246.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 9 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/247.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 8 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/248.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 7 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/198.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 6 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/249.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 5 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/250.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 4 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/251.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 3 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/252.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 2 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/253.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 1 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/254.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Play TV [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/255.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Paramount [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/256.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO SAO JOSE DOS CAMPOS [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1536.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Novo Tempo [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/258.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Nickelodeon [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/259.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Nick Jr. [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/260.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]National Geographic [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/261.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]NatGeo Wild [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/262.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]NatGeo Kids [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/263.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Music Box Brasil [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/264.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Multishow [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/265.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]MTV [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/266.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Megapix [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/267.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Max UP [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/268.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]MAX [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/269.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Max Prime [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/270.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Max Prime E [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/271.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Mais Globosat [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/272.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Lifetime [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/273.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ID [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/275.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]I SAT [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/276.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO Signature [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/277.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/278.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO Plus [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/279.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO Plus E [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/280.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO Family [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/281.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO 2 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/282.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]H2 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/283.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GNT [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/284.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Gloob [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/285.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo SP [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/286.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo Rio [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/287.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo Nordeste [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/288.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo News [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/289.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo Brasilia [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/209.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]FX [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/290.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Futura [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/291.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Sports [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/197.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Sports 2 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/196.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/292.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Life [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/293.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]FOOD NETWORK [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/294.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]FISH TV [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/295.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Esporte Interativo [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/299.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ESPN [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/300.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ESPN Brasil [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/301.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ESPN + [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/210.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]EI Maxx [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/296.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]EI Maxx 2 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/298.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]E! [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/297.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Disney XD [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/302.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Disney JR [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/303.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Disney Channel [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/304.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Turbo [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/305.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Science [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/306.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Kids [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/307.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Home & Health [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/308.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Civilization [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/309.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery Channel [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/310.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Curta! [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/311.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Cultura [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/312.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Comedy Central [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/313.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Combate [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/314.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]CNT [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/315.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]CNN International [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/316.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Cinemax [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/317.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Cartoon Network [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/319.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Canal Rural [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/320.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Canal Brasil [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/321.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO TV LIBERAL BELEM [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1537.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO TV TEM BAURU [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1530.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO TV TEM SOROCABA [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1529.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TERRA VIVA [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1540.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]VIVA [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1539.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ZOOMOO [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1546.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]RECORD USA
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1552.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]RECORD INTERNACIONAL
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1553.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]CANAL FUTEBOL [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1556.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Off [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/257.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]REDE TV 1 [COLOR gold]SD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1567.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]A&E [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/87.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]AMC [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/81.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Animal Planet [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/99.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Band Nordeste [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/115.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Canal Sony [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/191.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Cartoon Network [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/91.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Cinemax [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/153.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]DisneyJR [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/88.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery KIDS [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/107.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Discovery H265 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/93.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]ESPN MAIS [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/632.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox Sports 2 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/183.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo SP [COLOR gold]HD[/B][/COLOR] (2)
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1208.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/104.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]History [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/108.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Multishow [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/90.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Esporte interativo [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/103.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]National Geographic [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/92.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Nick-JR [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/105.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]OffHD
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/84.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere Clube [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/102.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Record Nordeste [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/116.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Sbt Nordeste [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/117.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 2 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/123.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo Nordeste [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/118.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 3 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/168.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Premiere 4 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/167.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Record News [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/124.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]HBO 2 [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/178.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Globo Curitiba [COLOR gold]HD[/B][/COLOR] (2)
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1209.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Space [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/97.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Fox [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/98.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]FoodNetwork [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/86.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Espn Brasil [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/80.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]NatGeoKids [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/85.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Action [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/96.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]SyFy [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/82.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Studio Universal [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/83.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
 #EXTINF:-1,[COLOR white][B]Sportv [COLOR gold]HD[/B][/COLOR]
 http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/106.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Fun [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/94.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Pipoca [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/109.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Premium [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/100.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Touch [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/95.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Tv Brasil [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/110.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Tv Nova Nordeste [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/112.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]TV Novo Tempo [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/114.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]boomerang [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/89.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]Telecine Cult [COLOR gold]HD[/B][/COLOR]
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1511.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]SporTV 2 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/234.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
 #EXTINF:-1,[COLOR white][B]SporTV 2 [COLOR gold]HD[/B][/COLOR]
 http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/162.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO BH G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1565.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO MINAS G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1564.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO RJ G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1563.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO SP G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1562.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO TV TEM ITAPEVA
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1561.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO ANHANGUERA G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1568.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO DF G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1569.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO LIBERAL BELEM G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1570.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO NORDESTE G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1571.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO RBS RS G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1572.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO SAO JC G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1573.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO TAUBATE G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1574.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
-#EXTINF:-1,[COLOR white][B]GLOBO VERDES MARES G5
-http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1575.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]SporTV 3 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/161.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]SporTV 3 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/233.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere Clube [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/102.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere Clubes [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/246.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 1 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/122.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 1 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/254.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 2 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/123.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 2 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/253.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 3 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/168.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 3 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/252.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 4 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/167.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 4 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/251.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 5 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/166.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 5 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/250.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 6 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/135.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 6 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/249.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 7 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/136.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 7 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/198.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 8 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/248.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Premiere 9 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/247.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+#EXTINF:-1,[COLOR white][B]AMC [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/81.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]AMC [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/333.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/98.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/292.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Life [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/293.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Life [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/184.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]FX [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/290.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]FX [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/132.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]AXN [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/134.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]AXN [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/330.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Premium 1 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/185.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Premium 2 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/131.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Cult [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1511.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]SyFy [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/82.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Studio Universal [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/83.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Fun [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/94.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Pipoca [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/109.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Premium [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/100.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Touch [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/95.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Action [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/96.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Space [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/97.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/104.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO 2 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/178.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Cinemax [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/153.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Cinemax [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/317.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Canal Sony [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/191.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]A&E [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/87.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Comedy Central [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/313.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]I SAT [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/276.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO Signature [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/277.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/278.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO Plus [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/279.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO Plus E [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/280.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO Family [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/281.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO 2 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/282.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Megapix [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/267.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Max UP [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/268.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]MAX [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/269.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Max Prime [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/270.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Max Prime E [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/271.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Paramount [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/256.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Cult [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/227.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Action [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/228.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TCM [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/202.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TBS [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/229.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]SYFY [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/230.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Studio Universal [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/231.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Space [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/235.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Sony [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/236.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TNT [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/203.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Touch [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/223.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Premium [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/224.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Pipoca [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/225.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Telecine Fun [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/226.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TNT Series [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/201.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Universal Channel [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/216.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Warner Channel [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/207.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]COMEDY CENTRAL [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1558.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Warner [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/155.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Universal Channel [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/157.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TLC [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/130.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TNT [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/159.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TNT Series [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/158.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO Family [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/177.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO Plus [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/176.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]HBO Signature [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/175.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]MAX [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/145.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]MAX Prime [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/144.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Max UP [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/143.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Megapix [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/172.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Paramount [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/169.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Prime Box Brazil [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/245.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Agro Brasil [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/133.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Band News [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/128.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Band SP [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/195.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Band Sports [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/127.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]BIS [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/194.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Canal Brasil [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/154.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Channel [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/192.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Civilization [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/139.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Home & Health [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/126.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Science [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/138.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Theater [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/190.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Turbo [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/129.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery World [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/189.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Disney Channel [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/152.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]E! [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/151.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]EI Maxx 2 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/187.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]EI Maxx [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/188.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ESPN [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/186.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]FOOD NETWORK [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/150.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Sports [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/182.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo Rio [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/181.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Gloob [COLOR gold]HD080/live/Princesa-Linda/VemProPapai/181.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/148.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GNT [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/180.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]H2 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/179.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ID [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/173.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]LIFETIME [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/147.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Mais Globosat [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/146.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]MTV [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/142.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]NatGeo Kids [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/137.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]NatGeo Wild [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/171.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Nick Jr. [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/140.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Off [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/170.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Record [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/165.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Rede TV [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/163.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]SBT [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/164.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TBS [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/160.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]The History Channel [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/174.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Tooncast [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/120.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]VH1 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/121.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]VH1 Megahits [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/125.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Viva [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/156.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO INTERNACIONAL FHD
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1520.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO MINAS [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1523.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO PARANA [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1527.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo SP [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1106.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO TV ANHANGUERA [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1524.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO TV GAZETA ES [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1538.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]COMBATE [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1557.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO NEWS [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1560.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]RECORD [COLOR gold]HD[/B][/COLOR] SP
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1559.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]SBT GO [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1566.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]A&E [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/334.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Animal Planet [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/332.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Arte 1 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/331.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Baby TV [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/329.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Boomerang [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/322.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Band News [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/328.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Band [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/327.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Band Sports [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/326.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]BIS [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/324.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]BAND PARANA [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1545.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO RN [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1533.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO RIBEIRAO PRETO [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1535.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO PORTUGAL [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1522.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO MT [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1534.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO INTERNACIONAL [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1521.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO FORTALEZA [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1532.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO EPTV [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1525.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO CAMPINAS [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1531.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO BAHIA [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1526.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO AM [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1528.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]VH1 Mega Hits [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/208.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV VitÃ³ria (Record ES) [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/215.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV Terceiro Anjo [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/211.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV Rio Largo (MaceiÃ³) [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/205.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV Ra-tim-bum [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/204.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV Evangelizar [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/212.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV DiÃ¡rio Fortaleza [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/217.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV CanÃ§Ã£o Nova [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/218.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV Brasil [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/219.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Trutv [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/220.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TLC [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/221.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]The History Channel [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/222.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]RIT [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/239.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Rede Vida [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/240.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Rede TV [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/200.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Rede Brasil [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/241.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]RECORD TV [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/242.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Record News [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/243.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]RBS TV Porto Alegre [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/199.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Play TV [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/255.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO SAO JOSE DOS CAMPOS [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1536.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Novo Tempo [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/258.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Nickelodeon [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/259.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Nick Jr. [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/260.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]National Geographic [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/261.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]NatGeo Wild [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/262.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]NatGeo Kids [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/263.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Music Box Brasil [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/264.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Multishow [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/265.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]MTV [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/266.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Mais Globosat [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/272.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Lifetime [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/273.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ID [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/275.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]H2 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/283.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GNT [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/284.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Gloob [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/285.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo SP [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/286.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo Rio [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/287.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo Nordeste [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/288.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo News [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/289.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo Brasilia [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/209.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Futura [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/291.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Sports [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/197.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Sports 2 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/196.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]FOOD NETWORK [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/294.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]FISH TV [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/295.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Esporte Interativo [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/299.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ESPN [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/300.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ESPN Brasil [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/301.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ESPN + [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/210.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]EI Maxx [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/296.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]EI Maxx 2 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/298.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]E! [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/297.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Disney XD [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/302.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Disney JR [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/303.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Disney Channel [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/304.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Turbo [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/305.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Science [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/306.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Kids [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/307.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Home & Health [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/308.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Civilization [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/309.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery Channel [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/310.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Curta! [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/311.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Cultura [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/312.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Combate [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/314.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]CNT [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/315.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]CNN International [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/316.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Cartoon Network [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/319.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Canal Rural [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/320.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Canal Brasil [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/321.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO TV LIBERAL BELEM [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1537.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO TV TEM BAURU [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1530.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]GLOBO TV TEM SOROCABA [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1529.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TERRA VIVA [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1540.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]VIVA [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1539.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ZOOMOO [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1546.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]RECORD USA
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1552.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]RECORD INTERNACIONAL
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1553.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]CANAL FUTEBOL [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1556.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Off [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/257.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]REDE TV 1 [COLOR gold]SD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1567.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Animal Planet [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/99.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Band Nordeste [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/115.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Cartoon Network [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/91.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]DisneyJR [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/88.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery KIDS [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/107.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Discovery H265 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/93.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]ESPN MAIS [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/632.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Fox Sports 2 [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/183.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo SP [COLOR gold]HD[/B][/COLOR] (2)
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1208.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]History [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/108.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Multishow [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/90.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Esporte interativo [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/103.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]National Geographic [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/92.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Nick-JR [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/105.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]OffHD
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/84.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Record Nordeste [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/116.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Sbt Nordeste [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/117.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo Nordeste [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/118.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Record News [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/124.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Globo Curitiba [COLOR gold]HD[/B][/COLOR] (2)
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/1209.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]FoodNetwork [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/86.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Espn Brasil [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/80.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]NatGeoKids [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/85.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Tv Brasil [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/110.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]Tv Nova Nordeste [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/112.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]TV Novo Tempo [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/114.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
+
+#EXTINF:-1,[COLOR white][B]boomerang [COLOR gold]HD[/B][/COLOR]
+http://cdn.iptvbr.tv:8080/live/Princesa-Linda/VemProPapai/89.m3u8|User-Agent=VilaNovaPlayer/1.0 (Linux;Android 7.0) VNPlayerLib/2.3.1
