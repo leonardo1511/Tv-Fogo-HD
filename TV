@@ -7,8 +7,8 @@
 <item>
 <title>[COLOR gray][B]GLOBO SP[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://www.portalzuca.com/canais/bobo.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.com/canais/bobo.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/oSbbWy</thumbnail>
