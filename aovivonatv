@@ -1,10 +1,6 @@
 <item>
-<title>[COLOR red][B]SPORTV--[/B][/COLOR]</title>
-<link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://ekostreams.co/ch/sportvhd.php</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>https://pxstream.tv/embed/5u7wwb1jphp7/</page></regex>
+<title>[COLOR white][B]SPORTV[/B][/COLOR]</title>
+<link>https://pxstream.tv/embed/5u7wwb1jphp7/</link>
+<thumbnail></thumbnail>
 <info></info>
-<fanart></fanart>
-<thumbnail>http://goo.gl/otjgxw</thumbnail>
 </item>
-
