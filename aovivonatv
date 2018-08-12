@@ -1,5 +1,8 @@
 <item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://94.176.148.138:8081/live/104/chunks.m3u8|Referer=https://tvonlineaovivo.net/</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/amc.png</thumbnail>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/sportvhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>https://ekostreams.co/ch/sportvhd.php</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>https://ekostreams.co/ch/sportvhd.php</page><agent>iPad</agent></regex>
+<info></info>
+<fanart>http://goo.gl/G9n3Xk</fanart>
+<thumbnail>http://goo.gl/otjgxw</thumbnail>
 </item>
