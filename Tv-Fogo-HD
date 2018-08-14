@@ -158,7 +158,7 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="FILMES & SÉRIES",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/LIKEIPTVAPPDOMINGO/reoDfhi4Tl/4194.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/LIKEIPTVAPPDOMINGO/reoDfhi4Tl/4193.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="FILMES & SÉRIES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/LIKEIPTVAPPDOMINGO/reoDfhi4Tl/4186.ts?|User-Agent=iPhone&name=TvFogoHD
