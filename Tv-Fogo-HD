@@ -108,7 +108,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILQUARTA2/RQe73FPCML/4132.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILQUARTA2/RQe73FPCML/4113.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILQUARTA2/RQe73FPCML/4116.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILQUARTA2/RQe73FPCML/4115.ts?|User-Agent=iPhone&name=TvFogoHD
