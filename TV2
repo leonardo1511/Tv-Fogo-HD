@@ -1,737 +1,464 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="BBB 18 - REALITY",[COLOR yellow][B]BBB 18 - REALITY[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/S52qEL" group-title="CANAIS ABERTO",[COLOR white][B]BIG BROTHER BRASIL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/2039.ts&name=Tv-Fogo-HD
-
-
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/513.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO SP [/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1065.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO RJ[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/467.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO RJ (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1506.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO MG[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/466.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-name="GLOBO VITORIA HD" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO VITORIA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/152.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/rbstv.png" group-title="CANAIS ABERTO",[COLOR white][B]RBS TV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1492.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO BAHIA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/983.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",[COLOR white][B]GLOBO NORDESTE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/817.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS PORTUGAL",[COLOR white][B]GLOBO INTERNACIONAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/153.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/411.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/678.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE RECORD[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/478.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE RECORD ( OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/937.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE RECORD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/679.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO",[COLOR white][B]RECORD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/659.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTO",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/523.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTO",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/959.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE TV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/414.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cultura.jpg" group-title="CANAIS ABERTO",[COLOR white][B]TV CULTURA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/681.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalrural.png" group-title="CANAIS ABERTO",[COLOR white][B]CANAL RURAL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/761.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://www.javet.com.br/images/javet/logo%20canal_do_boi.jpg" group-title="CANAIS ABERTO",[COLOR white][B]CANAL DO BOI[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1362.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/NBR.gif" group-title="CANAIS ABERTO",[COLOR white][B]NBR[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/763.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS ABERTO",[COLOR white][B]CANÇAO NOVA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1360.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS ABERTO",[COLOR white][B]TV APARECIDA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/790.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS ABERTO",[COLOR white][B]TV GAZETA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/789.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalbrasil.png" group-title="CANAIS ABERTO",[COLOR white][B]REDE BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/788.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalbrasil.png" group-title="CANAIS ABERTO",[COLOR white][B]CANAL BRASIL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/708.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/CANAIS ESPORTES.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS CANAIS ESPORTES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1404.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV ( OPÇAO 2 )[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1494.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/212.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/508.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 2(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1495.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/213.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/511.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 3 (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1496.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/214.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/464.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1493.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/876.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/695.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/465.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2 (OPÇAO 2)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/877.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/878.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/696.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/660.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1504.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",[COLOR white][B]EIMAX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1069.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX - 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/661.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX 2 (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1515.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",[COLOR white][B]EI MAXX 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1070.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPORTE INTERATIVO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/662.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1109.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN BRASIL (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/520.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1023.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/521.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/870.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/697.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN +[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/522.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png" group-title="CANAIS ESPORTES",[COLOR white][B]ESPN +[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/698.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/515.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="",[COLOR white][B]BAND SPORTS (OPÇAO 2)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/856.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/717.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/451.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1505.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/862.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/114.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/allsports.png" group-title="CANAIS ESPORTES",[COLOR white][B]ALL SPORTS BR[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/765.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png" group-title="CANAIS MUSICA",[COLOR white][B]FISHTV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/854.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/PFC.png" group-title="CANAIS ESPORTES",[COLOR white][B]PFC[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/537.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/PFC.png" group-title="CANAIS ESPORTES",[COLOR white][B]PFC INTERNACIONAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/186.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 24HS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/509.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 24HS (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1526.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 24HS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1090.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 1[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/645.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/646.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 3[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/647.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER  4[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/648.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 5[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/649.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 6[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/650.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 7[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/651.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 8[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/652.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 9[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/653.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER - 10[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/654.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/510.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 3[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/543.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 4[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/544.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 5[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/545.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 6[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/976.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",[COLOR white][B]PREMIER 7[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/977.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/487.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PREMIUM (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1511.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1049.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/483.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE ACTION (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1513.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1050.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/488.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE TOUCH( OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1510.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1057.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/486.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PIPOCA(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1514.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/687.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/485.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE FUN(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1512.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1047.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/484.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="CANAIS FILMES",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/685.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="CANAIS FILMES",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/473.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="CANAIS FILMES",[COLOR white][B]HBO(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1518.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="CANAIS FILMES",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1031.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="CANAIS FILMES",[COLOR white][B]HBO 2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/690.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="CANAIS FILMES",[COLOR white][B]HBO 2(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1508.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="CANAIS FILMES",[COLOR white][B]HBO2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1030.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="CANAIS FILMES",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/497.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="CANAIS FILMES",[COLOR white][B]HBO PLUS(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1517.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="CANAIS FILMES",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1032.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="CANAIS FILMES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/472.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="CANAIS FILMES",[COLOR white][B]HBO FAMILY(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1509.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="CANAIS FILMES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/691.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="CANAIS FILMES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/474.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="CANAIS FILMES",[COLOR white][B]HBO SIGNATURE(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1516.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="CANAIS FILMES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/694.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="CANAIS FILMES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/501.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="CANAIS FILMES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/728.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="CANAIS FILMES",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/503.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="CANAIS FILMES",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/730.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="CANAIS FILMES",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/502.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="CANAIS FILMES",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/729.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="CANAIS FILMES",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/475.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="CANAIS FILMES",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1026.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="CANAIS FILMES",[COLOR white][B]CINEMAX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/450.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="CANAIS FILMES",[COLOR white][B]CINEMAX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1044.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png" group-title="CANAIS FILMES",[COLOR white][B]PARAMOUNT CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/709.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="CANAIS FILMES",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/479.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="CANAIS FILMES",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1042.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="CANAIS FILMES",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/745.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="CANAIS FILMES",[COLOR white][B]A&E (OPÇAO 2)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/944.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="CANAIS FILMES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/447.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="CANAIS FILMES",[COLOR white][B]AXN(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1521.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="CANAIS FILMES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1028.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tcm.png" group-title="CANAIS FILMES",[COLOR white][B]TCM[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/682.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS FILMES",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/482.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS FILMES",[COLOR white][B]TNT(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1519.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="CANAIS FILMES",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1073.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-CANAIS FILMES.png" group-title="CANAIS FILMES",[COLOR white][B]TNT CANAIS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1105.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-CANAIS FILMES.png" group-title="CANAIS FILMES",[COLOR white][B]TNT CANAIS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1046.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="CANAIS FILMES",[COLOR white][B]WARNER CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/500.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="CANAIS FILMES",[COLOR white][B]WARNER CHANNEL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1072.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="CANAIS FILMES",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/972.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="CANAIS FILMES",[COLOR white][B]FOX(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1507.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="CANAIS FILMES",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1110.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="CANAIS FILMES",[COLOR white][B]FOX PREMIUM 1[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/978.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="CANAIS FILMES",[COLOR white][B]FOX PREMIUM  2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1310.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS FILMES",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/462.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS FILMES",[COLOR white][B]FX(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1520.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="CANAIS FILMES",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1043.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_action.png" group-title="CANAIS FILMES",[COLOR white][B]FOX ACTION[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/743.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png" group-title="CANAIS FILMES",[COLOR white][B]FOX LIFE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/463.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="CANAIS FILMES",[COLOR white][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/700.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png" group-title="CANAIS MUSICA",[COLOR white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/720.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS FILMES",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/507.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS FILMES",[COLOR white][B]CANAL SONY(OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/833.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="CANAIS FILMES",[COLOR white][B]CANAL SONY[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/719.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/lifetime.png" group-title="CANAIS FILMES",[COLOR white][B]LIFETIME[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/725.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png" group-title="CANAIS FILMES",[COLOR white][B]AMC[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/701.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="CANAIS FILMES",[COLOR white][B]SYFY[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/480.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png" group-title="CANAIS FILMES",[COLOR white][B]COMEDY CENTRAL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/849.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tbs.png" group-title="CANAIS FILMES",[COLOR white][B]TBS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/683.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/isat.png" group-title="CANAIS FILMES",[COLOR white][B]I-SAT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/727.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png" group-title="CANAIS INFANTIL",[COLOR white][B]BOOMERANG[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/448.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/460.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/590.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY JUNIOR[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/459.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISNEY CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/494.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/455.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="CANAIS INFANTIL",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1058.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS INFANTIL",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/449.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="CANAIS INFANTIL",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/587.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png" group-title="CANAIS INFANTIL",[COLOR white][B]TOONCAST[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/489.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png" group-title="CANAIS INFANTIL",[COLOR white][B]TOONCAST[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/702.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png" group-title="CANAIS INFANTIL",[COLOR white][B]NICKLODEON[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/477.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="CANAIS INFANTIL",[COLOR white][B]NICK JR[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/506.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="CANAIS INFANTIL",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/156.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="CANAIS INFANTIL",[COLOR white][B]GLOOB (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/951.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="CANAIS INFANTIL",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/823.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/4FCk7P" group-title="CANAIS MUSICA",[COLOR yellow][B]CANAIS MUSICA[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="CANAIS MUSICA",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/476.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="CANAIS MUSICA",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/174.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="CANAIS MUSICA",[COLOR white][B]MTV[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/620.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="CANAIS MUSICA",[COLOR white][B]MTV (OPÇAO 2 )[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/891.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/off.png" group-title="CANAIS MUSICA",[COLOR white][B]OFF[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/183.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS MUSICA",[COLOR white][B]VIVA[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/491.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS MUSICA",[COLOR white][B]VIVA[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/243.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canal-bis.png" group-title="CANAIS MUSICA",[COLOR white][B]BIS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/102.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png" group-title="CANAIS MUSICA",VH1[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/676.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png" group-title="CANAIS MUSICA",[COLOR white][B]VH 1 MEGA HITS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/735.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/trutv.png" group-title="CANAIS MUSICA",[COLOR white][B]TruTV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1071.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/wohoo.jpg" group-title="CANAIS MUSICA",[COLOR white][B]WOOHOO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1361.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/playtv.png" group-title="CANAIS MUSICA",[COLOR white][B]Play TV[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1025.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/musicbox.png" group-title="CANAIS MUSICA",[COLOR white][B]MUSIC BOX BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/762.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Prime_Box_Brazil.png" group-title="CANAIS MUSICA",[COLOR white][B]PRIME BOX BRASIL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/764.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globosat.png" group-title="CANAIS MUSICA",[COLOR white][B]GLOBOSAT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/93.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.jpg" group-title="CANAIS MUSICA",[COLOR white][B]GNT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/157.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.jpg" group-title="CANAIS MUSICA",[COLOR white][B]GNT[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/829.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qrOmPHN.png" group-title="CANAIS NOTICIAS",[COLOR yellow][B]CANAIS NOTICIAS[/B][/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="CANAIS NOTICIAS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/663.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="CANAIS NOTICIAS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1108.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="CANAIS NOTICIAS",[COLOR white][B]RECORD NEWS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/734.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="CANAIS NOTICIAS",[COLOR white][B]BAND NEWS[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/495.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="CANAIS NOTICIAS",[COLOR white][B]BAND NEWS[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/726.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/Cnn.png" group-title="CANAIS NOTICIAS",[COLOR white][B]CNN[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/724.ts&name=Tv-Fogo-HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KejL8N6.png" group-title="DOCUMENTARIOS",[COLOR yellow][B]DOCUMENTARIOS[/B][/COLOR]
-http://0.0.0.0
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTARIOS",[COLOR white][B]HISTORY CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/499.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTARIOS",[COLOR white][B]HISTORY CHANNEL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1067.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png" group-title="DOCUMENTARIOS",[COLOR white][B]H2[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/470.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png" group-title="DOCUMENTARIOS",[COLOR white][B]H2[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/714.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png" group-title="DOCUMENTARIOS",[COLOR white][B]TLC[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/644.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png" group-title="DOCUMENTARIOS",[COLOR white][B]TLC[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/825.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/E!.jpg" group-title="DOCUMENTARIOS",[COLOR white][B]E![/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/632.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/E!.jpg" group-title="DOCUMENTARIOS",[COLOR white][B]E! (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/868.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATGEO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/498.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATIONAL GEOGRAPHIC (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/899.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATGEO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1202.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png" group-title="DOCUMENTARIOS",[COLOR white][B]NAT GEO WILD[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/712.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png" group-title="DOCUMENTARIOS",[COLOR white][B]NATGEO WILD[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/787.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/516.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1055.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1059.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1060.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY CIVILIZATION[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/737.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/736.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/656.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1054.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png" group-title="DOCUMENTARIOS",[COLOR white][B]DISCOVERY THEATER[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/655.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png" group-title="DOCUMENTARIOS",[COLOR white][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/658.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTARIOS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1324.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTARIOS",[COLOR white][B]ANIMAL PLANET (OPÇAO 2)[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/884.ts&name=Tv-Fogo-HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTARIOS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/711.ts&name=Tv-Fogo-HD
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="RELIGIOSOS",TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1446858289.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/228.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND PA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND PA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3919.m3u8
+#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/231.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL DE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="CANAIS ABERTOS",REDE BRASIL DE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3921.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="CANAIS ABERTOS",REDE BRASIL SP
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3920.m3u8
+#EXTINF:-1 tvg-id="TV Baiana" tvg-name="TV BAIANA" tvg-logo="https://uploaddeimagens.com.br/images/001/454/538/full/baiana.png?1528344181" group-title="CANAIS ABERTOS",TV BAIANA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3563.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA MG" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="CANAIS ABERTOS",TV CULTURA MG
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3923.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA PE" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="CANAIS ABERTOS",TV CULTURA PE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3922.m3u8
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="CANAL RURAL" tvg-logo="http://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3-1024x637.png" group-title="CANAIS ABERTOS",CANAL RURAL
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/320.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA" tvg-logo="https://i.imgur.com/wuunLnX.png" group-title="CANAIS ABERTOS",FUTURA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/189.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA RJ" tvg-logo="https://i.imgur.com/wuunLnX.png" group-title="CANAIS ABERTOS",FUTURA RJ
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/321.m3u8
+#EXTINF:-1 tvg-id="Hit TV" tvg-name="HITTV" tvg-logo="https://uploaddeimagens.com.br/images/001/283/271/full/logo.png?1518132894" group-title="INTERNACIONAIS",HITTV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://images.mi.tv/channels/br_nbr_m.png" group-title="CANAIS ABERTOS",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-id="Record TV HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="CANAIS ABERTOS",RECORD HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/141.m3u8
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD TV" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="CANAIS ABERTOS",RECORD TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RJ" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="CANAIS ABERTOS",RECORDTV RJ
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5619.m3u8
+#EXTINF:-1 tvg-id="Rede Internacional de TV" tvg-name="RECORDTV INTERNACIONAL HD" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="CANAIS ABERTOS",RECORDTV INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/322.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="CANAIS ABERTOS",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/chunklist_w712068166.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDETV! RJ" tvg-logo="https://rd1.com.br/wp-content/uploads/2016/01/redetv.png" group-title="CANAIS ABERTOS",REDETV! RJ
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/323.m3u8
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="REDETV!" tvg-logo="https://rd1.com.br/wp-content/uploads/2016/01/redetv.png" group-title="CANAIS ABERTOS",REDETV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w89340568.m3u8
+#EXTINF:-1 tvg-id="RedeTV HD" tvg-name="REDETV! HD" tvg-logo="https://rd1.com.br/wp-content/uploads/2016/01/redetv.png" group-title="CANAIS ABERTOS",REDETV! HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/139.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="CANAIS ABERTOS",SBT
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/282.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="CANAIS ABERTOS",SBT HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/504.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT PIAUÍ HD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="CANAIS ABERTOS",SBT PIAUÍ HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/774.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SALVADOR HD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="CANAIS ABERTOS",SBT SALVADOR HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/773.m3u8
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL" tvg-logo="https://uploaddeimagens.com.br/images/001/258/074/full/TV_Brasil_logo.png?1516512404" group-title="CANAIS ABERTOS",TV BRASIL
+http://ebctvbrasilgeoblocking.hls.adaptive.level3.net/hls-live/ebcremuxlive-tvbrasilgeoblocking/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV GAZETA" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2015/01/LOGO-GAZETA-COR.png" group-title="CANAIS ABERTOS",TV GAZETA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/250.m3u8
+#EXTINF:-1 tvg-id="Tv Vitoria" tvg-name="TV VITÓRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png" group-title="CANAIS ABERTOS",TV VITÓRIA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/272.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="CANAIS ABERTOS",TV CULTURA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/273.m3u8
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/276.m3u8
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="RELIGIOSOS",REDE VIDA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/277.m3u8
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="RELIGIOSOS",TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/275.m3u8
+#EXTINF:-1 tvg-id="TV Feliz" tvg-name="TV FELIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6b/Logotipo_da_TV_Feliz.png" group-title="RELIGIOSOS",TV FELIZ
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PROMESSAS" tvg-logo="https://i1.wp.com/canalpromessas.com.br/wp-content/uploads/2018/03/cor-site.png?fit=619%2C500" group-title="RELIGIOSOS",CANAL PROMESSAS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CJC TV" tvg-logo="https://uploaddeimagens.com.br/images/001/536/816/full/CJC.png?1532985272" group-title="RELIGIOSOS",CJC TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOD TV (USA)" tvg-logo="https://uploaddeimagens.com.br/images/001/536/839/full/god-tv-logo.png?1532985907" group-title="RELIGIOSOS",GOD TV (USA)
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOD´S LEARNING CHANNEL (USA)" tvg-logo="http://www.jamespintoministries.net/GLClogo.png" group-title="RELIGIOSOS",GOD´S LEARNING CHANNEL (USA)
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://uploaddeimagens.com.br/images/001/536/777/full/gospel-cartoon.png?1532983907" group-title="RELIGIOSOS",GOSPEL CARTOON
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="https://uploaddeimagens.com.br/images/001/536/808/full/MOVIES.png?1532985069" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MUSIC TV" tvg-logo="https://uploaddeimagens.com.br/images/001/536/771/full/GOSPEL.png?1532983713" group-title="RELIGIOSOS",GOSPEL MUSIC TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HILLSONG CHANNEL (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Hillsong_Church_logo.png" group-title="RELIGIOSOS",HILLSONG CHANNEL (USA)
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IGREJA UNIVERSAL DO REINO DE DEUS" tvg-logo="https://igrejauniversal.pt/wp-content/uploads/2018/06/iurd-tv.png" group-title="RELIGIOSOS",IGREJA UNIVERSAL DO REINO DE DEUS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BETHEL TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/BethelTV.png/revision/latest?cb=20180111161258" group-title="RELIGIOSOS",BETHEL TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL GOSPEL TV" tvg-logo="http://images.mi.tv/channels/br_rede-gospel_m.png" group-title="RELIGIOSOS",PORTAL GOSPEL TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL TV HD" tvg-logo="http://images.mi.tv/channels/br_rede-gospel_m.png" group-title="RELIGIOSOS",GOSPEL TV HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL DE COMUNICAÇÃO PE HD" tvg-logo="https://uploaddeimagens.com.br/images/001/536/759/full/redebrasillogo.png?1532983174" group-title="RELIGIOSOS",REDE BRASIL DE COMUNICAÇÃO PE HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMÍLIA" tvg-logo="https://uploaddeimagens.com.br/images/001/536/747/full/FAMILIA.png?1532982930" group-title="RELIGIOSOS",REDE FAMÍLIA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE GÊNESIS" tvg-logo="https://uploaddeimagens.com.br/images/001/536/832/full/GENESIS.png?1532985743" group-title="RELIGIOSOS",REDE GÊNESIS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5523.m3u8
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="REDE SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="RELIGIOSOS",REDE SUPER
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL TV" tvg-logo="http://www.sobrenaturaltv.org/uploads/3/0/1/1/30114993/editor/1870844.png?1523959563" group-title="RELIGIOSOS",SOBRENATURAL TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CRISTO VIVE" tvg-logo="https://2ki75z26cxs83vw1ja1h5j8n-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/tv-web-cristo-vive.png" group-title="RELIGIOSOS",TV CRISTO VIVE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV FELIZ RN" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6b/Logotipo_da_TV_Feliz.png" group-title="RELIGIOSOS",TV FELIZ RN
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEÕES HD" tvg-logo="http://2.bp.blogspot.com/-bX1OGlr5NlQ/TgVBoH8Gq7I/AAAAAAAADKI/9hltPVTBHsM/s1600/logo_tv.png" group-title="RELIGIOSOS",TV GIDEÕES HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV IGREJA MUNDIAL" tvg-logo="https://uploaddeimagens.com.br/images/001/536/827/full/MUNDIAL.png?1532985563" group-title="RELIGIOSOS",TV IGREJA MUNDIAL
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV IGREJA PLENITUDE" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Logo_iaptd.png/460px-Logo_iaptd.png" group-title="RELIGIOSOS",TV IGREJA PLENITUDE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEM & VÊ TV 1" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="RELIGIOSOS",VEM & VÊ TV 1
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEM & VÊ TV 2" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="RELIGIOSOS",VEM & VÊ TV 2
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEM & VÊ TV 3" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="RELIGIOSOS",VEM & VÊ TV 3
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV LEÃO DE JUDÁ" tvg-logo="https://uploaddeimagens.com.br/images/001/536/766/full/JUDA.png?1532983506" group-title="RELIGIOSOS",TV LEÃO DE JUDÁ
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5517.m3u8
+#EXTINF:-1 tvg-id="TV GAZETA ES SUL FHD" tvg-name="TV GAZETA ES SUL FHD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",TV GAZETA ES SUL FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV RIBEIRÃO PRETO HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",EPTV RIBEIRÃO PRETO HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV SÃO CARLOS HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",EPTV SÃO CARLOS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV CABUGI" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",INTER TV CABUGI
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5393.m3u8
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3562.m3u8
+#EXTINF:-1 tvg-id="Globo Minas Gerais HD" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/187.m3u8
+#EXTINF:-1 tvg-id="Globo TV Liberal Belém" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/186.m3u8
+#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="GLOBO RIO HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",GLOBO RIO HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/185.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",GLOBO SP
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/221.m3u8
+#EXTINF:-1 tvg-id="TV TEM SJRP" tvg-name="TV TEM SJRP" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",TV TEM SJRP
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/245.m3u8
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="TV TRIBUNA SANTOS" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",TV TRIBUNA SANTOS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/244.m3u8
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",RBS TV PORTO ALEGRE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/210.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBO",GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/184.m3u8
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="ESPORTES",BAND SPORTS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/229.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" tvg-logo="https://uploaddeimagens.com.br/images/001/367/860/full/Premiere_combate.png?1523427517" group-title="ESPORTES",COMBATE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/219.m3u8
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/860/full/Premiere_combate.png?1523427517" group-title="ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/218.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://uploaddeimagens.com.br/images/001/367/874/full/espn_hd.png?1523428983" group-title="ESPORTES",ESPN
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/758.m3u8
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/874/full/espn_hd.png?1523428983" group-title="ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/201.m3u8
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="ESPORTES",ESPN +
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/204.m3u8
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="ESPORTES",ESPN + HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/759.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" tvg-logo="https://uploaddeimagens.com.br/images/001/367/873/full/proxy.png?1523428893" group-title="ESPORTES",ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/203.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN BRASIL HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/873/full/proxy.png?1523428893" group-title="ESPORTES",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="ESPORTES",ESPORTE INTERATIVO
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/1374.m3u8
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="ESPORTES",ESPORTE INTERATIVO HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/241.m3u8
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV" tvg-logo="https://1.bp.blogspot.com/-hqxeHJVz8zU/UvGZPvj50oI/AAAAAAAAhME/MxMPhvkIw-M/s1600/Fish+Tv.png" group-title="ESPORTES",FISH TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/200.m3u8
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="ESPORTES",FOX SPORTS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/192.m3u8
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="ESPORTES",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/789.m3u8
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="FOX SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="ESPORTES",FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/190.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2" tvg-logo="https://4.bp.blogspot.com/-DHjsisdX_hw/WmCRC-GHcHI/AAAAAAAAAyI/VB2A9gPetWcb1TzHAHyu27cSAsGzzW80QCLcBGAs/s1600/fox-sports-2.jpg" group-title="ESPORTES",FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/191.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://4.bp.blogspot.com/-DHjsisdX_hw/WmCRC-GHcHI/AAAAAAAAAyI/VB2A9gPetWcb1TzHAHyu27cSAsGzzW80QCLcBGAs/s1600/fox-sports-2.jpg" group-title="ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/790.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",OFF HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/156.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="ESPORTES",SPORTV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5540.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="ESPORTES",SPORTV HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/135.m3u8
+#EXTINF:-1 tvg-id="Sportv HD" tvg-name="SPORTV FHD" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="ESPORTES",SPORTV FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/131.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="ESPORTES",SPORTV 2
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/134.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/133.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="ESPORTES",SPORTV 3
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/132.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/756.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/154.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/776.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD*" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE CLUBES HD*
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3274.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 2
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/152.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/151.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 3
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/150.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/149.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 4
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/148.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/147.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 5
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/146.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/779.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 6
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/145.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/778.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 7
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/144.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="PREMIERE",PREMIERE 8
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/143.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES E MÚSICA",PRIME BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/142.m3u8
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIS",BABY TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/232.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png" group-title="INFANTIS",BOOMERANG
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/224.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="INFANTIS",CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/222.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5481.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIS",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/212.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/640px-2015_Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/208.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png" group-title="INFANTIS",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/207.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/871/full/Disney_XD_Mixels_logo.png?1523428488" group-title="INFANTIS",DISNEY XD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/206.m3u8
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RA-TIM-BUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",RA-TIM-BUM HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIS",GLOOBINHO FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5106.m3u8
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="INFANTIS",NATGEO KIDS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/161.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" tvg-logo="https://uploaddeimagens.com.br/images/001/368/870/full/Old_Nick_Jr_logo.png?1523473537" group-title="INFANTIS",NICK JR
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/158.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://uploaddeimagens.com.br/images/001/368/860/full/NICKELODEON_Logo.png?1523473384" group-title="INFANTIS",NICKELODEON
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/157.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="https://www.turner.com/s3fs-public/location_brand_logo/icon-55_3.png" group-title="INFANTIS",TOONCAST
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/113.m3u8
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO HD" tvg-logo="http://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/561b005ce4b01fb24a27a072/1524694806195/" group-title="INFANTIS",ZOOMOO HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3276.m3u8
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS HD" tvg-logo="http://dispositiva.com.br/wp-content/uploads/2017/09/bis.png" group-title="VARIEDADES E MÚSICA",BIS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/1378.m3u8
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/862/full/Comedy_Central_Logo_red.svg.png?1523427654" group-title="VARIEDADES E MÚSICA",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/217.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! ENTERTAINMENT TELEVISION HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/30/16/15/3016159ad9aa9ea59f19161864508c93.png" group-title="VARIEDADES E MÚSICA",E! ENTERTAINMENT TELEVISION HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MusicBoxBrazilLogo.png/230px-MusicBoxBrazilLogo.png" group-title="VARIEDADES E MÚSICA",MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5640.m3u8
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/500px-Food_Network_Logo.svg.png" group-title="VARIEDADES E MÚSICA",FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/199.m3u8
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="+GLOBOSAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%2Bglobosat_azul_2d.png/1280px-%2Bglobosat_azul_2d.png" group-title="VARIEDADES E MÚSICA",+GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/182.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="VARIEDADES E MÚSICA",GNT
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/180.m3u8
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/920/full/Lifetime_2013.png?1523474380" group-title="VARIEDADES E MÚSICA",LIFETIME HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/168.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="VARIEDADES E MÚSICA",MTV HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3278.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" tvg-logo="https://uploaddeimagens.com.br/images/001/368/890/full/cfa477de2556a75a32a3ee2b7b89.png?1523473789" group-title="VARIEDADES E MÚSICA",MULTISHOW
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/162.m3u8
+#EXTINF:-1 tvg-id="Play TV" tvg-name="PLAYTV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="VARIEDADES E MÚSICA",PLAYTV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/246.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/707_300.png" group-title="DOCUMENTÁRIOS",TLC
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5568.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/707_300.png" group-title="DOCUMENTÁRIOS",TLC HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/116.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="VARIEDADES E MÚSICA",VIVA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/110.m3u8
+#EXTINF:-1 tvg-id="Vh1" tvg-name="VH1 HD" tvg-logo="http://logonoid.com/images/vh1-logo.png" group-title="VARIEDADES E MÚSICA",VH1 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" group-title="VARIEDADES E MÚSICA",FASHION TV
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5538.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/234.m3u8
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/796.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://ulango.tv/uploads/channels/122779/logo_discovery%20civilization.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/215.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/865/full/Discovery_Channel_logo.png?1523427888" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/214.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://uploaddeimagens.com.br/images/001/368/784/full/_0040_discovery_hh.png?1523471323" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/213.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/784/full/_0040_discovery_hh.png?1523471323" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/793.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/764.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://uploaddeimagens.com.br/images/001/367/868/full/Discovery_Science_HD.png?1523428200" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/211.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/763.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="DOCUMENTÁRIOS",H2
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/179.m3u8
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="DOCUMENTÁRIOS",H2 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/178.m3u8
+#EXTINF:-1 tvg-id="History Channel" tvg-name="HISTORY CHANNEL" tvg-logo="https://uploaddeimagens.com.br/images/001/366/031/full/History_Channel_Logo.png?1523333018" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/117.m3u8
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://uploaddeimagens.com.br/images/001/366/031/full/History_Channel_Logo.png?1523333018" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/171.m3u8
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/170.m3u8
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/169.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NATGEO WILD" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/160.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/159.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="FILMES E SÉRIES",A&E
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/236.m3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="FILMES E SÉRIES",A&E HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/797.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/NHDugpN.png" group-title="FILMES E SÉRIES",AMC
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/235.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/NHDugpN.png" group-title="FILMES E SÉRIES",AMC HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/1377.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="FILMES E SÉRIES",AXN
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/233.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="FILMES E SÉRIES",AXN HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/795.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="FILMES E SÉRIES",CINEMAX
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/220.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="FILMES E SÉRIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/794.m3u8
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="FOX HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/973/full/Fox_logo.png?1523475794" group-title="FILMES E SÉRIES",FOX HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/792.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FHD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/973/full/Fox_logo.png?1523475794" group-title="FILMES E SÉRIES",FOX FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/198.m3u8
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE" tvg-logo="https://uploaddeimagens.com.br/images/001/369/003/full/Fox_Life_Brasil_Logo.png?1523476342" group-title="FILMES E SÉRIES",FOX LIFE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/195.m3u8
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE HD" tvg-logo="https://uploaddeimagens.com.br/images/001/369/003/full/Fox_Life_Brasil_Logo.png?1523476342" group-title="FILMES E SÉRIES",FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/791.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://3.bp.blogspot.com/-_VSq5RxQ5vk/UViRC3bzN2I/AAAAAAAAAqE/6Z6XymqPRo0/s640/fx+channel+sivergamtv.png" group-title="FILMES E SÉRIES",FX HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/248.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="FILMES E SÉRIES",HBO
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/177.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="FILMES E SÉRIES",HBO HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/196.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://uploaddeimagens.com.br/images/001/368/942/full/HBO_2.png?1523474868" group-title="FILMES E SÉRIES",HBO 2
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/172.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/942/full/HBO_2.png?1523474868" group-title="FILMES E SÉRIES",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/788.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://uploaddeimagens.com.br/images/001/369/495/full/HBO_Family_Latin_Atlansia.png?1523497776" group-title="FILMES E SÉRIES",HBO FAMILY
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/176.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="https://uploaddeimagens.com.br/images/001/369/495/full/HBO_Family_Latin_Atlansia.png?1523497776" group-title="FILMES E SÉRIES",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/787.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS" tvg-logo="http://3.bp.blogspot.com/-kKhBI5YvZsY/VonNDCfAubI/AAAAAAAAA3A/SJvyCYh0yVw/s1600/HBOPLUS.png" group-title="FILMES E SÉRIES",HBO PLUS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/175.m3u8
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="http://3.bp.blogspot.com/-kKhBI5YvZsY/VonNDCfAubI/AAAAAAAAA3A/SJvyCYh0yVw/s1600/HBOPLUS.png" group-title="FILMES E SÉRIES",HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/786.m3u8
+#EXTINF:-1 tvg-id="HBO Plus *e" tvg-name="HBO PLUS *E" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/2.png" group-title="FILMES E SÉRIES",HBO PLUS *E
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/174.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE" tvg-logo="https://uploaddeimagens.com.br/images/001/368/933/full/HBO_Signature_Latin_Atlansia.png?1523474788" group-title="FILMES E SÉRIES",HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/173.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/933/full/HBO_Signature_Latin_Atlansia.png?1523474788" group-title="FILMES E SÉRIES",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/785.m3u8
+#EXTINF:-1 tvg-id="Max" tvg-name="MAX" tvg-logo="https://uploaddeimagens.com.br/images/001/368/912/full/Max_logo.png?1523474292" group-title="FILMES E SÉRIES",MAX
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/167.m3u8
+#EXTINF:-1 tvg-id="Max HD" tvg-name="MAX HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/912/full/Max_logo.png?1523474292" group-title="FILMES E SÉRIES",MAX HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/784.m3u8
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="MAX PRIME" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151817-canal-max-prime.png" group-title="FILMES E SÉRIES",MAX PRIME
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/166.m3u8
+#EXTINF:-1 tvg-id="Max Prime HD" tvg-name="MAX PRIME HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151817-canal-max-prime.png" group-title="FILMES E SÉRIES",MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/783.m3u8
+#EXTINF:-1 tvg-id="Max Prime *e" tvg-name="MAX PRIME *E" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="FILMES E SÉRIES",MAX PRIME *E
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/165.m3u8
+#EXTINF:-1 tvg-id="Max Up" tvg-name="MAX UP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="FILMES E SÉRIES",MAX UP
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/164.m3u8
+#EXTINF:-1 tvg-id="Max Up HD" tvg-name="MAX UP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="FILMES E SÉRIES",MAX UP HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/782.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" tvg-logo="https://uploaddeimagens.com.br/images/001/368/895/full/8e98b42584b1a930aee9241e73fa.png?1523473890" group-title="FILMES E SÉRIES",MEGAPIX
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/163.m3u8
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/895/full/8e98b42584b1a930aee9241e73fa.png?1523473890" group-title="FILMES E SÉRIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/781.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://www.cineytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/155.m3u8
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="SONY HD" tvg-logo="https://uploaddeimagens.com.br/images/001/394/863/full/Canalsonyhd.png?1525001951" group-title="FILMES E SÉRIES",SONY HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/772.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="FILMES E SÉRIES",SPACE
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/136.m3u8
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="FILMES E SÉRIES",SPACE HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/771.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/130.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="FILMES E SÉRIES",SYFY
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/129.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY HD" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="FILMES E SÉRIES",SYFY HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/770.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="FILMES E SÉRIES",TBS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/128.m3u8
+#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="FILMES E SÉRIES",TBS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/127.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="https://uploaddeimagens.com.br/images/001/429/723/full/Tcm_logo_red.png?1526969985" group-title="FILMES E SÉRIES",TCM HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3280.m3u8
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="FILMES E SÉRIES",TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/125.m3u8
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="FILMES E SÉRIES",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/755.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="FILMES E SÉRIES",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/124.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="FILMES E SÉRIES",TELECINE FUN
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/123.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="FILMES E SÉRIES",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/765.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/122.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/121.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/120.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM  HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/126.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="FILMES E SÉRIES",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/119.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="FILMES E SÉRIES",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/118.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="FILMES E SÉRIES",TNT
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/115.m3u8
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="FILMES E SÉRIES",TNT HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/769.m3u8
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SERIES FHD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="FILMES E SÉRIES",TNT SERIES FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/114.m3u8
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/df/Universal_Channel_HD_2013.png/220px-Universal_Channel_HD_2013.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/112.m3u8
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459779691_warner-bros-logo.png" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/109.m3u8
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS" tvg-logo="http://s15.postimg.org/czcga5g87/Band_News.png" group-title="NOTÍCIAS",BAND NEWS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://i.pinimg.com/originals/90/7b/cc/907bccf79adb029d0223655bf1ccff74.png" group-title="NOTÍCIAS",FOX NEWS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="http://kashgt.com/wp-content/uploads/2014/06/sky-news-logo.png" group-title="NOTÍCIAS",SKY NEWS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/3836.m3u8
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/832/full/Globo_News_2008.png?1523422148" group-title="NOTÍCIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/197.m3u8
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS" tvg-logo="https://uploaddeimagens.com.br/images/001/367/832/full/Globo_News_2008.png?1523422148" group-title="NOTÍCIAS",GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/183.m3u8
+#EXTINF:-1 tvg-id="Record News ES" tvg-name="RECORD NEWS ES" tvg-logo="https://uploaddeimagens.com.br/images/001/283/259/full/Logotipo_da_Record_News.png?1518132446" group-title="NOTÍCIAS",RECORD NEWS ES
+plugin://plugin.video.f4mTester/?name=FORMIGATV&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/278.m3u8
