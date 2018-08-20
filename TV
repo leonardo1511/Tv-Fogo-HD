@@ -17,7 +17,7 @@
 <item>
 <title>[COLOR gray][B]GLOBO RJ[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://www.portalzuca.com/canais/boborj.php</page></regex>
 <info>info>
 <fanart></fanart>
@@ -27,7 +27,7 @@
 <item>
 <title>[COLOR gray][B]GLOBO RBS[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://www.portalzuca.com/canais/bobors.php</page></regex>
 <info></info>
 <fanart></fanart>
@@ -37,7 +37,7 @@
 <item>
 <title>[COLOR gray][B]GLOBO MG[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://www.portalzuca.com/canais/bobomg.php</page></regex>
 <info></info>
 <fanart></fanart>
@@ -47,7 +47,7 @@
 <item>
 <title>[COLOR gray][B]SBT[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://www.portalzuca.com/canais/sbt.php</page></regex>
 <info></info>
 <fanart></fanart>
@@ -57,7 +57,7 @@
 <item>
 <title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://www.portalzuca.com/canais/band.php</page></regex>
 <info></info>
 <fanart></fanart>
@@ -73,8 +73,8 @@
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/spt.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/spt.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/otjgxw</thumbnail>
@@ -83,8 +83,8 @@
 <item>
 <title>[COLOR red][B]SPORTV 2[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/spt2.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/spt2.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/otjgxw</thumbnail>
@@ -93,8 +93,8 @@
 <item>
 <title>[COLOR red][B]SPORTV 3[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/spt3.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/spt3.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/otjgxw</thumbnail>
@@ -103,8 +103,8 @@
 <item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/foxsports1.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/foxsports1.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/LacZhJ</thumbnail>
@@ -113,8 +113,8 @@
 <item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/foxsports2.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/foxsports2.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/LacZhJ</thumbnail>
@@ -123,8 +123,8 @@
 <item>
 <title>[COLOR red][B]COMBATE[/B][/COLOR]  [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/combate.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/combate.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/3rQULA</thumbnail>
@@ -133,8 +133,8 @@
 <item>
 <title>[COLOR red][B]Esporte Interativo BR[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/eibr.php</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/eibr.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/5R2X22</thumbnail>
@@ -143,8 +143,8 @@
 <item>
 <title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/ei.php<</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/ei.php<</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/UumMxW</thumbnail>
@@ -153,8 +153,8 @@
 <item>
 <title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>http://portalzuca.com/canais/ei2.php<</page></regex>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>https://www.portalzuca.comcanais/ei2.php<</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>http://goo.gl/UumMxW</thumbnail>
@@ -169,16 +169,11 @@
 <item>
 <title>[COLOR blue][B]FOX[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>http://portalzuca.com/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://www.portalzuca.com</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://www.portalzuca.com/canais/fox.php</page></regex>
 <info></info>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
 </item>
 
-<item>
-<title>AMC</title>
-<sportsdevil>http://tvonlineaovivo.net/assistir-amc-ao-vivo/</sportsdevil>
-<referer>http://tv-msn.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
-</item>
+
