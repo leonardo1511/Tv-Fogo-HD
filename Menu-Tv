@@ -26,8 +26,13 @@
 <info>TV FOGO HD</info>
 </channel>
 
-
-
+<channel>
+<name>Teste</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/aovivonatv</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
 
 
 
