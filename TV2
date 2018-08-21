@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="RELIGIOSOS",[COLOR white][B][COLOR white][B]TV APARECIDA
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="RELIGIOSOS",[COLOR white][B][COLOR white][B]TV APARECIDA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1446858289.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",[COLOR white][B][COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/228.m3u8
@@ -236,7 +236,7 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/232.m3u8
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png" group-title="INFANTIS",[COLOR white][B][COLOR white][B]BOOMERANG[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/224.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="INFANTIS",[COLOR white][B][COLOR white][B]CARTOON NETWORK FHD
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="INFANTIS",[COLOR white][B][COLOR white][B]CARTOON NETWORK FHD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/222.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIS",[COLOR white][B][COLOR white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://iptvsolutionsbr.dyndns.tv:9981/live/7pkjyt/7pkjyt/5481.m3u8
