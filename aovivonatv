@@ -1,6 +1,8 @@
 <item>
-<title>[COLOR white][B]SPORTV[/B][/COLOR]</title>
-<link>https://pxstream.tv/embed/5u7wwb1jphp7/</link>
-<thumbnail></thumbnail>
+<title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/bandhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=https://pxstream.tv/embed/2p98w581w46p/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>https://tvonlinegratis1.com/assistir-band-ao-vivo-online/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>https://tvonlinegratis1.com/assistir-band-ao-vivo-online/</page><agent>iPad</agent></regex>
 <info></info>
+<fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
+<thumbnail>http://goo.gl/SZ94lw</thumbnail>
 </item>
