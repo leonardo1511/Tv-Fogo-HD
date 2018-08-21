@@ -8,11 +8,9 @@
 </item>
 
 <item>
-<title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR gray] (teste)[/COLOR]</title>
-<link>$doregex[TvFogoHD_CH]|User-Agent=iPad</link>
-<regex><name>TvFogoHD_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[TvFogoHD_ID]</page></regex><regex><name>TvFogoHD_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[TvFogoHD_Site]</page><referer>https://tvonlinegratis1.com/assistir-band-ao-vivo-online/</referer><regex><name>TvFogoHD_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
-<page>https://pxstream.tv/embed/2p98w581w46p/</page></regex>
-<info></info>
-<fanart></fanart>
-<thumbnail>http://goo.gl/SZ94lw</thumbnail>
+<title>[B][COLOR white]Band[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]https://tvonlinegratis1.com/assistir-band-ao-vivo-online|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).cg</expres><page>https://pxstream.tv/embed/2p98w581w46p/</page></regex>
+<regex><name>BP1</name><expres>  src="(.*?).m3u8</expres><page>https://pxstream.tv/embed/2p98w581w46p/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
 </item>
