@@ -1,16 +1,83 @@
 <item>
-<title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/bandhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=https://pxstream.tv/embed/2p98w581w46p/</link>
-<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>https://tvonlinegratis1.com/assistir-band-ao-vivo-online/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>https://tvonlinegratis1.com/assistir-band-ao-vivo-online/</page><agent>iPad</agent></regex>
-<info></info>
-<fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
-<thumbnail>http://goo.gl/SZ94lw</thumbnail>
+<title>[COLOR white][B] Globo RJ [/B][/COLOR]</title>
+<link>http://212.237.41.64/tvgloboriodejaneiro/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/ftwi4h1hr/Rede_Globo.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>[B][COLOR white]Band[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]https://tvonlinegratis1.com/assistir-band-ao-vivo-online|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).cg</expres><page>https://pxstream.tv/embed/2p98w581w46p/</page></regex>
-<regex><name>BP1</name><expres>  src="(.*?).m3u8</expres><page>https://pxstream.tv/embed/2p98w581w46p/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
+<title>[COLOR white][B] Globo SP [/B][/COLOR]</title>
+<link>http://212.237.41.64/tvglobosaopaulo/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/ftwi4h1hr/Rede_Globo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] Globo MG [/B][/COLOR]</title>
+<link>http://212.237.41.64/tvglobominas/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/ftwi4h1hr/Rede_Globo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] Globo Brasília [/B][/COLOR]</title>
+<link>http://212.237.41.64/tvglobobrasilia/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/ftwi4h1hr/Rede_Globo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] Globo Nordeste [/B][/COLOR]</title>
+<link>http://212.237.41.64/tvglobonordeste/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/ftwi4h1hr/Rede_Globo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] RBS TV Porto Alegre [/B][/COLOR]</title>
+<link>http://212.237.41.64/rbstvportoalegre/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/orh822man/RBS_TV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] SBT [/B][/COLOR]</title>
+<link>http://212.237.41.64/sbt/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/sy22h4qyn/SBT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] Record TV [/B][/COLOR]</title>
+<link>http://212.237.41.64/record/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/cztcqxrkv/Record_TV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] Band [/B][/COLOR]</title>
+<link>http://212.237.41.64/band/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/n8ltx8kwv/Band.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] Rede TV! [/B][/COLOR]</title>
+<link>http://212.237.41.64/redetv/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/fz4us4y9b/Rede_TV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] TV Cultura [/B][/COLOR]</title>
+<link>http://212.237.41.64/cultura/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/xjy6pgpcf/TV_Cultura.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] Canal Futura [/B][/COLOR]</title>
+<link>http://212.237.41.64/futura/index.m3u8|Referer=http://aovivonatv.com/</link>
+<thumbnail>https://s9.postimg.cc/r693m4zv3/Canal_Futura.png</thumbnail>
+<fanart></fanart>
 </item>
