@@ -5,22 +5,22 @@
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4183.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4183.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png" group-title="CANAIS ABERTOS",[COLOR white][B]GLOBO RJ[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4100.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4100.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_sp.png" group-title="CANAIS ABERTOS",[COLOR white][B]GLOBO SP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4197.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4197.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTOS",[COLOR white][B]RECORD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3933.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3933.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",[COLOR white][B]REDE TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3929.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3929.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTOS",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3926.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3926.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS ABERTOS",[COLOR white][B]TV APARECIDA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 rtmp://69.46.0.170/tvaparecida//tvaparecida.stream
@@ -29,7 +29,7 @@ rtmp://69.46.0.170/tvaparecida//tvaparecida.stream
 http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS ABERTOS",[COLOR white][B]VIVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3867.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3867.ts?|User-Agent=iPhone&name=TvFogoHD
 
 
 ################################################################################# DOCUMENTÁRIOS
@@ -38,49 +38,49 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4191.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4191.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4154.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4154.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY CIVILIZATION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4581.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4581.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/6612.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/6612.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY ID[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4074.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4074.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=ttp://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3135.ts?|User-Agent=iPhone&name=TvFogoHD
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=ttp://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3135.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4146.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4146.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY WORLD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4145.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4145.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]FISHTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4125.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4125.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]HISTORY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4079.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4079.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]H2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4091.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4091.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]NAT GEO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4048.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4048.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]NAT GEO WILD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4050.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4050.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]TLC[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3888.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3888.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/trutv.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]TRUTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3881.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3881.ts?|User-Agent=iPhone&name=TvFogoHD
 
 ################################################################################# ESPORTES
 
@@ -91,64 +91,64 @@ http://0.0.0.0
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="ESPORTES",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4179.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4179.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/5617.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/5617.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ESPORTES",[COLOR white][B]EI Maxx[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4136.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4136.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="ESPORTES",[COLOR white][B]EI Maxx 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4135.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4135.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4130.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4130.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4132.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4132.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4113.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4113.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4115.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4115.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3914.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3914.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3912.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3912.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3910.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3910.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE CLUBES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4019.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4019.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4032.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4032.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3911.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3911.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 4[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4029.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4029.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 5[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4026.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4026.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 6[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4024.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4024.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 7[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4023.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4023.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 8[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4022.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4022.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 9[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4021.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4021.ts?|User-Agent=iPhone&name=TvFogoHD
 
 ################################################################################# FILMES & SÉRIES
 
@@ -157,118 +157,118 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="FILMES & SÉRIES",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4193.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4193.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="FILMES & SÉRIES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4186.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4186.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="FILMES & SÉRIES",[COLOR white][B]CINEMAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4163.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4163.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png" group-title="FILMES & SÉRIES",[COLOR white][B]COMEDY CENTRAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4603.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4603.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4121.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4121.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX LIFE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4120.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4120.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX PREMIUM 1[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4604.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4604.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX PREMIUM 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4618.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4618.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="FILMES & SÉRIES",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4110.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4110.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4090.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4090.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4089.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4089.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4084.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4084.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus_e.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO PLUS *E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4083.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4083.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4086.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4086.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4081.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4081.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4133.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4133.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4060.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4060.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4062.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4062.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime_e.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX PRIME *E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4063.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4063.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="FILMES & SÉRIES",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4058.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4058.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="FILMES & SÉRIES",[COLOR white][B]MTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4056.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4056.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png" group-title="FILMES & SÉRIES",[COLOR white][B]PARAMOUNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4035.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4035.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="FILMES & SÉRIES",[COLOR white][B]SONY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3917.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3917.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="FILMES & SÉRIES",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3915.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3915.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="FILMES & SÉRIES",[COLOR white][B]SYFY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3905.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3905.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png" group-title="FILMES & SÉRIES",[COLOR white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3907.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3907.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tbs.png" group-title="FILMES & SÉRIES",[COLOR white][B]TBS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3903.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3903.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tcm.png" group-title="FILMES & SÉRIES",[COLOR white][B]TCM[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3902.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3902.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="FILMES & SÉRIES",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3886.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3886.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png" group-title="FILMES & SÉRIES",[COLOR white][B]TNT SERIES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3884.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3884.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3900.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3900.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3894.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3894.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3892.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3892.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3896.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3896.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3899.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3899.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3890.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3890.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="FILMES & SÉRIES",[COLOR white][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3871.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3871.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="FILMES & SÉRIES",[COLOR white][B]WARNER CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4617.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4617.ts?|User-Agent=iPhone&name=TvFogoHD
 
 ################################################################################# INFANTIL
 
@@ -276,34 +276,34 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4166.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4166.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png" group-title="INFANTIL",[COLOR white][B]BOOMERANG[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4171.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4171.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="INFANTIL",[COLOR white][B]DISNEY CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4143.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4143.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="INFANTIL",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4149.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4149.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png" group-title="INFANTIL",[COLOR white][B]DISNEY JUNIOR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4141.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4141.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="INFANTIL",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4140.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4140.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="INFANTIL",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4094.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4094.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="INFANTIL",[COLOR white][B]NICK JUNIOR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4044.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4044.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png" group-title="INFANTIL",[COLOR white][B]NICKELODEON[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/7604.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/7604.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png" group-title="INFANTIL",[COLOR white][B]TOONCAST[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3882.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3882.ts?|User-Agent=iPhone&name=TvFogoHD
 
 ################################################################################# MÚSICAS & VARIEDADES
 
@@ -312,7 +312,7 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.jpg" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]GNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4092.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4092.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gospelmusic_tv.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]GOSPEL MUSIC TELEVISION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
@@ -324,19 +324,19 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m
 http://ts?|User-Agent=iPhonet.es.flash.glb.ipercast.net/ts?|User-Agent=iPhonet.es-live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/lifetime.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]LIFETIME[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4069.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4069.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mimusica.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MIMUSICA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMON/tu1_1.ts?|User-Agent=iPhone&name=TvFogoHD?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4054.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4054.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/muztv.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MUZ TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/playtv.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]PLAY TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4034.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4034.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/radiomontecarlo.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]RADIO MONTE CARLOS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
@@ -351,7 +351,7 @@ rtmp://stmv1.srvstm.com/tvcadm/tvcadm
 http://wow01.105.net/live/virgin1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]VH1 MEGAHITS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4610.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4610.ts?|User-Agent=iPhone&name=TvFogoHD
 
 ################################################################################# NOTÍCIAS
 
@@ -360,10 +360,10 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="NOTÍCIAS",[COLOR white][B]BAND NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4180.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4180.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="NOTÍCIAS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/4096.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/4096.ts?|User-Agent=iPhone&name=TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="NOTÍCIAS",[COLOR white][B]RECORD NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSEXTA/FF1th4G9lc/3935.ts?|User-Agent=iPhone&name=TvFogoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://br1.e-tv.xyz:8081/live/GOBRAZILSABADO1/MKFDf1joRB/3935.ts?|User-Agent=iPhone&name=TvFogoHD
