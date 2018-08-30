@@ -17,7 +17,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Servidor De Canais OFF [/B][/COLOR] [COLOR yellow][B][HD][/B][/COLOR]</name>
+<name>[COLOR white][B]Servidor De Canais[/B][/COLOR] [COLOR yellow][B][HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
 <externallink>https://tv-fogo.github.io/HD/tv</externallink>
 <fanart></fanart>
@@ -25,7 +25,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Servidor De Canais OFF[/B][/COLOR] [COLOR yellow][B][SD][/B][/COLOR]</name>
+<name>[COLOR white][B]Servidor De Canais[/B][/COLOR] [COLOR yellow][B][SD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
 <externallink>https://tv-fogo.github.io/HD/canais-sd</externallink>
 <fanart></fanart>
