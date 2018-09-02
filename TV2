@@ -1,972 +1,693 @@
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/LwtXftR.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]195$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]1527$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]165$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]117$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/KejL8N6.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]99$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]192$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]139$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]138$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]189$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]108$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]179$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]92$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]171$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]127$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]1557$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]129$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]186$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN+[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]632$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPORTE INTERATIVO BR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]188$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPORTE INTERATIVO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]103$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPORTE INTERATIVO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]187$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]182$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]183$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]412$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]162$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]161$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]122$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]123$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]168$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]167$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]166$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]135$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]136$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]87$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]81$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]134$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]153$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]98$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]185$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]131$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]132$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]104$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]178$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]177$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]176$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]175$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]145$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]143$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]144$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]172$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]169$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]191$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]97$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/space.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]83$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]82$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]96$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]1511$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]94$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]109$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]100$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]95$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]159$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]158$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt_series.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]157$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]155$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]89$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]91$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]107$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]152$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]88$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]148$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]NICK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]140$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]120$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BIS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]194$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bis.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]170$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/off.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]1558$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]126$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]150$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/food_network.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]184$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]180$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ID[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]173$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]147$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/lifetime.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]146$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mais_globosat.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]142$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]90$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]TBS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]160$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tbs.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]130$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]VH1 HD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]121$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]125$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png</thumbnail>
-</item>
-  
-<item>
-<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]156$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/qrOmPHN.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]128$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]1560$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]124$doregex[BP2]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>(.*?).get</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[PLAY]")</expres><page></page></regex>
-<regex><name>PLAY</name><expres>(.*?)"play</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png</thumbnail>
-</item>
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="CANAIS FILMES E SERIES",A&E SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3492.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS FILMES E SERIES",A&E HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3490.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS FILMES E SERIES",A&E FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3491.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Sat SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Amazon_Sat.png" group-title="CANAIS ABERTOS",Amazon Sat SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3489.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Bola TV alt1" tvg-logo="" group-title="CANAIS ESPORTES",A Bola TV alt1
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3085.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Bola TV alt2" tvg-logo="" group-title="CANAIS ESPORTES",A Bola TV alt2
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3084.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS FILMES E SERIES",AMC SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3488.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png/revision/latest?cb=20140901200608" group-title="CANAIS FILMES E SERIES",AMC HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3486.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png/revision/latest?cb=20140901200608" group-title="CANAIS FILMES E SERIES",AMC FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3487.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="CANAIS DOCUMENTARIOS",Animal Planet SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3485.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20110408215002" group-title="CANAIS DOCUMENTARIOS",Animal Planet HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3484.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte1 SD!" tvg-logo="https://sigaband.files.wordpress.com/2013/12/a4c97-arte_1_logo-svg.png" group-title="CANAIS DOCUMENTARIOS",Arte1 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte1 HD!" tvg-logo="https://sigaband.files.wordpress.com/2013/12/a4c97-arte_1_logo-svg.png" group-title="CANAIS DOCUMENTARIOS",Arte1 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3482.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD!" tvg-logo="https://vignette.wikia.nocookie.net/lostpedia/images/1/1c/Axn.png/revision/latest?cb=20061217203136" group-title="CANAIS FILMES E SERIES",AXN SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3481.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/AXN_HD.png/revision/20161214171718" group-title="CANAIS FILMES E SERIES",AXN HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3479.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/AXN_HD.png/revision/20161214171718" group-title="CANAIS FILMES E SERIES",AXN FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3480.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS INFANTIS",Baby TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3478.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/BABY_TV_HD.png/revision/latest?cb=20150308151948" group-title="CANAIS INFANTIS",Baby TV HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3476.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/BABY_TV_HD.png/revision/latest?cb=20150308151948" group-title="CANAIS INFANTIS",Baby TV FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3477.ts
+#EXTINF:-1 tvg-id="Band Campinas" tvg-name="Band Campinas SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS ABERTOS",Band Campinas SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3475.ts
+#EXTINF:-1 tvg-id="Band Campinas" tvg-name="Band Campinas HD!" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS ABERTOS",Band Campinas HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3474.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS NOTICIAS",Band News SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3473.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News HD!" tvg-logo="https://3.bp.blogspot.com/-qpJTXCKl-ss/WRzxuRZybGI/AAAAAAAA5kk/Zg5P_D_zyegJMxeti8bJn4ejED6_DtqQwCLcB/s1600/123fv.png" group-title="CANAIS NOTICIAS",Band News HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3472.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste HD!" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS ABERTOS",Band Nordeste HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste FHD!" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS ABERTOS",Band Nordeste FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3471.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS ABERTOS",Band SP SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3469.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="CANAIS ESPORTES",Band Sports SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3468.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD!" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/04/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",Band Sports HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3467.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD!" tvg-logo="https://1.bp.blogspot.com/-IZE1Fq_K1us/Vok_aBEK0RI/AAAAAAAAmkQ/fu-VKyVsMcoEsmNTusOurPtauq313LNsg/s1600/Canal%2BBis.png" group-title="CANAIS VARIEDADES E MUSICAS",BIS SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3466.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD!" tvg-logo="https://1.bp.blogspot.com/-IZE1Fq_K1us/Vok_aBEK0RI/AAAAAAAAmkQ/fu-VKyVsMcoEsmNTusOurPtauq313LNsg/s1600/Canal%2BBis.png" group-title="CANAIS VARIEDADES E MUSICAS",BIS HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3465.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD!" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png" group-title="CANAIS INFANTIS",Boomerang SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3464.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f1/OnAir_Logo_Boomerang_HD_2015.png/revision/latest?cb=20160309134153" group-title="CANAIS INFANTIS",Boomerang HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3462.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f1/OnAir_Logo_Boomerang_HD_2015.png/revision/latest?cb=20160309134153" group-title="CANAIS INFANTIS",Boomerang FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3463.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS FILMES E SERIES",Canal Brasil SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3461.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural SD!" tvg-logo="http://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3-1024x637.png" group-title="CANAIS ABERTOS",Canal Rural SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3460.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20140413032426" group-title="CANAIS FILMES E SERIES",Canal Sony SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3459.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/ae/Canal_Sony_HD.png/revision/latest?cb=20160415132149" group-title="CANAIS FILMES E SERIES",Canal Sony HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3458.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS RELIGIOSOS",Canção Nova SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova HD" tvg-logo="" group-title="",Canção Nova HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/2933.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network SD!" tvg-logo="https://banner2.kisspng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="CANAIS INFANTIS",Cartoon Network SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3456.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD!" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANAIS INFANTIS",Cartoon Network HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3454.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD!" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANAIS INFANTIS",Cartoon Network FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3455.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBTV International SD!" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Q7mXAkQ-L.png" group-title="CANAIS NOTICIAS",CBTV International SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky SD!" tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS FILMES E SERIES",Cine Sky SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3452.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV SD!" tvg-logo="http://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/cinebrasil-p.png" group-title="CANAIS FILMES E SERIES",Cine TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3451.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="CANAIS FILMES E SERIES",Cinemax SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3450.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD!" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/cd/Cinemax_HD_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/2000?cb=20180401071840" group-title="CANAIS FILMES E SERIES",Cinemax HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3448.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD!" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/cd/Cinemax_HD_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/2000?cb=20180401071840" group-title="CANAIS FILMES E SERIES",Cinemax FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3449.ts
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV SD!" tvg-logo="https://1.bp.blogspot.com/-AjS4No__XN0/WPPu4Bjhv6I/AAAAAAAABn0/YQw-uvdNSQkpBHkzqo9pyc6ctaxRxy1RACLcB/s200/classique-tv.jpg" group-title="CANAIS VARIEDADES E MUSICAS",Classique TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3447.ts
+#EXTINF:-1 tvg-id="CNT" tvg-name="CNT SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/4/49/Es_cnt.png" group-title="CANAIS RELIGIOSOS",CNT SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3445.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS ESPORTES",Combate SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3444.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD!" tvg-logo="http://t.likeiptv.com/combate.png" group-title="CANAIS ESPORTES",Combate HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3442.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD!" tvg-logo="http://t.likeiptv.com/combate.png" group-title="CANAIS ESPORTES",Combate FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3443.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS FILMES E SERIES",Comedy Central SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3441.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Comedy_central_hd-630x355.png" group-title="CANAIS FILMES E SERIES",Comedy Central HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3440.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD!" tvg-logo="http://portacurtas.org.br/img/sponsor_top_logocurta.png" group-title="CANAIS DOCUMENTARIOS",Curta! SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3439.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD!" tvg-logo="http://portacurtas.org.br/img/sponsor_top_logocurta.png" group-title="CANAIS DOCUMENTARIOS",Curta! HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3438.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/39/Discovery_Civilization_2014.png/revision/latest?cb=20140810162049" group-title="CANAIS DOCUMENTARIOS",Discovery Civilization SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3435.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/39/Discovery_Civilization_2014.png/revision/latest?cb=20140810162049" group-title="CANAIS DOCUMENTARIOS",Discovery Civilization HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3434.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel SD!" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS DOCUMENTARIOS",Discovery Channel SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3437.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Discovery_Channel_HD_2008.png/revision/latest?cb=20110408013741" group-title="CANAIS DOCUMENTARIOS",Discovery Channel HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3436.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery H&H SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/H%26h_Discovery.png/revision/latest?cb=20180502193819" group-title="CANAIS DOCUMENTARIOS",Discovery H&H SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3433.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery H&H HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549" group-title="CANAIS DOCUMENTARIOS",Discovery H&H HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3432.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS INFANTIS",Discovery Kids SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3431.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS INFANTIS",Discovery Kids HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3430.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="CANAIS DOCUMENTARIOS",Discovery Science SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3429.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="CANAIS DOCUMENTARIOS",Discovery Science HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3428.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS DOCUMENTARIOS",Discovery Theater SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3427.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS DOCUMENTARIOS",Discovery Theater HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3426.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png/revision/latest?cb=20140810164305" group-title="CANAIS DOCUMENTARIOS",Discovery Turbo SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3425.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png/revision/latest?cb=20140810164305" group-title="CANAIS DOCUMENTARIOS",Discovery Turbo HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3424.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/8b/Discovery_World.png/revision/latest?cb=20151128161952" group-title="CANAIS DOCUMENTARIOS",Discovery World SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3423.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/8b/Discovery_World.png/revision/latest?cb=20151128161952" group-title="CANAIS DOCUMENTARIOS",Discovery World HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3422.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="CANAIS INFANTIS",Disney Channel SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="CANAIS INFANTIS",Disney Channel HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior SD!" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/1/13/Disney_Junior_Philippines_Logo.png/revision/latest?cb=20171213005805" group-title="CANAIS INFANTIS",Disney Junior SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3419.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD!" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/a/aa/Disney_Junior_HD.png/revision/latest?cb=20150813205100" group-title="CANAIS INFANTIS",Disney Junior HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3417.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD!" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/a/aa/Disney_Junior_HD.png/revision/latest?cb=20150813205100" group-title="CANAIS INFANTIS",Disney Junior FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3418.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="CANAIS INFANTIS",Disney XD SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="CANAIS INFANTIS",Disney XD HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3415.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dog TV FHD" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Dog TV FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/2951.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! SD!" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAL ENTRETERIMENTO",E! SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3414.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD!" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAL ENTRETERIMENTO",E! HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3413.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx SD!" tvg-logo="http://1.bp.blogspot.com/-VFKj9xl2gQg/VegRSuWf97I/AAAAAAAAcdo/IPzmejSqr4I/s1600/EIMAXX-NOVO.png" group-title="CANAIS ESPORTES",EI Maxx SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3412.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx HD!" tvg-logo="http://1.bp.blogspot.com/-VFKj9xl2gQg/VegRSuWf97I/AAAAAAAAcdo/IPzmejSqr4I/s1600/EIMAXX-NOVO.png" group-title="CANAIS ESPORTES",EI Maxx HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3409.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2 SD!" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20160315163808-ei-maxx-2-hd.png" group-title="CANAIS ESPORTES",EI Maxx 2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3411.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2 HD!" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20160315163808-ei-maxx-2-hd.png" group-title="CANAIS ESPORTES",EI Maxx 2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="CANAIS ESPORTES",ESPN+ SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ HD!" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-kYHqgx06ZZQ/UQFwJoO_nwI/AAAAAAAAAYA/QHa-3HNzl4k/s320/espn_hd.png" group-title="CANAIS ESPORTES",ESPN+ HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ FHD!" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-kYHqgx06ZZQ/UQFwJoO_nwI/AAAAAAAAAYA/QHa-3HNzl4k/s320/espn_hd.png" group-title="CANAIS ESPORTES",ESPN+ FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3407.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="CANAIS ESPORTES",ESPN Brasil SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3405.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="CANAIS ESPORTES",ESPN Brasil HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3403.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="CANAIS ESPORTES",ESPN Brasil FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3404.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo SD!" tvg-logo="http://reportergrenal.final.com.br/wp-content/uploads/sites/101/2016/03/Esporte-Interativo.png" group-title="CANAIS ESPORTES",Esporte Interativo SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3401.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD!" tvg-logo="http://reportergrenal.final.com.br/wp-content/uploads/sites/101/2016/03/Esporte-Interativo.png" group-title="CANAIS ESPORTES",Esporte Interativo HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3397.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo FHD!" tvg-logo="http://reportergrenal.final.com.br/wp-content/uploads/sites/101/2016/03/Esporte-Interativo.png" group-title="CANAIS ESPORTES",Esporte Interativo FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3398.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo 2 SD!" tvg-logo="http://images.mi.tv/channels/br_esporte-interativo-2_m.png" group-title="CANAIS ESPORTES",Esporte Interativo 2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo 2 HD!" tvg-logo="http://images.mi.tv/channels/br_esporte-interativo-2_m.png" group-title="CANAIS ESPORTES",Esporte Interativo 2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3399.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV SD!" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS ESPORTES",Fish TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD!" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS ESPORTES",Fish TV HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3395.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="CANAL ENTRETERIMENTO",Food Network SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3394.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="CANAL ENTRETERIMENTO",Food Network HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3392.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="CANAL ENTRETERIMENTO",Food Network FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3393.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox SD!" tvg-logo="https://i0.wp.com/www.brechando.com/wp-content/uploads/2015/12/canal_fox_lam.png?fit=1500%2C700&ssl=1" group-title="CANAIS FILMES E SERIES",Fox SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3391.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD!" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES E SERIES",Fox HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3390.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life SD!" tvg-logo="https://vignette.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="CANAIS FILMES E SERIES",Fox Life SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3389.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2c/FOXlife_HD_Logo.png/revision/latest?cb=20140414171410" group-title="CANAIS FILMES E SERIES",Fox Life HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3387.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2c/FOXlife_HD_Logo.png/revision/latest?cb=20140414171410" group-title="CANAIS FILMES E SERIES",Fox Life FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3388.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="CANAIS FILMES E SERIES",Fox Premium 1 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3386.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="CANAIS FILMES E SERIES",Fox Premium 1 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3384.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="CANAIS FILMES E SERIES",Fox Premium 1 FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3385.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2 SD!" tvg-logo="https://i.imgur.com/9Bfa6Hh.png" group-title="CANAIS FILMES E SERIES",Fox Premium 2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3383.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2 HD!" tvg-logo="https://i.imgur.com/9Bfa6Hh.png" group-title="CANAIS FILMES E SERIES",Fox Premium 2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3381.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2 FHD!" tvg-logo="https://i.imgur.com/9Bfa6Hh.png" group-title="CANAIS FILMES E SERIES",Fox Premium 2 FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3382.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="CANAIS ESPORTES",Fox Sports SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3380.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156059/fox-sports-hd.png?v=636446270444330000" group-title="CANAIS ESPORTES",Fox Sports HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3376.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports FHD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156059/fox-sports-hd.png?v=636446270444330000" group-title="CANAIS ESPORTES",Fox Sports FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3377.ts
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 SD!" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="CANAIS ESPORTES",Fox Sports 2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3379.ts
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254" group-title="CANAIS ESPORTES",Fox Sports 2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3378.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura SD!" tvg-logo="http://cherto.com.br/wp-content/uploads/2016/11/logo-futura.png" group-title="CANAIS ABERTOS",Futura SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3375.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD!" tvg-logo="http://cherto.com.br/wp-content/uploads/2016/11/logo-futura.png" group-title="CANAIS ABERTOS",Futura HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3374.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2000px-FX-logo.svg.png" group-title="CANAIS FILMES E SERIES",FX SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3373.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2000px-FX-logo.svg.png" group-title="CANAIS FILMES E SERIES",FX HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3371.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2000px-FX-logo.svg.png" group-title="CANAIS FILMES E SERIES",FX FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3372.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazonas SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Amazonas SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3370.ts
+#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="Globo Anhanguera Goiania SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Anhanguera Goiania SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3369.ts
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="Globo Bahia HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Bahia HD H265!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3368.ts
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="Globo Brasilia HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Brasilia HD H265!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Cuiaba SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Cuiaba SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3366.ts
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="Globo EPTV Campinas SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo EPTV Campinas SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3365.ts
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="Globo EPTV Campinas HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo EPTV Campinas HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3364.ts
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="Globo EPTV Campinas HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo EPTV Campinas HD H265!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3363.ts
+#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="Globo EPTV Ribeirão Preto SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo EPTV Ribeirão Preto SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3362.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo EPTV São Carlos SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Internacional SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3360.ts
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="Globo MG SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo MG SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3359.ts
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="Globo MG HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo MG HD H265!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3357.ts
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="Globo MG FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo MG FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3358.ts
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="CANAIS GLOBO",Globo News SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3356.ts
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News HD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="CANAIS GLOBO",Globo News HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3355.ts
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Nordeste SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3354.ts
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Nordeste HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3352.ts
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Nordeste FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3353.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo RBS Porto Alegre SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Preto SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Rio Preto SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3350.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo RJ SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3349.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo RJ HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3348.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo RJ HD H265!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3347.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RN SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo RN SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo SP SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3345.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD2!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo SP SD2!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3342.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo SP HD H265!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo SP HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3344.ts
+#EXTINF:-1 tvg-id="TV Liberal Belem" tvg-name="Globo Tv Belem SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Tv Belem SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3341.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Cabugi HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Tv Cabugi HD H265!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3340.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Bauru HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Tv Tem Bauru HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3339.ts
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="Globo Tv Tem Sorocaba SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Tv Tem Sorocaba SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3338.ts
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="Globo Tv Tribuna Santos SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Tv Tribuna Santos SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3337.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Vanguarda S.J dos Campos SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Tv Vanguarda S.J dos Campos SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3336.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo Tv Verdes Mares Fortaleza SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Tv Verdes Mares Fortaleza SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3335.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globosat  HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Logo_gshd.png/revision/latest?cb=20151122172453" group-title="CANAIS GLOBO",Globosat  HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globosat SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Logo_gshd.png/revision/latest?cb=20151122172453" group-title="CANAIS GLOBO",Globosat SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3334.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD!" tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="CANAIS INFANTIS",Gloob HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3331.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob SD!" tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="CANAIS INFANTIS",Gloob SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3332.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/GNT_logo-roxo.png/revision/latest?cb=20130518121403" group-title="CANAL ENTRETERIMENTO",GNT HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3329.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/GNT_logo-roxo.png/revision/latest?cb=20130518121403" group-title="CANAL ENTRETERIMENTO",GNT SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon TV SD!" tvg-logo="https://2.bp.blogspot.com/-AKON-KF725U/WnDUe4LGoyI/AAAAAAAADOY/wIOgHYemXOAZlFiXnhvgC_k1nnSaAuB4ACLcBGAs/s1600/gospel-cartoon.jpg" group-title="CANAIS INFANTIS",Gospel Cartoon TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movies TV SD!" tvg-logo="https://3.bp.blogspot.com/-OBU9pkHjfxA/WVvYqMXKgII/AAAAAAAAOkw/MTwR_kni880GkcGrKuRNrmiUVINpcVSZwCLcBGAs/s1600/Gospel%2BMovie.png" group-title="CANAIS FILMES E SERIES",Gospel Movies TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3327.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Music TV SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Gospel_Music_Channel.svg.png/revision/latest?cb=20100708085105" group-title="CANAIS VARIEDADES E MUSICAS",Gospel Music TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3326.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="CANAIS DOCUMENTARIOS",H2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3325.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156071/h2-hd.png?v=636446275970570000" group-title="CANAIS DOCUMENTARIOS",H2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3324.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD!" tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="CANAIS FILMES E SERIES",HBO SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3323.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD!" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/cc/HBO_HD_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/640?cb=20180401072505" group-title="CANAIS FILMES E SERIES",HBO HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3316.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD!" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/cc/HBO_HD_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/640?cb=20180401072505" group-title="CANAIS FILMES E SERIES",HBO FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3317.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD!" tvg-logo="https://partner.ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="CANAIS FILMES E SERIES",HBO 2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3322.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD!" tvg-logo="http://webtvcde.com/2u/capas/hbo2hd.png" group-title="CANAIS FILMES E SERIES",HBO 2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3320.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FHD!" tvg-logo="http://webtvcde.com/2u/capas/hbo2hd.png" group-title="CANAIS FILMES E SERIES",HBO 2 FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3321.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family SD!" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="CANAIS FILMES E SERIES",HBO Family SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3319.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family HD!" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="CANAIS FILMES E SERIES",HBO Family HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3318.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO Plus HD!" tvg-logo="https://skyassineonline.com.br/img/channels/lg-273-canal-hbo-plus-hd.png" group-title="CANAIS FILMES E SERIES",HBO Plus HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3314.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO Plus SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png/revision/latest?cb=20180321203452" group-title="CANAIS FILMES E SERIES",HBO Plus SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3315.ts
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-name="HBO Plus*e SD!" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus2.png" group-title="CANAIS FILMES E SERIES",HBO Plus*e SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3313.ts
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-name="HBO Plus*e HD!" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus2.png" group-title="CANAIS FILMES E SERIES",HBO Plus*e HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3312.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/02/HBO_Signature_Latin_Atlansia.png/revision/latest?cb=20160715150631" group-title="CANAIS FILMES E SERIES",HBO Signature SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3311.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/02/HBO_Signature_Latin_Atlansia.png/revision/latest?cb=20160715150631" group-title="CANAIS FILMES E SERIES",HBO Signature HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3310.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="CANAIS DOCUMENTARIOS",History Channel SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3309.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD!" tvg-logo="http://images.mi.tv/channels/br_history-channel-hd_m.png" group-title="CANAIS DOCUMENTARIOS",History Channel HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3308.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-Sat SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="CANAIS DOCUMENTARIOS",I-Sat SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3307.ts
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="Investigação Discovery SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205%21Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS DOCUMENTARIOS",Investigação Discovery SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3306.ts
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="Investigação Discovery HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/c6/Investiga%C3%A7%C3%A3o_Discovery_HD.png/revision/latest?cb=20140513101244" group-title="CANAIS DOCUMENTARIOS",Investigação Discovery HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3305.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="CANAL ENTRETERIMENTO",Lifetime SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3304.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="CANAL ENTRETERIMENTO",Lifetime HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3303.ts
+#EXTINF:-1 tvg-id="MAX" tvg-name="Max SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/MAX_Logo.svg" group-title="CANAIS FILMES E SERIES",Max SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3302.ts
+#EXTINF:-1 tvg-id="MAX" tvg-name="Max HD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156092/max-hd.png?v=636446342374370000" group-title="CANAIS FILMES E SERIES",Max HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3301.ts
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="Max Prime SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="CANAIS FILMES E SERIES",Max Prime SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3300.ts
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="Max Prime HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="CANAIS FILMES E SERIES",Max Prime HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3299.ts
+#EXTINF:-1 tvg-id="MAX PRIME E" tvg-name="Max Prime*e SD!" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="CANAIS FILMES E SERIES",Max Prime*e SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3298.ts
+#EXTINF:-1 tvg-id="MAX PRIME E" tvg-name="Max Prime*e HD!" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="CANAIS FILMES E SERIES",Max Prime*e HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3297.ts
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="Max Up SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="CANAIS FILMES E SERIES",Max Up SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3296.ts
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="Max Up HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="CANAIS FILMES E SERIES",Max Up HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3295.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix SD!" tvg-logo="https://s2.glbimg.com/AL4JE1FPgCnOr3xPpt3-QZGeI08=/https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="CANAIS FILMES E SERIES",Megapix SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3294.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD!" tvg-logo="https://s2.glbimg.com/AL4JE1FPgCnOr3xPpt3-QZGeI08=/https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="CANAIS FILMES E SERIES",Megapix HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3293.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD!" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-awards-png-logo-3.png" group-title="CANAIS VARIEDADES E MUSICAS",MTV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3292.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD!" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-awards-png-logo-3.png" group-title="CANAIS VARIEDADES E MUSICAS",MTV HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3291.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-1.png" group-title="CANAIS VARIEDADES E MUSICAS",Multishow SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3290.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-1.png" group-title="CANAIS VARIEDADES E MUSICAS",Multishow HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3288.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-1.png" group-title="CANAIS VARIEDADES E MUSICAS",Multishow FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3289.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil SD!" tvg-logo="https://2.bp.blogspot.com/-srfyuqz5qwI/WnyDMKh7EAI/AAAAAAABEFA/zvxXURrc3kEK5jpHng3BtAYtzclpodkagCLcBGAs/s640/MusicBoxBrazilLogo.png" group-title="CANAIS VARIEDADES E MUSICAS",Music Box Brazil SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3287.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS INFANTIS",NatGeo Kids SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3286.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS INFANTIS",NatGeo Kids HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3284.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS INFANTIS",NatGeo Kids FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3285.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS DOCUMENTARIOS",NatGeo Wild SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3283.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="CANAIS DOCUMENTARIOS",NatGeo Wild HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3282.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic SD!" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="CANAIS DOCUMENTARIOS",National Geographic SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3281.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/National_Geographic_Channel_HD.png/revision/latest?cb=20140414204644" group-title="CANAIS DOCUMENTARIOS",National Geographic HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3279.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/National_Geographic_Channel_HD.png/revision/latest?cb=20140414204644" group-title="CANAIS DOCUMENTARIOS",National Geographic FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3280.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/nbr-logo-1.png" group-title="CANAIS ABERTOS",NBR SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3278.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="CANAIS INFANTIS",Nick Jr SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3277.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Nick_Jr._HD.png/revision/latest?cb=20130808040908" group-title="CANAIS INFANTIS",Nick Jr HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3275.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Nick_Jr._HD.png/revision/latest?cb=20130808040908" group-title="CANAIS INFANTIS",Nick Jr FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3276.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon SD!" tvg-logo="https://cdn.worldvectorlogo.com/logos/nickelodeon-5.svg" group-title="CANAIS INFANTIS",Nickelodeon SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3274.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Nick_hd.png/revision/latest?cb=20110408021643" group-title="CANAIS INFANTIS",Nickelodeon HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3273.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="Novo Tempo SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS ABERTOS",Novo Tempo SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3272.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="CANAIS ESPORTES",OFF SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3271.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="CANAIS ESPORTES",OFF HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3269.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF FHD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="CANAIS ESPORTES",OFF FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel FHD" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Outdoor Channel FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/2947.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CANAIS FILMES E SERIES",Paramount SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3268.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount HD!" tvg-logo="https://d23lkqmg6aemo5.cloudfront.net/static/2/Open/Comcast_2400_1578/Source/56446/ParamountChannelHD_2400_color_dark_light.png" group-title="CANAIS FILMES E SERIES",Paramount HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3267.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="Play TV SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/PlayTV_Brazil.svg/revision/latest?cb=20160102114210" group-title="CANAL ENTRETERIMENTO",Play TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3266.ts
+#EXTINF:-1 tvg-id="Polishop TV" tvg-name="Polishop Tv SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="CANAL ENTRETERIMENTO",Polishop Tv SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3265.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="Premiere Clubes SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere Clubes SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3250.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="Premiere Clubes HD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere Clubes HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3249.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="Premiere 1 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 1 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3264.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3263.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3262.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 3 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3261.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 3 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3259.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 3 FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3260.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 4 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3257.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 4 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3258.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 5 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3255.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 5 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3256.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 6 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3254.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 7 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3253.ts
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 8 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3252.ts
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9 SD!" tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="CANAIS PREMIERE",Premiere 9 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Amazonas SD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record Amazonas SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas HD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record Campinas HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas SD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record Campinas SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Esp. Santo SD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record Esp. Santo SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3245.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News SD!" tvg-logo="http://3.bp.blogspot.com/_U74-AwUTQoo/Swvd3Cah7_I/AAAAAAAABwk/kBg8Gk9TCrY/s1600/logo_recordnews_pre.png" group-title="CANAIS NOTICIAS",Record News SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3244.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD!" tvg-logo="http://3.bp.blogspot.com/_U74-AwUTQoo/Swvd3Cah7_I/AAAAAAAABwk/kBg8Gk9TCrY/s1600/logo_recordnews_pre.png" group-title="CANAIS NOTICIAS",Record News HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3242.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD!" tvg-logo="http://3.bp.blogspot.com/_U74-AwUTQoo/Swvd3Cah7_I/AAAAAAAABwk/kBg8Gk9TCrY/s1600/logo_recordnews_pre.png" group-title="CANAIS NOTICIAS",Record News FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste HD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record Nordeste HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3241.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record SP SD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record SP SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3240.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record SP HD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record SP HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3238.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record SP FHD!" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS ABERTOS",Record SP FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3239.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS ABERTOS",Rede TV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3237.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/RedeTV%21_HD_logo_2014.png/revision/latest?cb=20150818193115" group-title="CANAIS ABERTOS",Rede TV HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3236.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS RELIGIOSOS",Rede Vida SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3235.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS RELIGIOSOS",Rede Vida HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3234.ts
+#EXTINF:-1 tvg-id="RIT" tvg-name="Rit Tv SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="CANAIS ABERTOS",Rit Tv SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3233.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-1.png" group-title="CANAIS ABERTOS",SBT SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3232.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD!" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-1.png" group-title="CANAIS ABERTOS",SBT HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3231.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Nordeste HD!" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-1.png" group-title="CANAIS ABERTOS",SBT Nordeste HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3229.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Nordeste FHD!" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-1.png" group-title="CANAIS ABERTOS",SBT Nordeste FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3230.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20140413032426" group-title="CANAIS FILMES E SERIES",Sony SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3228.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/ae/Canal_Sony_HD.png/revision/latest?cb=20160415132149" group-title="CANAIS FILMES E SERIES",Sony HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3226.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/ae/Canal_Sony_HD.png/revision/latest?cb=20160415132149" group-title="CANAIS FILMES E SERIES",Sony FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3227.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space SD!" tvg-logo="https://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s640/spacehd.png" group-title="CANAIS FILMES E SERIES",Space SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3225.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD!" tvg-logo="https://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s640/spacehd.png" group-title="CANAIS FILMES E SERIES",Space HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3223.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD!" tvg-logo="https://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s640/spacehd.png" group-title="CANAIS FILMES E SERIES",Space FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3224.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV SD!" tvg-logo="http://www.pelote.com.br/wp-content/uploads/2018/02/sportv-600x400.png" group-title="CANAIS ESPORTES",SporTV SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3222.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SporTV_HD.png/revision/latest?cb=20180304145548" group-title="CANAIS ESPORTES",SporTV HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3215.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 4K (TESTE)" tvg-logo="https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/site/especial/appsportv4knarussia/sportv_bg01_logo.png" group-title="CANAIS ESPORTES",SporTV 4K (TESTE)
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3216.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 SD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156904/sport-2.png?v=636632894291600000" group-title="CANAIS ESPORTES",SporTV 2 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3221.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156904/sport-2.png?v=636632894291600000" group-title="CANAIS ESPORTES",SporTV 2 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3219.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156904/sport-2.png?v=636632894291600000" group-title="CANAIS ESPORTES",SporTV 2 FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3220.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 SD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156906/sport-3.png?v=636632906177670000" group-title="CANAIS ESPORTES",SporTV 3 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3218.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156906/sport-3.png?v=636632906177670000" group-title="CANAIS ESPORTES",SporTV 3 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3217.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="CANAIS FILMES E SERIES",Studio Universal SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3214.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="CANAIS FILMES E SERIES",Studio Universal HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3212.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="CANAIS FILMES E SERIES",Studio Universal FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3213.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SyFy SD!" tvg-logo="https://vignette.wikia.nocookie.net/memoryalpha/images/c/c9/Syfy.png/revision/latest?cb=20100219134730&path-prefix=en" group-title="CANAIS FILMES E SERIES",SyFy SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3211.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SyFy HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/67/Syfy_HD.png/revision/latest?cb=20140430122835" group-title="CANAIS FILMES E SERIES",SyFy HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3209.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SyFy FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/67/Syfy_HD.png/revision/latest?cb=20140430122835" group-title="CANAIS FILMES E SERIES",SyFy FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3210.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d6/TBS_Anglosaw_logo_%28Trendon_attacks%29.png/revision/latest?cb=20160111194158" group-title="CANAIS FILMES E SERIES",TBS SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3208.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d6/TBS_Anglosaw_logo_%28Trendon_attacks%29.png/revision/latest?cb=20160111194158" group-title="CANAIS FILMES E SERIES",TBS HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3207.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES E SERIES",TCM SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3206.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES E SERIES",TCM HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3205.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="Telecine Action SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132" group-title="CANAIS FILMES E SERIES",Telecine Action SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3204.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="Telecine Action HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132" group-title="CANAIS FILMES E SERIES",Telecine Action HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3202.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="Telecine Action FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132" group-title="CANAIS FILMES E SERIES",Telecine Action FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3203.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="Telecine Cult SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="CANAIS FILMES E SERIES",Telecine Cult SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3201.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="Telecine Cult HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="CANAIS FILMES E SERIES",Telecine Cult HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3199.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="Telecine Cult FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="CANAIS FILMES E SERIES",Telecine Cult FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3200.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="Telecine Fun SD!" tvg-logo="https://i.pinimg.com/originals/4f/cd/51/4fcd519fcd3967f51c5ef9347298e69f.png" group-title="CANAIS FILMES E SERIES",Telecine Fun SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3198.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="Telecine Fun HD!" tvg-logo="https://i.pinimg.com/originals/4f/cd/51/4fcd519fcd3967f51c5ef9347298e69f.png" group-title="CANAIS FILMES E SERIES",Telecine Fun HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3196.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="Telecine Fun FHD!" tvg-logo="https://i.pinimg.com/originals/4f/cd/51/4fcd519fcd3967f51c5ef9347298e69f.png" group-title="CANAIS FILMES E SERIES",Telecine Fun FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3197.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="Telecine Pipoca SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Telecine_Pipoca_2005.png/revision/latest?cb=20151109191302" group-title="CANAIS FILMES E SERIES",Telecine Pipoca SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3195.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="Telecine Pipoca HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Telecine_Pipoca_2005.png/revision/latest?cb=20151109191302" group-title="CANAIS FILMES E SERIES",Telecine Pipoca HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3193.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="Telecine Pipoca FHD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Telecine_Pipoca_2005.png/revision/latest?cb=20151109191302" group-title="CANAIS FILMES E SERIES",Telecine Pipoca FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3194.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="Telecine Premium SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Telecine_Premium_2005.png/revision/latest?cb=20151109190626" group-title="CANAIS FILMES E SERIES",Telecine Premium SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3192.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="Telecine Premium HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Telecine_Premium_2005.png/revision/latest?cb=20151109190626" group-title="CANAIS FILMES E SERIES",Telecine Premium HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3191.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="Telecine Touch SD!" tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="CANAIS FILMES E SERIES",Telecine Touch SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3190.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="Telecine Touch HD!" tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="CANAIS FILMES E SERIES",Telecine Touch HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3188.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="Telecine Touch FHD!" tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="CANAIS FILMES E SERIES",Telecine Touch FHD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3189.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva SD!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="CANAIS ABERTOS",Terra Viva SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3187.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/9/94/TLC_logo_2011.png/revision/latest?cb=20151128155917" group-title="CANAL ENTRETERIMENTO",TLC SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3186.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/9/94/TLC_logo_2011.png/revision/latest?cb=20151128155917" group-title="CANAL ENTRETERIMENTO",TLC HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3185.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="CANAIS FILMES E SERIES",TNT SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3184.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD!" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/12/169dddc3fba8a4b5eadc2b6cd7b0a38c-800x445.png" group-title="CANAIS FILMES E SERIES",TNT HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3183.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries SD!" tvg-logo="http://www.tcc.tv.br/suaimagemtv/imagens/logo_canais/tntseries_logo.png" group-title="CANAIS FILMES E SERIES",TNT Séries SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3182.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries HD!" tvg-logo="https://2.bp.blogspot.com/-jpiJpqOnrNk/V7hbP2fotzI/AAAAAAAABjY/iZqShxUWekQgQW4VhUCxqlspjsdpEXMgwCLcB/s1600/2000px-TNT_Serie_HD.svg.png" group-title="CANAIS FILMES E SERIES",TNT Séries HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3181.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Tooncast_logo.svg.png/revision/latest?cb=20171021144842" group-title="CANAIS FILMES E SERIES",Tooncast SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3180.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Tooncast_logo.svg.png/revision/latest?cb=20171021144842" group-title="CANAIS FILMES E SERIES",Tooncast HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toros TV HD" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Toros TV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/2948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Travel Channel HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/2938.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel FHD" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Travel Channel FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/2937.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTv SD!" tvg-logo="https://static1.squarespace.com/static/577a7c2db3db2b1548b84925/t/59cd61d8197aea5a655e193c/1506632159292/TRU+TV+LOGO.png" group-title="CANAIS FILMES E SERIES",TruTv SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3178.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida SD!" tvg-logo="https://1.bp.blogspot.com/-yph9XIZBxiA/Wd6D3LSyqII/AAAAAAAAsIQ/GRlsrsyNWwMcr8Pw9tw1VTWpivoY3FYNQCLcBGAs/s1600/LOGO-TV_institucional.png" group-title="CANAIS RELIGIOSOS",TV Aparecida SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3177.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida HD!" tvg-logo="https://1.bp.blogspot.com/-yph9XIZBxiA/Wd6D3LSyqII/AAAAAAAAsIQ/GRlsrsyNWwMcr8Pw9tw1VTWpivoY3FYNQCLcBGAs/s1600/LOGO-TV_institucional.png" group-title="CANAIS RELIGIOSOS",TV Aparecida HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3176.ts
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Tv Boa Vontade SD!" tvg-logo="http://images.mi.tv/channels/br_boa-vontade-tv_m.png" group-title="CANAIS RELIGIOSOS",Tv Boa Vontade SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3175.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="CANAL ENTRETERIMENTO",TV Cultura SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3174.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura HD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="CANAL ENTRETERIMENTO",TV Cultura HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3173.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="Tv Escola SD!" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156137/tv-escola.png?v=636446360053670000" group-title="CANAIS DOCUMENTARIOS",Tv Escola SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3172.ts
+#EXTINF:-1 tvg-id="TV Gazeta ES" tvg-name="Tv Gazeta SD!" tvg-logo="http://www.oam.com.br/img/empresas/chamada-tvgazeta.png" group-title="CANAIS NOTICIAS",Tv Gazeta SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3171.ts
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justiça SD!" tvg-logo="http://images.mi.tv/channels/br_tv-justica_m.png" group-title="CANAIS NOTICIAS",TV Justiça SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3170.ts
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV Ra Tim Bum SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS INFANTIS",TV Ra Tim Bum SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3169.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel SD!" tvg-logo="https://frasesdavida.files.wordpress.com/2013/07/universal-channel.png" group-title="CANAIS FILMES E SERIES",Universal Channel SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3168.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD!" tvg-logo="https://frasesdavida.files.wordpress.com/2013/07/universal-channel.png" group-title="CANAIS FILMES E SERIES",Universal Channel HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3167.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 SD!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="CANAIS VARIEDADES E MUSICAS",VH1 SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3166.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/dc/VH1_HD_2013.png/revision/latest?cb=20140519124810" group-title="CANAIS VARIEDADES E MUSICAS",VH1 HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3165.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="CANAL ENTRETERIMENTO",VIVA SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3164.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="CANAL ENTRETERIMENTO",VIVA HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3163.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel SD!" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/09/Warner-TV.png?ssl=1" group-title="CANAIS FILMES E SERIES",Warner Channel SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3162.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD!" tvg-logo="https://i2.wp.com/naoseinada.com.br/wp-content/uploads/2017/04/warner_bros-_pictures_logo.png?fit=806%2C701&ssl=1" group-title="CANAIS FILMES E SERIES",Warner Channel HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3161.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo SD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a4/Woohoo_2014.png/revision/latest?cb=20160102213525" group-title="CANAIS VARIEDADES E MUSICAS",Woohoo SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3160.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo HD!" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a4/Woohoo_2014.png/revision/latest?cb=20160102213525" group-title="CANAIS VARIEDADES E MUSICAS",Woohoo HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3159.ts
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="Zoomoo SD!" tvg-logo="http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2016/10/28/77ab8b83-97f9-4edc-baa5-7ca3b248e991.png" group-title="CANAIS INFANTIS",Zoomoo SD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3158.ts
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="Zoomoo HD!" tvg-logo="http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2016/10/28/77ab8b83-97f9-4edc-baa5-7ca3b248e991.png" group-title="CANAIS INFANTIS",Zoomoo HD!
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/3157.ts
+#EXTINF:-1 tvg-id="" tvg-name="N&B ACTION" tvg-logo="https://imageshack.com/a/img922/9513/3gqKFp.png" group-title="CANAIS FILMES E SERIES",N&B ACTION
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/4342.ts
+#EXTINF:-1 tvg-id="" tvg-name="N&B COMEDY" tvg-logo="http://imagehost7.online-image-editor.com/oie_upload/images/1565123HTb8K9/transparent.png" group-title="CANAIS FILMES E SERIES",N&B COMEDY
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/4414.ts
+#EXTINF:-1 tvg-id="" tvg-name="N&B KIDS" tvg-logo="https://imageshack.com/a/img923/1835/lZvEFq.png" group-title="CANAIS INFANTIS",N&B KIDS
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/4341.ts
+#EXTINF:-1 tvg-id="" tvg-name="N&B TERROR" tvg-logo="https://imageshack.com/a/img924/8083/hJBEfL.jpg" group-title="CANAIS FILMES E SERIES",N&B TERROR
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://play.nbeplayer.com:80/live/Raul/Raul/4340.ts
