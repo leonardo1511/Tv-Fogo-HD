@@ -21,6 +21,13 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+<channel>
+<name>[COLOR white][B]teste[/B][/COLOR] [COLOR red][B][OFF][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/canais-redecanais</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
 
 
 
