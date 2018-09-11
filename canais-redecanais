@@ -5,25 +5,687 @@
 </item>
 
 <item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/band.m3u8|Referer=http://www.miceret.com</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
+<title>GLOBO RJ</title>
+<link>https://canal.cometa.top/hls1/boborj.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/v0NRClD.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>GLOBO SP</title>
+<link>https://canal.cometa.top/hls1/bobosp.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/v0NRClD.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
 </item>
 
 <item>
-<title>[B][COLOR white]GLOBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/bobo.m3u8|Referer=http://www.miceret.com</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
+<title>GLOBO NORDESTE</title>
+<link>https://canal.cometa.top/hls1/bobonordeste.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/v0NRClD.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
 </item>
 
 <item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/record.m3u8|Referer=http://www.miceret.com</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
+<title>SBT SP</title>
+<link>https://canal.cometa.top/hls1/sbt.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/TtyPfv6.jpg</thumbnail>
+<fanart>https://i.imgur.com/TtyPfv6.jpg</fanart>
+<info></info>
 </item>
 
 <item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/sbt.m3u8|Referer=http://www.miceret.com</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/KejL8N6.png</thumbnail>
+</item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>https://canal.cometa.top/hls1/animalplanet.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/xqYpIPt.png</thumbnail>
+<fanart>https://i.imgur.com/xqYpIPt.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link>https://canal.cometa.top/hls1/discovery.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/sRBKLzH.jpg</thumbnail>
+<fanart>https://i.imgur.com/sRBKLzH.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY CIVILIZATION</title>
+<link>https://canal.cometa.top/hls1/discoverycivilization.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/CNJwZXR.jpg</thumbnail>
+<fanart>https://i.imgur.com/CNJwZXR.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>https://canal.cometa.top/hls1/discoverysience.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/ZlEpb7I.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZlEpb7I.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY THEATER</title>
+<link>https://canal.cometa.top/hls1/discoverytheater.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/cvhXljQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/cvhXljQ.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY TURBO</title>
+<link>https://canal.cometa.top/hls1/discoveryturbo.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/IoDJ6ol.jpg</thumbnail>
+<fanart>https://i.imgur.com/IoDJ6ol.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>https://canal.cometa.top/hls1/natgeo.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/477ECEn.jpg</thumbnail>
+<fanart>https://i.imgur.com/477ECEn.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NAT GEO WILD</title>
+<link>https://canal.cometa.top/hls1/natgeowind.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Uxb6LJ1.jpg</thumbnail>
+<fanart>https://i.imgur.com/Uxb6LJ1.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>HISTORY</title>
+<link>https://canal.cometa.top/hls1/history.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/e9Rb09S.jpg</thumbnail>
+<fanart>https://i.imgur.com/e9Rb09S.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>HISTORY 2</title>
+<link>https://canal.cometa.top/hls1/history2.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/zJxejbD.jpg</thumbnail>
+<fanart>https://i.imgur.com/zJxejbD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT</title>
+<link>https://canal.cometa.top/hls1/foxsports1.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/EJ6EyuF.png</thumbnail>
+<fanart>https://i.imgur.com/EJ6EyuF.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX SPORTS 2</title>
+<link>https://canal.cometa.top/hls1/foxsports2.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/zrkp9ht.jpg</thumbnail>
+<fanart>https://i.imgur.com/zrkp9ht.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPORTE INTERATIVO 1</title>
+<link>https://canal.cometa.top/hls1/esporteinterativo1.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/ZbKvzn1.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZbKvzn1.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPORTE INTERATIVO 2</title>
+<link>https://canal.cometa.top/hls1/esporteinterativo2.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/U6Duhnf.png</thumbnail>
+<fanart>https://i.imgur.com/U6Duhnf.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>https://canal.cometa.top/hls1/espn.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Nv89giH.jpg</thumbnail>
+<fanart>https://i.imgur.com/Nv89giH.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN BRASIL</title>
+<link>https://canal.cometa.top/hls1/espnbrasil.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/QYcKJF9.jpg</thumbnail>
+<fanart>https://i.imgur.com/QYcKJF9.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN +</title>
+<link>https://canal.cometa.top/hls1/espnmais.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/9EKFVGU.jpg</thumbnail>
+<fanart>https://i.imgur.com/9EKFVGU.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>COMBATE</title>
+<link>https://canal.cometa.top/hls1/combate.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/JmAsiut.jpg</thumbnail>
+<fanart>https://i.imgur.com/JmAsiut.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BAND SPORTS</title>
+<link>https://canal.cometa.top/hls1/bandsports.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/XpxDGKm.jpg</thumbnail>
+<fanart>https://i.imgur.com/XpxDGKm.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPORTV</title>
+<link>https://canal.cometa.top/hls1/sportv1.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/MOsc0dD.jpg</thumbnail>
+<fanart>https://i.imgur.com/MOsc0dD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPORTV 2</title>
+<link>https://canal.cometa.top/hls1/sportv2.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Mn51rbn.jpg</thumbnail>
+<fanart>https://i.imgur.com/Mn51rbn.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPORTV 3</title>
+<link>https://canal.cometa.top/hls1/sportv3.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/k681Ox4.jpg</thumbnail>
+<fanart>https://i.imgur.com/k681Ox4.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE CLUBES</title>
+<link>https://canal.cometa.top/hls1/premiereclubes.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 2</title>
+<link>https://canal.cometa.top/hls1/premiere2.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 3</title>
+<link>https://canal.cometa.top/hls1/premiere3.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 4</title>
+<link>https://canal.cometa.top/hls1/premiere4.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 5</title>
+<link>https://canal.cometa.top/hls1/premiere5.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 6</title>
+<link>https://canal.cometa.top/hls1/premiere6.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 7</title>
+<link>https://canal.cometa.top/hls1/premiere7.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 8</title>
+<link>https://canal.cometa.top/hls1/premiere8.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 9</title>
+<link>https://canal.cometa.top/hls1/premiere9.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
+</item>
+
+<item>
+<title>PARAMOUNT CHANNEL</title>
+<link>https://canal.cometa.top/hls1/paramount.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/q4tBgBv.jpg</thumbnail>
+<fanart>https://i.imgur.com/q4tBgBv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>https://canal.cometa.top/hls1/syfy.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/k1Z0ByG.jpg</thumbnail>
+<fanart>https://i.imgur.com/k1Z0ByG.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>STUDIO UNIVERSAL</title>
+<link>https://canal.cometa.top/hls1/studiouniversal.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/RCCfpp9.jpg</thumbnail>
+<fanart>https://i.imgur.com/RCCfpp9.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPACE</title>
+<link>https://canal.cometa.top/hls1/space.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/kcATPqs.jpg</thumbnail>
+<fanart>https://i.imgur.com/kcATPqs.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FX</title>
+<link>https://canal.cometa.top/hls1/fx.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/iN5cZCj.png</thumbnail>
+<fanart>https://i.imgur.com/iN5cZCj.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX</title>
+<link>https://canal.cometa.top/hls1/fox.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/x77jtIn.jpg</thumbnail>
+<fanart>https://i.imgur.com/x77jtIn.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>FOX PREMIUM 1</title>
+<link>https://canal.cometa.top/hls1/foxpremium1.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/BjuXDvK.jpg</thumbnail>
+<fanart>https://i.imgur.com/BjuXDvK.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX PREMIUM 2</title>
+<link>https://canal.cometa.top/hls1/foxpremium2.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/A8yGlBg.jpg</thumbnail>
+<fanart>https://i.imgur.com/A8yGlBg.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>WARNER</title>
+<link>https://canal.cometa.top/hls1/warner.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/aOz3yxw.jpg</thumbnail>
+<fanart>https://i.imgur.com/aOz3yxw.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>UNIVERSAL</title>
+<link>https://canal.cometa.top/hls1/universal.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/aAiIx3O.jpg</thumbnail>
+<fanart>https://i.imgur.com/aAiIx3O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TNT SÉRIES</title>
+<link>https://canal.cometa.top/hls1/tntseries.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Lwc0m2u.jpg</thumbnail>
+<fanart>https://i.imgur.com/Lwc0m2u.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TNT</title>
+<link>https://canal.cometa.top/hls1/tnt.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/AuMosx6.jpg</thumbnail>
+<fanart>https://i.imgur.com/AuMosx6.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TELECINE CULT</title>
+<link>https://canal.cometa.top/hls1/telecinecult.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/UXlOfXJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/UXlOfXJ.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE PREMIUM</title>
+<link>https://canal.cometa.top/hls1/telecinepremium.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/3joCklj.jpg</thumbnail>
+<fanart>https://i.imgur.com/3joCklj.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE PIPOCA</title>
+<link>https://canal.cometa.top/hls1/telecinepipoca.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/jLLv2tq.jpg</thumbnail>
+<fanart>https://i.imgur.com/jLLv2tq.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE FUN</title>
+<link>https://canal.cometa.top/hls1/telecinefun.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/8BE6Qah.jpg</thumbnail>
+<fanart>https://i.imgur.com/8BE6Qah.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE TOUCH</title>
+<link>https://canal.cometa.top/hls1/telecinetouch.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/qtVIwLI.jpg</thumbnail>
+<fanart>https://i.imgur.com/qtVIwLI.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE ACTION</title>
+<link>https://canal.cometa.top/hls1/telecineaction.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/s1DY4wU.jpg</thumbnail>
+<fanart>https://i.imgur.com/s1DY4wU.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TCM</title>
+<link>https://canal.cometa.top/hls1/tcm.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/gjDBFFa.jpg</thumbnail>
+<fanart>https://i.imgur.com/gjDBFFa.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SONY</title>
+<link>https://canal.cometa.top/hls1/sony.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/9JGRdFU.jpg</thumbnail>
+<fanart>https://i.imgur.com/9JGRdFU.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>MEGAPIX</title>
+<link>https://canal.cometa.top/hls1/megapix.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/PgCN7Nh.jpg</thumbnail>
+<fanart>https://i.imgur.com/PgCN7Nh.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>MAX</title>
+<link>https://canal.cometa.top/hls1/max.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/JxGYkQ6.jpg</thumbnail>
+<fanart>https://i.imgur.com/JxGYkQ6.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>MAX UP</title>
+<link>https://canal.cometa.top/hls1/maxup.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/2yDpA0K.jpg</thumbnail>
+<fanart>https://i.imgur.com/2yDpA0K.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>MAXPRIME</title>
+<link>https://canal.cometa.top/hls1/maxprime.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/wbIJKTR.jpg</thumbnail>
+<fanart>https://i.imgur.com/wbIJKTR.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>HBO</title>
+<link>https://canal.cometa.top/hls1/hbo.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/UfOhilk.jpg</thumbnail>
+<fanart>https://i.imgur.com/UfOhilk.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>HBO 2</title>
+<link>https://canal.cometa.top/hls1/hbo2.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/qTjnWHA.jpg</thumbnail>
+<fanart>https://i.imgur.com/qTjnWHA.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>HBO FAMILY</title>
+<link>https://canal.cometa.top/hls1/hbofamily.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/8siGgl9.png</thumbnail>
+<fanart>https://i.imgur.com/8siGgl9.png</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>HBO PLUS</title>
+<link>https://canal.cometa.top/hls1/hboplus.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/QQa8utN.jpg</thumbnail>
+<fanart>https://i.imgur.com/QQa8utN.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>HBO SIGNATURE</title>
+<link>https://canal.cometa.top/hls1/hbosignature.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/eoqk7QC.jpg</thumbnail>
+<fanart>https://i.imgur.com/eoqk7QC.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>CINEMAX</title>
+<link>https://canal.cometa.top/hls1/cinemax.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/DlhL9JS.png</thumbnail>
+<fanart>https://i.imgur.com/DlhL9JS.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>AXN</title>
+<link>https://canal.cometa.top/hls1/axn.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/OiQe2Rv.jpg</thumbnail>
+<fanart>https://i.imgur.com/OiQe2Rv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>AMC</title>
+<link>https://canal.cometa.top/hls1/amc.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/OvjF8HF.png</thumbnail>
+<fanart>https://i.imgur.com/OvjF8HF.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>A & E</title>
+<link>https://canal.cometa.top/hls1/aie.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/XuDoOXS.jpg</thumbnail>
+<fanart>https://i.imgur.com/XuDoOXS.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
+</item>
+
+<item>
+<title>TOONCAST</title>
+<link>https://canal.cometa.top/hls1/tooncast.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/VHi0zWf.jpg</thumbnail>
+<fanart>https://i.imgur.com/VHi0zWf.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NICK JR</title>
+<link>https://canal.cometa.top/hls1/nickjr.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/2dBLCa8.jpg</thumbnail>
+<fanart>https://i.imgur.com/2dBLCa8.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NICKELODEON</title>
+<link>https://canal.cometa.top/hls1/nick.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Rv4Cf5U.jpg</thumbnail>
+<fanart>https://i.imgur.com/Rv4Cf5U.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NAT GEO KIDS</title>
+<link>https://canal.cometa.top/hls1/natgeokids.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/JqRLpHF.jpg</thumbnail>
+<fanart>https://i.imgur.com/JqRLpHF.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>GLOOB</title>
+<link>https://canal.cometa.top/hls1/gloob.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Ly601Bf.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ly601Bf.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY JUNIOR</title>
+<link>https://canal.cometa.top/hls1/disneyjunior.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/ueLN8ux.jpg</thumbnail>
+<fanart>https://i.imgur.com/ueLN8ux.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>https://canal.cometa.top/hls1/disney.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/CYugmrL.jpg</thumbnail>
+<fanart>https://i.imgur.com/CYugmrL.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY XD</title>
+<link>https://canal.cometa.top/hls1/disneyxd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/jsxjbHR.jpg</thumbnail>
+<fanart>https://i.imgur.com/jsxjbHR.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY KIS</title>
+<link>https://canal.cometa.top/hls1/discoverykids.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/qSZFDAQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/qSZFDAQ.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<link>https://canal.cometa.top/hls1/cartoon.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/8lckbgk.jpg</thumbnail>
+<fanart>https://i.imgur.com/8lckbgk.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BOOMERANG</title>
+<link>https://canal.cometa.top/hls1/boomerang.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/6yOgV7v.jpg</thumbnail>
+<fanart>https://i.imgur.com/6yOgV7v.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/qrOmPHN.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBONEWS</title>
+<link>https://canal.cometa.top/hls1/globonews.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/TEsfWPn.jpg</thumbnail>
+<fanart>https://i.imgur.com/TEsfWPn.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BAND NEWS</title>
+<link>https://canal.cometa.top/hls1/bandnews.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/yCDqc2B.jpg</thumbnail>
+<fanart>https://i.imgur.com/yCDqc2B.jpg</fanart>
+<info></info>
 </item>
