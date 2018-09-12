@@ -87,9 +87,6 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yTvUrIr.png" group-title="ESPORTES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.botafogo.com.br/images/headers/tv.jpg" group-title="ESPORTES",[COLOR white][B]BOTAFOGO TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-https://www.youtube.com/embed/ZJtLT8wtBuo
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/allsports.png" group-title="ESPORTES",[COLOR white][B]ALL SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
