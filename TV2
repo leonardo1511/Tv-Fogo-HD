@@ -1,267 +1,1525 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
-
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
-
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT GO SD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="SBT MT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT - CENTRO OESTE MT
-http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
-
-#EXTINF:-1 tvg-id="SBT PI" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBT PE" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT PE SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBT PE" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="SBT PE" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="SBT PE" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT - PE | CARUARÚ
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-
-#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT MA
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-
-#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta", SBT - MA | IMPERATRIZ
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
-
-#EXTINF:-1 tvg-id="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="TV Aberta", BAND SP
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-
-#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png" group-title="TV Aberta", JOGO ABERTO
-http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
-
-#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="TV Aberta", OS DONOS DA BOLA 
-http://evpp.mm.uol.com.br/geob_band/donosdabola/chunklist_w167933638.m3u8
-
-#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="TV Aberta", BAND PA
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=1122952623
-
-#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="TV Aberta", BAND PA
-http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="TV Aberta", REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta", REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV SP" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",  REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta", REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="TV Aberta", REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8 
-
-#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="TV Aberta", REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/chunklist_w1831324492.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV! - RONDÔNIA"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta", REDE TV! - RONDÔNIA
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RECORD MT" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",RECORD TV ÁGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-
-#EXTINF:-1 tvg-id="RECORD AM" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", TV ACRITICA - RECORD AM
-https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
-
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
-
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_src.m3u8
-
-#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_hd720.m3u8
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD RN
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD MT
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD MT
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RECORD"  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", TV VITORIA - RECORD 
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
-
-#EXTINF:-1 tvg-id="RECORD PT" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD PORTUGUAL
-
-h#EXTINF:-1 tvg-id="RECORD - ANGOLA" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD - ANGOLA
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-
-#EXTINF:-1 tvg-id="REDE FAMÍLIA" tvg-logo= "http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta", REDE FAMÍLIA HD
-http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w70546248_b900000.m3u8
-
-#EXTINF:-1 tvg-id="REDE FAMÍLIA" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta", REDE FAMÍLIA HD
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV DIARIO" tvg-logo="https://i.imgur.com/QbosxSO.png" group-title="TV Aberta", TV DIARIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="TV Aberta", TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVE BA HD" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="TV Aberta", TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="TV Aberta", REDE BRASIL®
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="TV Aberta", REDE BRASIL®
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
-
-#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="TV Aberta", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="TV Aberta", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="TV Aberta", TV GAZETA
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="TV Aberta", TV GAZETA HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/tGXSPjO.png" group-title="TV Aberta", TV CULTURA PARAÍBA
-http://177.73.84.49:80/hls/live/live.m3u8 
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/tGXSPjO.png" group-title="TV Aberta", TV CULTURA PARAÍBA
-http://ftp.tvitarare.com.br:80/hls/live/live.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="TV Aberta", TV CULTURA HD
-http://177.73.84.49/hls/live/live.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA"tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="TV Aberta",TV CULTURA MG
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="TV Aberta",TV CULTURA PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="TV Aberta", TV CULTURA BAHIA HD
-http://cdn2.comets.com.br/tvbaianahd/aovivo/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4LILIHo.png?1" group-title="TV Aberta",TVU RECIFE
-http://150.161.93.173/hls/720/index.m3u8
-
-#EXTINF:-1 tvg-id="CAT TVE" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="TV Aberta", CAT TVE
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
- 
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/IQGpdyD.png" group-title="TV Aberta", TV FUTURA HD
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/IQGpdyD.png" group-title="TV Aberta", TV FUTURA HD
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w895775698.m3u8
-
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="TV Aberta", TV UP HD
-http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
-
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="TV Aberta", TV UP HD
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="TV Aberta", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="TV Aberta", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TV AMAZON SAT" tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="TV Aberta", TV AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MUNDO TV" tvg-logo="https://i.imgur.com/H3UFeT5.png?1" group-title="TV Aberta", MUNDO TV
-https://v6.ciclano.io:1443/mundotvpgm/_definst_/mundotvpgm/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="1001 NOITES" tvg-logo="https://i.imgur.com/ojWfXDH.png" group-title="TV Aberta",1001 NOITES
-http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m6WLkqU.png" group-title="TV Aberta", JÓIAS VIP
-http://ams2.dtcompany.com.br:1935/live/smil:joiasvip.smil/chunklist_b1396000_slpor.m3u8
-
-#EXTINF:-1 tvg-id="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="TV Aberta",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1 tvg-id="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="TV Aberta",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
- 
-#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="TV Aberta", TV CÂMARA
-http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
-
-#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="TV Aberta", TV CÂMARA
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="TV Aberta", TV CÂMARA
-http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="https://i.imgur.com/6MSLLIa.png" group-title="TV Aberta",TERRA VIVA
-http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
-
-#EXTINF:-1 tvg-id="NOVO CANAL" tvg-logo="https://i.imgur.com/SganCH2.png?1" group-title="TV Aberta", NOVO CANAL
-http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="CANAL RURAL X" tvg-logo="https://i.imgur.com/FdKHLtc.png?1" group-title="TV Aberta",CANAL RURAL X
-http://77149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV Aberta", CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",CANAL RURAL
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
-
-#EXTINF:-1 tvg-id="POLISHOP TV" tvg-logo="https://i.imgur.com/1bg86Dc.png?1" group-title="TV Aberta", POLISHOP TV
-http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/chunklist_w1266858146.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gg2IWHw.png?1" group-title="TV Aberta", CANAL DA GENTE
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@533316/index_150_av-p.m3u8?sd=6&rebase=on
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 2
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 3
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.torcedores.com/content/uploads/2015/03/fox-sports.png" group-title="Esportes", Fox Sports
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN Brasil
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yboel5eq" group-title="Esportes", Esporte Interativo
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg" group-title="Esportes", Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.designfootball.com/design-galleries/football-crests/orig-sevilla-fc-29679" group-title="Esportes", Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4c/68/c8/4c68c8141e07004261dc3c306c8d3723.png" group-title="Esportes", NBA TV
-http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/925747748913082369/EapLE_Wr_400x400.jpg" group-title="Esportes", Fight Network
-http://tv.bmx-tv.top:1935/live/2.smil.m3u8
+#EXTINF:-1,A&E
+http://144.217.39.29:80/live/biro/biro/37130.ts
+#EXTINF:-1,A&E [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41083.ts
+#EXTINF:-1,A&E FHD
+http://144.217.39.29:80/live/biro/biro/40263.ts
+#EXTINF:-1,A&E FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41084.ts
+#EXTINF:-1,A&E HD
+http://144.217.39.29:80/live/biro/biro/36929.ts
+#EXTINF:-1,A&E HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41085.ts
+#EXTINF:-1,ABC HD
+http://144.217.39.29:80/live/biro/biro/40616.ts
+#EXTINF:-1,Agro Canal
+http://144.217.39.29:80/live/biro/biro/40244.ts
+#EXTINF:-1,Alpha Channel TV
+http://144.217.39.29:80/live/biro/biro/40190.ts
+#EXTINF:-1,Amazon Sat [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41086.ts
+#EXTINF:-1,AMC
+http://144.217.39.29:80/live/biro/biro/37129.ts
+#EXTINF:-1,AMC [Altternativo]
+http://144.217.39.29:80/live/biro/biro/41087.ts
+#EXTINF:-1,AMC FHD
+http://144.217.39.29:80/live/biro/biro/40262.ts
+#EXTINF:-1,AMC FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41088.ts
+#EXTINF:-1,AMC HD
+http://144.217.39.29:80/live/biro/biro/36928.ts
+#EXTINF:-1,AMC HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41089.ts
+#EXTINF:-1,amigaozao
+http://144.217.39.29:80/live/biro/biro/40786.ts
+#EXTINF:-1,Animal Planet
+http://144.217.39.29:80/live/biro/biro/37128.ts
+#EXTINF:-1,Animal Planet [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41090.ts
+#EXTINF:-1,ANIMAL PLANET FHD
+http://144.217.39.29:80/live/biro/biro/38392.ts
+#EXTINF:-1,Animal Planet HD
+http://144.217.39.29:80/live/biro/biro/36992.ts
+#EXTINF:-1,Animal Planet HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41091.ts
+#EXTINF:-1,Arte 1
+http://144.217.39.29:80/live/biro/biro/37133.ts
+#EXTINF:-1,Arte1 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41092.ts
+#EXTINF:-1,Arte1 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41093.ts
+#EXTINF:-1,AXN
+http://144.217.39.29:80/live/biro/biro/37132.ts
+#EXTINF:-1,AXN [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41094.ts
+#EXTINF:-1,AXN FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41095.ts
+#EXTINF:-1,AXN HD
+http://144.217.39.29:80/live/biro/biro/36991.ts
+#EXTINF:-1,AXN HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41096.ts
+#EXTINF:-1,Baby TV
+http://144.217.39.29:80/live/biro/biro/36993.ts
+#EXTINF:-1,Baby TV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41097.ts
+#EXTINF:-1,Baby TV FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41098.ts
+#EXTINF:-1,Baby TV HD [Alternativa]
+http://144.217.39.29:80/live/biro/biro/41099.ts
+#EXTINF:-1,Band
+http://144.217.39.29:80/live/biro/biro/37127.ts
+#EXTINF:-1,Band Campinas
+http://144.217.39.29:80/live/biro/biro/41100.ts
+#EXTINF:-1,Band Campinas HD
+http://144.217.39.29:80/live/biro/biro/41101.ts
+#EXTINF:-1,BAND FHD
+http://144.217.39.29:80/live/biro/biro/38429.ts
+#EXTINF:-1,Band HD
+http://144.217.39.29:80/live/biro/biro/36990.ts
+#EXTINF:-1,Band News
+http://144.217.39.29:80/live/biro/biro/37126.ts
+#EXTINF:-1,Band News [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41102.ts
+#EXTINF:-1,BAND NEWS FHD
+http://144.217.39.29:80/live/biro/biro/38391.ts
+#EXTINF:-1,Band News HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41103.ts
+#EXTINF:-1,Band Nordeste FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41104.ts
+#EXTINF:-1,Band Nordeste HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41105.ts
+#EXTINF:-1,Band SP
+http://144.217.39.29:80/live/biro/biro/41106.ts
+#EXTINF:-1,Band Sports
+http://144.217.39.29:80/live/biro/biro/37125.ts
+#EXTINF:-1,Band Sports [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41107.ts
+#EXTINF:-1,Band Sports HD
+http://144.217.39.29:80/live/biro/biro/36989.ts
+#EXTINF:-1,Band Sports HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41108.ts
+#EXTINF:-1,Banda Calypso
+http://144.217.39.29:80/live/biro/biro/39787.ts
+#EXTINF:-1,BANDA FORROZÃO DAS ANTIGAS
+http://144.217.39.29:80/live/biro/biro/39786.ts
+#EXTINF:-1,Banff
+http://144.217.39.29:80/live/biro/biro/40207.ts
+#EXTINF:-1,Bein Sport 2
+http://144.217.39.29:80/live/biro/biro/40612.ts
+#EXTINF:-1,Bein Sport 3
+http://144.217.39.29:80/live/biro/biro/40613.ts
+#EXTINF:-1,Bein Sport 4
+http://144.217.39.29:80/live/biro/biro/40614.ts
+#EXTINF:-1,Bein Sport 5
+http://144.217.39.29:80/live/biro/biro/40615.ts
+#EXTINF:-1,Bis
+http://144.217.39.29:80/live/biro/biro/37131.ts
+#EXTINF:-1,Bis [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41109.ts
+#EXTINF:-1,BIS FHD
+http://144.217.39.29:80/live/biro/biro/38403.ts
+#EXTINF:-1,Bis HD
+http://144.217.39.29:80/live/biro/biro/36988.ts
+#EXTINF:-1,BIS HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41110.ts
+#EXTINF:-1,Boa Vontade TV
+http://144.217.39.29:80/live/biro/biro/40081.ts
+#EXTINF:-1,Bob Zoom
+http://144.217.39.29:80/live/biro/biro/40745.ts
+#EXTINF:-1,Boomerang
+http://144.217.39.29:80/live/biro/biro/37123.ts
+#EXTINF:-1,Boomerang [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41111.ts
+#EXTINF:-1,BOOMERANG FHD
+http://144.217.39.29:80/live/biro/biro/38390.ts
+#EXTINF:-1,Boomerang FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41112.ts
+#EXTINF:-1,Boomerang HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41113.ts
+#EXTINF:-1,Brazzers TV Europe
+http://144.217.39.29:80/live/biro/biro/40322.ts
+#EXTINF:-1,CABARE EDUARDO COSTA & LEONARDO
+http://144.217.39.29:80/live/biro/biro/39768.ts
+#EXTINF:-1,Canal 26
+http://144.217.39.29:80/live/biro/biro/40146.ts
+#EXTINF:-1,Canal Brasil
+http://144.217.39.29:80/live/biro/biro/37122.ts
+#EXTINF:-1,Canal Brasil [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41114.ts
+#EXTINF:-1,CANAL DO BOI
+http://144.217.39.29:80/live/biro/biro/40218.ts
+#EXTINF:-1,Canal Futura
+http://144.217.39.29:80/live/biro/biro/40074.ts
+#EXTINF:-1,Canal Rural
+http://144.217.39.29:80/live/biro/biro/40224.ts
+#EXTINF:-1,Canal Rural [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41115.ts
+#EXTINF:-1,Canal Saúde
+http://144.217.39.29:80/live/biro/biro/40230.ts
+#EXTINF:-1,Canal Sony [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41116.ts
+#EXTINF:-1,Canal Sony HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41117.ts
+#EXTINF:-1,Cançao Nova
+http://144.217.39.29:80/live/biro/biro/37023.ts
+#EXTINF:-1,Canção Nova [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41118.ts
+#EXTINF:-1,Capital TV
+http://144.217.39.29:80/live/biro/biro/40182.ts
+#EXTINF:-1,Cartoon Network
+http://144.217.39.29:80/live/biro/biro/37121.ts
+#EXTINF:-1,Cartoon Network [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41119.ts
+#EXTINF:-1,Cartoon Network FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41120.ts
+#EXTINF:-1,Cartoon Network HD
+http://144.217.39.29:80/live/biro/biro/36927.ts
+#EXTINF:-1,Cartoon Network HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41121.ts
+#EXTINF:-1,Cascavel Panorâmica
+http://144.217.39.29:80/live/biro/biro/40116.ts
+#EXTINF:-1,CBN SP 90,5 FM - Estúdio Ao Vivo
+http://144.217.39.29:80/live/biro/biro/40212.ts
+#EXTINF:-1,CBTV
+http://144.217.39.29:80/live/biro/biro/40195.ts
+#EXTINF:-1,CBTV International [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41122.ts
+#EXTINF:-1,Charlie e Lola
+http://144.217.39.29:80/live/biro/biro/39579.ts
+#EXTINF:-1,Chaves
+http://144.217.39.29:80/live/biro/biro/39762.ts
+#EXTINF:-1,CINE SKY
+http://144.217.39.29:80/live/biro/biro/40216.ts
+#EXTINF:-1,Cine Sky [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41191.ts
+#EXTINF:-1,Cine TV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41192.ts
+#EXTINF:-1,CINE+
+http://144.217.39.29:80/live/biro/biro/40121.ts
+#EXTINF:-1,Cinemax
+http://144.217.39.29:80/live/biro/biro/37120.ts
+#EXTINF:-1,CINEMAX FHD
+http://144.217.39.29:80/live/biro/biro/40261.ts
+#EXTINF:-1,Cinemax FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41123.ts
+#EXTINF:-1,Cinemax HD
+http://144.217.39.29:80/live/biro/biro/36926.ts
+#EXTINF:-1,Cinemax HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41124.ts
+#EXTINF:-1,City Television
+http://144.217.39.29:80/live/biro/biro/40191.ts
+#EXTINF:-1,CNN
+http://144.217.39.29:80/live/biro/biro/40609.ts
+#EXTINF:-1,CNT [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41125.ts
+#EXTINF:-1,Cocoricó
+http://144.217.39.29:80/live/biro/biro/39582.ts
+#EXTINF:-1,Combate
+http://144.217.39.29:80/live/biro/biro/37119.ts
+#EXTINF:-1,Combate [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41126.ts
+#EXTINF:-1,COMBATE FHD
+http://144.217.39.29:80/live/biro/biro/38428.ts
+#EXTINF:-1,Combate FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41127.ts
+#EXTINF:-1,Combate HD
+http://144.217.39.29:80/live/biro/biro/36986.ts
+#EXTINF:-1,Combate HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41128.ts
+#EXTINF:-1,Comedy Central
+http://144.217.39.29:80/live/biro/biro/37118.ts
+#EXTINF:-1,Comedy Central [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41129.ts
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://144.217.39.29:80/live/biro/biro/40260.ts
+#EXTINF:-1,Comedy Central HD
+http://144.217.39.29:80/live/biro/biro/36925.ts
+#EXTINF:-1,Comedy Central HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41130.ts
+#EXTINF:-1,Convert Tv
+http://144.217.39.29:80/live/biro/biro/40125.ts
+#EXTINF:-1,Cooking Channel
+http://144.217.39.29:80/live/biro/biro/40611.ts
+#EXTINF:-1,CPAC
+http://144.217.39.29:80/live/biro/biro/40188.ts
+#EXTINF:-1,Crime Investigation
+http://144.217.39.29:80/live/biro/biro/40621.ts
+#EXTINF:-1,Crystal Bay Beach Resort
+http://144.217.39.29:80/live/biro/biro/40208.ts
+#EXTINF:-1,Cultura
+http://144.217.39.29:80/live/biro/biro/40073.ts
+#EXTINF:-1,Curta [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41131.ts
+#EXTINF:-1,Curta!
+http://144.217.39.29:80/live/biro/biro/37117.ts
+#EXTINF:-1,Curta! HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41132.ts
+#EXTINF:-1,David Guetta
+http://144.217.39.29:80/live/biro/biro/39785.ts
+#EXTINF:-1,DESENHOS BIBLICOS
+http://144.217.39.29:80/live/biro/biro/39780.ts
+#EXTINF:-1,Discovery Channel
+http://144.217.39.29:80/live/biro/biro/37116.ts
+#EXTINF:-1,Discovery Channel [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41133.ts
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://144.217.39.29:80/live/biro/biro/38404.ts
+#EXTINF:-1,Discovery Channel HD
+http://144.217.39.29:80/live/biro/biro/36985.ts
+#EXTINF:-1,Discovery Channel HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41134.ts
+#EXTINF:-1,Discovery Civilization [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41135.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD
+http://144.217.39.29:80/live/biro/biro/40259.ts
+#EXTINF:-1,Discovery Civilization HD
+http://144.217.39.29:80/live/biro/biro/36924.ts
+#EXTINF:-1,Discovery Civilization HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41136.ts
+#EXTINF:-1,Discovery H&H
+http://144.217.39.29:80/live/biro/biro/37115.ts
+#EXTINF:-1,Discovery H&H [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41137.ts
+#EXTINF:-1,Discovery H&H HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41138.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://144.217.39.29:80/live/biro/biro/38389.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://144.217.39.29:80/live/biro/biro/36984.ts
+#EXTINF:-1,Discovery Kids
+http://144.217.39.29:80/live/biro/biro/37113.ts
+#EXTINF:-1,Discovery Kids [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41139.ts
+#EXTINF:-1,Discovery Kids HD
+http://144.217.39.29:80/live/biro/biro/36923.ts
+#EXTINF:-1,Discovery Kids HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41140.ts
+#EXTINF:-1,Discovery Science [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41141.ts
+#EXTINF:-1,Discovery Science HD
+http://144.217.39.29:80/live/biro/biro/36922.ts
+#EXTINF:-1,Discovery Science HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41142.ts
+#EXTINF:-1,Discovery Theater [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41143.ts
+#EXTINF:-1,Discovery Theater HD
+http://144.217.39.29:80/live/biro/biro/36983.ts
+#EXTINF:-1,Discovery Theater HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41144.ts
+#EXTINF:-1,Discovery Turbo
+http://144.217.39.29:80/live/biro/biro/37112.ts
+#EXTINF:-1,Discovery Turbo [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41145.ts
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://144.217.39.29:80/live/biro/biro/38388.ts
+#EXTINF:-1,Discovery Turbo HD
+http://144.217.39.29:80/live/biro/biro/36982.ts
+#EXTINF:-1,Discovery Turbo HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41146.ts
+#EXTINF:-1,Discovery World [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41147.ts
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://144.217.39.29:80/live/biro/biro/38387.ts
+#EXTINF:-1,Discovery World HD
+http://144.217.39.29:80/live/biro/biro/36981.ts
+#EXTINF:-1,Discovery World HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41148.ts
+#EXTINF:-1,Disney
+http://144.217.39.29:80/live/biro/biro/37111.ts
+#EXTINF:-1,Disney Channel [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41149.ts
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://144.217.39.29:80/live/biro/biro/38402.ts
+#EXTINF:-1,Disney Channel HD
+http://144.217.39.29:80/live/biro/biro/36921.ts
+#EXTINF:-1,Disney Channel HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41150.ts
+#EXTINF:-1,Disney JR
+http://144.217.39.29:80/live/biro/biro/37110.ts
+#EXTINF:-1,DISNEY JR HD
+http://144.217.39.29:80/live/biro/biro/40517.ts
+#EXTINF:-1,Disney Junior [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41151.ts
+#EXTINF:-1,Disney Junior FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41152.ts
+#EXTINF:-1,Disney Junior HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41153.ts
+#EXTINF:-1,Disney XD
+http://144.217.39.29:80/live/biro/biro/37109.ts
+#EXTINF:-1,Disney XD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41154.ts
+#EXTINF:-1,Disney XD HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41155.ts
+#EXTINF:-1,E! [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41156.ts
+#EXTINF:-1,E! Entertainment Television
+http://144.217.39.29:80/live/biro/biro/37108.ts
+#EXTINF:-1,E! HD
+http://144.217.39.29:80/live/biro/biro/36920.ts
+#EXTINF:-1,E! HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41157.ts
+#EXTINF:-1,EI Maxx [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41158.ts
+#EXTINF:-1,EI Maxx 2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41159.ts
+#EXTINF:-1,EI Maxx 2 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41160.ts
+#EXTINF:-1,EI Maxx HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41161.ts
+#EXTINF:-1,Eleven Sports 1
+http://144.217.39.29:80/live/biro/biro/40604.ts
+#EXTINF:-1,Eleven Sports 2
+http://144.217.39.29:80/live/biro/biro/40605.ts
+#EXTINF:-1,ESPN
+http://144.217.39.29:80/live/biro/biro/37105.ts
+#EXTINF:-1,ESPN  FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41163.ts
+#EXTINF:-1,ESPN [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41162.ts
+#EXTINF:-1,Espn Brasil
+http://144.217.39.29:80/live/biro/biro/37104.ts
+#EXTINF:-1,ESPN Brasil [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41165.ts
+#EXTINF:-1,ESPN BRASIL FHD
+http://144.217.39.29:80/live/biro/biro/38413.ts
+#EXTINF:-1,ESPN Brasil FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41166.ts
+#EXTINF:-1,ESPN Brasil HD
+http://144.217.39.29:80/live/biro/biro/36978.ts
+#EXTINF:-1,ESPN Brasil HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41167.ts
+#EXTINF:-1,ESPN Extra FHD
+http://144.217.39.29:80/live/biro/biro/38380.ts
+#EXTINF:-1,ESPN FHD
+http://144.217.39.29:80/live/biro/biro/38401.ts
+#EXTINF:-1,ESPN HD
+http://144.217.39.29:80/live/biro/biro/36977.ts
+#EXTINF:-1,ESPN HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41168.ts
+#EXTINF:-1,ESPN Plus HD
+http://144.217.39.29:80/live/biro/biro/36976.ts
+#EXTINF:-1,Esporte Interativo [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41169.ts
+#EXTINF:-1,Esporte Interativo 2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41170.ts
+#EXTINF:-1,ESPORTE INTERATIVO 2 FHD
+http://144.217.39.29:80/live/biro/biro/38400.ts
+#EXTINF:-1,Esporte Interativo 2 HD
+http://144.217.39.29:80/live/biro/biro/37348.ts
+#EXTINF:-1,Esporte Interativo 2 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41171.ts
+#EXTINF:-1,ESPORTE INTERATIVO BR FHD
+http://144.217.39.29:80/live/biro/biro/38382.ts
+#EXTINF:-1,ESPORTE INTERATIVO FHD
+http://144.217.39.29:80/live/biro/biro/38399.ts
+#EXTINF:-1,Esporte Interativo FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41172.ts
+#EXTINF:-1,Esporte Interativo HD
+http://144.217.39.29:80/live/biro/biro/36975.ts
+#EXTINF:-1,Esporte Interativo HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41173.ts
+#EXTINF:-1,Euronews
+http://144.217.39.29:80/live/biro/biro/40606.ts
+#EXTINF:-1,FESTIVAL SERTANEJO
+http://144.217.39.29:80/live/biro/biro/39772.ts
+#EXTINF:-1,Festival Sertanejo 2018
+http://144.217.39.29:80/live/biro/biro/39771.ts
+#EXTINF:-1,Fish TV
+http://144.217.39.29:80/live/biro/biro/37103.ts
+#EXTINF:-1,Fish TV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41174.ts
+#EXTINF:-1,Fish TV HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41175.ts
+#EXTINF:-1,FM O Dia 100,5 FM - Estúdio Ao Vivo
+http://144.217.39.29:80/live/biro/biro/40203.ts
+#EXTINF:-1,Food Network
+http://144.217.39.29:80/live/biro/biro/37102.ts
+#EXTINF:-1,Food Network [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41176.ts
+#EXTINF:-1,FOOD NETWORK FHD
+http://144.217.39.29:80/live/biro/biro/40257.ts
+#EXTINF:-1,Food Network FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41177.ts
+#EXTINF:-1,Food Network HD
+http://144.217.39.29:80/live/biro/biro/36919.ts
+#EXTINF:-1,Food Network HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41178.ts
+#EXTINF:-1,Fox
+http://144.217.39.29:80/live/biro/biro/37101.ts
+#EXTINF:-1,Fox [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41179.ts
+#EXTINF:-1,Fox 23 News
+http://144.217.39.29:80/live/biro/biro/40198.ts
+#EXTINF:-1,Fox Action Movies
+http://144.217.39.29:80/live/biro/biro/40602.ts
+#EXTINF:-1,FOX Comedy
+http://144.217.39.29:80/live/biro/biro/40617.ts
+#EXTINF:-1,FOX FHD
+http://144.217.39.29:80/live/biro/biro/38427.ts
+#EXTINF:-1,Fox HD
+http://144.217.39.29:80/live/biro/biro/36972.ts
+#EXTINF:-1,Fox HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41180.ts
+#EXTINF:-1,Fox Life
+http://144.217.39.29:80/live/biro/biro/37100.ts
+#EXTINF:-1,Fox Life [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41181.ts
+#EXTINF:-1,Fox Life FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41182.ts
+#EXTINF:-1,Fox Life HD
+http://144.217.39.29:80/live/biro/biro/36918.ts
+#EXTINF:-1,Fox Life HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41183.ts
+#EXTINF:-1,FOX Premium 1
+http://144.217.39.29:80/live/biro/biro/37335.ts
+#EXTINF:-1,Fox Premium 1  HD
+http://144.217.39.29:80/live/biro/biro/36974.ts
+#EXTINF:-1,Fox Premium 1 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41184.ts
+#EXTINF:-1,Fox Premium 1 FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41185.ts
+#EXTINF:-1,Fox Premium 1 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41186.ts
+#EXTINF:-1,FOX Premium 2
+http://144.217.39.29:80/live/biro/biro/37336.ts
+#EXTINF:-1,Fox Premium 2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41187.ts
+#EXTINF:-1,FOX PREMIUM 2 FHD
+http://144.217.39.29:80/live/biro/biro/38386.ts
+#EXTINF:-1,Fox Premium 2 FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41188.ts
+#EXTINF:-1,Fox Premium 2 HD
+http://144.217.39.29:80/live/biro/biro/36973.ts
+#EXTINF:-1,Fox Premium 2 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41189.ts
+#EXTINF:-1,Fox Sports
+http://144.217.39.29:80/live/biro/biro/37099.ts
+#EXTINF:-1,Fox Sports {Alternativo]
+http://144.217.39.29:80/live/biro/biro/41190.ts
+#EXTINF:-1,Fox Sports 2
+http://144.217.39.29:80/live/biro/biro/37098.ts
+#EXTINF:-1,Fox Sports 2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41193.ts
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://144.217.39.29:80/live/biro/biro/38398.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://144.217.39.29:80/live/biro/biro/36971.ts
+#EXTINF:-1,Fox Sports 2 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41194.ts
+#EXTINF:-1,Fox Sports 4K
+http://144.217.39.29:80/live/biro/biro/40784.ts
+#EXTINF:-1,FOX SPORTS FHD
+http://144.217.39.29:80/live/biro/biro/38412.ts
+#EXTINF:-1,Fox Sports FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41195.ts
+#EXTINF:-1,Fox Sports HD
+http://144.217.39.29:80/live/biro/biro/36970.ts
+#EXTINF:-1,Fox Sports HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41196.ts
+#EXTINF:-1,France 24
+http://144.217.39.29:80/live/biro/biro/40607.ts
+#EXTINF:-1,Frank Aguiar
+http://144.217.39.29:80/live/biro/biro/39788.ts
+#EXTINF:-1,FreeX TV - Erotic2
+http://144.217.39.29:80/live/biro/biro/40598.ts
+#EXTINF:-1,FRENCHLOVER
+http://144.217.39.29:80/live/biro/biro/40599.ts
+#EXTINF:-1,Futura [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41197.ts
+#EXTINF:-1,Futura HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41198.ts
+#EXTINF:-1,FX
+http://144.217.39.29:80/live/biro/biro/37097.ts
+#EXTINF:-1,FX [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41199.ts
+#EXTINF:-1,FX FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41200.ts
+#EXTINF:-1,FX HD
+http://144.217.39.29:80/live/biro/biro/36969.ts
+#EXTINF:-1,FX HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41201.ts
+#EXTINF:-1,Galinha Pintadinha
+http://144.217.39.29:80/live/biro/biro/39570.ts
+#EXTINF:-1,GLOBO ANHANGUERA
+http://144.217.39.29:80/live/biro/biro/38966.ts
+#EXTINF:-1,Globo Anhanguera Goiania
+http://144.217.39.29:80/live/biro/biro/41202.ts
+#EXTINF:-1,Globo Bahia
+http://144.217.39.29:80/live/biro/biro/37096.ts
+#EXTINF:-1,Globo Bahia HD H265
+http://144.217.39.29:80/live/biro/biro/41203.ts
+#EXTINF:-1,Globo Brasilia
+http://144.217.39.29:80/live/biro/biro/37095.ts
+#EXTINF:-1,GLOBO BRASILIA HD
+http://144.217.39.29:80/live/biro/biro/40513.ts
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://144.217.39.29:80/live/biro/biro/40248.ts
+#EXTINF:-1,Globo EPTV Campinas [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41205.ts
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://144.217.39.29:80/live/biro/biro/40249.ts
+#EXTINF:-1,Globo EPTV Campinas HD H265 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41206.ts
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://144.217.39.29:80/live/biro/biro/40514.ts
+#EXTINF:-1,Globo EPTV Ribeirão Preto [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41207.ts
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD
+http://144.217.39.29:80/live/biro/biro/38640.ts
+#EXTINF:-1,Globo EPTV São Carlos [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41208.ts
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+http://144.217.39.29:80/live/biro/biro/38641.ts
+#EXTINF:-1,Globo Internacional [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41209.ts
+#EXTINF:-1,Globo MG [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41210.ts
+#EXTINF:-1,Globo MG FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41211.ts
+#EXTINF:-1,Globo MG HD H265 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41212.ts
+#EXTINF:-1,GLOBO MINAS
+http://144.217.39.29:80/live/biro/biro/40250.ts
+#EXTINF:-1,GLOBO MINAS HD
+http://144.217.39.29:80/live/biro/biro/40251.ts
+#EXTINF:-1,Globo News
+http://144.217.39.29:80/live/biro/biro/37093.ts
+#EXTINF:-1,Globo News [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41213.ts
+#EXTINF:-1,GLOBO NEWS FHD
+http://144.217.39.29:80/live/biro/biro/38397.ts
+#EXTINF:-1,Globo News HD
+http://144.217.39.29:80/live/biro/biro/36917.ts
+#EXTINF:-1,Globo News HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41214.ts
+#EXTINF:-1,Globo Nordeste
+http://144.217.39.29:80/live/biro/biro/37092.ts
+#EXTINF:-1,Globo Nordeste [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41215.ts
+#EXTINF:-1,Globo Nordeste FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41216.ts
+#EXTINF:-1,GLOBO NORDESTE HD
+http://144.217.39.29:80/live/biro/biro/38971.ts
+#EXTINF:-1,GLOBO RBS  TV PORTO ALEGRE
+http://144.217.39.29:80/live/biro/biro/40252.ts
+#EXTINF:-1,Globo RBS Porto Alegre [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41217.ts
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
+http://144.217.39.29:80/live/biro/biro/40253.ts
+#EXTINF:-1,Globo Rio Preto [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41218.ts
+#EXTINF:-1,Globo RJ
+http://144.217.39.29:80/live/biro/biro/37091.ts
+#EXTINF:-1,Globo RJ [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41219.ts
+#EXTINF:-1,GLOBO RJ FHD
+http://144.217.39.29:80/live/biro/biro/38425.ts
+#EXTINF:-1,Globo RJ HD
+http://144.217.39.29:80/live/biro/biro/36968.ts
+#EXTINF:-1,Globo RJ HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41220.ts
+#EXTINF:-1,Globo RJ HD H265 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41221.ts
+#EXTINF:-1,Globo RN [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41222.ts
+#EXTINF:-1,Globo RPC Curitiba
+http://144.217.39.29:80/live/biro/biro/37366.ts
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://144.217.39.29:80/live/biro/biro/38381.ts
+#EXTINF:-1,Globo Sat
+http://144.217.39.29:80/live/biro/biro/37134.ts
+#EXTINF:-1,GLOBO SAT FHD
+http://144.217.39.29:80/live/biro/biro/40264.ts
+#EXTINF:-1,Globo Sat HD
+http://144.217.39.29:80/live/biro/biro/36916.ts
+#EXTINF:-1,Globo SP
+http://144.217.39.29:80/live/biro/biro/37090.ts
+#EXTINF:-1,Globo SP [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41223.ts
+#EXTINF:-1,GLOBO SP FHD
+http://144.217.39.29:80/live/biro/biro/38424.ts
+#EXTINF:-1,Globo SP HD
+http://144.217.39.29:80/live/biro/biro/37361.ts
+#EXTINF:-1,Globo SP HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41224.ts
+#EXTINF:-1,Globo SP HD H265 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41225.ts
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://144.217.39.29:80/live/biro/biro/38967.ts
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://144.217.39.29:80/live/biro/biro/38968.ts
+#EXTINF:-1,Globo Tv Belem [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41226.ts
+#EXTINF:-1,Globo Tv Cabugi HD H265 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41227.ts
+#EXTINF:-1,Globo Tv Tem Bauru HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41228.ts
+#EXTINF:-1,Globo Tv Vanguarda S.J dos Campos [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41229.ts
+#EXTINF:-1,Globo Tv Verdes Mares Fortaleza [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41230.ts
+#EXTINF:-1,Globosat [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41231.ts
+#EXTINF:-1,Gloob
+http://144.217.39.29:80/live/biro/biro/37089.ts
+#EXTINF:-1,Gloob [alternativo]
+http://144.217.39.29:80/live/biro/biro/41232.ts
+#EXTINF:-1,GLOOB FHD
+http://144.217.39.29:80/live/biro/biro/38396.ts
+#EXTINF:-1,Gloob HD
+http://144.217.39.29:80/live/biro/biro/36915.ts
+#EXTINF:-1,Gloob HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41233.ts
+#EXTINF:-1,GNT
+http://144.217.39.29:80/live/biro/biro/37088.ts
+#EXTINF:-1,GNT HD
+http://144.217.39.29:80/live/biro/biro/36967.ts
+#EXTINF:-1,GNT HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41234.ts
+#EXTINF:-1,Goiânia - Viaduto Av. T-63
+http://144.217.39.29:80/live/biro/biro/40118.ts
+#EXTINF:-1,Gospel Movie TV
+http://144.217.39.29:80/live/biro/biro/40122.ts
+#EXTINF:-1,Gospel Movies TV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41235.ts
+#EXTINF:-1,Gospel Music TV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41236.ts
+#EXTINF:-1,H2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41237.ts
+#EXTINF:-1,H2 HD[Alternativo]
+http://144.217.39.29:80/live/biro/biro/41238.ts
+#EXTINF:-1,HBO
+http://144.217.39.29:80/live/biro/biro/37087.ts
+#EXTINF:-1,HBO [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41239.ts
+#EXTINF:-1,HBO 2
+http://144.217.39.29:80/live/biro/biro/37086.ts
+#EXTINF:-1,HBO 2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41240.ts
+#EXTINF:-1,HBO 2 FHD
+http://144.217.39.29:80/live/biro/biro/38423.ts
+#EXTINF:-1,HBO 2 FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41241.ts
+#EXTINF:-1,HBO 2 HD
+http://144.217.39.29:80/live/biro/biro/36966.ts
+#EXTINF:-1,HBO 2 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41242.ts
+#EXTINF:-1,HBO 2 International
+http://144.217.39.29:80/live/biro/biro/40610.ts
+#EXTINF:-1,HBO Family
+http://144.217.39.29:80/live/biro/biro/37085.ts
+#EXTINF:-1,HBO Family [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41243.ts
+#EXTINF:-1,HBO Family HD
+http://144.217.39.29:80/live/biro/biro/36965.ts
+#EXTINF:-1,HBO Family HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41244.ts
+#EXTINF:-1,HBO FHD
+http://144.217.39.29:80/live/biro/biro/38422.ts
+#EXTINF:-1,HBO FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41245.ts
+#EXTINF:-1,HBO HD
+http://144.217.39.29:80/live/biro/biro/36964.ts
+#EXTINF:-1,HBO HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41246.ts
+#EXTINF:-1,HBO Plus
+http://144.217.39.29:80/live/biro/biro/37084.ts
+#EXTINF:-1,HBO Plus [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41247.ts
+#EXTINF:-1,HBO Plus E
+http://144.217.39.29:80/live/biro/biro/37083.ts
+#EXTINF:-1,HBO Plus HD
+http://144.217.39.29:80/live/biro/biro/36963.ts
+#EXTINF:-1,HBO Plus HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41248.ts
+#EXTINF:-1,HBO Plus*e [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41249.ts
+#EXTINF:-1,HBO Plus*e HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41250.ts
+#EXTINF:-1,HBO signature
+http://144.217.39.29:80/live/biro/biro/37082.ts
+#EXTINF:-1,HBO Signature [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41251.ts
+#EXTINF:-1,HBO Signature HD
+http://144.217.39.29:80/live/biro/biro/36962.ts
+#EXTINF:-1,HBO Signature HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41252.ts
+#EXTINF:-1,He Man
+http://144.217.39.29:80/live/biro/biro/39776.ts
+#EXTINF:-1,History
+http://144.217.39.29:80/live/biro/biro/37081.ts
+#EXTINF:-1,History 2
+http://144.217.39.29:80/live/biro/biro/40040.ts
+#EXTINF:-1,History 2 HD
+http://144.217.39.29:80/live/biro/biro/36961.ts
+#EXTINF:-1,History Channel
+http://144.217.39.29:80/live/biro/biro/41253.ts
+#EXTINF:-1,History Channel HD
+http://144.217.39.29:80/live/biro/biro/41254.ts
+#EXTINF:-1,HISTORY FHD
+http://144.217.39.29:80/live/biro/biro/38383.ts
+#EXTINF:-1,History HD
+http://144.217.39.29:80/live/biro/biro/36960.ts
+#EXTINF:-1,HIT TV HD
+http://144.217.39.29:80/live/biro/biro/40075.ts
+#EXTINF:-1,Hot HD
+http://144.217.39.29:80/live/biro/biro/41057.ts
+#EXTINF:-1,Hustler HD TV
+http://144.217.39.29:80/live/biro/biro/40180.ts
+#EXTINF:-1,I-Sat [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41255.ts
+#EXTINF:-1,IMPD TV
+http://144.217.39.29:80/live/biro/biro/40080.ts
+#EXTINF:-1,Investigação Discovery
+http://144.217.39.29:80/live/biro/biro/37114.ts
+#EXTINF:-1,Investigação Discovery [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41256.ts
+#EXTINF:-1,Investigação Discovery HD
+http://144.217.39.29:80/live/biro/biro/36959.ts
+#EXTINF:-1,Investigação Discovery HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41257.ts
+#EXTINF:-1,Jackson Hole Town Square
+http://144.217.39.29:80/live/biro/biro/40211.ts
+#EXTINF:-1,Jasmin TV
+http://144.217.39.29:80/live/biro/biro/40305.ts
+#EXTINF:-1,JOAO NETO E FREDERICO
+http://144.217.39.29:80/live/biro/biro/39790.ts
+#EXTINF:-1,Life Time
+http://144.217.39.29:80/live/biro/biro/37077.ts
+#EXTINF:-1,LIFE TIME FHD
+http://144.217.39.29:80/live/biro/biro/40265.ts
+#EXTINF:-1,Life Time HD
+http://144.217.39.29:80/live/biro/biro/36914.ts
+#EXTINF:-1,Lifetime [Alernativo]
+http://144.217.39.29:80/live/biro/biro/41258.ts
+#EXTINF:-1,Lifetime HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41259.ts
+#EXTINF:-1,LOONEY TONES
+http://144.217.39.29:80/live/biro/biro/39575.ts
+#EXTINF:-1,LUX TV
+http://144.217.39.29:80/live/biro/biro/40192.ts
+#EXTINF:-1,Max
+http://144.217.39.29:80/live/biro/biro/37076.ts
+#EXTINF:-1,Max [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41260.ts
+#EXTINF:-1,MAX FHD
+http://144.217.39.29:80/live/biro/biro/40268.ts
+#EXTINF:-1,Max HD
+http://144.217.39.29:80/live/biro/biro/36913.ts
+#EXTINF:-1,Max HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41261.ts
+#EXTINF:-1,Max Prime
+http://144.217.39.29:80/live/biro/biro/37075.ts
+#EXTINF:-1,Max Prime [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41262.ts
+#EXTINF:-1,Max Prime E
+http://144.217.39.29:80/live/biro/biro/37074.ts
+#EXTINF:-1,MAX PRIME FHD
+http://144.217.39.29:80/live/biro/biro/40269.ts
+#EXTINF:-1,Max Prime HD
+http://144.217.39.29:80/live/biro/biro/36912.ts
+#EXTINF:-1,Max Prime HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41263.ts
+#EXTINF:-1,Max Prime*e [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41264.ts
+#EXTINF:-1,Max Prime*e HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41265.ts
+#EXTINF:-1,Max UP
+http://144.217.39.29:80/live/biro/biro/37073.ts
+#EXTINF:-1,Max Up [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41266.ts
+#EXTINF:-1,MAX UP FHD
+http://144.217.39.29:80/live/biro/biro/40270.ts
+#EXTINF:-1,Max UP HD
+http://144.217.39.29:80/live/biro/biro/36911.ts
+#EXTINF:-1,Max Up HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41267.ts
+#EXTINF:-1,Megapix
+http://144.217.39.29:80/live/biro/biro/37072.ts
+#EXTINF:-1,Megapix [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41268.ts
+#EXTINF:-1,Megapix HD
+http://144.217.39.29:80/live/biro/biro/36958.ts
+#EXTINF:-1,Megapix HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41269.ts
+#EXTINF:-1,Miami TV
+http://144.217.39.29:80/live/biro/biro/40304.ts
+#EXTINF:-1,Milionario e Jose Rico
+http://144.217.39.29:80/live/biro/biro/39789.ts
+#EXTINF:-1,Milk TV
+http://144.217.39.29:80/live/biro/biro/40238.ts
+#EXTINF:-1,MLB Network
+http://144.217.39.29:80/live/biro/biro/40199.ts
+#EXTINF:-1,MTV
+http://144.217.39.29:80/live/biro/biro/37071.ts
+#EXTINF:-1,MTV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41270.ts
+#EXTINF:-1,MTV DANCE
+http://109.254.251.252:7788/udp/238.1.1.203:1234
+#EXTINF:-1,MTV FHD
+http://144.217.39.29:80/live/biro/biro/40266.ts
+#EXTINF:-1,MTV HD
+http://144.217.39.29:80/live/biro/biro/36910.ts
+#EXTINF:-1,MTV HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41271.ts
+#EXTINF:-1,MTV LIVE
+http://144.217.39.29:80/live/biro/biro/40519.ts
+#EXTINF:-1,MTV LIVE HD
+http://144.217.39.29:80/live/biro/biro/40518.ts
+#EXTINF:-1,Multishow
+http://144.217.39.29:80/live/biro/biro/37070.ts
+#EXTINF:-1,Multishow [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41272.ts
+#EXTINF:-1,Multishow FHD
+http://144.217.39.29:80/live/biro/biro/41273.ts
+#EXTINF:-1,Multishow HD
+http://144.217.39.29:80/live/biro/biro/36957.ts
+#EXTINF:-1,Multishow HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41274.ts
+#EXTINF:-1,Muro das Lamentações (Western Wall)
+http://144.217.39.29:80/live/biro/biro/40110.ts
+#EXTINF:-1,Music Box Brasil
+http://144.217.39.29:80/live/biro/biro/37069.ts
+#EXTINF:-1,MusicBox Gold
+http://144.217.39.29:80/live/biro/biro/40603.ts
+#EXTINF:-1,Naha Airport
+http://144.217.39.29:80/live/biro/biro/40109.ts
+#EXTINF:-1,NatGeo
+http://144.217.39.29:80/live/biro/biro/37068.ts
+#EXTINF:-1,NatGeo HD
+http://144.217.39.29:80/live/biro/biro/36956.ts
+#EXTINF:-1,NatGeo Kids
+http://144.217.39.29:80/live/biro/biro/37067.ts
+#EXTINF:-1,NatGeo Kids [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41275.ts
+#EXTINF:-1,NatGeo Kids FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41276.ts
+#EXTINF:-1,NatGeo Kids HD
+http://144.217.39.29:80/live/biro/biro/36909.ts
+#EXTINF:-1,NatGeo Kids HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41277.ts
+#EXTINF:-1,NatGeo Wild
+http://144.217.39.29:80/live/biro/biro/37066.ts
+#EXTINF:-1,NatGeo Wild [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41278.ts
+#EXTINF:-1,NATGEO WILD FHD
+http://144.217.39.29:80/live/biro/biro/38385.ts
+#EXTINF:-1,NatGeo Wild HD
+http://144.217.39.29:80/live/biro/biro/36955.ts
+#EXTINF:-1,NatGeo Wild HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41279.ts
+#EXTINF:-1,National Geographic FHD
+http://144.217.39.29:80/live/biro/biro/41280.ts
+#EXTINF:-1,NBR
+http://144.217.39.29:80/live/biro/biro/37021.ts
+#EXTINF:-1,NBR [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41281.ts
+#EXTINF:-1,NFL Now
+http://144.217.39.29:80/live/biro/biro/40197.ts
+#EXTINF:-1,NHK WORLD
+http://144.217.39.29:80/live/biro/biro/40147.ts
+#EXTINF:-1,Nick JR
+http://144.217.39.29:80/live/biro/biro/37065.ts
+#EXTINF:-1,Nick Jr [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41282.ts
+#EXTINF:-1,Nick Jr FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41283.ts
+#EXTINF:-1,Nick JR HD
+http://144.217.39.29:80/live/biro/biro/36908.ts
+#EXTINF:-1,Nick Jr HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41284.ts
+#EXTINF:-1,Nickelodeon
+http://144.217.39.29:80/live/biro/biro/37064.ts
+#EXTINF:-1,Nickelodeon [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41285.ts
+#EXTINF:-1,NICKELODEON FHD
+http://144.217.39.29:80/live/biro/biro/40039.ts
+#EXTINF:-1,Nickelodeon HD
+http://144.217.39.29:80/live/biro/biro/36907.ts
+#EXTINF:-1,Nickelodeon HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41286.ts
+#EXTINF:-1,Night Russian TV
+http://144.217.39.29:80/live/biro/biro/40601.ts
+#EXTINF:-1,Novo Tempo
+http://144.217.39.29:80/live/biro/biro/39793.ts
+#EXTINF:-1,NTV
+http://144.217.39.29:80/live/biro/biro/40232.ts
+#EXTINF:-1,Nuart TV
+http://144.217.39.29:80/live/biro/biro/40131.ts
+#EXTINF:-1,O Incrivel Mundo de Gumball
+http://144.217.39.29:80/live/biro/biro/39774.ts
+#EXTINF:-1,O MELHOR DO PAGODE
+http://144.217.39.29:80/live/biro/biro/39773.ts
+#EXTINF:-1,O Show do Garfield
+http://144.217.39.29:80/live/biro/biro/39573.ts
+#EXTINF:-1,OFF
+http://144.217.39.29:80/live/biro/biro/37063.ts
+#EXTINF:-1,OFF HD
+http://144.217.39.29:80/live/biro/biro/36954.ts
+#EXTINF:-1,OFF HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41287.ts
+#EXTINF:-1,OLaLa
+http://144.217.39.29:80/live/biro/biro/40600.ts
+#EXTINF:-1,Os Padrinhos Mágicos
+http://144.217.39.29:80/live/biro/biro/39574.ts
+#EXTINF:-1,Paramount
+http://144.217.39.29:80/live/biro/biro/37062.ts
+#EXTINF:-1,Paramount [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41288.ts
+#EXTINF:-1,Paramount HD
+http://144.217.39.29:80/live/biro/biro/36953.ts
+#EXTINF:-1,Paramount HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41289.ts
+#EXTINF:-1,PassionXXX
+http://144.217.39.29:80/live/biro/biro/40620.ts
+#EXTINF:-1,PATATI PATATA
+http://144.217.39.29:80/live/biro/biro/39781.ts
+#EXTINF:-1,Penthouse 1 HD
+http://144.217.39.29:80/live/biro/biro/41056.ts
+#EXTINF:-1,Peppa Pig
+http://144.217.39.29:80/live/biro/biro/39572.ts
+#EXTINF:-1,PJ Masks
+http://144.217.39.29:80/live/biro/biro/39775.ts
+#EXTINF:-1,Play TV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41290.ts
+#EXTINF:-1,PlayBoy
+http://144.217.39.29:80/live/biro/biro/37061.ts
+#EXTINF:-1,PlayBoy HD
+http://144.217.39.29:80/live/biro/biro/40749.ts
+#EXTINF:-1,Polishop Tv
+http://144.217.39.29:80/live/biro/biro/41291.ts
+#EXTINF:-1,Ponte Internacional da Amizade
+http://144.217.39.29:80/live/biro/biro/40107.ts
+#EXTINF:-1,Popeye
+http://144.217.39.29:80/live/biro/biro/39777.ts
+#EXTINF:-1,Premiere 2
+http://144.217.39.29:80/live/biro/biro/37060.ts
+#EXTINF:-1,Premiere 2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41293.ts
+#EXTINF:-1,PREMIERE 2 FHD
+http://144.217.39.29:80/live/biro/biro/38410.ts
+#EXTINF:-1,Premiere 2 HD
+http://144.217.39.29:80/live/biro/biro/36952.ts
+#EXTINF:-1,Premiere 2 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41294.ts
+#EXTINF:-1,Premiere 3
+http://144.217.39.29:80/live/biro/biro/37059.ts
+#EXTINF:-1,Premiere 3 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41295.ts
+#EXTINF:-1,PREMIERE 3 FHD
+http://144.217.39.29:80/live/biro/biro/38409.ts
+#EXTINF:-1,Premiere 3 FHD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41296.ts
+#EXTINF:-1,Premiere 3 HD
+http://144.217.39.29:80/live/biro/biro/36951.ts
+#EXTINF:-1,Premiere 3 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41297.ts
+#EXTINF:-1,Premiere 4
+http://144.217.39.29:80/live/biro/biro/37058.ts
+#EXTINF:-1,Premiere 4 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41298.ts
+#EXTINF:-1,PREMIERE 4 FHD
+http://144.217.39.29:80/live/biro/biro/38408.ts
+#EXTINF:-1,Premiere 4 HD
+http://144.217.39.29:80/live/biro/biro/36950.ts
+#EXTINF:-1,Premiere 4 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41299.ts
+#EXTINF:-1,Premiere 5
+http://144.217.39.29:80/live/biro/biro/37057.ts
+#EXTINF:-1,Premiere 5 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41300.ts
+#EXTINF:-1,PREMIERE 5 FHD
+http://144.217.39.29:80/live/biro/biro/38407.ts
+#EXTINF:-1,Premiere 5 HD
+http://144.217.39.29:80/live/biro/biro/36949.ts
+#EXTINF:-1,Premiere 5 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41301.ts
+#EXTINF:-1,Premiere 6
+http://144.217.39.29:80/live/biro/biro/37056.ts
+#EXTINF:-1,Premiere 6 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41302.ts
+#EXTINF:-1,PREMIERE 6 FHD
+http://144.217.39.29:80/live/biro/biro/38406.ts
+#EXTINF:-1,Premiere 6 HD
+http://144.217.39.29:80/live/biro/biro/36906.ts
+#EXTINF:-1,Premiere 7
+http://144.217.39.29:80/live/biro/biro/37017.ts
+#EXTINF:-1,Premiere 7 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41303.ts
+#EXTINF:-1,PREMIERE 7 FHD
+http://144.217.39.29:80/live/biro/biro/38405.ts
+#EXTINF:-1,Premiere 7 HD
+http://144.217.39.29:80/live/biro/biro/36905.ts
+#EXTINF:-1,Premiere 8
+http://144.217.39.29:80/live/biro/biro/41304.ts
+#EXTINF:-1,Premiere 9 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41305.ts
+#EXTINF:-1,Premiere Clubes
+http://144.217.39.29:80/live/biro/biro/37016.ts
+#EXTINF:-1,Premiere Clubes [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41292.ts
+#EXTINF:-1,Premiere Clubes 4K
+http://144.217.39.29:80/live/biro/biro/40783.ts
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://144.217.39.29:80/live/biro/biro/38411.ts
+#EXTINF:-1,Premiere Clubes HD
+http://144.217.39.29:80/live/biro/biro/36948.ts
+#EXTINF:-1,Prime Box Brasil
+http://144.217.39.29:80/live/biro/biro/37053.ts
+#EXTINF:-1,Private HD
+http://144.217.39.29:80/live/biro/biro/40624.ts
+#EXTINF:-1,Ra Tim Bum
+http://144.217.39.29:80/live/biro/biro/37015.ts
+#EXTINF:-1,Racionais Mc's
+http://144.217.39.29:80/live/biro/biro/39784.ts
+#EXTINF:-1,Rádio Jornal 780 AM 90,3 FM
+http://144.217.39.29:80/live/biro/biro/40213.ts
+#EXTINF:-1,RCI
+http://144.217.39.29:80/live/biro/biro/40229.ts
+#EXTINF:-1,Record
+http://144.217.39.29:80/live/biro/biro/37051.ts
+#EXTINF:-1,Record Campinas HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41306.ts
+#EXTINF:-1,Record Esp. Santo [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41307.ts
+#EXTINF:-1,RECORD FHD
+http://144.217.39.29:80/live/biro/biro/38421.ts
+#EXTINF:-1,Record HD
+http://144.217.39.29:80/live/biro/biro/36947.ts
+#EXTINF:-1,Record News [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41308.ts
+#EXTINF:-1,Record News HD
+http://144.217.39.29:80/live/biro/biro/37050.ts
+#EXTINF:-1,Record SP HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41309.ts
+#EXTINF:-1,Rede Brasil
+http://144.217.39.29:80/live/biro/biro/37013.ts
+#EXTINF:-1,Rede Família
+http://144.217.39.29:80/live/biro/biro/40237.ts
+#EXTINF:-1,Rede Minas
+http://144.217.39.29:80/live/biro/biro/40183.ts
+#EXTINF:-1,Rede NGT
+http://144.217.39.29:80/live/biro/biro/40231.ts
+#EXTINF:-1,Rede Plenitude TV
+http://144.217.39.29:80/live/biro/biro/40078.ts
+#EXTINF:-1,Rede Super
+http://144.217.39.29:80/live/biro/biro/40123.ts
+#EXTINF:-1,Rede TV
+http://144.217.39.29:80/live/biro/biro/37012.ts
+#EXTINF:-1,Rede TV HD
+http://144.217.39.29:80/live/biro/biro/36946.ts
+#EXTINF:-1,Rede TV HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41310.ts
+#EXTINF:-1,Rede Vida
+http://144.217.39.29:80/live/biro/biro/37011.ts
+#EXTINF:-1,Redlight HD
+http://144.217.39.29:80/live/biro/biro/40596.ts
+#EXTINF:-1,Rio de Janeiro - Copacabana
+http://144.217.39.29:80/live/biro/biro/40106.ts
+#EXTINF:-1,RT America
+http://144.217.39.29:80/live/biro/biro/40608.ts
+#EXTINF:-1,Santuário De Aparecida - Altar Central
+http://144.217.39.29:80/live/biro/biro/40115.ts
+#EXTINF:-1,SBT
+http://144.217.39.29:80/live/biro/biro/37048.ts
+#EXTINF:-1,SBT FHD
+http://144.217.39.29:80/live/biro/biro/38420.ts
+#EXTINF:-1,SBT HD
+http://144.217.39.29:80/live/biro/biro/36945.ts
+#EXTINF:-1,SBT HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41311.ts
+#EXTINF:-1,SBT Nordeste HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41312.ts
+#EXTINF:-1,Sevilla FC
+http://144.217.39.29:80/live/biro/biro/40752.ts
+#EXTINF:-1,Sextreme
+http://144.217.39.29:80/live/biro/biro/37047.ts
+#EXTINF:-1,Sexy Hot
+http://144.217.39.29:80/live/biro/biro/37009.ts
+#EXTINF:-1,SHOW DA VIOLA
+http://144.217.39.29:80/live/biro/biro/39770.ts
+#EXTINF:-1,Simone e Simaria Bar das Coleguinhas
+http://144.217.39.29:80/live/biro/biro/39792.ts
+#EXTINF:-1,SKY NEWS
+http://144.217.39.29:80/live/biro/biro/40223.ts
+#EXTINF:-1,Sony
+http://144.217.39.29:80/live/biro/biro/37007.ts
+#EXTINF:-1,Sony HD
+http://144.217.39.29:80/live/biro/biro/36987.ts
+#EXTINF:-1,Space
+http://144.217.39.29:80/live/biro/biro/37046.ts
+#EXTINF:-1,Space [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41313.ts
+#EXTINF:-1,Space HD
+http://144.217.39.29:80/live/biro/biro/36944.ts
+#EXTINF:-1,Space HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41314.ts
+#EXTINF:-1,Sportv
+http://144.217.39.29:80/live/biro/biro/37256.ts
+#EXTINF:-1,SporTV [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41315.ts
+#EXTINF:-1,Sportv 2
+http://144.217.39.29:80/live/biro/biro/37044.ts
+#EXTINF:-1,SporTV 2 [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41316.ts
+#EXTINF:-1,SPORTV 2 FHD
+http://144.217.39.29:80/live/biro/biro/38395.ts
+#EXTINF:-1,Sportv 2 HD
+http://144.217.39.29:80/live/biro/biro/36943.ts
+#EXTINF:-1,SporTV 2 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41317.ts
+#EXTINF:-1,Sportv 3
+http://144.217.39.29:80/live/biro/biro/37006.ts
+#EXTINF:-1,SPORTV 3 FHD
+http://144.217.39.29:80/live/biro/biro/38394.ts
+#EXTINF:-1,Sportv 3 HD
+http://144.217.39.29:80/live/biro/biro/36942.ts
+#EXTINF:-1,SPORTV 4K
+http://144.217.39.29:80/live/biro/biro/40785.ts
+#EXTINF:-1,SPORTV FHD
+http://144.217.39.29:80/live/biro/biro/38419.ts
+#EXTINF:-1,Sportv HD
+http://144.217.39.29:80/live/biro/biro/37255.ts
+#EXTINF:-1,SporTV HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41318.ts
+#EXTINF:-1,Studio Universal
+http://144.217.39.29:80/live/biro/biro/37043.ts
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://144.217.39.29:80/live/biro/biro/40258.ts
+#EXTINF:-1,Studio Universal HD
+http://144.217.39.29:80/live/biro/biro/36904.ts
+#EXTINF:-1,Studio66 TV
+http://144.217.39.29:80/live/biro/biro/40368.ts
+#EXTINF:-1,Syfy
+http://144.217.39.29:80/live/biro/biro/37042.ts
+#EXTINF:-1,Syfy HD
+http://144.217.39.29:80/live/biro/biro/36903.ts
+#EXTINF:-1,SyFy HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41319.ts
+#EXTINF:-1,Tabela Jogos Premiere
+http://144.217.39.29:80/live/biro/biro/39764.ts
+#EXTINF:-1,TBS
+http://144.217.39.29:80/live/biro/biro/37041.ts
+#EXTINF:-1,TBS HD
+http://144.217.39.29:80/live/biro/biro/36940.ts
+#EXTINF:-1,TBS HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41320.ts
+#EXTINF:-1,TCM
+http://144.217.39.29:80/live/biro/biro/37037.ts
+#EXTINF:-1,TCM [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41321.ts
+#EXTINF:-1,TeleBärn
+http://144.217.39.29:80/live/biro/biro/40201.ts
+#EXTINF:-1,Telecine Action
+http://144.217.39.29:80/live/biro/biro/37040.ts
+#EXTINF:-1,Telecine Action [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41322.ts
+#EXTINF:-1,TELECINE ACTION FHD
+http://144.217.39.29:80/live/biro/biro/38418.ts
+#EXTINF:-1,Telecine Action HD
+http://144.217.39.29:80/live/biro/biro/36939.ts
+#EXTINF:-1,Telecine Action HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41323.ts
+#EXTINF:-1,Telecine Cult
+http://144.217.39.29:80/live/biro/biro/37039.ts
+#EXTINF:-1,Telecine Cult [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41324.ts
+#EXTINF:-1,Telecine Cult HD
+http://144.217.39.29:80/live/biro/biro/36901.ts
+#EXTINF:-1,Telecine Cult HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41325.ts
+#EXTINF:-1,Telecine Fun
+http://144.217.39.29:80/live/biro/biro/37005.ts
+#EXTINF:-1,Telecine Fun [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41326.ts
+#EXTINF:-1,TELECINE FUN FHD
+http://144.217.39.29:80/live/biro/biro/38417.ts
+#EXTINF:-1,Telecine Fun HD
+http://144.217.39.29:80/live/biro/biro/36938.ts
+#EXTINF:-1,Telecine Fun HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41327.ts
+#EXTINF:-1,Telecine Pipoca
+http://144.217.39.29:80/live/biro/biro/37038.ts
+#EXTINF:-1,Telecine Pipoca [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41328.ts
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://144.217.39.29:80/live/biro/biro/38416.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://144.217.39.29:80/live/biro/biro/36937.ts
+#EXTINF:-1,Telecine Pipoca HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41329.ts
+#EXTINF:-1,Telecine Premium
+http://144.217.39.29:80/live/biro/biro/36994.ts
+#EXTINF:-1,Telecine Premium [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41330.ts
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://144.217.39.29:80/live/biro/biro/38415.ts
+#EXTINF:-1,Telecine Premium HD
+http://144.217.39.29:80/live/biro/biro/36936.ts
+#EXTINF:-1,Telecine Premium HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41331.ts
+#EXTINF:-1,Telecine Touch
+http://144.217.39.29:80/live/biro/biro/36995.ts
+#EXTINF:-1,TELECINE TOUCH FHD
+http://144.217.39.29:80/live/biro/biro/38414.ts
+#EXTINF:-1,Telecine Touch HD
+http://144.217.39.29:80/live/biro/biro/36935.ts
+#EXTINF:-1,Teletubbies
+http://144.217.39.29:80/live/biro/biro/39583.ts
+#EXTINF:-1,Temple Bar
+http://144.217.39.29:80/live/biro/biro/40113.ts
+#EXTINF:-1,Teodoro & Sampaio
+http://144.217.39.29:80/live/biro/biro/39791.ts
+#EXTINF:-1,Terra Viva
+http://144.217.39.29:80/live/biro/biro/37004.ts
+#EXTINF:-1,Times Square
+http://144.217.39.29:80/live/biro/biro/40112.ts
+#EXTINF:-1,TLC
+http://144.217.39.29:80/live/biro/biro/37036.ts
+#EXTINF:-1,TLC [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41332.ts
+#EXTINF:-1,TLC FHD
+http://144.217.39.29:80/live/biro/biro/40256.ts
+#EXTINF:-1,TLC HD
+http://144.217.39.29:80/live/biro/biro/36902.ts
+#EXTINF:-1,TLC HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41333.ts
+#EXTINF:-1,TNT
+http://144.217.39.29:80/live/biro/biro/37035.ts
+#EXTINF:-1,TNT HD
+http://144.217.39.29:80/live/biro/biro/36934.ts
+#EXTINF:-1,TNT HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41334.ts
+#EXTINF:-1,TNT Series
+http://144.217.39.29:80/live/biro/biro/37034.ts
+#EXTINF:-1,TNT Series [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41335.ts
+#EXTINF:-1,TNT Series HD
+http://144.217.39.29:80/live/biro/biro/36933.ts
+#EXTINF:-1,TNT Series HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41336.ts
+#EXTINF:-1,Tooncast
+http://144.217.39.29:80/live/biro/biro/37033.ts
+#EXTINF:-1,Tooncast [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41337.ts
+#EXTINF:-1,Tooncast HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41338.ts
+#EXTINF:-1,Top TV
+http://144.217.39.29:80/live/biro/biro/40228.ts
+#EXTINF:-1,Tru TV
+http://144.217.39.29:80/live/biro/biro/37032.ts
+#EXTINF:-1,TruTv [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41339.ts
+#EXTINF:-1,TUFF TV
+http://144.217.39.29:80/live/biro/biro/40196.ts
+#EXTINF:-1,Turma da Mônica
+http://144.217.39.29:80/live/biro/biro/39571.ts
+#EXTINF:-1,TV  Red Bull
+http://144.217.39.29:80/live/biro/biro/40370.ts
+#EXTINF:-1,Tv Alvorada Espirita
+http://144.217.39.29:80/live/biro/biro/40128.ts
+#EXTINF:-1,TV AMAZON SAT
+http://144.217.39.29:80/live/biro/biro/40220.ts
+#EXTINF:-1,TV Aparecida
+http://144.217.39.29:80/live/biro/biro/37003.ts
+#EXTINF:-1,TV Aparecida [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41340.ts
+#EXTINF:-1,TV Aparecida HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41341.ts
+#EXTINF:-1,Tv Boa Vontade [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41342.ts
+#EXTINF:-1,TV Câmara
+http://144.217.39.29:80/live/biro/biro/40189.ts
+#EXTINF:-1,TV CATVE
+http://144.217.39.29:80/live/biro/biro/40186.ts
+#EXTINF:-1,TV Cultura
+http://144.217.39.29:80/live/biro/biro/41343.ts
+#EXTINF:-1,TV Cultura HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41344.ts
+#EXTINF:-1,TV Diário
+http://144.217.39.29:80/live/biro/biro/40226.ts
+#EXTINF:-1,TV Escola
+http://144.217.39.29:80/live/biro/biro/36999.ts
+#EXTINF:-1,Tv Espírita
+http://144.217.39.29:80/live/biro/biro/40077.ts
+#EXTINF:-1,Tv Evangelizar
+http://144.217.39.29:80/live/biro/biro/40072.ts
+#EXTINF:-1,TV Galega
+http://144.217.39.29:80/live/biro/biro/40236.ts
+#EXTINF:-1,Tv Gazeta
+http://144.217.39.29:80/live/biro/biro/41345.ts
+#EXTINF:-1,TV Gazeta HD
+http://144.217.39.29:80/live/biro/biro/40120.ts
+#EXTINF:-1,TV GLOOBINHO HD
+http://144.217.39.29:80/live/biro/biro/38969.ts
+#EXTINF:-1,TV Guará
+http://144.217.39.29:80/live/biro/biro/40185.ts
+#EXTINF:-1,TV Imaculada Conceição
+http://144.217.39.29:80/live/biro/biro/40127.ts
+#EXTINF:-1,TV JUSTIÇA
+http://144.217.39.29:80/live/biro/biro/40303.ts
+#EXTINF:-1,TV Litoral
+http://144.217.39.29:80/live/biro/biro/40233.ts
+#EXTINF:-1,Tv Padre Cicero
+http://144.217.39.29:80/live/biro/biro/40126.ts
+#EXTINF:-1,TV Portal Midia
+http://144.217.39.29:80/live/biro/biro/40235.ts
+#EXTINF:-1,TV Ra Tim Bum
+http://144.217.39.29:80/live/biro/biro/41346.ts
+#EXTINF:-1,TV Rede Gospel
+http://144.217.39.29:80/live/biro/biro/40247.ts
+#EXTINF:-1,TV Revista
+http://144.217.39.29:80/live/biro/biro/40239.ts
+#EXTINF:-1,Tv Século 21
+http://144.217.39.29:80/live/biro/biro/40098.ts
+#EXTINF:-1,TV SENADO
+http://144.217.39.29:80/live/biro/biro/40302.ts
+#EXTINF:-1,TV Tem Bauru
+http://144.217.39.29:80/live/biro/biro/37030.ts
+#EXTINF:-1,TV TEM RIO PRETO
+http://144.217.39.29:80/live/biro/biro/40516.ts
+#EXTINF:-1,TV TEM RIO PRETO HD
+http://144.217.39.29:80/live/biro/biro/40515.ts
+#EXTINF:-1,TV Tem Sorocaba
+http://144.217.39.29:80/live/biro/biro/37029.ts
+#EXTINF:-1,Tv Uniao
+http://144.217.39.29:80/live/biro/biro/40184.ts
+#EXTINF:-1,Tv Universal
+http://144.217.39.29:80/live/biro/biro/40079.ts
+#EXTINF:-1,TV Verdes mares
+http://144.217.39.29:80/live/biro/biro/37028.ts
+#EXTINF:-1,Universal Channel
+http://144.217.39.29:80/live/biro/biro/37027.ts
+#EXTINF:-1,Universal Channel [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41347.ts
+#EXTINF:-1,Universal Channel HD
+http://144.217.39.29:80/live/biro/biro/36932.ts
+#EXTINF:-1,Universal Channel HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41348.ts
+#EXTINF:-1,Venus
+http://144.217.39.29:80/live/biro/biro/37026.ts
+#EXTINF:-1,VH1
+http://144.217.39.29:80/live/biro/biro/41349.ts
+#EXTINF:-1,VH1 FHD
+http://144.217.39.29:80/live/biro/biro/40271.ts
+#EXTINF:-1,VH1 HD
+http://144.217.39.29:80/live/biro/biro/36900.ts
+#EXTINF:-1,VH1 HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41350.ts
+#EXTINF:-1,Via Morena
+http://144.217.39.29:80/live/biro/biro/40747.ts
+#EXTINF:-1,Visit-X HD
+http://144.217.39.29:80/live/biro/biro/40151.ts
+#EXTINF:-1,Viva
+http://144.217.39.29:80/live/biro/biro/36997.ts
+#EXTINF:-1,VIVA [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41351.ts
+#EXTINF:-1,VIVA FHD
+http://144.217.39.29:80/live/biro/biro/38393.ts
+#EXTINF:-1,Viva HD
+http://144.217.39.29:80/live/biro/biro/36931.ts
+#EXTINF:-1,VIVA HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41352.ts
+#EXTINF:-1,Vivid Red HD
+http://144.217.39.29:80/live/biro/biro/41058.ts
+#EXTINF:-1,Warner Channel
+http://144.217.39.29:80/live/biro/biro/36996.ts
+#EXTINF:-1,Warner Channel [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41353.ts
+#EXTINF:-1,Warner Channel HD [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41354.ts
+#EXTINF:-1,WARNER FHD
+http://144.217.39.29:80/live/biro/biro/38384.ts
+#EXTINF:-1,Warner HD
+http://144.217.39.29:80/live/biro/biro/36930.ts
+#EXTINF:-1,Web Tv Agua Boa
+http://144.217.39.29:80/live/biro/biro/40234.ts
+#EXTINF:-1,Woohoo
+http://144.217.39.29:80/live/biro/biro/37025.ts
+#EXTINF:-1,Woohoo [Alternativo]
+http://144.217.39.29:80/live/biro/biro/41355.ts
+#EXTINF:-1,WOOHOO FHD
+http://144.217.39.29:80/live/biro/biro/40267.ts
+#EXTINF:-1,Woohoo HD
+http://144.217.39.29:80/live/biro/biro/36899.ts
+#EXTINF:-1,Yellowstone National Park - Geyser
+http://144.217.39.29:80/live/biro/biro/40114.ts
+#EXTINF:-1,Zé Neto e Cristiano
+http://144.217.39.29:80/live/biro/biro/39769.ts
+#EXTINF:-1,A Turma do Charlie Brown
+http://144.217.39.29:80/live/biro/biro/39565.ts
+#EXTINF:-1,A Turma do Pateta
+http://144.217.39.29:80/live/biro/biro/38995.ts
+#EXTINF:-1,Apenas um Show
+http://144.217.39.29:80/live/biro/biro/38993.ts
+#EXTINF:-1,As Meninas Superpoderosas
+http://144.217.39.29:80/live/biro/biro/37433.ts
+#EXTINF:-1,Bob Esponja 24 Horas
+http://144.217.39.29:80/live/biro/biro/37431.ts
+#EXTINF:-1,Chapolin Colorado
+http://144.217.39.29:80/live/biro/biro/37430.ts
+#EXTINF:-1,Chaves Desenho
+http://144.217.39.29:80/live/biro/biro/37413.ts
+#EXTINF:-1,Dragon Ball Z
+http://144.217.39.29:80/live/biro/biro/39566.ts
+#EXTINF:-1,Eu a Patroa e as Criancas
+http://144.217.39.29:80/live/biro/biro/37440.ts
+#EXTINF:-1,Futurama
+http://144.217.39.29:80/live/biro/biro/37412.ts
+#EXTINF:-1,Hey Arnold
+http://144.217.39.29:80/live/biro/biro/38994.ts
+#EXTINF:-1,Johnny Bravo
+http://144.217.39.29:80/live/biro/biro/38996.ts
+#EXTINF:-1,KND - A Turma do Bairro
+http://144.217.39.29:80/live/biro/biro/39560.ts
+#EXTINF:-1,Mickey e Donald
+http://144.217.39.29:80/live/biro/biro/39561.ts
+#EXTINF:-1,Os Simpsons
+http://144.217.39.29:80/live/biro/biro/37438.ts
+#EXTINF:-1,Os Trapalhoes
+http://144.217.39.29:80/live/biro/biro/37437.ts
+#EXTINF:-1,Picapau
+http://144.217.39.29:80/live/biro/biro/37429.ts
+#EXTINF:-1,Pokemon
+http://144.217.39.29:80/live/biro/biro/39564.ts
+#EXTINF:-1,Super Choque
+http://144.217.39.29:80/live/biro/biro/38992.ts
+#EXTINF:-1,Zatch Bell
+http://144.217.39.29:80/live/biro/biro/39562.ts
+#EXTINF:-1,Rádio Hunter FM
+http://144.217.39.29:80/live/biro/biro/37383.ts
+#EXTINF:-1,Radio 89 FM
+http://144.217.39.29:80/live/biro/biro/37370.ts
+#EXTINF:-1,Radio Alpha FM
+http://144.217.39.29:80/live/biro/biro/37374.ts
+#EXTINF:-1,Radio Antena 1
+http://144.217.39.29:80/live/biro/biro/37376.ts
+#EXTINF:-1,Radio CBN
+http://144.217.39.29:80/live/biro/biro/37382.ts
+#EXTINF:-1,Radio Continental FM
+http://144.217.39.29:80/live/biro/biro/37373.ts
+#EXTINF:-1,Radio Gazeta FM
+http://144.217.39.29:80/live/biro/biro/37377.ts
+#EXTINF:-1,Radio Grenal FM
+http://144.217.39.29:80/live/biro/biro/37378.ts
+#EXTINF:-1,Radio JB FM
+http://144.217.39.29:80/live/biro/biro/37369.ts
+#EXTINF:-1,Radio Jovem Pan AM
+http://144.217.39.29:80/live/biro/biro/37365.ts
+#EXTINF:-1,Radio Jovem Pan FM
+http://144.217.39.29:80/live/biro/biro/37364.ts
+#EXTINF:-1,Radio Jovem Pop
+http://144.217.39.29:80/live/biro/biro/37384.ts
+#EXTINF:-1,Radio Melodia
+http://144.217.39.29:80/live/biro/biro/37379.ts
+#EXTINF:-1,Radio Metropolitana FM
+http://144.217.39.29:80/live/biro/biro/37381.ts
+#EXTINF:-1,Radio Mix FM
+http://144.217.39.29:80/live/biro/biro/37356.ts
+#EXTINF:-1,Radio Rio FM
+http://144.217.39.29:80/live/biro/biro/37371.ts
+#EXTINF:-1,Radio Sulamerica Paradiso
+http://144.217.39.29:80/live/biro/biro/37380.ts
+#EXTINF:-1,Radio Transamerica
+http://144.217.39.29:80/live/biro/biro/37368.ts
