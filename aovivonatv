@@ -5,6 +5,13 @@
 </item>
 
 <item>
+<title>[COLOR white][B] CANAL RICOS [/B][/COLOR]</title>
+<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR white][B] Globo RJ [/B][/COLOR]</title>
 <link>http://212.237.41.64/tvgloboriodejaneiro/index.m3u8|Referer=http://aovivonatv.com/</link>
 <thumbnail>https://s9.postimg.cc/ftwi4h1hr/Rede_Globo.png</thumbnail>
