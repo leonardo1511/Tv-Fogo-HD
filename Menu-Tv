@@ -14,6 +14,13 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+<channel>
+<name>teste</name>
+<thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
+<externallink>https://tv-fogo.github.io/HD/tv</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
 
 
 
