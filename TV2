@@ -6,76 +6,73 @@
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/d594c3d9fcb035002a541a91121a7541.jpg" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/WpfoNL" group-title="CANAIS ABERTO",GLOBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",GLOBO
 http://apk2.futeboltvgratis.com:8081/live/17/chunks.m3u8?TvFogoHD
  
-#EXTINF:-1 tvg-logo="https://goo.gl/HjhUhE" group-title="CANAIS ABERTO",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/syHrxH" group-title="CANAIS ABERTO", Rede tv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTO", Rede tv 
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2092614085.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/UL733m" group-title="CANAIS ABERTO", Tv Gazeta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png" group-title="CANAIS ABERTO", Tv Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/AuaK1C" group-title="CANAIS ABERTO", Tv Escola
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tv-escola.jpg" group-title="CANAIS ABERTO", Tv Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wdrm4x" group-title="CANAIS ABERTO", Record
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTO", Record
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/3nhnoa" group-title="CANAIS ABERTO",FUTURA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/canalfutura.png" group-title="CANAIS ABERTO",FUTURA
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/PK6iRY" group-title="CANAIS ESPORTES",Pfc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",Premiere
 http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DQvWND" group-title="CANAIS ESPORTES",ESPN Brasil
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",ESPN Brasil
 http://apk2.futeboltvgratis.com:8081/live/19/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/2th4DE" group-title="CANAIS ESPORTES",Espn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="CANAIS ESPORTES",Espn
 http://apk2.futeboltvgratis.com:8081/live/3/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/SFUW3w" group-title="CANAIS ESPORTES",Band Sports
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/ZGsigF" group-title="CANAIS ESPORTES",SporTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS ESPORTES",SporTV
 http://apk2.futeboltvgratis.com:8081/live/20/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/uzYfX5" group-title="CANAIS ESPORTES",Sportv 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_2.png" group-title="CANAIS ESPORTES",Sportv 2
 http://apk2.futeboltvgratis.com:8081/live/15/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/o2z1SA" group-title="CANAIS ESPORTES",Sportv 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV_3.png" group-title="CANAIS ESPORTES",Sportv 3
 http://apk2.futeboltvgratis.com:8081/live/7/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/diqNQA" group-title="CANAIS ESPORTES",EI Maxx 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="CANAIS ESPORTES",EI Maxx 
 http://apk2.futeboltvgratis.com:8081/live/8/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/yVN6f4" group-title="CANAIS ESPORTES",EI Maxx 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="CANAIS ESPORTES",EI Maxx 2
 http://apk2.futeboltvgratis.com:8081/live/8/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/SUJxnt" group-title="CANAIS ESPORTES", Esporte Interativo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="CANAIS ESPORTES", Esporte Interativo
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 
-#EXTINF:-1 tvg-logo="https://goo.gl/tCr8uT" group-title="CANAIS ESPORTES",Combate
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="CANAIS ESPORTES",Combate
 https://live-edge.pxstream.tv/hls2/combate-hd/hls2/combate-240p/chunks.m3u8?md5=4GuVSPZQhwVJ9Wd5AJB9VA&expires=1537431953
 
-#EXTINF:-1 tvg-logo="https://goo.gl/oMC1vg" group-title="CANAIS ESPORTES", All Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/allsports.png" group-title="CANAIS ESPORTES", All Sport
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DDDws9" group-title="CANAIS ESPORTES",Fox Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="CANAIS ESPORTES",Fox Sports
 http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/a7ViYD" group-title="CANAIS ESPORTES",Fox Sports2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="CANAIS ESPORTES",Fox Sports2
 http://apk2.futeboltvgratis.com:8081/live/5/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DcTL8g" group-title="CANAIS FILMES", Cine + 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cine%2B.jpg" group-title="CANAIS FILMES", Cine + 
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS FILMES",Filmes Tv Web guarani
@@ -95,10 +92,10 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://goo.gl/KhJxAg" group-title="CANAIS JORNALISMO",ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO", Record News (TO) 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="CANAIS JORNALISMO", Record News (TO) 
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/VejES8" group-title="CANAIS JORNALISMO",RECORD NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="CANAIS JORNALISMO",RECORD NEWS
 http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ujqzNj" group-title="CANAIS JORNALISMO",DW NEWS
@@ -114,10 +111,10 @@ http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?TvFogoHD
 #EXTINF:-1 tvg-logo="https://goo.gl/ZWWRqQ" group-title="CANAIS DE RELIGIAO",REDE FAMILIA
 http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8?TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/uBaajf" group-title="CANAIS DE RELIGIAO", Cancao Nova 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS DE RELIGIAO", Cancao Nova 
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8??TvFogoHD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/1PvKNq" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6WDpFX" group-title="CANAIS DE RELIGIAO", Tv Evangelizar 
