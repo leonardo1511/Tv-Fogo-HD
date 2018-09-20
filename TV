@@ -129,6 +129,10 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/846.m3u8  
 #EXTINF:-1,Sportv 3
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/846.m3u8
+#EXTINF:-1,Fox Sports
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1228.m3u8
+#EXTINF:-1,Fox Sports 2
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/871.m3u8
 #EXTINF:-1,PFC
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/773.m3u8
 #EXTINF:-1,Premiere 2
