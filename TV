@@ -123,7 +123,29 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/833.m3u8
 #EXTINF:-1,TNT
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/786.m3u8
+#EXTINF:-1,Sportv
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/844.m3u8
+#EXTINF:-1,Sportv 2
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/846.m3u8  
+#EXTINF:-1,Sportv 3
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/846.m3u8
 #EXTINF:-1,PFC
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/773.m3u8
+#EXTINF:-1,Premiere 2
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/802.m3u8
+#EXTINF:-1,Premiere 3
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/801.m3u8  
+#EXTINF:-1,Premiere 4
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/800.m3u8
+#EXTINF:-1,Premiere 5
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/799.m3u8
+#EXTINF:-1,Premiere 6
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/798.m3u8
+#EXTINF:-1,Premiere 7
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1223.m3u8
+#EXTINF:-1,Premiere 8
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1222.m3u8
+#EXTINF:-1,Premiere 9
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1221.m3u8
 #EXTINF:-1,Discovery Kids
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/834.m3u8 
