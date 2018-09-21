@@ -310,7 +310,7 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 
 ################################################################################# MÚSICAS & VARIEDADES
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/gNxSX4" group-title="MÚSICAS & VARIEDADES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dPzkK3d.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]
 http://0.0.0.0
 
 
