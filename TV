@@ -5,25 +5,25 @@
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="CANAIS ABERTOS",[COLOR white][B]CANAL RICOS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.ts
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/859.ts
+http://144.217.72.121:8000/live/nova1764/a1764/859.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png" group-title="CANAIS ABERTOS",[COLOR white][B]GLOBO RJ[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/870.ts
+http://144.217.72.121:8000/live/nova1764/a1764/870.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_sp.png" group-title="CANAIS ABERTOS",[COLOR white][B]GLOBO SP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1164.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1164.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTOS",[COLOR white][B]RECORD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/774.ts
+http://144.217.72.121:8000/live/nova1764/a1764/774.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",[COLOR white][B]REDE TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/857.ts
+http://144.217.72.121:8000/live/nova1764/a1764/857.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTOS",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/855.ts
+http://144.217.72.121:8000/live/nova1764/a1764/855.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS ABERTOS",[COLOR white][B]TV APARECIDA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
@@ -38,37 +38,37 @@ http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/830.ts
+http://144.217.72.121:8000/live/nova1764/a1764/830.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1235.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1235.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY CIVILIZATION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/777.ts
+http://144.217.72.121:8000/live/nova1764/a1764/777.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1234.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1234.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://144.217.72.121:8000/live/nova1764/a1764/776.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/784.ts
+http://144.217.72.121:8000/live/nova1764/a1764/784.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]FISHTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/829.ts
+http://144.217.72.121:8000/live/nova1764/a1764/829.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]HISTORY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/788.ts
+http://144.217.72.121:8000/live/nova1764/a1764/788.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]H2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/814.ts
+http://144.217.72.121:8000/live/nova1764/a1764/814.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]TLC[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/787.ts
+http://144.217.72.121:8000/live/nova1764/a1764/787.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/trutv.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]TRUTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/794.ts
+http://144.217.72.121:8000/live/nova1764/a1764/794.ts
 
 ################################################################################# ESPORTES
 
@@ -79,61 +79,61 @@ http://0.0.0.0
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/876.ts
+http://144.217.72.121:8000/live/nova1764/a1764/876.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ESPORTES",[COLOR white][B]EI Maxx[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/820.ts
+http://144.217.72.121:8000/live/nova1764/a1764/820.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="ESPORTES",[COLOR white][B]EI Maxx 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1232.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1232.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1231.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1231.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/875.ts
+http://144.217.72.121:8000/live/nova1764/a1764/875.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1228.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1228.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/871.ts
+http://144.217.72.121:8000/live/nova1764/a1764/871.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/844.ts
+http://144.217.72.121:8000/live/nova1764/a1764/844.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/846.ts
+http://144.217.72.121:8000/live/nova1764/a1764/846.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/846.ts
+http://144.217.72.121:8000/live/nova1764/a1764/846.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE CLUBES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/773.ts
+http://144.217.72.121:8000/live/nova1764/a1764/773.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/802.ts
+http://144.217.72.121:8000/live/nova1764/a1764/802.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/801.ts
+http://144.217.72.121:8000/live/nova1764/a1764/801.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 4[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/800.ts
+http://144.217.72.121:8000/live/nova1764/a1764/800.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 5[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/799.ts
+http://144.217.72.121:8000/live/nova1764/a1764/799.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 6[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/798.ts
+http://144.217.72.121:8000/live/nova1764/a1764/798.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 7[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1223.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1223.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 8[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1222.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1222.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 9[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1221.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1221.ts
 
 ################################################################################# FILMES & SÉRIES
 
@@ -142,103 +142,103 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="FILMES & SÉRIES",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/831.ts
+http://144.217.72.121:8000/live/nova1764/a1764/831.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="FILMES & SÉRIES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/833.ts
+http://144.217.72.121:8000/live/nova1764/a1764/833.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png" group-title="FILMES & SÉRIES",[COLOR white][B]COMEDY CENTRAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/823.ts
+http://144.217.72.121:8000/live/nova1764/a1764/823.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/779.ts
+http://144.217.72.121:8000/live/nova1764/a1764/779.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX LIFE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/817.ts
+http://144.217.72.121:8000/live/nova1764/a1764/817.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="FILMES & SÉRIES",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/816.ts
+http://144.217.72.121:8000/live/nova1764/a1764/816.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/868.ts
+http://144.217.72.121:8000/live/nova1764/a1764/868.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/1058.ts
+http://144.217.72.121:8000/live/nova1764/a1764/1058.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/865.ts
+http://144.217.72.121:8000/live/nova1764/a1764/865.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/866.ts
+http://144.217.72.121:8000/live/nova1764/a1764/866.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/864.ts
+http://144.217.72.121:8000/live/nova1764/a1764/864.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/863.ts
+http://144.217.72.121:8000/live/nova1764/a1764/863.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/861.ts
+http://144.217.72.121:8000/live/nova1764/a1764/861.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/775.ts
+http://144.217.72.121:8000/live/nova1764/a1764/775.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="FILMES & SÉRIES",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/809.ts
+http://144.217.72.121:8000/live/nova1764/a1764/809.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="FILMES & SÉRIES",[COLOR white][B]MTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/836.ts
+http://144.217.72.121:8000/live/nova1764/a1764/836.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png" group-title="FILMES & SÉRIES",[COLOR white][B]PARAMOUNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/804.ts
+http://144.217.72.121:8000/live/nova1764/a1764/804.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="FILMES & SÉRIES",[COLOR white][B]SONY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/825.ts
+http://144.217.72.121:8000/live/nova1764/a1764/825.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="FILMES & SÉRIES",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/791.ts
+http://144.217.72.121:8000/live/nova1764/a1764/791.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="FILMES & SÉRIES",[COLOR white][B]SYFY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/805.ts
+http://144.217.72.121:8000/live/nova1764/a1764/805.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png" group-title="FILMES & SÉRIES",[COLOR white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/848.ts
+http://144.217.72.121:8000/live/nova1764/a1764/848.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tbs.png" group-title="FILMES & SÉRIES",[COLOR white][B]TBS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/790.ts
+http://144.217.72.121:8000/live/nova1764/a1764/790.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tcm.png" group-title="FILMES & SÉRIES",[COLOR white][B]TCM[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/789.ts
+http://144.217.72.121:8000/live/nova1764/a1764/789.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="FILMES & SÉRIES",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/786.ts
+http://144.217.72.121:8000/live/nova1764/a1764/786.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png" group-title="FILMES & SÉRIES",[COLOR white][B]TNT SERIES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/778.ts
+http://144.217.72.121:8000/live/nova1764/a1764/778.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/854.ts
+http://144.217.72.121:8000/live/nova1764/a1764/854.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/851.ts
+http://144.217.72.121:8000/live/nova1764/a1764/851.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/850.ts
+http://144.217.72.121:8000/live/nova1764/a1764/850.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/852.ts
+http://144.217.72.121:8000/live/nova1764/a1764/852.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/853.ts
+http://144.217.72.121:8000/live/nova1764/a1764/853.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/849.ts
+http://144.217.72.121:8000/live/nova1764/a1764/849.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="FILMES & SÉRIES",[COLOR white][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/781.ts
+http://144.217.72.121:8000/live/nova1764/a1764/781.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="FILMES & SÉRIES",[COLOR white][B]WARNER CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/843.ts
+http://144.217.72.121:8000/live/nova1764/a1764/843.ts
 
 ################################################################################# INFANTIL
 
@@ -246,34 +246,34 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/824.ts
+http://144.217.72.121:8000/live/nova1764/a1764/824.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png" group-title="INFANTIL",[COLOR white][B]BOOMERANG[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/827.ts
+http://144.217.72.121:8000/live/nova1764/a1764/827.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="INFANTIL",[COLOR white][B]DISNEY CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/840.ts
+http://144.217.72.121:8000/live/nova1764/a1764/840.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="INFANTIL",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/834.ts
+http://144.217.72.121:8000/live/nova1764/a1764/834.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png" group-title="INFANTIL",[COLOR white][B]DISNEY JUNIOR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/839.ts
+http://144.217.72.121:8000/live/nova1764/a1764/839.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="INFANTIL",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/838.ts
+http://144.217.72.121:8000/live/nova1764/a1764/838.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="INFANTIL",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/815.ts
+http://144.217.72.121:8000/live/nova1764/a1764/815.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="INFANTIL",[COLOR white][B]NICK JUNIOR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/807.ts
+http://144.217.72.121:8000/live/nova1764/a1764/807.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png" group-title="INFANTIL",[COLOR white][B]NICKELODEON[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/806.ts
+http://144.217.72.121:8000/live/nova1764/a1764/806.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png" group-title="INFANTIL",[COLOR white][B]TOONCAST[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/785.ts
+http://144.217.72.121:8000/live/nova1764/a1764/785.ts
 
 ################################################################################# MÚSICAS & VARIEDADES
 
@@ -282,7 +282,7 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.jpg" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]GNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/869.ts
+http://144.217.72.121:8000/live/nova1764/a1764/869.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gospelmusic_tv.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]GOSPEL MUSIC TELEVISION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?TvFogoHD
@@ -297,7 +297,7 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8?TvFogoHD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMON/tu1_1.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/835.ts
+http://144.217.72.121:8000/live/nova1764/a1764/835.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/muztv.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MUZ TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
@@ -320,10 +320,10 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="NOTÍCIAS",[COLOR white][B]BAND NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/2919.ts
+http://144.217.72.121:8000/live/nova1764/a1764/2919.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="NOTÍCIAS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/780.ts
+http://144.217.72.121:8000/live/nova1764/a1764/780.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="NOTÍCIAS",[COLOR white][B]RECORD NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://144.217.72.121:8000/live/nova1764/a1764/858.ts
+http://144.217.72.121:8000/live/nova1764/a1764/858.ts
