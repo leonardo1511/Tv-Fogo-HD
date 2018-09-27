@@ -1,179 +1,179 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PT- A&E" tvg-logo="" group-title="Portugal",PT- A&E
-http://linux-app.tv:6204/live/Atwa/Atwa/8875.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- ABOLA TV" tvg-logo="" group-title="Portugal",PT- ABOLA TV
-http://linux-app.tv:6204/live/Atwa/Atwa/8874.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Afro Music" tvg-logo="" group-title="Portugal",PT- Afro Music
-http://linux-app.tv:6204/live/Atwa/Atwa/8873.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8873.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- AXN BLACK HD" tvg-logo="" group-title="Portugal",PT- AXN BLACK HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8872.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8872.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- AXN HD" tvg-logo="" group-title="Portugal",PT- AXN HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8871.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8871.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- AXN WHITE" tvg-logo="" group-title="Portugal",PT- AXN WHITE
-http://linux-app.tv:6204/live/Atwa/Atwa/8870.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Baby Tv" tvg-logo="" group-title="Portugal",PT- Baby Tv
-http://linux-app.tv:6204/live/Atwa/Atwa/8869.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8869.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Biggs" tvg-logo="" group-title="Portugal",PT- Biggs
-http://linux-app.tv:6204/live/Atwa/Atwa/8868.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8868.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- BTV 1 HD" tvg-logo="" group-title="Portugal",PT- BTV 1 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8867.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Caca & Pesca" tvg-logo="" group-title="Portugal",PT- Caca & Pesca
-http://linux-app.tv:6204/live/Atwa/Atwa/8866.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8866.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Canal Historia" tvg-logo="" group-title="Portugal",PT- Canal Historia
-http://linux-app.tv:6204/live/Atwa/Atwa/8865.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8865.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- CANAL PANDA" tvg-logo="" group-title="Portugal",PT- CANAL PANDA
-http://linux-app.tv:6204/live/Atwa/Atwa/8864.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Cancao Nova" tvg-logo="" group-title="Portugal",PT- Cancao Nova
-http://linux-app.tv:6204/live/Atwa/Atwa/8863.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8863.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Cartoon NetWork" tvg-logo="" group-title="Portugal",PT- Cartoon NetWork
-http://linux-app.tv:6204/live/Atwa/Atwa/8862.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- CBS Reality" tvg-logo="" group-title="Portugal",PT- CBS Reality
-http://linux-app.tv:6204/live/Atwa/Atwa/8861.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- CINEMUNDO" tvg-logo="" group-title="Portugal",PT- CINEMUNDO
-http://linux-app.tv:6204/live/Atwa/Atwa/8860.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8860.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- CMTV" tvg-logo="" group-title="Portugal",PT- CMTV
-http://linux-app.tv:6204/live/Atwa/Atwa/8859.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8859.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Discovery Channel" tvg-logo="" group-title="Portugal",PT- Discovery Channel
-http://linux-app.tv:6204/live/Atwa/Atwa/8858.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Discovery Showcase HD" tvg-logo="" group-title="Portugal",PT- Discovery Showcase HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8857.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8857.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Disney Channel" tvg-logo="" group-title="Portugal",PT- Disney Channel
-http://linux-app.tv:6204/live/Atwa/Atwa/8856.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8856.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- E! Entertaunment" tvg-logo="" group-title="Portugal",PT- E! Entertaunment
-http://linux-app.tv:6204/live/Atwa/Atwa/8855.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- EUroNews" tvg-logo="" group-title="Portugal",PT- EUroNews
-http://linux-app.tv:6204/live/Atwa/Atwa/8854.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- EUROSPORT 1" tvg-logo="" group-title="Portugal",PT- EUROSPORT 1
-http://linux-app.tv:6204/live/Atwa/Atwa/8853.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8853.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- EUROSPORT 2" tvg-logo="" group-title="Portugal",PT- EUROSPORT 2
-http://linux-app.tv:6204/live/Atwa/Atwa/8852.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8852.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- EuroSport 2 XTRA HD" tvg-logo="" group-title="Portugal",PT- EuroSport 2 XTRA HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8851.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8851.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- EUROSPORT NEWS" tvg-logo="" group-title="Portugal",PT- EUROSPORT NEWS
-http://linux-app.tv:6204/live/Atwa/Atwa/8850.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- FOX COMEDY" tvg-logo="" group-title="Portugal",PT- FOX COMEDY
-http://linux-app.tv:6204/live/Atwa/Atwa/8849.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- FOX Crime HD" tvg-logo="" group-title="Portugal",PT- FOX Crime HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8848.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- FOX HD" tvg-logo="" group-title="Portugal",PT- FOX HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8847.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8847.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Fox Life HD" tvg-logo="" group-title="Portugal",PT- Fox Life HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8846.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- FOX Movies" tvg-logo="" group-title="Portugal",PT- FOX Movies
-http://linux-app.tv:6204/live/Atwa/Atwa/8845.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8845.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Fuel TV" tvg-logo="" group-title="Portugal",PT- Fuel TV
-http://linux-app.tv:6204/live/Atwa/Atwa/8844.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- FX" tvg-logo="" group-title="Portugal",PT- FX
-http://linux-app.tv:6204/live/Atwa/Atwa/8843.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Globo" tvg-logo="" group-title="Portugal",PT- Globo
-http://linux-app.tv:6204/live/Atwa/Atwa/8842.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8842.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Globo Premium" tvg-logo="" group-title="Portugal",PT- Globo Premium
-http://linux-app.tv:6204/live/Atwa/Atwa/8841.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Historia" tvg-logo="" group-title="Portugal",PT- Historia
-http://linux-app.tv:6204/live/Atwa/Atwa/8840.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8840.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Hollywood HD" tvg-logo="" group-title="Portugal",PT- Hollywood HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8839.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8839.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- MCM Pop" tvg-logo="" group-title="Portugal",PT- MCM Pop
-http://linux-app.tv:6204/live/Atwa/Atwa/8838.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8838.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Motors TV" tvg-logo="" group-title="Portugal",PT- Motors TV
-http://linux-app.tv:6204/live/Atwa/Atwa/8837.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8837.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Motorvision" tvg-logo="" group-title="Portugal",PT- Motorvision
-http://linux-app.tv:6204/live/Atwa/Atwa/8836.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8836.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- MOV" tvg-logo="" group-title="Portugal",PT- MOV
-http://linux-app.tv:6204/live/Atwa/Atwa/8835.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8835.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- MTV Portugal" tvg-logo="" group-title="Portugal",PT- MTV Portugal
-http://linux-app.tv:6204/live/Atwa/Atwa/8834.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8834.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Nat Geo Wild" tvg-logo="" group-title="Portugal",PT- Nat Geo Wild
-http://linux-app.tv:6204/live/Atwa/Atwa/8833.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8833.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- National Geographic HD" tvg-logo="" group-title="Portugal",PT- National Geographic HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8832.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Nickelodeon" tvg-logo="" group-title="Portugal",PT- Nickelodeon
-http://linux-app.tv:6204/live/Atwa/Atwa/8831.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Odisseia" tvg-logo="" group-title="Portugal",PT- Odisseia
-http://linux-app.tv:6204/live/Atwa/Atwa/8830.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8830.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- PFC" tvg-logo="" group-title="Portugal",PT- PFC
-http://linux-app.tv:6204/live/Atwa/Atwa/8829.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8829.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Porto Canal" tvg-logo="" group-title="Portugal",PT- Porto Canal
-http://linux-app.tv:6204/live/Atwa/Atwa/8828.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8828.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Record News" tvg-logo="" group-title="Portugal",PT- Record News
-http://linux-app.tv:6204/live/Atwa/Atwa/8827.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8827.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- RTP 1" tvg-logo="" group-title="Portugal",PT- RTP 1
-http://linux-app.tv:6204/live/Atwa/Atwa/8826.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8826.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- RTP 2" tvg-logo="" group-title="Portugal",PT- RTP 2
-http://linux-app.tv:6204/live/Atwa/Atwa/8825.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8825.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- RTP 3" tvg-logo="" group-title="Portugal",PT- RTP 3
-http://linux-app.tv:6204/live/Atwa/Atwa/8824.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8824.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- RTP Acores" tvg-logo="" group-title="Portugal",PT- RTP Acores
-http://linux-app.tv:6204/live/Atwa/Atwa/8823.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8823.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- RTP África" tvg-logo="" group-title="Portugal",PT- RTP África
-http://linux-app.tv:6204/live/Atwa/Atwa/8822.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8822.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- RTP Madeira" tvg-logo="" group-title="Portugal",PT- RTP Madeira
-http://linux-app.tv:6204/live/Atwa/Atwa/8821.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8821.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- RTP Memoria" tvg-logo="" group-title="Portugal",PT- RTP Memoria
-http://linux-app.tv:6204/live/Atwa/Atwa/8820.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8820.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC" tvg-logo="" group-title="Portugal",PT- SIC
-http://linux-app.tv:6204/live/Atwa/Atwa/8819.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8819.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC Caras" tvg-logo="" group-title="Portugal",PT- SIC Caras
-http://linux-app.tv:6204/live/Atwa/Atwa/8818.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8818.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC HD" tvg-logo="" group-title="Portugal",PT- SIC HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8817.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8817.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC K" tvg-logo="" group-title="Portugal",PT- SIC K
-http://linux-app.tv:6204/live/Atwa/Atwa/8816.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8816.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC Kids HD" tvg-logo="" group-title="Portugal",PT- SIC Kids HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8815.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC Mulher" tvg-logo="" group-title="Portugal",PT- SIC Mulher
-http://linux-app.tv:6204/live/Atwa/Atwa/8814.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8814.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC Noticias" tvg-logo="" group-title="Portugal",PT- SIC Noticias
-http://linux-app.tv:6204/live/Atwa/Atwa/8813.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8813.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC Noticias HD" tvg-logo="" group-title="Portugal",PT- SIC Noticias HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8812.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8812.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SIC Radical" tvg-logo="" group-title="Portugal",PT- SIC Radical
-http://linux-app.tv:6204/live/Atwa/Atwa/8811.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8811.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORT TV" tvg-logo="" group-title="Portugal",PT- SPORT TV
-http://linux-app.tv:6204/live/Atwa/Atwa/8810.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8810.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORT TV   HD" tvg-logo="" group-title="Portugal",PT- SPORT TV   HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8809.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8809.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTING TV" tvg-logo="" group-title="Portugal",PT- SPORTING TV
-http://linux-app.tv:6204/live/Atwa/Atwa/8808.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8808.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 1 HD" tvg-logo="" group-title="Portugal",PT- SPORTTV 1 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8807.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8807.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 1 SD" tvg-logo="" group-title="Portugal",PT- SPORTTV 1 SD
-http://linux-app.tv:6204/live/Atwa/Atwa/8806.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8806.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 2 HD" tvg-logo="" group-title="Portugal",PT- SPORTTV 2 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8805.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8805.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 2 SD" tvg-logo="" group-title="Portugal",PT- SPORTTV 2 SD
-http://linux-app.tv:6204/live/Atwa/Atwa/8804.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8804.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 3 HD" tvg-logo="" group-title="Portugal",PT- SPORTTV 3 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8803.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8803.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 3 SD" tvg-logo="" group-title="Portugal",PT- SPORTTV 3 SD
-http://linux-app.tv:6204/live/Atwa/Atwa/8802.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8802.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 4 HD" tvg-logo="" group-title="Portugal",PT- SPORTTV 4 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8801.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8801.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- SPORTTV 5 HD" tvg-logo="" group-title="Portugal",PT- SPORTTV 5 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8800.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TLC" tvg-logo="" group-title="Portugal",PT- TLC
-http://linux-app.tv:6204/live/Atwa/Atwa/8799.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8799.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TPA Angola" tvg-logo="" group-title="Portugal",PT- TPA Angola
-http://linux-app.tv:6204/live/Atwa/Atwa/8798.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8798.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Travel Channel HD" tvg-logo="" group-title="Portugal",PT- Travel Channel HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8797.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8797.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TV Globo Premium" tvg-logo="" group-title="Portugal",PT- TV Globo Premium
-http://linux-app.tv:6204/live/Atwa/Atwa/8796.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVCINE 1 HD" tvg-logo="" group-title="Portugal",PT- TVCINE 1 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8795.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8795.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVCINE 2 HD" tvg-logo="" group-title="Portugal",PT- TVCINE 2 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8794.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8794.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVCINE 3 HD" tvg-logo="" group-title="Portugal",PT- TVCINE 3 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8793.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8793.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVCINE 4 HD" tvg-logo="" group-title="Portugal",PT- TVCINE 4 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8792.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8792.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVE Internacional" tvg-logo="" group-title="Portugal",PT- TVE Internacional
-http://linux-app.tv:6204/live/Atwa/Atwa/8791.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8791.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVI" tvg-logo="" group-title="Portugal",PT- TVI
-http://linux-app.tv:6204/live/Atwa/Atwa/8790.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8790.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- Tvi 24" tvg-logo="" group-title="Portugal",PT- Tvi 24
-http://linux-app.tv:6204/live/Atwa/Atwa/8789.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8789.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVI FICCAO" tvg-logo="" group-title="Portugal",PT- TVI FICCAO
-http://linux-app.tv:6204/live/Atwa/Atwa/8788.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT- TVI REALITY" tvg-logo="" group-title="Portugal",PT- TVI REALITY
-http://linux-app.tv:6204/live/Atwa/Atwa/8787.ts
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://linux-app.tv:6204/live/Atwa/Atwa/8787.m3u8
