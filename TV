@@ -1,257 +1,257 @@
 #EXTM3U
 EXTINF:-1,BR: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18088.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18088.ts
 EXTINF:-1,BR: Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18213.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18213.ts
 EXTINF:-1,BR: Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18157.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18157.ts
 EXTINF:-1,BR: Arte 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18214.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18214.ts
 EXTINF:-1,BR: AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18211.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18211.ts
 EXTINF:-1,BR: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18124.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18124.ts
 EXTINF:-1,BR: All Sports
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18065.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18065.ts
 EXTINF:-1,BR: Anime Cartoon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18037.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18037.ts
 EXTINF:-1,BR: Aparecida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18024.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18024.ts
 EXTINF:-1,BR: Azteca 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18025.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18025.ts
 EXTINF:-1,BR: Band
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18175.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18175.ts
 EXTINF:-1,BR: Band News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18176.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18176.ts
 EXTINF:-1,BR: Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18123.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18123.ts
 EXTINF:-1,BR: BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18122.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18122.ts
 EXTINF:-1,BR: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18087.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18087.ts
 EXTINF:-1,BR: Brazil 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18026.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18026.ts
 EXTINF:-1,BR: Combate
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18179.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18179.ts
 EXTINF:-1,BR: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18217.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18217.ts
 EXTINF:-1,BR: Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18154.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18154.ts
 EXTINF:-1,BR: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18085.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18085.ts
 EXTINF:-1,BR: Discovery Home Health
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18083.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18083.ts
 EXTINF:-1,BR: Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18257.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18257.ts
 EXTINF:-1,BR: Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18119.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18119.ts
 EXTINF:-1,BR: Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18153.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18153.ts
 EXTINF:-1,BR: Discovery Civilization
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18084.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18084.ts
 EXTINF:-1,BR: Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18081.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18081.ts
 EXTINF:-1,BR: Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18080.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18080.ts
 EXTINF:-1,BR: Disney Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18207.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18207.ts
 EXTINF:-1,BR: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18208.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18208.ts
 EXTINF:-1,BR: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18079.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18079.ts
 EXTINF:-1,BR: Futura
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18160.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18160.ts
 EXTINF:-1,BR: FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18074.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18074.ts
 EXTINF:-1,BR: FX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18222.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18222.ts
 EXTINF:-1,BR: Futura Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18053.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18053.ts
 EXTINF:-1,BR: Globo Brasília
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18125.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18125.ts
 EXTINF:-1,BR: Globo Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18111.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18111.ts
 EXTINF:-1,BR: Globo Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18263.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18263.ts
 EXTINF:-1,BR: Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18170.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18170.ts
 EXTINF:-1,BR: Globo SP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18209.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18209.ts
 EXTINF:-1,BR: Gloob
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18223.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18223.ts
 EXTINF:-1,BR: Globo News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18073.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18073.ts
 EXTINF:-1,BR: GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18109.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18109.ts
 EXTINF:-1,BR: GNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18210.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18210.ts
 EXTINF:-1,BR: H2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18072.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18072.ts
 EXTINF:-1,BR: HBO Family Brazil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18069.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18069.ts
 EXTINF:-1,BR: HBO Plus Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18068.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18068.ts
 EXTINF:-1,BR: History Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18066.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18066.ts
 EXTINF:-1,BR: H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18108.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18108.ts
 EXTINF:-1,BR: HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18145.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18145.ts
 EXTINF:-1,BR: HBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18185.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18185.ts
 EXTINF:-1,BR: HBO 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18186.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18186.ts
 EXTINF:-1,BR: HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18146.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18146.ts
 EXTINF:-1,BR: HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18107.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18107.ts
 EXTINF:-1,BR: HBO Family
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18187.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18187.ts
 EXTINF:-1,BR: HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18106.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18106.ts
 EXTINF:-1,BR: HBO Plus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18188.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18188.ts
 EXTINF:-1,BR: HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18105.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18105.ts
 EXTINF:-1,BR: HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18189.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18189.ts
 EXTINF:-1,BR: History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18144.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18144.ts
 EXTINF:-1,BR: I sat
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18224.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18224.ts
 EXTINF:-1,BR: Investigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18082.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18082.ts
 EXTINF:-1,BR: Mana Sat
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18029.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18029.ts
 EXTINF:-1,BR: Multishow
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18064.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18064.ts
 EXTINF:-1,BR: Mais Globo Sat
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18169.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18169.ts
 EXTINF:-1,BR: Max
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18190.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18190.ts
 EXTINF:-1,BR: Max Prime
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18191.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18191.ts
 EXTINF:-1,BR: Max Up
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18192.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18192.ts
 EXTINF:-1,BR: MegaPix
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18227.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18227.ts
 EXTINF:-1,BR: Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18103.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18103.ts
 EXTINF:-1,BR: MTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18158.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18158.ts
 EXTINF:-1,BR: Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18102.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18102.ts
 EXTINF:-1,BR: Music Box Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18168.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18168.ts
 EXTINF:-1,BR: NatGeoWild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18101.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18101.ts
 EXTINF:-1,BR: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18143.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18143.ts
 EXTINF:-1,BR: Nat Geo Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18063.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18063.ts
 EXTINF:-1,BR: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18230.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18230.ts
 EXTINF:-1,BR: Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18167.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18167.ts
 EXTINF:-1,BR: Nick Jr Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18061.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18061.ts
 EXTINF:-1,BR: Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18262.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18262.ts
 EXTINF:-1,BR: OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18100.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18100.ts
 EXTINF:-1,BR: OFF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18231.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18231.ts
 EXTINF:-1,BR: REDE GOSPEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18030.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18030.ts
 EXTINF:-1,BR: Record HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18140.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18140.ts
 EXTINF:-1,BR: Record News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18163.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18163.ts
 EXTINF:-1,BR: Rede Record
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18194.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18194.ts
 EXTINF:-1,BR: Rede TV!
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18195.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18195.ts
 EXTINF:-1,BR: SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18138.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18138.ts
 EXTINF:-1,BR: Space
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18241.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18241.ts
 EXTINF:-1,BR: Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18135.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18135.ts
 EXTINF:-1,BR: Sport Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18048.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18048.ts
 EXTINF:-1,BR: Sportv 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18134.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18134.ts
 EXTINF:-1,BR: SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18051.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18051.ts
 EXTINF:-1,BR: Sportv 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18133.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18133.ts
 EXTINF:-1,BR: Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18202.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18202.ts
 EXTINF:-1,BR: Syfy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18162.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18162.ts
 EXTINF:-1,BR: TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18096.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18096.ts
 EXTINF:-1,BR: TC Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18129.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18129.ts
 EXTINF:-1,BR: TC Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18128.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18128.ts
 EXTINF:-1,BR: TC Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18127.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18127.ts
 EXTINF:-1,BR: TC Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18126.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18126.ts
 EXTINF:-1,BR: TC Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18095.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18095.ts
 EXTINF:-1,BR: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18242.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18242.ts
 EXTINF:-1,BR: TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18244.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18244.ts
 EXTINF:-1,BR: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18131.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18131.ts
 EXTINF:-1,BR: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18245.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18245.ts
 EXTINF:-1,BR: TNT Series HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18212.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18212.ts
 EXTINF:-1,BR: Tooncast
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18246.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18246.ts
 EXTINF:-1,BR: TruTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18247.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18247.ts
 EXTINF:-1,BR: TBS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18049.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18049.ts
 EXTINF:-1,BR: Tv Brasil.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18057.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18057.ts
 EXTINF:-1,BR: TV Cultura
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18249.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18249.ts
 EXTINF:-1,BR: TV futura
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18203.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18203.ts
 EXTINF:-1,BR: TVI Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18130.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18130.ts
 EXTINF:-1,BR: TV Diario
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18033.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18033.ts
 EXTINF:-1,BR: Tv Escola
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18034.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18034.ts
 EXTINF:-1,BR: TV Faap
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18078.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18078.ts
 EXTINF:-1,BR: TV Globo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18043.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18043.ts
 EXTINF:-1,BR: TV Globo Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18042.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18042.ts
 EXTINF:-1,BR: TV Record
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18041.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18041.ts
 EXTINF:-1,BR: TV Series  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18040.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18040.ts
 EXTINF:-1,BR: Universal Channels HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18094.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18094.ts
 EXTINF:-1,BR: Universal Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18039.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18039.ts
 EXTINF:-1,BR: VH Mega Hits
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18251.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18251.ts
 EXTINF:-1,BR: Vem e Ve TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18035.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18035.ts
 EXTINF:-1,BR: Via Morena
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18067.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18067.ts
 EXTINF:-1,BR: Viva
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18252.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18252.ts
 EXTINF:-1,BR: Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18092.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18092.ts
 EXTINF:-1,BR: Woohoo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18253.m3u8&name=[B][COLOR gold]Tv Fogo HD[/COLOR][/B]
+http://145.239.108.24:6500/live/fabo6nXpuq/Is3PISvHp7/18253.ts
