@@ -1,14 +1,14 @@
 <channels>
 </channels>
 <channel>
-<name>[COLOR white][B]Server 1[/B][/COLOR] [COLOR yellow][B][REDECANAIS][/B][/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
+<name>[COLOR white][B]Server 1[/B][/COLOR] [COLOR lime][B][REDECANAIS][/B][/COLOR] [COLOR gold]HD[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/canais-redecanais</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
 <channel>
-<name>[COLOR white][B]Server 2[/B][/COLOR] [COLOR yellow][B][REDECANAIS][/B][/COLOR] [COLOR gold]SD[/COLOR][/B]</name>
+<name>[COLOR white][B]Server 2[/B][/COLOR] [COLOR lime][B][REDECANAIS][/B][/COLOR] [COLOR gold]SD[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/canais-redecanais-SD</externallink>
 <fanart></fanart>
