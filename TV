@@ -120,7 +120,7 @@ http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3231.ts?|Us
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/2b5nEsp.png" group-title="ESPORTES",ESPN EXTRA SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3230.ts?|User-Agent=ExoMedia
 
-#EXTINF:-1 tvg-id="Foxsports?|User-Agent=ExoMedia.br" tvg-name="FOX SPORts?|User-Agent=ExoMedia SD" tvg-logo="https://i.imgur.com/QH7a0B5.png" group-title="ESPORTES",FOX SPORts?|User-Agent=ExoMedia SD
+#EXTINF:-1 tvg-id="Foxsports?|User-Agent=ExoMedia.br" tvg-name="FOX SPORts?|User-Agent=ExoMedia SD" tvg-logo="https://i.imgur.com/QH7a0B5.png" group-title="ESPORTES",FOX SPORTS SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3208.ts?|User-Agent=ExoMedia
 
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Espn_LA.png/revision/latest?cb=20160308190123" group-title="ESPORTES",ESPN 2 SD
@@ -132,10 +132,10 @@ http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3227.ts?|Us
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES GLOBOSAT",COMBATE SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3262.ts?|User-Agent=ExoMedia
 
-#EXTINF:-1 tvg-id="Foxsports?|User-Agent=ExoMedia2.br" tvg-name="FOX SPORts?|User-Agent=ExoMedia 2 SD" tvg-logo="https://i.imgur.com/OdpE4en.png" group-title="ESPORTES",FOX SPORts?|User-Agent=ExoMedia 2 SD
+#EXTINF:-1 tvg-id="Foxsports?|User-Agent=ExoMedia2.br" tvg-name="FOX SPORts?|User-Agent=ExoMedia 2 SD" tvg-logo="https://i.imgur.com/OdpE4en.png" group-title="ESPORTES",FOX SPORTS 2 SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3210.ts?|User-Agent=ExoMedia
 
-#EXTINF:-1 tvg-id="Bandsports?|User-Agent=ExoMediahd.br" tvg-name="BAND SPORts?|User-Agent=ExoMedia SD" tvg-logo="https://i.imgur.com/vIED3mf.png" group-title="ESPORTES",BAND SPORts?|User-Agent=ExoMedia SD
+#EXTINF:-1 tvg-id="Bandsports?|User-Agent=ExoMediahd.br" tvg-name="BAND SPORts?|User-Agent=ExoMedia SD" tvg-logo="https://i.imgur.com/vIED3mf.png" group-title="ESPORTES",BAND SPORTS SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3278.ts?|User-Agent=ExoMedia
 
 #EXTINF:-1 tvg-id="Eimaxx.br" tvg-name="ESPORTE INTERATIVO SD" tvg-logo="https://i.imgur.com/lLZ0pbq.png" group-title="ESPORTES",ESPORTE INTERATIVO SD
@@ -278,7 +278,7 @@ http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3088.ts?|Us
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3285.ts?|User-Agent=ExoMedia
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&E SD h
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&E SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3291.ts?|User-Agent=ExoMedia
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME SD
@@ -299,7 +299,7 @@ http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3141.ts?|Us
 #EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="http://boxbrazil.tv.br/wp-content/uploads/2016/11/logo_music01.png" group-title="MUSICAS",MUSIC BOX BRASIL SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3138.ts?|User-Agent=ExoMedia
 
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HIts?|User-Agent=ExoMedia SD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 MEGA HIts?|User-Agent=ExoMedia SD
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HIts?|User-Agent=ExoMedia SD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 MEGA HIts SD
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3040.ts?|User-Agent=ExoMedia
 
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT SD
