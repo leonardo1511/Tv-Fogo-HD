@@ -177,6 +177,8 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/4554668681.expires==/231654679875402/1756.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="Filmes e Séries",SPACE
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/4554668681.expires==/231654679875402/1754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="Esportes",SPORTV
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/4554668681.expires==/231654679875402/1752.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" group-title="Esportes",SPORTV 2
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/4554668681.expires==/231654679875402/1751.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="Esportes",SPORTV 2 HD
