@@ -8,6 +8,9 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTO",GLOBO
 http://apk2.futeboltvgratis.com:8081/live/17/chunks.m3u8?TvFogoHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTO",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w550411023.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTO",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?TvFogoHD
