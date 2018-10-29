@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white][/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Menu-Tv</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/tZ4Cybh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Menu-Filmes</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/vA3OJ79.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/yRfOGcs.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/5dBCyGj.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenho</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
@@ -43,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Desenhos Tokusatsu {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Desenhos Tokusatsu [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>http://1.bp.blogspot.com/-nSVgy2wXPBE/Viumj7YeV9I/AAAAAAAABb4/8EdonR2jLQI/s1600/tokusatsu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tokusatsu/master/Menu-Tokusatsu</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
@@ -51,7 +51,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Power Rangers {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Power Rangers [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/wu1VrFv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/moraes84/Tv-Fogo-HD/master/.gitignore/Menu-Power-Rangers</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
@@ -59,7 +59,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Novelas {Tv Fogo HD}[/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Novelas [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://blogsolteioverbo.files.wordpress.com/2012/04/novelas.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Menu-Novelas</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
