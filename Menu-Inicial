@@ -4,7 +4,7 @@
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white][/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Menu-Tv</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
 <info>TV FOGO HD</info>
@@ -12,31 +12,31 @@
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES {Tv Fogo HD}[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/aX1QzJv.png</thumbnail>
+<thumbnail>https://i.imgur.com/tZ4Cybh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Menu-Filmes</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
 <info>TV FOGO HD</info>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Series {Tv Fogo HD}[/B][/COLOR]</name>
-<thumbnail>https://goo.gl/DQ68E1</thumbnail>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES {Tv Fogo HD}[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/vA3OJ79.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
 <info>TV FOGO HD</info>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Animes {Tv Fogo HD}[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/e58x2cG.jpg</thumbnail>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES {Tv Fogo HD}[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/yRfOGcs.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
 <info>TV FOGO HD</info>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Desenhos {Tv Fogo HD}[/B][/COLOR]</name>
-<thumbnail>https://goo.gl/5P5Uzb</thumbnail>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS {Tv Fogo HD}[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/5dBCyGj.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenho</externallink>
 <fanart>https://i.imgur.com/DyeVmAW.jpg</fanart>
 <info>TV FOGO HD</info>
