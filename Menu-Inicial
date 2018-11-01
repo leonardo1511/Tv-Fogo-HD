@@ -43,22 +43,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Desenhos Tokusatsu [Tv Fogo HD][/B][/COLOR]</name>
-<thumbnail>http://1.bp.blogspot.com/-nSVgy2wXPBE/Viumj7YeV9I/AAAAAAAABb4/8EdonR2jLQI/s1600/tokusatsu.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tokusatsu/master/Menu-Tokusatsu</externallink>
-<fanart>https://i.imgur.com/yrjOCDA.jpg</fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Power Rangers [Tv Fogo HD][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/wu1VrFv.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/moraes84/Tv-Fogo-HD/master/.gitignore/Menu-Power-Rangers</externallink>
-<fanart>https://i.imgur.com/yrjOCDA.jpg</fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS [Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/XdhN00y.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Menu-Novelas</externallink>
