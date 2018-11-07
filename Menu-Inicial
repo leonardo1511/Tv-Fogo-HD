@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][COLOR red][Tv Fogo HD][/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR red][Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/tZ4Cybh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Menu-Filmes</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</ fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES [Tv Fogo HD][/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR red][Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/vA3OJ79.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES [Tv Fogo HD][/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR] [COLOR red][Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/yRfOGcs.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS [Tv Fogo HD][/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR red][Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/5dBCyGj.png</thumbnail>
 <externallink>https://pastebin.com/raw/MNbEDxzV</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
@@ -43,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS [Tv Fogo HD][/B][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR] [COLOR red][Tv Fogo HD][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/XdhN00y.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Menu-Novelas</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
