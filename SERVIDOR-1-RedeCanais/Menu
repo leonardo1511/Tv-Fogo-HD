@@ -7,6 +7,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
@@ -14,13 +15,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/HD3</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
@@ -28,17 +23,11 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/OPCAO-2-SD</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 3[/COLOR] [COLOR gold]SD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/SD3</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
