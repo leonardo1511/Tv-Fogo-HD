@@ -613,6 +613,18 @@
 </item>
 
 <item>
+<title>[COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR]</title>
+<link>https://ll4.azureedge.net//hls1/viva-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://ler9.files.wordpress.com/2012/03/canal_viva_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/tlc-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/qrOmPHN.png</thumbnail>
