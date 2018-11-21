@@ -614,7 +614,7 @@
 
 <item>
 <title>[COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR]</title>
-<link>https://ll4.azureedge.net//hls1/viva.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<link>https://ll4.azureedge.net//hls1/viva-sd.m3u8?token=e2e08b22e0aa2fbcf39274322a6c8605</link>
 <thumbnail>https://ler9.files.wordpress.com/2012/03/canal_viva_logo.png</thumbnail>
 </item>
 
