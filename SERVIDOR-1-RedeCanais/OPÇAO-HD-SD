@@ -1,0 +1,640 @@
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/LwtXftR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]BANDNORDESTEHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND SP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]BandSP$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]GloboNordeste$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]GloboSP$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo_sp.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]GloboRJ$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SBT NORDESTE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]SBTNORDESTE$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SBT SP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]SBTSP$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TV GAZETA SP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]TVGAZETA$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/KejL8N6.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]AnimalPlanetHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]DiscoveryChannelHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]HistoryHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]H2HD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]NationalGeographicHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]NatGeoWildHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]BandSports$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]Combate$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]DiscoveryTurboHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]ESPN$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]ESPNBrasil$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]EsporteInterativo$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]EsporteInterativo2$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]FoxSports$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]FoxSports2$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]SporTV$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]SporTV2$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]SporTV3$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES - SÉRIES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]AMCHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]AXNHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]CINEMAXHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]Fox$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]FOXPREMIUM1HD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]FOXPREMIUM2HD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]FXHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]HBOHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]HBOFamilyHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]HBOPlusHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]HBOSignatureHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]SonyHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]SpaceHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/space.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]SYFY$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]TelecineActionHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]TelecineCultHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]TelecinePipoca$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]TelecinePremium$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]TNTHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]TNTSERIESHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]CARTOONNETWORKHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]Boomerang[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]BoomerangHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]DisneyXDHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]NicklodeonHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]TooncastHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS - VARIEDADES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]COMEDYCENTRALHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]DiscoveryH&H$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]FOXLIFEHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]GNTHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]MTVClipesHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]VivaHD$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/qrOmPHN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]BandNews$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]GloboNews$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]RecordNews$doregex[BP2]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).get3</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[BPN]")</expres><page></page></regex>
+<regex><name>BPN</name><expres>(.*?).dec3</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png</thumbnail>
