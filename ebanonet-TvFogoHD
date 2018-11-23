@@ -1,98 +1,104 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 10" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/a-fazenda-10-1140x641-696x391.jpg" group-title="CANAIS ENTRETENIMENTO",A Fazenda 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13130.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13130.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 10 HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/a-fazenda-10-1140x641-696x391.jpg" group-title="CANAIS ENTRETENIMENTO",A Fazenda 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13129.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13129.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 10 FHD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/a-fazenda-10-1140x641-696x391.jpg" group-title="CANAIS ENTRETENIMENTO",A Fazenda 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13131.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13131.ts
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CULTURA",Arte 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7904.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7904.ts
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS SERVIDOR 2",ARTE 1 HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11308.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11308.ts
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CULTURA",Arte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/10235.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/10235.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4404.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4404.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS SERVIDOR 2",A&E SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11316.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11316.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/8139.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/8139.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS SERVIDOR 2",A&E HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11314.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11314.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/9344.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/9344.ts
 #EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1000px-Arirang.svg_.png" group-title="CANAIS ENTRETENIMENTO",Arirang TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4407.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4407.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7448.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7448.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS SERVIDOR 2",AMC SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11312.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11312.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7691.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7691.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS SERVIDOR 2",AMC HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11080.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11080.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/9343.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/9343.ts
 #EXTINF:-1 tvg-id="JAZEERA2" tvg-name="AlJazeera HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",AlJazeera HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7550.ts&name=TvFogoHD
-#EXTINF:-1 tvg-id="" tvg-name="All Sport" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports&name=TvFogoHD.png" group-title="CANAIS DE ESPORTES",All Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6812.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7550.ts
+#EXTINF:-1 tvg-id="" tvg-name="All Sport" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports.png" group-title="CANAIS DE ESPORTES",All Sport
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sportv" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS DE ESPORTES",Sportv
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportv" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV2.jpg" group-title="CANAIS DE ESPORTES",Sportv 2
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportv" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/SporTV3.jpg" group-title="CANAIS DE ESPORTES",Sportv 3
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4325.m3u8
 #EXTINF:-1 tvg-id="Agro Canal" tvg-name="Agro Canal" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png" group-title="CANAIS ABERTO",Agro Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/5983.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/5983.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CULTURA",Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4403.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4403.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS SERVIDOR 2",ANIMAL PLANET SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11310.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11310.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CULTURA",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6142.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6142.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS SERVIDOR 2",Animal Planet HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11079.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11079.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CULTURA",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11536.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11536.ts
 #EXTINF:-1 tvg-id="TV Aparecida" tvg-name="Tv Aparecida" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_rede_aparecida_comunicacao.png" group-title="CANAIS RELIGIOSOS",Tv Aparecida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4438.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4438.ts
 #EXTINF:-1 tvg-id="TV Aparecida" tvg-name="Tv Aparecida SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_rede_aparecida_comunicacao.png" group-title="CANAIS SERVIDOR 2",Tv Aparecida SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11172.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11172.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4402.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4402.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS SERVIDOR 2",AXN SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11306.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11306.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6140.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6140.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS SERVIDOR 2",AXN HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11078.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11078.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13212.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13212.ts
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4401.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4401.ts
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS SERVIDOR 2",BABY TV SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11305.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11305.ts
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",Band
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4400.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4400.ts
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS SERVIDOR 2",BAND SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11302.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11302.ts
 #EXTINF:-1 tvg-id="Band" tvg-name="Band HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",Band HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6882.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6882.ts
 #EXTINF:-1 tvg-id="Band" tvg-name="Band HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS SERVIDOR 2",Band HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11077.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11077.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band Nordeste FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",Band Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11573.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11573.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND Paraiba FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND Paraiba FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13191.ts&name=TvFogoHD
-#EXTINF:-1 tvg-id="BandSports&name=TvFogoHD" tvg-name="Band Sports&name=TvFogoHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports&name=TvFogoHD-HD_Logotipo-1.png" group-title="CANAIS DE ESPORTES",Band Sports&name=TvFogoHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4398.ts&name=TvFogoHD
-#EXTINF:-1 tvg-id="BandSports&name=TvFogoHD" tvg-name="BAND SPORts&name=TvFogoHD SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports&name=TvFogoHD-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORts&name=TvFogoHD SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11297.ts&name=TvFogoHD
-#EXTINF:-1 tvg-id="BandSports&name=TvFogoHD" tvg-name="Band Sports&name=TvFogoHD HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports&name=TvFogoHD-HD_Logotipo.png" group-title="CANAIS DE ESPORTES",Band Sports&name=TvFogoHD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6138.ts&name=TvFogoHD
-#EXTINF:-1 tvg-id="BandSports&name=TvFogoHD" tvg-name="BAND SPORts&name=TvFogoHD HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports&name=TvFogoHD-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORts&name=TvFogoHD HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11294.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13191.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png" group-title="CANAIS DE ESPORTES",Band Sports
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4398.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORTS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11297.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS DE ESPORTES",Band Sports HD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6138.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORTS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11294.ts
 #EXTINF:-1 tvg-id="BandNews" tvg-name="Band News" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="NOTICIAS",Band News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4399.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4399.ts
 #EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS SERVIDOR 2",BAND NEWS SD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11301.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11301.ts
 #EXTINF:-1 tvg-id="BandNews" tvg-name="Band News HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="NOTICIAS",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/10296.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/10296.ts
 #EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS SERVIDOR 2",BAND NEWS HD [Alternativo]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11299.ts&name=TvFogoHD
+http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11299.ts
 #EXTINF:-1 tvg-id="BandNews" tvg-name="Band News FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_
