@@ -35,7 +35,7 @@ http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11080.m3u8
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/9343.m3u8
 #EXTINF:-1 tvg-id="JAZEERA2" tvg-name="AlJazeera HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",AlJazeera HD
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/7550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="All Sport" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sporm3u8.png" group-title="CANAIS DE ESPORTES",All Sport
+#EXTINF:-1 tvg-id="" tvg-name="All Sport" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sport.png" group-title="CANAIS DE ESPORTES",All Sport
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6812.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sportv" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="CANAIS DE ESPORTES",Sportv
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4327.m3u8
@@ -85,13 +85,13 @@ http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11077.m3u8
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND Paraiba FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND Paraiba FHD
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/13191.m3u8
-#EXTINF:-1 tvg-id="BandSporm3u8" tvg-name="Band Sport" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSporm3u8-HD_Logotipo-1.png" group-title="CANAIS DE ESPORTES",Band Sport
+#EXTINF:-1 tvg-id="BandSport" tvg-name="Band Sport" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSport-HD_Logotipo-1.png" group-title="CANAIS DE ESPORTES",Band Sport
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4398.m3u8
-#EXTINF:-1 tvg-id="BandSporm3u8" tvg-name="BAND SPORT SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSporm3u8-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORm3u8 SD [Alternativo]
+#EXTINF:-1 tvg-id="BandSport" tvg-name="BAND SPORT SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSport-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORT SD [Alternativo]
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11297.m3u8
-#EXTINF:-1 tvg-id="BandSporm3u8" tvg-name="Band Sport HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSporm3u8-HD_Logotipo.png" group-title="CANAIS DE ESPORTES",Band Sporm3u8 HD
+#EXTINF:-1 tvg-id="BandSport" tvg-name="Band Sport HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSport-HD_Logotipo.png" group-title="CANAIS DE ESPORTES",Band Sport HD
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/6138.m3u8
-#EXTINF:-1 tvg-id="BandSporm3u8" tvg-name="BAND SPORm3u8 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSporm3u8-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORm3u8 HD [Alternativo]
+#EXTINF:-1 tvg-id="BandSport" tvg-name="BAND SPORT HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSport-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORT HD [Alternativo]
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/11294.m3u8
 #EXTINF:-1 tvg-id="BandNews" tvg-name="Band News" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="NOTICIAS",Band News
 http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/4399.m3u8
