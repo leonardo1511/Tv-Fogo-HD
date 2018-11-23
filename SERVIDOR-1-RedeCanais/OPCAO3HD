@@ -465,7 +465,7 @@
  
 <item>
 <title>TELECINE ACTION</title>
-<link>http://185.132.177.86:25461/live/Fabric10/1050hrgb/8141.m3u8</link>
+<link>http://185.132.177.86:25461/live/Fabric10/1050hrgb/8141.m3u8?</link>
 <thumbnail>https://i.imgur.com/s1DY4wU.jpg</thumbnail>
 <fanart>https://i.imgur.com/s1DY4wU.jpg</fanart>
 <info></info>
@@ -497,7 +497,7 @@
 
 <item>
 <title>MAX</title>
-<link>https://canal2.cometa.top/hls1/max.m3u8|Referer=http://www.redemice.me/contador.php</link>
+<link>http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/10266.m3u8</link>
 <thumbnail>https://i.imgur.com/JxGYkQ6.jpg</thumbnail>
 <fanart>https://i.imgur.com/JxGYkQ6.jpg</fanart>
 <info></info>
@@ -505,7 +505,7 @@
  
 <item>
 <title>MAX UP</title>
-<link>https://canal2.cometa.top/hls1/maxup.m3u8|Referer=http://www.redemice.me/contador.php</link>
+<link>http://painel.ebanonet.com.br:25461/live/Fabric10/1050hrgb/10265.m3u8</link>
 <thumbnail>https://i.imgur.com/2yDpA0K.jpg</thumbnail>
 <fanart>https://i.imgur.com/2yDpA0K.jpg</fanart>
 <info></info>
@@ -513,7 +513,7 @@
  
 <item>
 <title>MAXPRIME</title>
-<link>https://canal2.cometa.top/hls1/maxprime.m3u8|Referer=http://www.redemice.me/contador.php</link>
+<link>http://142.44.139.236:25461/live/Fabric10/1050hrgb/13201.m3u8?</link>
 <thumbnail>https://i.imgur.com/wbIJKTR.jpg</thumbnail>
 <fanart>https://i.imgur.com/wbIJKTR.jpg</fanart>
 <info></info>
