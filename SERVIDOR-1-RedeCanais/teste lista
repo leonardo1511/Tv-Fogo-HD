@@ -1,0 +1,779 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/A_Fazenda_4.jpg/250px-A_Fazenda_4.jpg" group-title="Canais Abertos",A Fazenda HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/14477.ts
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="https://iptvwebcsgo.com/logos/a&e.png" group-title="Canais Séries",A&E
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9906.ts
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/a&ehd.png" group-title="Canais Séries",A&E HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12562.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://iptvwebcsgo.com/logos/amc.png" group-title="Filmes",AMC
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9904.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FullHD" tvg-logo="https://iptvwebcsgo.com/logos/amcfhd.png" group-title="Filmes",AMC FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9901.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://iptvwebcsgo.com/logos/amchd.png" group-title="Filmes",AMC HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9902.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/amchd.png" group-title="Filmes",AMC HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12561.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://iptvwebcsgo.com/logos/animalplanet.png" group-title="Documentarios",Animal Planet
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9900.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD.Alternativo" tvg-logo="https://iptvwebcsgo.com/logos/investigationfhd.png" group-title="Documentarios",Animal Planet HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12560.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="https://iptvwebcsgo.com/logos/arte1.png" group-title="Variedades",Arte 1
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD.Alternativo" tvg-logo="https://iptvwebcsgo.com/logos/arte1.png" group-title="Entretenimento",Arte 1 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12559.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://iptvwebcsgo.com/logos/axn.png" group-title="Canais Séries",AXN
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9897.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FullHD" tvg-logo="https://iptvwebcsgo.com/logos/axnfhd.png" group-title="Canais Séries",AXN FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9894.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://iptvwebcsgo.com/logos/axnhd.png" group-title="Canais Séries",AXN HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9895.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/axnhd.png" group-title="Canais Séries",AXN HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12558.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/babytvhd.png" group-title="Infantis",Baby HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12556.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://iptvwebcsgo.com/logos/babytv.png" group-title="Infantis",Baby TV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9890.ts
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/bandhd.png" group-title="Canais Abertos",BAND HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12557.ts
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://iptvwebcsgo.com/logos/bandnews.png" group-title="Canais Abertos",Band News
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9888.ts
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News FullHD" tvg-logo="https://iptvwebcsgo.com/logos/bandnewsfhd.png" group-title="Canais Abertos",Band News FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9880.ts
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News HD" tvg-logo="https://iptvwebcsgo.com/logos/bandnewshd.png" group-title="Canais Abertos",Band News HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9881.ts
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band TV" tvg-logo="https://iptvwebcsgo.com/logos/band.png" group-title="Canais Abertos",Band TV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9892.ts
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band TV HD Campinas" tvg-logo="https://iptvwebcsgo.com/logos/bandhd.png" group-title="Canais Abertos",Band TV HD Campinas
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/11669.ts
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BandSports" tvg-logo="https://iptvwebcsgo.com/logos/bandsports.png" group-title="Esportes",BandSports
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9885.ts
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BandSports FullHD" tvg-logo="https://iptvwebcsgo.com/logos/bandsportsfhd.png" group-title="Esportes",BandSports FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9883.ts
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BandSports HD" tvg-logo="https://iptvwebcsgo.com/logos/bandsportshd.png" group-title="Esportes",BandSports HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9884.ts
+#EXTINF:-1 tvg-id="" tvg-name="BandSports HD.Alternativo" tvg-logo="https://iptvwebcsgo.com/logos/bandsportshd.png" group-title="Esportes",BandSports HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12554.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://iptvwebcsgo.com/logos/bis.png" group-title="Entretenimento",BIS
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9887.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FullHD" tvg-logo="https://iptvwebcsgo.com/logos/bisfhd.png" group-title="Entretenimento",BIS FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10388.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://iptvwebcsgo.com/logos/bishd.png" group-title="Entretenimento",BIS HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10420.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/bishd.png" group-title="Entretenimento",BIS HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12555.ts
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-logo="https://iptvwebcsgo.com/logos/boavontadetv.png" group-title="Canais Abertos",Boa Vontade TV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9879.ts
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Boomerang" tvg-logo="https://iptvwebcsgo.com/logos/boomerang.png" group-title="Infantis",Boomerang
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9878.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://iptvwebcsgo.com/logos/canalbrasil.png" group-title="Filmes",Canal Brasil
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9869.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD.Alternativo" tvg-logo="https://iptvwebcsgo.com/logos/canalbrasilhd.png" group-title="Canais Abertos",Canal Brasil HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12553.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://iptvwebcsgo.com/logos/canalrural.png" group-title="Canais Abertos",Canal Rural
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9868.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Cancao Nova" tvg-logo="https://iptvwebcsgo.com/logos/tvcancaonova.png" group-title="Canais Abertos",Cancao Nova
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9877.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://iptvwebcsgo.com/logos/cartoonnetwork.png" group-title="Infantis",Cartoon Network
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9876.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FullHD" tvg-logo="https://iptvwebcsgo.com/logos/cartoonnetworkhd.png" group-title="Infantis",Cartoon Network FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9873.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://iptvwebcsgo.com/logos/cartoonnetworkhd.png" group-title="Infantis",Cartoon Network HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves HD" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/chaves.png" group-title="Especiais-Series",Chaves HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12462.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://iptvwebcsgo.com/logos/cinemax.png" group-title="Canais HBO",Cinemax
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9866.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FullHD" tvg-logo="http://iptvwebcsgo.com/logos/cinemaxfhd.png" group-title="Canais HBO",Cinemax FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9863.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://iptvwebcsgo.com/logos/cinemaxhd.png" group-title="Canais HBO",Cinemax HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9865.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/cinemaxhd.png" group-title="Canais HBO",Cinemax HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12552.ts
+#EXTINF:-1 tvg-id="CNT SP" tvg-name="CNT" tvg-logo="https://iptvwebcsgo.com/logos/cnt.png" group-title="Canais Abertos",CNT
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9872.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://iptvwebcsgo.com/logos/combate.png" group-title="Canais Premiere",Combate
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9862.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FullHD" tvg-logo="https://iptvwebcsgo.com/logos/combatefhd.png" group-title="Canais Premiere",Combate FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9859.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://iptvwebcsgo.com/logos/combatehd.png" group-title="Canais Premiere",Combate HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/combatehd.png" group-title="Canais Premiere",Combate HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12551.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://iptvwebcsgo.com/logos/comedycentral.png" group-title="Canais Séries",Comedy Central
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/comedycentralhd.png" group-title="Canais Séries",Comedy Central HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12550.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Curta!" tvg-logo="https://iptvwebcsgo.com/logos/curta.png" group-title="Variedades",Curta!
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9856.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://iptvwebcsgo.com/logos/discoverychannel.png" group-title="Documentarios",Discovery Channel
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9855.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FullHD" tvg-logo="https://iptvwebcsgo.com/logos/discoverychannelfhd.png" group-title="Documentarios",Discovery Channel FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9852.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="https://iptvwebcsgo.com/logos/discoverychannelhd.png" group-title="Documentarios",Discovery Channel HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9854.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/discoverychannelhd.png" group-title="Documentarios",Discovery Channel HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12549.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization FullHD" tvg-logo="https://iptvwebcsgo.com/logos/discoverycivilizationfhd.png" group-title="Documentarios",Discovery Civilization FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9849.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="https://iptvwebcsgo.com/logos/discoverycivilizationhd.png" group-title="Documentarios",Discovery Civilization HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD.Alternativo" tvg-logo="" group-title="Documentarios",Discovery Civilization HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12548.ts
+#EXTINF:-1 tvg-id="Discovery HeH" tvg-name="Discovery H&H" tvg-logo="https://iptvwebcsgo.com/logos/discoveryhomeandhealth.png" group-title="Variedades",Discovery H&H
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9844.ts
+#EXTINF:-1 tvg-id="Discovery HeH" tvg-name="Discovery H&H HD.Alternativo" tvg-logo="" group-title="Variedades",Discovery H&H HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12546.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://iptvwebcsgo.com/logos/discoverykids.png" group-title="Infantis",Discovery Kids
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9848.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FullHD" tvg-logo="https://iptvwebcsgo.com/logos/discoverykidshd.png" group-title="Infantis",Discovery Kids FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9845.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="https://iptvwebcsgo.com/logos/discoverykidshd.png" group-title="Infantis",Discovery Kids HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD.Alternativo" tvg-logo="https://iptvwebcsgo.com/logos/discoverycivilizationhd.png" group-title="Infantis",Discovery Kids HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12547.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FullHD" tvg-logo="https://iptvwebcsgo.com/logos/discoverysciencefhd.png" group-title="Documentarios",Discovery Science FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9840.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="https://iptvwebcsgo.com/logos/discoverysciencehd.png" group-title="Documentarios",Discovery Science HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/discoverysciencehd.png" group-title="Documentarios",Discovery Science HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12545.ts
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater FullHD" tvg-logo="https://iptvwebcsgo.com/logos/discoverytheaterfhd.png" group-title="Documentarios",Discovery Theater FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9834.ts
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="https://iptvwebcsgo.com/logos/discoverytheaterhd.png" group-title="Documentarios",Discovery Theater HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/discoverytheaterhd.png" group-title="Documentarios",Discovery Theater HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12543.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://iptvwebcsgo.com/logos/discoveryturbo.png" group-title="Documentarios",Discovery Turbo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9839.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FullHD" tvg-logo="https://iptvwebcsgo.com/logos/discoveryturbofhd.png" group-title="Documentarios",Discovery Turbo FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9833.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://iptvwebcsgo.com/logos/discoveryturbohd.png" group-title="Documentarios",Discovery Turbo HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/discoveryturbohd.png" group-title="Documentarios",Discovery Turbo HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12544.ts
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World FullHD" tvg-logo="https://iptvwebcsgo.com/logos/discoveryworldfhd.png" group-title="Documentarios",Discovery World FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9830.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery World HD" tvg-logo="https://iptvwebcsgo.com/logos/discoveryworldhd.png" group-title="Documentarios",Discovery World HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9832.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD.Alternativo" tvg-logo="" group-title="Documentarios",Discovery World HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12542.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://iptvwebcsgo.com/logos/disney.png" group-title="Infantis",Disney Channel
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9829.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FullHD" tvg-logo="https://iptvwebcsgo.com/logos/disneyfhd.png" group-title="Infantis",Disney Channel FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9826.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Disney Channel HD" tvg-logo="https://iptvwebcsgo.com/logos/disneyhd.png" group-title="Infantis",Disney Channel HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD.Alternativo" tvg-logo="" group-title="Documentarios",Disney Channel HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12541.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr." tvg-logo="https://iptvwebcsgo.com/logos/disneyjunior.png" group-title="Infantis",Disney Jr.
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9825.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr. FullHD" tvg-logo="https://iptvwebcsgo.com/logos/disneyjuniorfhd.png" group-title="Infantis",Disney Jr. FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9823.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr. HD" tvg-logo="https://iptvwebcsgo.com/logos/disneyjuniorhd.png" group-title="Infantis",Disney Jr. HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9824.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://iptvwebcsgo.com/logos/disneyxd.png" group-title="Infantis",Disney XD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9822.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD HD" tvg-logo="https://iptvwebcsgo.com/logos/disneyxdhd.png" group-title="Infantis",Disney XD HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/11670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD.Alternativo" tvg-logo="" group-title="Infantis",Disney XD HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12540.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://iptvwebcsgo.com/logos/Echannel.png" group-title="Variedades",E!
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9807.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://iptvwebcsgo.com/logos/Echannelhd.png" group-title="Variedades",E! HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9808.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD.Alternativo" tvg-logo="" group-title="Filmes",E! HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12536.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Ei Maxx 2 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/eimaxx2fhd.png" group-title="Esportes",Ei Maxx 2 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10387.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Ei Maxx 2 HD" tvg-logo="https://iptvwebcsgo.com/logos/eimaxx2hd.png" group-title="Esportes",Ei Maxx 2 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10419.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/eimaxx2hd.png" group-title="Esportes",EI Maxx 2 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12538.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/eimaxxhd.png" group-title="Esportes",EI Maxx HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12539.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn" tvg-logo="https://iptvwebcsgo.com/logos/espn.png" group-title="Esportes",Espn
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9813.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil" tvg-logo="https://iptvwebcsgo.com/logos/espnbrasil.png" group-title="Esportes",Espn Brasil
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9815.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Brasil FullHD" tvg-logo="https://iptvwebcsgo.com/logos/espnbrasilfhd.png" group-title="Esportes",Espn Brasil FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10386.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Brasil HD" tvg-logo="https://iptvwebcsgo.com/logos/espnbrasilhd.png" group-title="Esportes",Espn Brasil HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10418.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/espnbrasilhd.png" group-title="Esportes",ESPN Brasil HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12537.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn FullHD" tvg-logo="https://iptvwebcsgo.com/logos/espnfhd.png" group-title="Esportes",Espn FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9811.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="https://iptvwebcsgo.com/logos/espnhd.png" group-title="Esportes",Espn HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9812.ts
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="Espn+ FullHD" tvg-logo="https://iptvwebcsgo.com/logos/espnmaisbfhd.png" group-title="Esportes",Espn+ FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9816.ts
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="Espn+ HD" tvg-logo="https://iptvwebcsgo.com/logos/espnmaisbhd.png" group-title="Esportes",Espn+ HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9818.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FishTV" tvg-logo="https://iptvwebcsgo.com/logos/fishtv.png" group-title="Variedades",FishTV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9802.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://iptvwebcsgo.com/logos/foodnetwork.png" group-title="Variedades",Food Network
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9785.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FullHD" tvg-logo="https://iptvwebcsgo.com/logos/foodnetworkfhd.png" group-title="Variedades",Food Network FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10385.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network HD" tvg-logo="https://iptvwebcsgo.com/logos/foodnetworkhd.png" group-title="Variedades",Food Network HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10417.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD.Alternativo" tvg-logo="" group-title="Variedades",Food Network HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12528.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox" tvg-logo="https://iptvwebcsgo.com/logos/fox.png" group-title="Canais Séries",Fox
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9789.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox FullHD" tvg-logo="https://iptvwebcsgo.com/logos/foxfhd.png" group-title="Canais Séries",Fox FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9786.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox HD" tvg-logo="https://iptvwebcsgo.com/logos/fox.png" group-title="Canais Séries",Fox HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD.Alternativo" tvg-logo="" group-title="Filmes",Fox HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12529.ts
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="Fox Life" tvg-logo="https://iptvwebcsgo.com/logos/foxlife.png" group-title="Variedades",Fox Life
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9791.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD.Alternativo" tvg-logo="" group-title="Variedades",Fox Life HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/foxpremium1.png" group-title="Canais Séries",Fox Premium 1 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/foxpremium2.png" group-title="Canais Séries",Fox Premium 2 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12532.ts
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="Fox Sports" tvg-logo="https://iptvwebcsgo.com/logos/foxsports.png" group-title="Esportes",Fox Sports
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9801.ts
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2" tvg-logo="https://iptvwebcsgo.com/logos/foxsports2.png" group-title="Esportes",Fox Sports 2
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9797.ts
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/foxsports2hd.png" group-title="Esportes",Fox Sports 2 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9794.ts
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="https://iptvwebcsgo.com/logos/foxsports2hd.png" group-title="Esportes",Fox Sports 2 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/foxsports2hd.png" group-title="Esportes",Fox Sports 2 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12533.ts
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="Fox Sports FullHD" tvg-logo="https://iptvwebcsgo.com/logos/foxsportshd.png" group-title="Esportes",Fox Sports FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9798.ts
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="Fox Sports HD" tvg-logo="https://iptvwebcsgo.com/logos/foxsportshd.png" group-title="Esportes",Fox Sports HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD.Alternativo" tvg-logo="" group-title="Esportes",Fox Sports HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12534.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://iptvwebcsgo.com/logos/futura.png" group-title="Canais Abertos",Futura
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9783.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://iptvwebcsgo.com/logos/fx.png" group-title="Canais Séries",FX
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9806.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FullHD" tvg-logo="https://iptvwebcsgo.com/logos/fxfhd.png" group-title="Canais Séries",FX FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9803.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="https://iptvwebcsgo.com/logos/fxhd.png" group-title="Canais Séries",FX HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9805.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD.Alternativo" tvg-logo="" group-title="Filmes",FX HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12535.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo Brasilia" tvg-logo="https://iptvwebcsgo.com/logos/globodf.png" group-title="Canais Abertos",Globo Brasilia
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9776.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD.Alternativo" tvg-logo="" group-title="Canais Abertos",Globo Brasilia HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12525.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo EPTV Campinas" tvg-logo="https://iptvwebcsgo.com/logos/eptvcp.png" group-title="Canais Abertos",Globo EPTV Campinas
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9774.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo EPTV Ribeirao Preto" tvg-logo="https://iptvwebcsgo.com/logos/eptvrp.png" group-title="Canais Abertos",Globo EPTV Ribeirao Preto
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/eptv.png" group-title="Canais Abertos",Globo EPTV Ribeirao Preto HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12524.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo EPTV Sao Carlos" tvg-logo="https://iptvwebcsgo.com/logos/eptv.png" group-title="Canais Abertos",Globo EPTV Sao Carlos
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9773.ts
+#EXTINF:-1 tvg-id="Rede Globo HD SP" tvg-name="Globo ES" tvg-logo="https://iptvwebcsgo.com/logos/globoes.png" group-title="Canais Abertos",Globo ES
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/6693.ts
+#EXTINF:-1 tvg-id="Rede Globo HD SP" tvg-name="Globo ES HD" tvg-logo="https://iptvwebcsgo.com/logos/globoes.png" group-title="Canais Abertos",Globo ES HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9539.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo Inter TV Cabugi" tvg-logo="https://iptvwebcsgo.com/logos/intertv.png" group-title="Canais Abertos",Globo Inter TV Cabugi
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9770.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo Minas" tvg-logo="https://iptvwebcsgo.com/logos/globobh.png" group-title="Canais Abertos",Globo Minas
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/globobh.png" group-title="Canais Abertos",Globo Minas HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12523.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo NE" tvg-logo="https://iptvwebcsgo.com/logos/globone.png" group-title="Canais Abertos",Globo NE
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9766.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://iptvwebcsgo.com/logos/globonews.png" group-title="Canais Globosat",Globo News
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/globonewshd.png" group-title="Canais Globosat",Globo News HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD.Alternativo" tvg-logo="" group-title="Canais Abertos",Globo Nordeste HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12522.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo RBS RS" tvg-logo="https://iptvwebcsgo.com/logos/rbs.png" group-title="Canais Abertos",Globo RBS RS
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9760.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo Rede Amazonica Manaus" tvg-logo="https://iptvwebcsgo.com/logos/redeamazonica.png" group-title="Canais Abertos",Globo Rede Amazonica Manaus
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9751.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo RJ" tvg-logo="https://iptvwebcsgo.com/logos/globorj.png" group-title="Canais Abertos",Globo RJ
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9762.ts
+#EXTINF:-1 tvg-id="Rede Globo HD SP" tvg-name="Globo RJ HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/globorj.png" group-title="Canais Abertos",Globo RJ HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12521.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo RPC Curitiba" tvg-logo="https://iptvwebcsgo.com/logos/rpc.png" group-title="Canais Abertos",Globo RPC Curitiba
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9759.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo SP" tvg-logo="https://iptvwebcsgo.com/logos/globosp.png" group-title="Canais Abertos",Globo SP
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9764.ts
+#EXTINF:-1 tvg-id="Rede Globo HD SP" tvg-name="Globo SP FullHD" tvg-logo="http://iptvwebcsgo.com/logos/globosp.png" group-title="Canais Abertos",Globo SP FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12563.ts
+#EXTINF:-1 tvg-id="Rede Globo HD SP" tvg-name="Globo SP HD" tvg-logo="http://iptvwebcsgo.com/logos/globosp.png" group-title="Canais Abertos",Globo SP HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12564.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/globosp.png" group-title="Canais Abertos",Globo SP HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/11568.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Anhanguera Goiania" tvg-logo="https://iptvwebcsgo.com/logos/tvanhanguera.png" group-title="Canais Abertos",Globo TV Anhanguera Goiania
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9777.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Centro America" tvg-logo="https://iptvwebcsgo.com/logos/tvcentroamerica.png" group-title="Canais Abertos",Globo TV Centro America
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9769.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Liberal Belem" tvg-logo="https://iptvwebcsgo.com/logos/tvliberal.png" group-title="Canais Abertos",Globo TV Liberal Belem
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9756.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Tem Bauru" tvg-logo="https://iptvwebcsgo.com/logos/tvtem.png" group-title="Canais Abertos",Globo TV Tem Bauru
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9758.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Tem SJRP" tvg-logo="https://iptvwebcsgo.com/logos/tvtem.png" group-title="Canais Abertos",Globo TV Tem SJRP
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9754.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Tem Sorocaba" tvg-logo="https://iptvwebcsgo.com/logos/tvtem.png" group-title="Canais Abertos",Globo TV Tem Sorocaba
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9757.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Tribuna Santos" tvg-logo="https://iptvwebcsgo.com/logos/tvtribunaglobo.png" group-title="Canais Abertos",Globo TV Tribuna Santos
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9750.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Vanguarda SJ dos Campo" tvg-logo="https://iptvwebcsgo.com/logos/tvvanguarda.png" group-title="Canais Abertos",Globo TV Vanguarda SJ dos Campo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9755.ts
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo TV Verdes Mares" tvg-logo="https://iptvwebcsgo.com/logos/tvverdesmares.png" group-title="Canais Abertos",Globo TV Verdes Mares
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9753.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://iptvwebcsgo.com/logos/gloob.png" group-title="Infantis",Gloob
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/gloobhd.png" group-title="Infantis",Gloob HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/gloobinho.png" group-title="Infantis",Gloobinho HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12519.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://iptvwebcsgo.com/logos/gnt.png" group-title="Canais Globosat",GNT
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9781.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/gnthd.png" group-title="Variedades",GNT HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12527.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://iptvwebcsgo.com/logos/h2.png" group-title="Documentarios",H2
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9748.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/h2fhd.png" group-title="Documentarios",H2 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9745.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="https://iptvwebcsgo.com/logos/h2hd.png" group-title="Documentarios",H2 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9747.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/h2hd.png" group-title="Documentarios",H2 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12518.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://iptvwebcsgo.com/logos/hbo.png" group-title="Canais HBO",HBO
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9744.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://iptvwebcsgo.com/logos/hbo2.png" group-title="Canais HBO",HBO 2
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9740.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 FullHD" tvg-logo="http://iptvwebcsgo.com/logos/hbo2fhd.png" group-title="Canais HBO",HBO 2 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9737.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="http://iptvwebcsgo.com/logos/hbo2hd.png" group-title="Canais HBO",HBO 2 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9739.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/hbo2hd.png" group-title="Canais HBO",HBO 2 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12516.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://iptvwebcsgo.com/logos/hbofamily.png" group-title="Canais HBO",HBO Family
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9736.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family FullHD" tvg-logo="http://iptvwebcsgo.com/logos/hbofamilyfhd.png" group-title="Canais HBO",HBO Family FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9733.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://iptvwebcsgo.com/logos/hbofamilyhd.png" group-title="Canais HBO",HBO Family HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9735.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/hbofamilyhd.png" group-title="Canais HBO",HBO Family HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12515.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FullHD" tvg-logo="http://iptvwebcsgo.com/logos/hbofhd.png" group-title="Canais HBO",HBO FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9741.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://iptvwebcsgo.com/logos/hbohd.png" group-title="Canais HBO",HBO HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9743.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/hbohd.png" group-title="Canais HBO",HBO HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12517.ts
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://iptvwebcsgo.com/logos/hboplus.png" group-title="Canais HBO",HBO Plus
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9732.ts
+#EXTINF:-1 tvg-id="HBO Plus *e" tvg-name="HBO Plus *e" tvg-logo="https://iptvwebcsgo.com/logos/hboplus2.png" group-title="Canais HBO",HBO Plus *e
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9728.ts
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus FullHD" tvg-logo="https://iptvwebcsgo.com/logos/hboplusfhd.png" group-title="Canais HBO",HBO Plus FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9729.ts
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="https://iptvwebcsgo.com/logos/hboplushd.png" group-title="Canais HBO",HBO Plus HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9730.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/hboplushd.png" group-title="Canais HBO",HBO Plus HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12514.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://iptvwebcsgo.com/logos/hbosignature.png" group-title="Canais HBO",HBO Signature
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9727.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FullHD" tvg-logo="https://iptvwebcsgo.com/logos/hbosignaturefhd.png" group-title="Canais HBO",HBO Signature FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9724.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="https://iptvwebcsgo.com/logos/hbosignaturehd.png" group-title="Canais HBO",HBO Signature HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9725.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/hbosignaturehd.png" group-title="Canais HBO",HBO Signature HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12513.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://iptvwebcsgo.com/logos/history.png" group-title="Documentarios",History
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9560.ts
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History FullHD" tvg-logo="https://iptvwebcsgo.com/logos/historyfhd.png" group-title="Documentarios",History FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9557.ts
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History HD" tvg-logo="https://iptvwebcsgo.com/logos/historyhd.png" group-title="Documentarios",History HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9559.ts
+#EXTINF:-1 tvg-id="" tvg-name="History HD.Alternativo" tvg-logo="" group-title="Documentarios",History HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hit TV HD.Alternativo" tvg-logo="" group-title="Entretenimento",Hit TV HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12512.ts
+#EXTINF:-1 tvg-id="iSat" tvg-name="I-Sat" tvg-logo="https://iptvwebcsgo.com/logos/isat.png" group-title="Canais Séries",I-Sat
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9719.ts
+#EXTINF:-1 tvg-id="ID: Investigacao" tvg-name="Investigacao Discovery" tvg-logo="https://iptvwebcsgo.com/logos/investigation.png" group-title="Documentarios",Investigacao Discovery
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9721.ts
+#EXTINF:-1 tvg-id="ID: Investigacao" tvg-name="Investigacao Discovery HD.Alternativo" tvg-logo="" group-title="Documentarios",Investigacao Discovery HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12511.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://iptvwebcsgo.com/logos/lifetime.png" group-title="Variedades",Lifetime
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9718.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime FullHD" tvg-logo="https://iptvwebcsgo.com/logos/lifetimefhd.png" group-title="Variedades",Lifetime FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10384.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="https://iptvwebcsgo.com/logos/lifetimehd.png" group-title="Variedades",Lifetime HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/lifetimehd.png" group-title="Variedades",Lifetime HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12510.ts
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Mais Globosat" tvg-logo="http://iptvwebcsgo.com/logos/maisglobosatb.png" group-title="Canais Globosat",Mais Globosat
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/maisglobosatbhd.png" group-title="Canais Abertos",Mais Globosat HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12509.ts
+#EXTINF:-1 tvg-id="Max" tvg-name="Max" tvg-logo="https://iptvwebcsgo.com/logos/max.png" group-title="Canais HBO",Max
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9714.ts
+#EXTINF:-1 tvg-id="Max" tvg-name="Max FullHD" tvg-logo="https://iptvwebcsgo.com/logos/maxfhd.png" group-title="Canais HBO",Max FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9711.ts
+#EXTINF:-1 tvg-id="Max" tvg-name="Max HD" tvg-logo="https://iptvwebcsgo.com/logos/maxhd.png" group-title="Canais HBO",Max HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9712.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/maxhd.png" group-title="Canais HBO",MAX HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12508.ts
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="https://iptvwebcsgo.com/logos/maxprime.png" group-title="Canais HBO",Max Prime
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9708.ts
+#EXTINF:-1 tvg-id="Max Prime *e" tvg-name="Max Prime *e" tvg-logo="https://iptvwebcsgo.com/logos/maxprime2.png" group-title="Canais HBO",Max Prime *e
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9706.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime HD.Alternativo" tvg-logo="" group-title="Filmes",MAX Prime HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12506.ts
+#EXTINF:-1 tvg-id="Max Up" tvg-name="Max UP" tvg-logo="https://iptvwebcsgo.com/logos/maxup.png" group-title="Canais HBO",Max UP
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9710.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/maxuphd.png" group-title="Canais HBO",MAX UP HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12507.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="https://iptvwebcsgo.com/logos/megapixb.png" group-title="Filmes",Megapix
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9704.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix FullHD" tvg-logo="https://iptvwebcsgo.com/logos/megapixbfhd.png" group-title="Filmes",Megapix FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9702.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="https://iptvwebcsgo.com/logos/megapixbhd.png" group-title="Filmes",Megapix HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD.Alternativo" tvg-logo="" group-title="Filmes",Megapix HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12505.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://iptvwebcsgo.com/logos/mtv.png" group-title="Entretenimento",MTV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9696.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FullHD" tvg-logo="https://iptvwebcsgo.com/logos/mtvfhd.png" group-title="Entretenimento",MTV FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10383.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="https://iptvwebcsgo.com/logos/mtvhd.png" group-title="Entretenimento",MTV HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10415.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/mtvhd.png" group-title="Entretenimento",MTV HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12503.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://iptvwebcsgo.com/logos/multishow.png" group-title="Canais Globosat",Multishow
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9700.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FullHD" tvg-logo="http://iptvwebcsgo.com/logos/multishowfhd.png" group-title="Canais Globosat",Multishow FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9697.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://iptvwebcsgo.com/logos/multishowhd.png" group-title="Canais Globosat",Multishow HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/multishowhd.png" group-title="Canais Globosat",Multishow HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12504.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil" tvg-logo="https://iptvwebcsgo.com/logos/musicboxbrazil.png" group-title="Entretenimento",Music Box Brasil
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9705.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://iptvwebcsgo.com/logos/natgeo.png" group-title="Documentarios",NatGeo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9683.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo FullHD" tvg-logo="https://iptvwebcsgo.com/logos/natgeofhd.png" group-title="Documentarios",NatGeo FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10382.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo HD" tvg-logo="https://iptvwebcsgo.com/logos/natgeohd.png" group-title="Documentarios",NatGeo HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10414.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/natgeohd.png" group-title="Documentarios",Natgeo HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12498.ts
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NatGeo Kids" tvg-logo="https://iptvwebcsgo.com/logos/natgeokids.png" group-title="Infantis",NatGeo Kids
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9694.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD.Alternativo" tvg-logo="" group-title="Infantis",NatGeo Kids HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12500.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://iptvwebcsgo.com/logos/natgeowild.png" group-title="Documentarios",NatGeo Wild
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9693.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild FullHD" tvg-logo="https://iptvwebcsgo.com/logos/natgeowildfhd.png" group-title="Documentarios",NatGeo Wild FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9690.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD" tvg-logo="https://iptvwebcsgo.com/logos/natgeowildhd.png" group-title="Documentarios",NatGeo Wild HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/natgeowildhd.png" group-title="Documentarios",Natgeo Wild HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12502.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="https://iptvwebcsgo.com/logos/nbr.png" group-title="Canais Abertos",NBR
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9681.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nick" tvg-logo="https://iptvwebcsgo.com/logos/nick.png" group-title="Infantis",Nick
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9688.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nick FullHD" tvg-logo="https://iptvwebcsgo.com/logos/nickfhd.png" group-title="Infantis",Nick FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10381.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nick HD" tvg-logo="https://iptvwebcsgo.com/logos/nickhd.png" group-title="Infantis",Nick HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10413.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/nickhd.png" group-title="Infantis",Nick HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR HD.Alternativo" tvg-logo="" group-title="Infantis",Nick JR HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12499.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://iptvwebcsgo.com/logos/nickjr.png" group-title="Infantis",Nick Jr.
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9689.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Off" tvg-logo="http://iptvwebcsgo.com/logos/canaloffb.png" group-title="Canais Globosat",Off
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9679.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/canaloffbhd.png" group-title="Canais Globosat",OFF HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12497.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="https://iptvwebcsgo.com/logos/paramount.png" group-title="Filmes",Paramount
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9677.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FullHD" tvg-logo="https://iptvwebcsgo.com/logos/paramountfhd.png" group-title="Filmes",Paramount Channel FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10380.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://iptvwebcsgo.com/logos/paramounthd.png" group-title="Filmes",Paramount Channel HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10412.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/paramounthd.png" group-title="Filmes",Paramount HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12496.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PFC 1" tvg-logo="https://iptvwebcsgo.com/logos/pfc.png" group-title="Canais Premiere",PFC 1
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9654.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PFC 1 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/pfcfhd.png" group-title="Canais Premiere",PFC 1 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9655.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PFC 1 HD" tvg-logo="http://iptvwebcsgo.com/logos/pfchd.png" group-title="Canais Premiere",PFC 1 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9657.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC 1 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/pfchd.png" group-title="Canais Premiere",PFC 1 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12492.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PFC 2" tvg-logo="https://iptvwebcsgo.com/logos/pfc2.png" group-title="Canais Premiere",PFC 2
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9653.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PFC 2 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/pfc2fhd.png" group-title="Canais Premiere",PFC 2 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9671.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PFC 2 HD" tvg-logo="https://iptvwebcsgo.com/logos/pfc2hd.png" group-title="Canais Premiere",PFC 2 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9673.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC 2 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/pfc2hd.png" group-title="Canais Premiere",PFC 2 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12495.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PFC 3" tvg-logo="https://iptvwebcsgo.com/logos/pfc3.png" group-title="Canais Premiere",PFC 3
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9652.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PFC 3 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/pfc3fhd.png" group-title="Canais Premiere",PFC 3 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9668.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PFC 3 HD" tvg-logo="https://iptvwebcsgo.com/logos/pfc3hd.png" group-title="Canais Premiere",PFC 3 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9670.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC 3 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/pfc3hd.png" group-title="Canais Premiere",PFC 3 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12494.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PFC 4" tvg-logo="https://iptvwebcsgo.com/logos/pfc4.png" group-title="Canais Premiere",PFC 4
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9651.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PFC 4 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/pfc4fhd.png" group-title="Canais Premiere",PFC 4 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9665.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PFC 4 HD" tvg-logo="https://iptvwebcsgo.com/logos/pfc4hd.png" group-title="Canais Premiere",PFC 4 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9667.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC 4 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/pfc4hd.png" group-title="Canais Premiere",PFC 4 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12493.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PFC 5" tvg-logo="https://iptvwebcsgo.com/logos/pfc5.png" group-title="Canais Premiere",PFC 5
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9650.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PFC 5 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/pfc5fhd.png" group-title="Canais Premiere",PFC 5 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9662.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PFC 5 HD" tvg-logo="https://iptvwebcsgo.com/logos/pfc5hd.png" group-title="Canais Premiere",PFC 5 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9664.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC 5 HD Alternativo" tvg-logo="https://iptvwebcsgo.com/logos/pfc5hd.png" group-title="Canais Premiere",PFC 5 HD Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12463.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PFC 6" tvg-logo="https://iptvwebcsgo.com/logos/pfc6.png" group-title="Canais Premiere",PFC 6
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9649.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PFC 6 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/pfc6fhd.png" group-title="Canais Premiere",PFC 6 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9660.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PFC 6 HD" tvg-logo="https://iptvwebcsgo.com/logos/pfc6hd.png" group-title="Canais Premiere",PFC 6 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9661.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PFC 7" tvg-logo="https://iptvwebcsgo.com/logos/pfc7.png" group-title="Canais Premiere",PFC 7
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9648.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PFC 7 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/pfc7fhd.png" group-title="Canais Premiere",PFC 7 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9658.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PFC 7 HD" tvg-logo="https://iptvwebcsgo.com/logos/pfc7.png" group-title="Canais Premiere",PFC 7 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9659.ts
+#EXTINF:-1 tvg-id="Premiere 8 HD" tvg-name="PFC 8" tvg-logo="https://iptvwebcsgo.com/logos/pfc8.png" group-title="Canais Premiere",PFC 8
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9647.ts
+#EXTINF:-1 tvg-id="Premiere 9 HD" tvg-name="PFC 9" tvg-logo="https://iptvwebcsgo.com/logos/pfc9.png" group-title="Canais Premiere",PFC 9
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9646.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="Play TV" tvg-logo="https://iptvwebcsgo.com/logos/playtv.png" group-title="Entretenimento",Play TV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9675.ts
+#EXTINF:-1 tvg-id="Polishop TV" tvg-name="Polishop TV" tvg-logo="https://iptvwebcsgo.com/logos/polishoptv.png" group-title="Variedades",Polishop TV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9674.ts
+#EXTINF:-1 tvg-id="Prime Box Brasil" tvg-name="Prime Box Brasil" tvg-logo="https://iptvwebcsgo.com/logos/primeboxbrazil.png" group-title="Filmes",Prime Box Brasil
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9645.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://iptvwebcsgo.com/logos/recordtv.png" group-title="Canais Abertos",Record
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9637.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="Record FullHD" tvg-logo="https://iptvwebcsgo.com/logos/recordtv.png" group-title="Canais Abertos",Record FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10379.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="Record HD" tvg-logo="https://iptvwebcsgo.com/logos/recordtv.png" group-title="Canais Abertos",Record HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10411.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/recordtv.png" group-title="Canais Abertos",Record HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12490.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="Record News" tvg-logo="https://iptvwebcsgo.com/logos/recordnews.png" group-title="Canais Abertos",Record News
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9635.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/recordnews.png" group-title="Canais Abertos",Record News HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12489.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://iptvwebcsgo.com/logos/redebrasil.png" group-title="Canais Abertos",Rede Brasil
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9638.ts
+#EXTINF:-1 tvg-id="Rede TV!" tvg-name="Rede TV" tvg-logo="https://iptvwebcsgo.com/logos/redetv.png" group-title="Canais Abertos",Rede TV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9640.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/redetv.png" group-title="Canais Abertos",REDE TV HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12491.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://iptvwebcsgo.com/logos/redevida.png" group-title="Canais Abertos",Rede Vida
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9641.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://iptvwebcsgo.com/logos/sbt.png" group-title="Canais Abertos",SBT
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9633.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD.Alternativo" tvg-logo="" group-title="Canais Abertos",SBT HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12488.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://iptvwebcsgo.com/logos/sony.png" group-title="Canais Séries",Sony
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9613.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony FullHD" tvg-logo="https://iptvwebcsgo.com/logos/sonyfhd.png" group-title="Canais Séries",Sony FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10389.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" tvg-logo="https://iptvwebcsgo.com/logos/sonyhd.png" group-title="Canais Séries",Sony HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD.Alternativo" tvg-logo="" group-title="Filmes",Sony HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12481.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://iptvwebcsgo.com/logos/space.png" group-title="Filmes",Space
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9617.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FullHD" tvg-logo="https://iptvwebcsgo.com/logos/spacefhd.png" group-title="Filmes",Space FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9615.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="https://iptvwebcsgo.com/logos/spacehd.png" group-title="Filmes",Space HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD.Alternativo" tvg-logo="" group-title="Filmes",Space HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12482.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1" tvg-logo="https://iptvwebcsgo.com/logos/sportv.png" group-title="Esportes",SporTV 1
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9627.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/sportvfhd.png" group-title="Esportes",SporTV 1 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9624.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD" tvg-logo="https://iptvwebcsgo.com/logos/sportvhd.png" group-title="Esportes",SporTV 1 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9626.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://iptvwebcsgo.com/logos/sportv2.png" group-title="Esportes",SporTV 2
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9623.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/sportv2fhd.png" group-title="Esportes",SporTV 2 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9620.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="https://iptvwebcsgo.com/logos/sportv2hd.png" group-title="Esportes",SporTV 2 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9622.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/sportv2hd.png" group-title="Esportes",SporTV 2 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12484.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://iptvwebcsgo.com/logos/sportv3.png" group-title="Esportes",SporTV 3
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9618.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FullHD" tvg-logo="https://iptvwebcsgo.com/logos/sportv3fhd.png" group-title="Esportes",SporTV 3 FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10378.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="https://iptvwebcsgo.com/logos/sportv3hd.png" group-title="Esportes",SporTV 3 HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10410.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/sportv3hd.png" group-title="Esportes",SporTV 3 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12483.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/sportvhd.png" group-title="Esportes",SporTV 1 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12485.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://iptvwebcsgo.com/logos/studiouniversal.png" group-title="Filmes",Studio Universal
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/studiouniversalhd.png" group-title="Filmes",Studio Universal HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12486.ts
+#EXTINF:-1 tvg-id="" tvg-name="SundanceTV FullHD" tvg-logo="https://iptvwebcsgo.com/logos/sundancefhd.png" group-title="Filmes",SundanceTV FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10634.ts
+#EXTINF:-1 tvg-id="" tvg-name="SundanceTV HD" tvg-logo="https://iptvwebcsgo.com/logos/sundancehd.png" group-title="Filmes",SundanceTV HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10633.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy" tvg-logo="https://iptvwebcsgo.com/logos/syfy.png" group-title="Canais Séries",Syfy
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9631.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy FullHD" tvg-logo="https://iptvwebcsgo.com/logos/syfyfhd.png" group-title="Canais Séries",Syfy FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10377.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy HD" tvg-logo="https://iptvwebcsgo.com/logos/syfyhd.png" group-title="Canais Séries",Syfy HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD.Alternativo" tvg-logo="" group-title="Canais Séries",Syfy HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12487.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="Tbs" tvg-logo="https://iptvwebcsgo.com/logos/tbs.png" group-title="Canais Séries",Tbs
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9610.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tbshd.png" group-title="Canais Séries",TBS HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12480.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TC Action" tvg-logo="http://iptvwebcsgo.com/logos/tcaction1.png" group-title="Canais Telecine",TC Action
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9606.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TC Action FullHD" tvg-logo="http://iptvwebcsgo.com/logos/tcactionfhd.png" group-title="Canais Telecine",TC Action FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9603.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TC Action HD" tvg-logo="http://iptvwebcsgo.com/logos/tcactionhd.png" group-title="Canais Telecine",TC Action HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9605.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC Action HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tcactionhd.png" group-title="Canais Telecine",TC Action HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12478.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TC Cult" tvg-logo="https://iptvwebcsgo.com/logos/tccult.png" group-title="Canais Telecine",TC Cult
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9602.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TC Cult FullHD" tvg-logo="http://iptvwebcsgo.com/logos/tccultfhd.png" group-title="Canais Telecine",TC Cult FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9599.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TC Cult HD" tvg-logo="http://iptvwebcsgo.com/logos/tcculthd.png" group-title="Canais Telecine",TC Cult HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9601.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC Cult HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tcculthd.png" group-title="Canais Telecine",TC Cult HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12477.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TC Fun" tvg-logo="http://iptvwebcsgo.com/logos/tcfun.png" group-title="Canais Telecine",TC Fun
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9598.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TC Fun FullHD" tvg-logo="http://iptvwebcsgo.com/logos/tcfunfhd.png" group-title="Canais Telecine",TC Fun FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9595.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TC Fun HD" tvg-logo="https://iptvwebcsgo.com/logos/tcfunhd.png" group-title="Canais Telecine",TC Fun HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9597.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC Fun HD.Alternativo" tvg-logo="" group-title="Canais Telecine",TC Fun HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12476.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TC Pipoca" tvg-logo="http://iptvwebcsgo.com/logos/tcpipoca.png" group-title="Canais Telecine",TC Pipoca
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9594.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TC Pipoca FullHD" tvg-logo="http://iptvwebcsgo.com/logos/tcpipocafhd.png" group-title="Canais Telecine",TC Pipoca FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9591.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TC Pipoca HD" tvg-logo="http://iptvwebcsgo.com/logos/tcpipocahd.png" group-title="Canais Telecine",TC Pipoca HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9593.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC Pipoca HD.Alternativo" tvg-logo="" group-title="Canais Telecine",TC Pipoca HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12475.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TC Premium" tvg-logo="http://iptvwebcsgo.com/logos/tcpremium.png" group-title="Canais Telecine",TC Premium
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9590.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TC Premium FullHD" tvg-logo="http://iptvwebcsgo.com/logos/tcpremiumfhd.png" group-title="Canais Telecine",TC Premium FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9587.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TC Premium HD" tvg-logo="http://iptvwebcsgo.com/logos/tcpremiumhd.png" group-title="Canais Telecine",TC Premium HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9589.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC Premium HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tcpremiumhd.png" group-title="Canais Telecine",TC Premium HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12474.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TC Touch" tvg-logo="http://iptvwebcsgo.com/logos/tctouch.png" group-title="Canais Telecine",TC Touch
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9586.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC Touch HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tctouchhd.png" group-title="Canais Telecine",TC Touch HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12473.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://iptvwebcsgo.com/logos/tcm.png" group-title="Filmes",TCM
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9584.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="https://iptvwebcsgo.com/logos/terraviva.png" group-title="Canais Abertos",Terra Viva
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9562.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://iptvwebcsgo.com/logos/tlc.png" group-title="Variedades",TLC
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9608.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tlchd.png" group-title="Canais Telecine",TLC HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12479.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://iptvwebcsgo.com/logos/tnt.png" group-title="Filmes",TNT
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9583.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FullHD" tvg-logo="https://iptvwebcsgo.com/logos/tntfhd.png" group-title="Filmes",TNT FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9580.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://iptvwebcsgo.com/logos/tnthd.png" group-title="Filmes",TNT HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9582.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tnthd.png" group-title="Filmes",TNT HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12472.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://iptvwebcsgo.com/logos/tntseries.png" group-title="Canais Séries",TNT Series
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9579.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series FullHD" tvg-logo="https://iptvwebcsgo.com/logos/tntseriesfhd.png" group-title="Canais Séries",TNT Series FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9576.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="https://iptvwebcsgo.com/logos/tntserieshd.png" group-title="Canais Séries",TNT Series HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9578.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/tntserieshd.png" group-title="Canais Séries",TNT Series HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12471.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://iptvwebcsgo.com/logos/tooncast.png" group-title="Infantis",Tooncast
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9575.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD.Alternativo" tvg-logo="" group-title="Infantis",Tooncast HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12470.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="https://iptvwebcsgo.com/logos/trutv.png" group-title="Variedades",TruTV
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9573.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://iptvwebcsgo.com/logos/aparecida.png" group-title="Canais Abertos",TV Aparecida
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9570.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://iptvwebcsgo.com/logos/tvbrasil.png" group-title="Canais Abertos",TV Brasil
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9571.ts
+#EXTINF:-1 tvg-id="TV Camara" tvg-name="TV Camara" tvg-logo="https://iptvwebcsgo.com/logos/tvcamara.png" group-title="Canais Abertos",TV Camara
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9572.ts
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://iptvwebcsgo.com/logos/tvcultura.png" group-title="Canais Abertos",TV Cultura
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9564.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="https://iptvwebcsgo.com/logos/tvescola.png" group-title="Canais Abertos",TV Escola
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9568.ts
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta" tvg-logo="https://iptvwebcsgo.com/logos/tvgazeta.png" group-title="Canais Abertos",TV Gazeta
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9563.ts
+#EXTINF:-1 tvg-id="IDEAL TV" tvg-name="TV Ideal" tvg-logo="https://iptvwebcsgo.com/logos/idealtv.png" group-title="Canais Abertos",TV Ideal
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9722.ts
+#EXTINF:-1 tvg-id="TV Justica" tvg-name="TV Justica" tvg-logo="https://iptvwebcsgo.com/logos/tvjustica.png" group-title="Canais Abertos",TV Justica
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9566.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://iptvwebcsgo.com/logos/tvnovotempo.png" group-title="Canais Abertos",TV Novo Tempo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9680.ts
+#EXTINF:-1 tvg-id="TV Ra-Tim-Bum" tvg-name="TV Ra Tim Bum" tvg-logo="https://iptvwebcsgo.com/logos/tvratimbum.png" group-title="Infantis",TV Ra Tim Bum
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9567.ts
+#EXTINF:-1 tvg-id="TV Justica" tvg-name="TV Senado" tvg-logo="https://iptvwebcsgo.com/logos/tvsenado.png" group-title="Canais Abertos",TV Senado
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9565.ts
+#EXTINF:-1 tvg-id="RCI" tvg-name="Tvci" tvg-logo="https://iptvwebcsgo.com/logos/rci.png" group-title="Canais Abertos",Tvci
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9643.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://iptvwebcsgo.com/logos/universalchannel.png" group-title="Canais Séries",Universal Channel
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9556.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel FullHD" tvg-logo="https://iptvwebcsgo.com/logos/universalchannelfhd.png" group-title="Canais Séries",Universal Channel FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10376.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="https://iptvwebcsgo.com/logos/universalchannelhd.png" group-title="Canais Séries",Universal Channel HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10408.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/universalchannelhd.png" group-title="Canais Séries",Universal Channel HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12468.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/vh1hd.png" group-title="Entretenimento",VH1 HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12466.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 Mega Hits" tvg-logo="https://iptvwebcsgo.com/logos/vh1megahits.png" group-title="Entretenimento",VH1 Mega Hits
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9552.ts
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva" tvg-logo="http://iptvwebcsgo.com/logos/viva.png" group-title="Canais Globosat",Viva
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9554.ts
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva FullHD" tvg-logo="http://iptvwebcsgo.com/logos/vivafhd.png" group-title="Canais Globosat",Viva FullHD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10375.ts
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva  HD" tvg-logo="http://iptvwebcsgo.com/logos/vivahd.png" group-title="Canais Globosat",Viva  HD
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/10407.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/vivahd.png" group-title="Canais Globosat",Viva HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12467.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://iptvwebcsgo.com/logos/warnerchannel.png" group-title="Canais Séries",Warner Channel
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD.Alternativo" tvg-logo="http://iptvwebcsgo.com/logos/warnerchannelhd.png" group-title="Canais Séries",Warner Channel HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12465.ts
+#EXTINF:-1 tvg-id="WooHoo" tvg-name="Woohoo" tvg-logo="https://iptvwebcsgo.com/logos/woohoo.png" group-title="Variedades",Woohoo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/9548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wohoo HD.Alternativo" tvg-logo="https://iptvwebcsgo.com/logos/woohoohd.png" group-title="Variedades",Wohoo HD.Alternativo
+http://lista.webcs.in:25461/live/tmsyq9/f8cj2u/12464.ts
