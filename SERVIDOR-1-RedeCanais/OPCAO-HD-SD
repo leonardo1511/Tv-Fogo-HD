@@ -5,6 +5,14 @@
 </item>
 
 <item>
+<title>[COLOR white]CANAL RICOS[/COLOR] [COLOR gold]HD[/COLOR]</title>
+<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white]BAND NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]BANDNORDESTEHD$doregex[BP2]</link>
 <regex><name>BP1</name><expres>$pyFunction:base64.b32decode("$doregex[BPL]")</expres><page></page></regex>
