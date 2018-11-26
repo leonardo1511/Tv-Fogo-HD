@@ -724,6 +724,12 @@
 </item>
 
 <item>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/tlc.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][B]MAIS GLOBOSAT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://canal.cometa.top/hls1/maisbobosat.m3u8|Referer=http://www.miceret.com/contador.php</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globosat.png</thumbnail>
