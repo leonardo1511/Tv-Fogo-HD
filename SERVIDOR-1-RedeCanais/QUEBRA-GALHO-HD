@@ -1,636 +1,1201 @@
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/LwtXftR.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CANAL RICOS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
-<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>	 
-
-<item>
-<title>[COLOR white][B][COLOR white]REDE CIDADE VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://rtmp.cdn.upx.net.br/kwjqp/smil:cidadeviva.smil/chunklist_b2130000.m3u8?40c77181fe8b19d791f3877f0a525afa</link>
-<thumbnail>http://1.bp.blogspot.com/-Hl096lozcn0/Tizx6rwWH1I/AAAAAAAADts/_FS4pe14SE4/s640/RCV_logo.jpg</thumbnail>
-<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]A Fazenda 10[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/afazenda.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://ler9.files.wordpress.com/2012/08/a-fazenda1.jpg</thumbnail>
-<fanart>https://ler9.files.wordpress.com/2012/08/a-fazenda1.jpg</fanart>
-<info></info>
-</item>
-	    
-<item>
-<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/bobonordeste.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/boborj.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/bobosp.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo_sp.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/sbt.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/recordsp.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/KejL8N6.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/animalplanet.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discovery.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discoverycivilization.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discoverysience.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discoverytheater.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/history.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/history2.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/natgeo.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/natgeowild.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/bandsports.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/combate.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discoveryturbo.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/espn.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/espn2.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/espnbrasil.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/foxsports1.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/foxsports2.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiereclubes.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere2.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere3.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere4.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere5.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere6.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere7.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere8.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/premiere9.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/sportv1.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/sportv2.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/sportv3.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/aie.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/amc.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/axn.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/cinemax.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/fox.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/foxpremium1.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/foxpremium2.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/fx.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbo.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbo2.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbofamily.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hboplus.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbosignature.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/max.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/maxprime.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/maxup.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/megapix.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/paramount.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/sony.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/space.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/space.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/studiouniversal.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/syfy.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/tcm.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tcm.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecineaction.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinecult.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinefun.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinepipoca.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinepremium.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinetouch.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/tnt.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/tntseries.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt_series.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/universal.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/warner.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/boomerang.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/cartoon.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discoverykids.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/disney.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/disneyjunior.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/disneyxd.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/gloob.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/nick.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/nickjr.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/tooncast.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/arte1.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/arte1.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BIS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/bis.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bis.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/off.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/off.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/comedycentral.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CURTA![/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/curta.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/curta!.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discoveryhomeihealth.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discoveryworld.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/fishtv.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/foxlife.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/gnt.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ID[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/investigacaodiscovery.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/lifetime.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/lifetime.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/maisbobosat.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mais_globosat.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/mtv.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/multishow.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/tlc.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/qrOmPHN.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/bandnews.m3u8|Referer=http://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/globonews.m3u8|Referer=http://www.canais.ink/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png</thumbnail>
-</item>
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 10" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/a-fazenda-10-1140x641-696x391.jpg" group-title="CANAIS ENTRETENIMENTO",A Fazenda 10
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13130
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 10 HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/a-fazenda-10-1140x641-696x391.jpg" group-title="CANAIS ENTRETENIMENTO",A Fazenda 10 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13129
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 10 FHD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/a-fazenda-10-1140x641-696x391.jpg" group-title="CANAIS ENTRETENIMENTO",A Fazenda 10 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13131
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CULTURA",Arte 1
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7904
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS SERVIDOR 2",ARTE 1 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11308
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CULTURA",Arte 1 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10235
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7448
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS SERVIDOR 2",AMC SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11312
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7691
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS SERVIDOR 2",AMC HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11080
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9343
+#EXTINF:-1 tvg-id="JAZEERA2" tvg-name="AlJazeera HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",AlJazeera HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7550
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4404
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS SERVIDOR 2",A&E SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11316
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8139
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS SERVIDOR 2",A&E HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11314
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9344
+#EXTINF:-1 tvg-id="Agro Canal" tvg-name="Agro Canal" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png" group-title="CANAIS ABERTO",Agro Canal
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/5983
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CULTURA",Animal Planet
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4403
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS SERVIDOR 2",ANIMAL PLANET SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11310
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CULTURA",Animal Planet HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6142
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS SERVIDOR 2",Animal Planet HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11079
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CULTURA",Animal Planet FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11536
+#EXTINF:-1 tvg-id="" tvg-name="All Sport" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports.png" group-title="CANAIS DE ESPORTES",All Sport
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6812
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="Tv Aparecida" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_rede_aparecida_comunicacao.png" group-title="CANAIS RELIGIOSOS",Tv Aparecida
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4438
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4402
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS SERVIDOR 2",AXN SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11306
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6140
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS SERVIDOR 2",AXN HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11078
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13212
+#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1000px-Arirang.svg_.png" group-title="CANAIS ENTRETENIMENTO",Arirang TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4407
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",Baby TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4401
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS SERVIDOR 2",Baby TV SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11305
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",Band
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4400
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS SERVIDOR 2",Band SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11302
+#EXTINF:-1 tvg-id="Band" tvg-name="Band HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",Band HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6882
+#EXTINF:-1 tvg-id="Band" tvg-name="Band HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS SERVIDOR 2",Band HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11077
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",Band Nordeste FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11573
+#EXTINF:-1 tvg-id="" tvg-name="BAND Paraiba FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND Paraiba FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13191
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png" group-title="CANAIS DE ESPORTES",Band Sports
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4398
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORTS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11297
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS DE ESPORTES",Band Sports HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6138
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS SERVIDOR 2",BAND SPORTS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11294
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="NOTICIAS",Band News
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4399
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS SERVIDOR 2",BAND NEWS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11301
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="NOTICIAS",Band News HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10296
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS SERVIDOR 2",BAND NEWS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11299
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="NOTICIAS",Band News FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11535
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade" tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/lbv.png" group-title="CANAIS RELIGIOSOS",Boa Vontade
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10295
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="MUSICAS",BIS
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6964
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS SERVIDOR 2",BIS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11293
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="MUSICAS",BIS HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6881
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS SERVIDOR 2",BIS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11291
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="MUSICAS",BIS FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11547
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",Boomerang
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4396
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS SERVIDOR 2",BOOMERANG SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11289
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",Boomerang HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10294
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS SERVIDOR 2",Boomerang HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11076
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",Boomerang FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11534
+#EXTINF:-1 tvg-id="BBC NEWS" tvg-name="BBC NEWS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bbc-news-png-reunidas-x-bbc-news-x-glen-campbell-536.png" group-title="NOTICIAS",BBC NEWS
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6167
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/blobemg.png" group-title="CANAIS ENTRETENIMENTO",Bloomberg TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7424
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",Canal Brasil
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6963
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS SERVIDOR 2",Canal Brasil SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11286
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",Canal Brasil HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10293
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="CANAL DO BOI SD [Alternativo]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS SERVIDOR 2",CANAL DO BOI SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11287
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="http://familiaorganica.com.br/wp-content/uploads/2015/08/f55ed-logo_horizontal.png" group-title="CANAIS ABERTO",Canal Rural
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7449
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png" group-title="CANAIS FILMES | SERIES",Canal Sony
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4395
+#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS SERVIDOR 2",CANAL SONY SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11283
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",Canal Sony HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6961
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS SERVIDOR 2",Canal Sony HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11075
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",Canal Sony FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13202
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Cancao Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS RELIGIOSOS",Cancao Nova
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6173
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS RELIGIOSOS",Canção Nova FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13190
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",Cartoon Network
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4394
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTON NETWORK SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS SERVIDOR 2",CARTON NETWORK SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11281
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",Cartoon Network HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7817
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",Cartoon Network FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13210
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS SERVIDOR 2",Cartoon Network HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11074
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Cinemax_LA.png" group-title="CANAIS FILMES | SERIES",Cinemax
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4393
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS SERVIDOR 2",CINEMAX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11280
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",Cinemax HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7802
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",Cinemax FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13209
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS SERVIDOR 2",Cinemax HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11073
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS DE ESPORTES",Combate
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4392
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate-1.png" group-title="CANAIS SERVIDOR 2",COMBATE SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11277
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS DE ESPORTES",Combate HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6172
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS SERVIDOR 2",Combate HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11072
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate-1.png" group-title="CANAIS DE ESPORTES",Combate FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8152
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",Comedy Central
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4391
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS SERVIDOR 2",COMEDY CENTRAL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11275
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",Comedy Central HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10292
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS SERVIDOR 2",Comedy Central HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11071
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CULTURA",Curta!
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10291
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CULTURA",Curta! HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10290
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CULTURA",Discovery Channel
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4390
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS SERVIDOR 2",DISCOVERY CHANNEL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11273
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CULTURA",Discovery Channel HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6132
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS SERVIDOR 2",Discovery Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11070
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CULTURA",Discovery Channel FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11548
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0040_discovery_hh.png" group-title="CANAIS ENTRETENIMENTO",Discovery Home & Health
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4389
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS SERVIDOR 2",Discovery Home & Health SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11270
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",Discovery Home & Health HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6131
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS SERVIDOR 2",Discovery Home & Health HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11068
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",Discovery Home & Health FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11533
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CULTURA",Discovery Civilization
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10236
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization  SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CANAIS SERVIDOR 2",Discovery Civilization  SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11271
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CULTURA",Discovery Civilization HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7862
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CULTURA",Discovery Civilization FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13208
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovert Civilization HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CANAIS SERVIDOR 2",Discovert Civilization HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11069
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CULTURA",Discovery Science
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10237
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CANAIS SERVIDOR 2",DISCOVERY SCIENCE SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11272
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CULTURA",Discovery Science HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7861
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CULTURA",Discovery Science FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13206
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CANAIS SERVIDOR 2",Discovery Science HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11066
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",Discovery Kids
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4388
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS SERVIDOR 2",DISCOVERY KIDS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11269
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",Discovery Kids HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7538
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS SERVIDOR 2",Discovery Kids HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11067
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids  FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",Discovery Kids  FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11532
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CULTURA",Discovery World
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10288
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CANAIS SERVIDOR 2",DISCOVERY WORLD SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11266
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CULTURA",Discovery World HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6128
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CANAIS SERVIDOR 2",Discovery World HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11063
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CULTURA",Discovery World FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11530
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CULTURA",Discovery Theater
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10289
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CANAIS SERVIDOR 2",DISCOVERY THEATER SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11268
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CULTURA",Discovery Theater HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6130
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CANAIS SERVIDOR 2",Discovery Theater HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11065
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",Discovery Turbo
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4386
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS SERVIDOR 2",DISCOVERY TURBO SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11267
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",Discovery Turbo HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6877
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS SERVIDOR 2",Discovery Turbo HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11064
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",Discovery Turbo FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11531
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",Disney Channel
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4385
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS SERVIDOR 2",DISNEY CHANNEL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11265
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",Disney Channel HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7902
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS SERVIDOR 2",Disney Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11062
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",Disney Channel FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11546
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",Disney Junior
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4384
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS SERVIDOR 2",DISNEY JUNIOR SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11264
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",Disney Junior HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10286
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",Disney Junior FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13207
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS SERVIDOR 2",Disney Junior HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11061
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="CANAIS INFANTIL",Disney XD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4383
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="CANAIS SERVIDOR 2",Disney XD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11060
+#EXTINF:-1 tvg-id="DW-TV" tvg-name="DW" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-Deutsche_Welle_symbol_2012.svg_.png" group-title="CANAIS PORTUGAL",DW
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4425
+#EXTINF:-1 tvg-id="E!" tvg-name="E! Entertainment Television" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! Entertainment Television
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4382
+#EXTINF:-1 tvg-id="E!" tvg-name="E! Entertainment Television SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS SERVIDOR 2",E! Entertainment Television SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11262
+#EXTINF:-1 tvg-id="E!" tvg-name="E! Entertainment Television HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! Entertainment Television HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10285
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS DE ESPORTES",ESPN
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4381
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS SERVIDOR 2",ESPN SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11259
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS DE ESPORTES",ESPN  HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6127
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS SERVIDOR 2",ESPN HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11056
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS DE ESPORTES",ESPN  FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11545
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="CANAIS DE ESPORTES",ESPN 2
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7988
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="CANAIS DE ESPORTES",ESPN 2 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6143
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS DE ESPORTES",ESPN Brasil
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4380
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS SERVIDOR 2",ESPN BRASIL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11258
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN  Brasil HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS DE ESPORTES",ESPN  Brasil HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6124
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN  Brasil HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS SERVIDOR 2",ESPN  Brasil HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11057
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN  Brasil FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS DE ESPORTES",ESPN  Brasil FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11557
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="CANAIS DE ESPORTES",ESPN Extra
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10284
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra HD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="CANAIS DE ESPORTES",ESPN Extra HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10283
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 FHD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="CANAIS DE ESPORTES",ESPN 2 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11521
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",Food Network
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6959
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS SERVIDOR 2",Food Network SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11254
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",Food Network HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7534
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",Food Network FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13205
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png" group-title="CANAIS FILMES | SERIES",FOX
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4375
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS SERVIDOR 2",FOX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11253
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6122
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX HD*
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8193
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS SERVIDOR 2",FOX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11053
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9141
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",Fox Life
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4374
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX Life SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png" group-title="CANAIS SERVIDOR 2",FOX Life SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11252
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX Life HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png" group-title="CANAIS FILMES | SERIES",FOX Life HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6876
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX Life HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png" group-title="CANAIS SERVIDOR 2",FOX Life HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11052
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS FILMES | SERIES",FOX Premium 1
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6120
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS SERVIDOR 2",Fox Premium 1 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11251
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS FILMES | SERIES",FOX Premium 1 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10279
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS SERVIDOR 2",FOX Premium 1 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11050
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX Premium 2
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6119
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS SERVIDOR 2",Fox Premium 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11250
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX Premium 2 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10278
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS SERVIDOR 2",FOX Premium 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11051
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX Premium 2 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11529
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS DE ESPORTES",Fox Sports
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4373
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS SERVIDOR 2",Fox Sports SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11249
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS DE ESPORTES",Fox Sports HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6118
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS SERVIDOR 2",Fox Sports HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11048
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS DE ESPORTES",Fox Sports FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11556
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS DE ESPORTES",Fox Sports 2
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4372
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS SERVIDOR 2",Fox Sports 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11248
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX Sports 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS DE ESPORTES",FOX Sports 2 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6117
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX Sports 2 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS SERVIDOR 2",FOX Sports 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11049
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS DE ESPORTES",FOX Sports 2 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8151
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4371
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS SERVIDOR 2",FX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11246
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6116
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS SERVIDOR 2",FX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11047
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png" group-title="CANAIS DE ESPORTES",Fish TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4377
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png" group-title="CANAIS SERVIDOR 2",FISH TV SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11255
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png" group-title="CANAIS DE ESPORTES",Fish TV HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10280
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Brazil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/250px-Fashion_TV_logo.svg.png" group-title="MUSICAS",Fashion TV Brazil FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13189
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Futura_1.png" group-title="CANAIS ABERTO",Futura
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10277
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Futura_1.png" group-title="CANAIS ABERTO",Futura HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6182
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="Globo Brasilia" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Brasilia
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7530
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/fn-logo.png" group-title="NOTICIAS",Fox News
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6835
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="Globo EPTV Campinas" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",Globo EPTV Campinas
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7932
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="Globo EPTV Campinas SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS SERVIDOR 2",Globo EPTV Campinas SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11245
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",Globo EPTV Campinas HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10234
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="Globo EPTV Campinas HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS SERVIDOR 2",Globo EPTV Campinas HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11045
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="Globo Brasilia HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Brasilia HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10239
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="Globo Brasilia HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo Brasilia HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11046
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Nordeste
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7527
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo Nordeste SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11242
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Nordeste HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10240
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo Nordeste HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11042
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Nordeste FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11570
+#EXTINF:-1 tvg-id="" tvg-name="Globo Paraiba FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Paraiba FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13188
+#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="Globo EPTV Ribeirao Preto" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo EPTV Ribeirao Preto
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9471
+#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV Ribeirao Preto SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",GLOBO EPTV Ribeirao Preto SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11370
+#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo EPTV Ribeirao Preto HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10231
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo Porto Alegre" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Porto Alegre
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9469
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo  Porto Alegre SD [Alternativo]1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo  Porto Alegre SD [Alternativo]1
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11241
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo Porto Alegre HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Porto Alegre HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10232
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo EPTV São Carlos
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11369
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV  S.J Dos Campos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo TV  S.J Dos Campos
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11353
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11352
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Preto" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Rio Preto
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9468
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Preto HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Rio Preto HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10233
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="Globo TV Tem Bauru" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo TV Tem Bauru
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9465
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo RJ
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7547
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo RJ SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11239
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo RJ HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6113
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo RJ HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11041
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ HD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ HD H265
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11363
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo RJ FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9318
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo SP
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4431
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo SP SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11237
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo SP HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7529
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo SP HD*
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8190
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo SP HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11039
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO SP HD H265
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11360
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo SP FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11568
+#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="Globo Sorocaba" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Sorocaba
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7684
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="Globo RPC Curitiba" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo RPC Curitiba
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7866
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo RPC Curitiba HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10273
+#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="Globo TV Anhanguera" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tv_anhanguera.png" group-title="CANAIS GLOBO",Globo TV Anhanguera
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10272
+#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="Globo TV Anhanguera SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tv_anhanguera.png" group-title="CANAIS SERVIDOR 2",Globo TV Anhanguera SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11357
+#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="Globo Tv Anhaguera HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tv_anhanguera.png" group-title="CANAIS GLOBO",Globo Tv Anhaguera HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7521
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="Globo TV Bahia" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbahia.png" group-title="CANAIS GLOBO",Globo TV Bahia
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7539
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="Globo TV Bahia HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbahia.png" group-title="CANAIS GLOBO",Globo TV Bahia HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10238
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="Globo TV Bahia HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo TV Bahia HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11376
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="Globo Minas" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Minas
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10276
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="Globo Minas SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo Minas SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11244
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="Globo Minas HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo Minas HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7528
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="Globo Minas HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",Globo Minas HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11044
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="GLOBO TV TEM BAURU SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",GLOBO TV TEM BAURU SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11235
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="NOTICIAS",Globo News
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4432
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS SERVIDOR 2",Globo News SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11243
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="NOTICIAS",Globo News HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7442
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS SERVIDOR 2",Globo News HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11043
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="NOTICIAS",Globo News FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9152
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS INFANTIL",Gloob
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4369
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS SERVIDOR 2",Gloob SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11232
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS INFANTIL",Gloob HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7526
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS SERVIDOR 2",Gloob HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11037
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS INFANTIL",Gloob FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11540
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/74e4a5f0ba3ea11e0b9715260014.png" group-title="CANAIS INFANTIL",Gloobinho
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10270
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/74e4a5f0ba3ea11e0b9715260014.png" group-title="CANAIS INFANTIL",Gloobinho HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10271
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta SP HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gazeta.png" group-title="CANAIS ABERTO",Gazeta SP HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8975
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4368
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6956
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movies Television" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Gospel-Movie.png" group-title="CANAIS FILMES | SERIES",Gospel Movies Television
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7656
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CULTURA",H2
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4367
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CANAIS SERVIDOR 2",H2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11231
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CULTURA",H2 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6111
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CANAIS SERVIDOR 2",H2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11036
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CULTURA",H2 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13187
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="TELECINE/HBO",HBO
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4366
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS SERVIDOR 2",HBO SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11230
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="TELECINE/HBO",HBO HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6108
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS SERVIDOR 2",HBO HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11033
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="TELECINE/HBO",HBO FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11566
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="TELECINE/HBO",HBO 2
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4365
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS SERVIDOR 2",HBO 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11229
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="TELECINE/HBO",HBO 2 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6110
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS SERVIDOR 2",HBO 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11035
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="TELECINE/HBO",HBO 2 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11567
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="TELECINE/HBO",HBO Family
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4364
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS SERVIDOR 2",HBO Family SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11228
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="TELECINE/HBO",HBO Family HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6109
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS SERVIDOR 2",HBO Family HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11034
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="TELECINE/HBO",HBO Plus
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4363
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO Plus SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS SERVIDOR 2",HBO Plus SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11227
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="TELECINE/HBO",HBO Plus HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6106
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO Plus HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS SERVIDOR 2",HBO Plus HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11032
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="TELECINE/HBO",HBO Signature
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4361
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS SERVIDOR 2",HBO Signature SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11226
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="TELECINE/HBO",HBO Signature HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6105
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS SERVIDOR 2",HBO Signature HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11031
+#EXTINF:-1 tvg-id="Heat TV3" tvg-name="Heart TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/b90b9287-8636-4378-a2c3-2af9df5183f3.png" group-title="CANAIS ENTRETENIMENTO",Heart TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6179
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CULTURA",History Channel
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4314
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CANAIS SERVIDOR 2",History Channel SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11225
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CULTURA",History Channel HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6104
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CANAIS SERVIDOR 2",History Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11030
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CULTURA",History Channel FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9142
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - Investigacao Discovery" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CULTURA",ID - Investigacao Discovery
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4360
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - Investigacao Discovery SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CANAIS SERVIDOR 2",ID - Investigacao Discovery SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11224
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - Investigacao Discovery HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CULTURA",ID - Investigacao Discovery HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6869
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - Investigacao Discovery HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CANAIS SERVIDOR 2",ID - Investigacao Discovery HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11029
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - Investigacao Discovery FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CULTURA",ID - Investigacao Discovery FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9143
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/igreja-universal-logo-5EEFB13ADE-seeklogo.com_.png" group-title="CANAIS RELIGIOSOS",IURD TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6210
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",Lifetime
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7876
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",Lifetime HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7525
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",Mais Globosat
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6953
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS SERVIDOR 2",Mais Globosat SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11233
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",Mais Globosat HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9262
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS SERVIDOR 2",Mais Globosat HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11038
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4358
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS SERVIDOR 2",MAX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11223
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="TELECINE/HBO",MAX HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10266
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS SERVIDOR 2",MAX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11028
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX Prime" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="TELECINE/HBO",MAX Prime
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4357
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX Prime SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS SERVIDOR 2",MAX Prime SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11222
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX Prime HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="TELECINE/HBO",MAX Prime HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7850
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX Prime HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS SERVIDOR 2",MAX Prime HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11027
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX Prime FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="TELECINE/HBO",MAX Prime FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13201
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="TELECINE/HBO",MAX UP
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4355
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS SERVIDOR 2",MAX UP SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11220
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="TELECINE/HBO",MAX UP HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10265
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS SERVIDOR 2",MAX UP HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11026
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/MusicBoxBrazilLogo.png" group-title="MUSICAS",Music Box Brasil
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7848
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/MusicBoxBrazilLogo.png" group-title="CANAIS SERVIDOR 2",Music Box Brasil SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11216
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/MusicBoxBrazilLogo.png" group-title="MUSICAS",Music Box Brasil HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10264
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MegaPix
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4354
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapoix SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS SERVIDOR 2",Megapoix SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11219
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",Megapix HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6101
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS SERVIDOR 2",Megapix HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11025
+#EXTINF:-1 tvg-id="" tvg-name="Megapix FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",Megapix FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8146
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="MUSICAS",MTV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4353
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS SERVIDOR 2",MTV SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11218
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="MUSICAS",MTV HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7524
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="MUSICAS",Multishow
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4352
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS SERVIDOR 2",Multishow SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11217
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="MUSICAS",Multishow HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6867
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS SERVIDOR 2",Multishow HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11024
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="MUSICAS",Multishow FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13204
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MusicBoxBrazilLogo.png/230px-MusicBoxBrazilLogo.png" group-title="MUSICAS",Music Box Brazil FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13186
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CULTURA",NatGeo Wild
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4349
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CANAIS SERVIDOR 2",NatGeo Wild SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11214
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CULTURA",NatGeo Wild HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6099
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CANAIS SERVIDOR 2",NatGeo Wild HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11022
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CULTURA",NatGeo Wild FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11528
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geography" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CULTURA",National Geography
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4348
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geography  SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS SERVIDOR 2",National Geography  SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11213
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geography HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CULTURA",National Geography HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6098
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geography HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS SERVIDOR 2",National Geography HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11021
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geography FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CULTURA",National Geography FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13203
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",Nick Jr
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4346
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS SERVIDOR 2",Nick Jr SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11212
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",Nick Jr HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10260
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS SERVIDOR 2",Nick Jr HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11020
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",Nick Jr FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11527
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickeloden" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",Nickeloden
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4345
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS SERVIDOR 2",Nickelodeon SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11211
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",Nickelodeon HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7537
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickeloden HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS SERVIDOR 2",Nickeloden HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11019
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",Nickelodeon FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11526
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NatGeo Kids
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4350
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS SERVIDOR 2",NatGeo Kids SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11215
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NatGeo Kids HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10261
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS SERVIDOR 2",NatGeo Kids HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11023
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NatGeo Kids FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13198
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nbr.png" group-title="CANAIS ABERTO",NBR
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6950
+#EXTINF:-1 tvg-id="" tvg-name="Nova Nordeste FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/c/c2/20160712014607%21Logotipo_da_TV_Nova_Nordeste.png" group-title="CANAIS ABERTO",Nova Nordeste FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13199
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png" group-title="CANAIS ENTRETENIMENTO",NHK
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6949
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png" group-title="CANAIS ENTRETENIMENTO",NHK HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4347
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/novotempo.png" group-title="CANAIS ABERTO",Novo Tempo
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6948
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV Florianopolis" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/NSC_TV_logo.png" group-title="CANAIS GLOBO",NSC TV Florianopolis
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10275
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV Florianopolis HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/NSC_TV_logo.png" group-title="CANAIS GLOBO",NSC TV Florianopolis HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/5973
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS DE ESPORTES",OFF
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4344
+#EXTINF:-1 tvg-id="Off HD" tvg-name="OFF HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS SERVIDOR 2",OFF HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11210
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS DE ESPORTES",OFF HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6947
+#EXTINF:-1 tvg-id="Off HD" tvg-name="OFF FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS DE ESPORTES",OFF FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13211
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",Paramount
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6946
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS SERVIDOR 2",Paramount SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11208
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",Paramount HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6945
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS SERVIDOR 2",Paramount HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11018
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",Paramount FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13185
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="Play TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1551.png" group-title="CANAIS ENTRETENIMENTO",Play TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6944
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="Play TV SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1551.png" group-title="CANAIS SERVIDOR 2",Play TV SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11207
+#EXTINF:-1 tvg-id="" tvg-name="Portal Gospel TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/image.png" group-title="CANAIS RELIGIOSOS",Portal Gospel TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6207
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere Clubes
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4333
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere Clubes SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11206
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere Clubes HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6089
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere Clubes HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11017
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere Clubes FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9144
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 2
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4341
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11205
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 2 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6093
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11016
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 2 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8149
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 3
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4340
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 3 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11204
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 3 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6092
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 3 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11015
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 3 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9230
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 4
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4339
+#EXTINF:-1 tvg-id="PREMIERE HD 4" tvg-name="Premiere 4 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 4 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11203
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 4 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6091
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 4 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11014
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 4 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11552
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 5
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4338
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 5 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11202
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 5 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6090
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 5 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11013
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 5 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/9231
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 6
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4337
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 6 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11201
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 6 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10259
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 6 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11550
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 7
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4336
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 7 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11200
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 7 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10258
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 7 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11012
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 7 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11549
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 8
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4335
+#EXTINF:-1 tvg-id="" tvg-name="Premire 8 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premire 8 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11199
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",Premiere 9
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4334
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS SERVIDOR 2",Premiere 9 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11198
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids" tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/Playkids-214x214.png" group-title="CANAIS INFANTIL",PlayKids
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13136
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/Playkids-214x214.png" group-title="CANAIS INFANTIL",PlayKids HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13137
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="MUSICAS",Prime Box Brazil
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4332
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="MUSICAS",Prime Box Brazil HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10256
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="MUSICAS",Prime Box FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13184
+#EXTINF:-1 tvg-id="Globo RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/rbsrs.png" group-title="CANAIS GLOBO",RBS TV Porto Alegre
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6942
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/i.png" group-title="CANAIS DE ESPORTES",Real Madrid TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6183
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="CANAIS PORTUGAL",Rai Movie
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7665
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",Record
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4423
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS SERVIDOR 2",Record SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11197
+#EXTINF:-1 tvg-id="Record" tvg-name="Record HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",Record HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7836
+#EXTINF:-1 tvg-id="Record" tvg-name="Record HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS SERVIDOR 2",Record HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11011
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",Record Nordeste FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6938
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SP" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",Record SP
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10254
+#EXTINF:-1 tvg-id="" tvg-name="Record Rio" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",Record Rio
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13134
+#EXTINF:-1 tvg-id="" tvg-name="Record Rio HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",Record Rio HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13135
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV Minas" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",RecordTV Minas
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13133
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV Minas HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",RecordTV Minas HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13132
+#EXTINF:-1 tvg-id="" tvg-name="Record Paraiba FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS ABERTO",Record Paraiba FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13183
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="NOTICIAS",Record News
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6941
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="CANAIS SERVIDOR 2",Record News SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11196
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="NOTICIAS",Record News HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10255
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="NOTICIAS",Record News FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13200
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/rbctv.png" group-title="CANAIS ABERTO",Rede Brasil
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4421
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS ABERTO",Rede TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4420
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede Tv SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS SERVIDOR 2",Rede Tv SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11195
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS ABERTO",Rede TV HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6940
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redevida.png" group-title="CANAIS RELIGIOSOS",Rede Vida
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6939
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redevida.png" group-title="CANAIS SERVIDOR 2",Rede Vida SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11194
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redevida.png" group-title="CANAIS RELIGIOSOS",Rede Vida HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4419
+#EXTINF:-1 tvg-id="RT Documentary Channel" tvg-name="RT Documentary Channel" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fdc02682b28587aac705ec5616ab913a.png" group-title="CANAIS ENTRETENIMENTO",RT Documentary Channel
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7444
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS DE ESPORTES",SporTV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4327
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SERVIDOR 2",Sportv SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11190
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV  HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS DE ESPORTES",SporTV  HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6082
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV  HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SERVIDOR 2",SporTV  HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11006
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV  FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS DE ESPORTES",SporTV  FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11563
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS DE ESPORTES",SporTV 2
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4326
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS SERVIDOR 2",Sportv 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11189
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS DE ESPORTES",SporTV 2 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6084
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS SERVIDOR 2",SporTV 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11008
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS DE ESPORTES",SporTV 2 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11539
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS DE ESPORTES",SporTV 3
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4325
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv 3 SD [Alternativo]1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SERVIDOR 2",Sportv 3 SD [Alternativo]1
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11188
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS DE ESPORTES",SporTV 3 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6083
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SERVIDOR 2",SporTV 3 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11007
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS DE ESPORTES",SporTV 3 FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11538
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4331
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS SERVIDOR 2",SBT SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11192
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6889
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS SERVIDOR 2",SBT HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11010
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Nordeste FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT Nordeste FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11564
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP INTERIOR" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT SP INTERIOR
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10253
+#EXTINF:-1 tvg-id="" tvg-name="SBT Paraiba FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT Paraiba FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13182
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MTV_Live_HD_2013.png/170px-MTV_Live_HD_2013.png" group-title="CANAIS ENTRETENIMENTO",MTV LIVE
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10249
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MTV_Live_HD_2013.png/170px-MTV_Live_HD_2013.png" group-title="CANAIS ENTRETENIMENTO",MTV LIVE HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10248
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png" group-title="CANAIS FILMES | SERIES",Space
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4328
+#EXTINF:-1 tvg-id="Space" tvg-name="Space SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS SERVIDOR 2",Space SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11191
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",Space HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6085
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS SERVIDOR 2",Space HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11009
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",Space FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13197
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",Studio Universal
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4324
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS SERVIDOR 2",Studio Universal SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11187
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",Studio Universal HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7874
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS SERVIDOR 2",Studio Universal HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11005
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",Studio Universal FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13194
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",Syfy
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4323
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS SERVIDOR 2",Syfy SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11186
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",Syfy HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7795
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SyFy FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SyFy FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13195
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TravelBoxBrazilLogo.png" group-title="CULTURA",Travel Box Brazil FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13180
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4322
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS SERVIDOR 2",TBS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11185
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7873
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS SERVIDOR 2",TBS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11004
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4312
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS SERVIDOR 2",TNT SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11176
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6074
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS SERVIDOR 2",TNT HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10995
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13181
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-name="TNT Series" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT Series
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4311
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-name="TNT Series SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS SERVIDOR 2",TNT Series SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11175
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-name="TNT Series HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT Series HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6073
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-name="TNT Series [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS SERVIDOR 2",TNT Series [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10994
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="TELECINE/HBO",Telecine Cult
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4319
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS SERVIDOR 2",Telecine Cult SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11182
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="TELECINE/HBO",Telecine Cult HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10247
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="TELECINE/HBO",Telecine Cult FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8143
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS SERVIDOR 2",Telecine Cult HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11001
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="TELECINE/HBO",Telecine Fun
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4318
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS SERVIDOR 2",Telecine Fun SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11181
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="TELECINE/HBO",Telecine Fun HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6079
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS SERVIDOR 2",Telecine Fun HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11000
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="TELECINE/HBO",Telecine Fun FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11561
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="TELECINE/HBO",Telecine Premium
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4316
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium SD [Alternativo]1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS SERVIDOR 2",Telecine Premium SD [Alternativo]1
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11179
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="TELECINE/HBO",Telecine Premium HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6077
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="TELECINE/HBO",Telecine Premium HD*
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8192
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS SERVIDOR 2",Telecine Premium HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10998
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="TELECINE/HBO",Telecine Premium FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8140
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="TELECINE/HBO",Telecine Touch
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4315
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS SERVIDOR 2",Telecine Touch SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11178
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="TELECINE/HBO",Telecine Touch HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6076
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS SERVIDOR 2",Telecine Touch HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10997
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="TELECINE/HBO",Telecine Touch FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8145
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="TELECINE/HBO",Telecine Action
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4320
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS SERVIDOR 2",Telecine Action SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11183
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="TELECINE/HBO",Telecine Action HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6080
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS SERVIDOR 2",Telecine Action HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11002
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="TELECINE/HBO",Telecine Action FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8141
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="TELECINE/HBO",Telecine Pipoca
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4317
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca  SD [Alternativo]1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS SERVIDOR 2",Telecine Pipoca  SD [Alternativo]1
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11180
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="TELECINE/HBO",Telecine Pipoca HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6078
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS SERVIDOR 2",Telecine Pipoca HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10999
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="TELECINE/HBO",Telecine Pipoca FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8144
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS FILMES | SERIES",TCM
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4321
+#EXTINF:-1 tvg-id="TLC" tvg-name="TCM SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS SERVIDOR 2",TCM SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11184
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS SERVIDOR 2",TCM HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11003
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4313
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS SERVIDOR 2",TLC SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11177
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7872
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS SERVIDOR 2",TLC HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10996
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/terraviva.png" group-title="CANAIS ABERTO",Terra Viva
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6936
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/trutv.png" group-title="CANAIS ENTRETENIMENTO",TruTV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6935
+#EXTINF:-1 tvg-id="" tvg-name="Trut TV SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/trutv.png" group-title="CANAIS SERVIDOR 2",Trut TV SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11173
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/trutv.png" group-title="CANAIS ENTRETENIMENTO",TruTV HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10244
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png" group-title="CANAIS INFANTIL",Tooncast
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4310
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png" group-title="CANAIS SERVIDOR 2",Tooncast SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11174
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast FHD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png" group-title="CANAIS SERVIDOR 2",Tooncast FHD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10993
+#EXTINF:-1 tvg-id="TV Liberal Belém" tvg-name="TV Liberal Belem" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvliberal.png" group-title="CANAIS GLOBO",TV Liberal Belem
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/7871
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belem [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS SERVIDOR 2",TV Liberal Belem [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11356
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbrasil.png" group-title="CANAIS ABERTO",TV Brasil
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4442
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbrasil.png" group-title="CANAIS ABERTO",TV Brasil FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13196
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justica" tvg-logo="http://ghdadvogados.com.br/wp-content/uploads/2014/11/logo-TV-Justi%C3%A7a.png" group-title="CANAIS ABERTO",TV Justica
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/5970
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvescola.png" group-title="CANAIS ABERTO",TV Escola
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/5975
+#EXTINF:-1 tvg-id="" tvg-name="TV Estacao FHD" tvg-logo="http://2.bp.blogspot.com/_QA2GgFdW17E/Skpe8DplngI/AAAAAAAAADM/EfprUb2XsLk/s400/logo.png" group-title="CANAIS ABERTO",TV Estacao FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13179
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Camara" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/57714c5d2d3650532f7eb9a6.png" group-title="CANAIS ABERTO",TV Camara
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10245
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/TV_Senado.svg_.png" group-title="CANAIS ABERTO",TV Senado
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10246
+#EXTINF:-1 tvg-id="" tvg-name="TV Miramar" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/LOGO_MIRAMAR_VERTICAL.png" group-title="CANAIS ABERTO",TV Miramar
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/8108
+#EXTINF:-1 tvg-id="TV Serra Dourada" tvg-name="TV Serra Dourada" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/serra_dourada_2015_two.png" group-title="CANAIS ABERTO",TV Serra Dourada
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6931
+#EXTINF:-1 tvg-id="TV Vitória" tvg-name="TV Vitoria" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvvitoria.png" group-title="CANAIS ABERTO",TV Vitoria
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6817
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/cultura.png" group-title="CANAIS ABERTO",TV Cultura
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4412
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/cultura.png" group-title="CANAIS ABERTO",TV Cultura HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11171
+#EXTINF:-1 tvg-id="TV Rá-tim-bum [Brazil]" tvg-name="TV Ra tim bum" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvratimbum.png" group-title="CANAIS INFANTIL",TV Ra tim bum
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6933
+#EXTINF:-1 tvg-id="TV Diárioo" tvg-name="TV Diario" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvdiario.png" group-title="CANAIS ABERTO",TV Diario
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4411
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/rec-19.png" group-title="CANAIS RELIGIOSOS",TV Evangelizar
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6206
+#EXTINF:-1 tvg-id="TV5Monde Bresil" tvg-name="TV5 Monde" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-TV5Monde_Logo.svg_.png" group-title="CANAIS ENTRETENIMENTO",TV5 Monde
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6178
+#EXTINF:-1 tvg-id="TVE Bahia" tvg-name="TVE Bahia" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logotipo_da_TVE_Bahia.png" group-title="CANAIS ABERTO",TVE Bahia
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6966
+#EXTINF:-1 tvg-id="TVE HD" tvg-name="TVE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logotipo_da_TVE_Bahia.png" group-title="CANAIS ABERTO",TVE HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4440
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",Universal Channel
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4308
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channels SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS SERVIDOR 2",Universal Channels SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11169
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channels HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",Universal Channels HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/5987
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channels HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS SERVIDOR 2",Universal Channels HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10992
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channels FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",Universal Channels FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/13192
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 Megahits HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="MUSICAS",VH1 Megahits HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6929
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 Megahits" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="MUSICAS",VH1 Megahits
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10243
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="MUSICAS",VH1 HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10361
+#EXTINF:-1 tvg-id="Virgin Radio TV" tvg-name="Virgin Radio TV" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vigintv.png" group-title="CANAIS ENTRETENIMENTO",Virgin Radio TV
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4441
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",Viva
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6928
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS SERVIDOR 2",Viva SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11168
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",Viva HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6848
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS SERVIDOR 2",Viva HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10991
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="MUSICAS",Viva FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11537
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner Channel" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",Warner Channel
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/4307
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner Channel SD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS SERVIDOR 2",Warner Channel SD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11167
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner Channel HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",Warner Channel HD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/6072
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner Channel HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS SERVIDOR 2",Warner Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/10990
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner Channel FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",Warner Channel FHD
+http://painel.ebanonet.com.br:25461/jp0b1jl8/jl80b1jl8/11525
