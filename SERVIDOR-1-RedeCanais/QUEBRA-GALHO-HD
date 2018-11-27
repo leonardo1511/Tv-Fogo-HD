@@ -10,7 +10,23 @@
 <thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
-</item>	    
+</item>	 
+
+<item>
+<title>[COLOR white][B][COLOR white]REDE CIDADE VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://rtmp.cdn.upx.net.br/kwjqp/smil:cidadeviva.smil/chunklist_b2130000.m3u8?40c77181fe8b19d791f3877f0a525afa</link>
+<thumbnail>http://1.bp.blogspot.com/-Hl096lozcn0/Tizx6rwWH1I/AAAAAAAADts/_FS4pe14SE4/s640/RCV_logo.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]A Fazenda 10[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/afazenda.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://ler9.files.wordpress.com/2012/08/a-fazenda1.jpg</thumbnail>
+<fanart>https://ler9.files.wordpress.com/2012/08/a-fazenda1.jpg</fanart>
+<info></info>
+</item>
 	    
 <item>
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
