@@ -40,4 +40,12 @@
 <info>TV FOGO HD</info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 4[/COLOR] [COLOR gold]TESTE TEMPORARIO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/TESTE-TEMPORARIO</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
 
