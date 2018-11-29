@@ -41,41 +41,9 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: A[/COLOR] [COLOR gold]SD / HD[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/TESTE-1</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: B[/COLOR] [COLOR gold]SD / HD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/TESTE-2</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: C[/COLOR] [COLOR gold]SD / HD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/TESTE-3</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: D[/COLOR] [COLOR gold]SD / HD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/TESTE-4</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: E[/COLOR] [COLOR gold]SD / HD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/TESTE-5</externallink>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/OPCAO-4</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
