@@ -1,0 +1,486 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1583.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV HD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/12864.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV HD FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/11472.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV  2 FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29614.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV HD 2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1619.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV  3 FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29615.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER CLUBES FHD 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13796.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER CLUBES FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29899.ts 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER CLUBES HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/12857.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 2 FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13796.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 2 HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1717.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 3 HD 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1721.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 3 HD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13496.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 4 HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1722.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 4 HD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13497.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 5 FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/17050.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 6 HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/208.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 6 HD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/27417.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 7 HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/207.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 7 HD serv-2 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/27418.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 8 -720
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/206.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 9 -720
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/205.ts 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13523.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21687.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1588.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 2 FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31261.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 2 FHD serv-2 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13849.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13850.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPORTE INTERATIVO FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13852.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31197.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31197.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT HD serv-2 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31616.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21661.ts 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/20885.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31193.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31166.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PREMIUM HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1631.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PREMIUM HD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29713.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PIPOCA FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29607.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29609.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29605.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE FUN FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29608.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE CULT FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29604.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGINATURE FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/20939.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGINATURE FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31209.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO FAMILY FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/20940.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO PLUS FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/20941.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO PLUS FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31210.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX PRIME FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31207.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX PRIME HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21724.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MAX UP FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31206.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MAX UP FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21726.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31208.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31236.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21111.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31237.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT SERIES HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21728.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY CHANNEL HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1611.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1497.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CIVILIZATION FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31231.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY SCIENCE FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31230.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY THEATER FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/20990.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY THEATER FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31229.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY WORlD FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13853.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31224.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , UNIVERSAL TV FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31233.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESTUDIO UNIVERSAL FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31234.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31235.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/30184.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29951.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31227.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21194.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31225.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/30185.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21196.ts 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31238.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SONY FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31241.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TBS FHD 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31239.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TBS HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21756.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FILM & ARTS -853
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31445.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1861.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2 FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31247.ts
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NATIONAL GEOGRAFIC FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31254.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31243.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31244.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ID FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31246.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FISH  TV HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/30182.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FISH TV HD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21675.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FISH TV FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31429.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MULTI SHOW FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29900.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/20991.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  COMEDY CENTRAL FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31205.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31205.ts
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31248.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MTV LIVE HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29782.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV LIVE FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31202.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VH1 FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31253.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VH1 HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21709.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21674.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1740.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BIS FHD serv-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/30180.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS HD SERV-2
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21705.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PRIME BOX BRASIL FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31201.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PRIME BOX BRASIL HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21698.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MUSIC BOX BRASIL FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31200.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MUSIC BOX BRASIL HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21699.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TRUE TV FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31199.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TRUE TV HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21707.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31203.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21711.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANAL OFF HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21712.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , Woohoo FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31256.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TCL FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31257.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOOD NET WORK FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31258.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOOD NET WORK HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21716.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  !E FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31260.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  LIFE TIME FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31259.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  LIFE TIME HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21720.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  ART FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31198.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13844.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13839.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HISTORY FHD 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13835.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  VIVA FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13815.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WANER CHANNEL FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/13814.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTOON NETWORK FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31178.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY KIDS FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31232.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PLAY KIDS FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31267.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PLAY KIDS HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31268.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY CHANNEL HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21178.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISNEY JR FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31240.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICKELODEON HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21182.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICK JR FHD 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31251.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NICK JR HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21187.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21184.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBINHO FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31192.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO KIDS FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31252.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV RATIBUM FHD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31195.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV RATIBUM HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21654.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , APENAS UM SHOW HD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/29802.ts  
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PREMIUM SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21114.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21723.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21729.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANX SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31228.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TBS SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21757.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY CIVILIZATION SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/26380.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISCOVERY SCIENCE SD 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/26381.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NATIONAL GEOGRAFIC SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31255.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD S
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/31245.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  VIVA SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/19991.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  VH1 SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21710.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  BIS SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21706.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PRIME BOX SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1781.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E SD 
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1487.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANAL OFF SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21713.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WHOOHOO SD                
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21715.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOOD NET WORK SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21717.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , !E SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/1712.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  DISNEY CHANNEL SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21179.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY JR SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21186.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NICKELODEON SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21183.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICK JR SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21188.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG SD
+http://dns.infinitytv.xyz:8000/live/daphne/daphne/21191.ts
