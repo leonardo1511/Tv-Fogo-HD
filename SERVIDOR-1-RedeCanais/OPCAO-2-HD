@@ -873,10 +873,8 @@
 
 <item>
 <title>[COLOR white][B]CNN Espanhol[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/?path=/root/Video&action=play_video&videoid=XqBByfhehS8</link>
+<utube>XqBByfhehS8</utube>
 <thumbnail>https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png</thumbnail>
 <fanart></fanart>
-<info></info>
 </item>
-
 
