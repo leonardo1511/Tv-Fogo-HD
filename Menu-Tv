@@ -1,5 +1,13 @@
 <channels>
 </channels>
+<channels> 
+<channel>
+<name>[COLOR white][B]PEÇA SEU TESTE GRÁTIS POR 2 HORAS[/B][/COLOR]</name>
+<externallink>HTTP://</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
 <channel>
 <name>[COLOR white][B]SERVIDOR: 1[/B][/COLOR] [COLOR yellow][B][REDECANAIS][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
