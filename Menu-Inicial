@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>[COLOR white][B]PEÇA SEU TESTE GRÁTIS POR 2 HORAS[/B][/COLOR]</name>
+<externallink>HTTP://</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Servidor Iptv Tv Fogo HD</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Menu-Tv</externallink>
