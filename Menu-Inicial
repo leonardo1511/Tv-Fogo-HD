@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]ANIMES[/COLOR]  [COLOR red]Atualizando Aguarde...[/COLOR][/B]</name>
+<name>[B][COLOR orange]●[/COLOR] [COLOR white]ANIMES[/COLOR]  [COLOR red]Atualizando Aguarde...[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/yRfOGcs.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
@@ -47,7 +47,7 @@
 <thumbnail>https://i.imgur.com/5dBCyGj.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenho</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info>TV FOGO HD - Estamos em atualização. Todos os desenhos estão OFF...</info>
+<info>TV FOGO HD</info>
 </channel>
 
 <channel>
