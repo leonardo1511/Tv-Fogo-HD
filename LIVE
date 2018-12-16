@@ -5,6 +5,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]CANAL RICOS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]|Referer=$doregex[BP2]</link>
 <regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]band</page></regex>
