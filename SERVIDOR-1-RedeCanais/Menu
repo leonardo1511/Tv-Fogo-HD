@@ -24,18 +24,3 @@
 <info>TV FOGO HD</info>
 </channel>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/HD</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO: 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/SERVIDOR-1-RedeCanais/SD</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
