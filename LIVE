@@ -1,0 +1,491 @@
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/LwtXftR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]band</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]rio</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]record</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/KejL8N6.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discovery</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoverycivil</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoveryscience</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoverytheater</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoverywolrd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]history</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]h2</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]natgeowild</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoveryturbo</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]espn</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]espnbr</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]foxsport</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]sportv</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]sportv2</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]ae</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]amc</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]axnhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]cinemax</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]fox</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]foxpremium</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]foxpremium2</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]fx</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hbo</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hbo2</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hboplus</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hbosignature</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]max</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]maxup</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]megapix</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcaction</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcfun</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcpipoca</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcpremiun</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tnt</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]UNIVERSAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]universalhd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]bomerang</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]disney</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]disneyxd</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]gloob</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]nickjr</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ZOOMOO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]zoomoo</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/zoomoo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]comedycentral</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY ID[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoveryid</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]mtv</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]viva</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/qrOmPHN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]bandnews</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
+<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]recordnews</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
+<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png</thumbnail>
+</item>
