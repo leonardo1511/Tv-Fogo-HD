@@ -1,499 +1,305 @@
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/LwtXftR.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CANAL RICOS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
-<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]band</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]rio</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]record</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/KejL8N6.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discovery</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoverycivil</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoveryscience</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoverytheater</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoverywolrd</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]history</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]H2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]h2</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]natgeowild</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoveryturbo</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]espn</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]espnbr</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]foxsport</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]sportv</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]sportv2</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]ae</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]amc</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]axnhd</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]cinemax</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]fox</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]foxpremium</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]foxpremium2</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]fx</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hbo</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hbo2</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hboplus</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]hbosignature</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]max</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]maxup</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]megapix</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcaction</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcfun</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcpipoca</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tcpremiun</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]tnt</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]UNIVERSAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]universalhd</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]bomerang</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]disney</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]disneyxd</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]gloob</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]nickjr</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ZOOMOO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]zoomoo</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/zoomoo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]comedycentral</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY ID[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]discoveryid</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_investigation.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]mtv</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]viva</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/qrOmPHN.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]bandnews</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live1</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]|Referer=$doregex[BP2]</link>
-<regex><name>BP1</name><expres>"(.*m3u8.*?)"</expres><page>$doregex[BP2]recordnews</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.b32decode("$doregex[LIVE]")</expres><page></page></regex>
-<regex><name>LIVE</name><expres>(.*?).live2</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png</thumbnail>
-</item>
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://maxptv.ddns.net:25461/live/MA020/0706/231.ts
+#EXTINF:-1,A&E SD
+http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+#EXTINF:-1,AMC HD
+http://maxptv.ddns.net:25461/live/MA020/0706/229.ts
+#EXTINF:-1,AMC SD
+http://maxptv.ddns.net:25461/live/MA020/0706/228.ts
+#EXTINF:-1,AXN HD
+http://maxptv.ddns.net:25461/live/MA020/0706/224.ts
+#EXTINF:-1,AXN SD
+http://maxptv.ddns.net:25461/live/MA020/0706/223.ts
+#EXTINF:-1,Animal Planet HD
+http://maxptv.ddns.net:25461/live/MA020/0706/227.ts
+#EXTINF:-1,Animal Planet SD
+http://maxptv.ddns.net:25461/live/MA020/0706/232.ts
+#EXTINF:-1,Arte1 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/226.ts
+#EXTINF:-1,Arte1 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/225.ts
+#EXTINF:-1,BIS HD
+http://maxptv.ddns.net:25461/live/MA020/0706/212.ts
+#EXTINF:-1,BIS SD
+http://maxptv.ddns.net:25461/live/MA020/0706/211.ts
+#EXTINF:-1,BabyTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/222.ts
+#EXTINF:-1,BabyTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/221.ts
+#EXTINF:-1,Band Campinas HD
+http://maxptv.ddns.net:25461/live/MA020/0706/220.ts
+#EXTINF:-1,Band Campinas SD
+http://maxptv.ddns.net:25461/live/MA020/0706/219.ts
+#EXTINF:-1,Band News HD
+http://maxptv.ddns.net:25461/live/MA020/0706/218.ts
+#EXTINF:-1,Band News SD
+http://maxptv.ddns.net:25461/live/MA020/0706/217.ts
+#EXTINF:-1,BandSports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/216.ts
+#EXTINF:-1,BandSports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/215.ts
+#EXTINF:-1,Boomerang HD
+http://maxptv.ddns.net:25461/live/MA020/0706/210.ts
+#EXTINF:-1,Boomerang SD
+http://maxptv.ddns.net:25461/live/MA020/0706/209.ts
+#EXTINF:-1,Canal Curta! HD
+http://maxptv.ddns.net:25461/live/MA020/0706/208.ts
+#EXTINF:-1,Canal Curta! SD
+http://maxptv.ddns.net:25461/live/MA020/0706/207.ts
+#EXTINF:-1,Canal Futura HD
+http://maxptv.ddns.net:25461/live/MA020/0706/206.ts
+#EXTINF:-1,Canal Futura SD
+http://maxptv.ddns.net:25461/live/MA020/0706/205.ts
+#EXTINF:-1,Canal OFF HD
+http://maxptv.ddns.net:25461/live/MA020/0706/204.ts
+#EXTINF:-1,Canal OFF SD
+http://maxptv.ddns.net:25461/live/MA020/0706/203.ts
+#EXTINF:-1,Canal Woohoo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/202.ts
+#EXTINF:-1,Canal Woohoo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/201.ts
+#EXTINF:-1,Cartoon Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/200.ts
+#EXTINF:-1,Cartoon Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/199.ts
+#EXTINF:-1,Cinemax HD
+http://maxptv.ddns.net:25461/live/MA020/0706/198.ts
+#EXTINF:-1,Cinemax SD
+http://maxptv.ddns.net:25461/live/MA020/0706/197.ts
+#EXTINF:-1,Combate HD
+http://maxptv.ddns.net:25461/live/MA020/0706/196.ts
+#EXTINF:-1,Combate SD
+http://maxptv.ddns.net:25461/live/MA020/0706/195.ts
+#EXTINF:-1,Comedy Central HD
+http://maxptv.ddns.net:25461/live/MA020/0706/194.ts
+#EXTINF:-1,Comedy Central SD
+http://maxptv.ddns.net:25461/live/MA020/0706/193.ts
+#EXTINF:-1,Cultura HD
+http://maxptv.ddns.net:25461/live/MA020/0706/192.ts
+#EXTINF:-1,Cultura SD
+http://maxptv.ddns.net:25461/live/MA020/0706/191.ts
+#EXTINF:-1,Discovery Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/190.ts
+#EXTINF:-1,Discovery Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/189.ts
+#EXTINF:-1,Discovery Civilization HD
+http://maxptv.ddns.net:25461/live/MA020/0706/188.ts
+#EXTINF:-1,Discovery Civilization SD
+http://maxptv.ddns.net:25461/live/MA020/0706/187.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.ddns.net:25461/live/MA020/0706/186.ts
+#EXTINF:-1,Discovery Home & Health SD
+http://maxptv.ddns.net:25461/live/MA020/0706/185.ts
+#EXTINF:-1,Discovery Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/184.ts
+#EXTINF:-1,Discovery Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/183.ts
+#EXTINF:-1,Discovery Science HD
+http://maxptv.ddns.net:25461/live/MA020/0706/182.ts
+#EXTINF:-1,Discovery Science SD
+http://maxptv.ddns.net:25461/live/MA020/0706/181.ts
+#EXTINF:-1,Discovery Theater HD
+http://maxptv.ddns.net:25461/live/MA020/0706/180.ts
+#EXTINF:-1,Discovery Turbo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/178.ts
+#EXTINF:-1,Discovery Turbo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/177.ts
+#EXTINF:-1,Discovery World HD
+http://maxptv.ddns.net:25461/live/MA020/0706/176.ts
+#EXTINF:-1,Discovery World SD
+http://maxptv.ddns.net:25461/live/MA020/0706/175.ts
+#EXTINF:-1,Discovery theater SD
+http://maxptv.ddns.net:25461/live/MA020/0706/179.ts
+#EXTINF:-1,Disney Channel  HD
+http://maxptv.ddns.net:25461/live/MA020/0706/174.ts
+#EXTINF:-1,Disney Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/173.ts
+#EXTINF:-1,Disney Junior HD
+http://maxptv.ddns.net:25461/live/MA020/0706/172.ts
+#EXTINF:-1,Disney Junior SD
+http://maxptv.ddns.net:25461/live/MA020/0706/171.ts
+#EXTINF:-1,Disney XD HD
+http://maxptv.ddns.net:25461/live/MA020/0706/170.ts
+#EXTINF:-1,Disney XD SD
+http://maxptv.ddns.net:25461/live/MA020/0706/169.ts
+#EXTINF:-1,E! HD
+http://maxptv.ddns.net:25461/live/MA020/0706/168.ts
+#EXTINF:-1,E! SD
+http://maxptv.ddns.net:25461/live/MA020/0706/167.ts
+#EXTINF:-1,EPTV Campinas HD
+http://maxptv.ddns.net:25461/live/MA020/0706/166.ts
+#EXTINF:-1,EPTV Campinas HD Alternativo
+http://maxptv.ddns.net:25461/live/MA020/0706/475.ts
+#EXTINF:-1,EPTV Campinas HD Alternativo 2
+http://maxptv.ddns.net:25461/live/MA020/0706/476.ts
+#EXTINF:-1,EPTV Campinas SD
+http://maxptv.ddns.net:25461/live/MA020/0706/165.ts
+#EXTINF:-1,Espn Brasil HD
+http://maxptv.ddns.net:25461/live/MA020/0706/164.ts
+#EXTINF:-1,Espn Brasil SD
+http://maxptv.ddns.net:25461/live/MA020/0706/163.ts
+#EXTINF:-1,Espn HD
+http://maxptv.ddns.net:25461/live/MA020/0706/160.ts
+#EXTINF:-1,Espn 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/162.ts
+#EXTINF:-1,Espn SD
+http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
+#EXTINF:-1,Espn 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/161.ts
+#EXTINF:-1,Espn Extra HD
+http://maxptv.ddns.net:25461/live/MA020/0706/158.ts
+#EXTINF:-1,Espn Extra SD
+http://maxptv.ddns.net:25461/live/MA020/0706/157.ts
+#EXTINF:-1,Film & Arts HD
+http://maxptv.ddns.net:25461/live/MA020/0706/156.ts
+#EXTINF:-1,Film & Arts SD
+http://maxptv.ddns.net:25461/live/MA020/0706/155.ts
+#EXTINF:-1,FOX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/154.ts
+#EXTINF:-1,FOX Life HD
+http://maxptv.ddns.net:25461/live/MA020/0706/153.ts
+#EXTINF:-1,FOX Life SD
+http://maxptv.ddns.net:25461/live/MA020/0706/152.ts
+#EXTINF:-1,FOX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/147.ts
+#EXTINF:-1,FX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/142.ts
+#EXTINF:-1,FX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/141.ts
+#EXTINF:-1,Fish Tv
+http://maxptv.ddns.net:25461/live/MA020/0706/214.ts
+#EXTINF:-1,Fish Tv HD
+http://maxptv.ddns.net:25461/live/MA020/0706/213.ts
+#EXTINF:-1,Food Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/333.ts
+#EXTINF:-1,Food Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/334.ts
+#EXTINF:-1,Fox Premium 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/151.ts
+#EXTINF:-1,Fox Premium 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/150.ts
+#EXTINF:-1,Fox Premium HD
+http://maxptv.ddns.net:25461/live/MA020/0706/149.ts
+#EXTINF:-1,Fox Premium SD
+http://maxptv.ddns.net:25461/live/MA020/0706/148.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:-1,Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+#EXTINF:-1,Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:-1,GNT HD
+http://maxptv.ddns.net:25461/live/MA020/0706/136.ts
+#EXTINF:-1,GNT SD
+http://maxptv.ddns.net:25461/live/MA020/0706/135.ts
+#EXTINF:-1,GloboNews HD
+http://maxptv.ddns.net:25461/live/MA020/0706/140.ts
+#EXTINF:-1,GloboNews SD
+http://maxptv.ddns.net:25461/live/MA020/0706/139.ts
+#EXTINF:-1,Gloob HD
+http://maxptv.ddns.net:25461/live/MA020/0706/138.ts
+#EXTINF:-1,Gloob SD
+http://maxptv.ddns.net:25461/live/MA020/0706/137.ts
+#EXTINF:-1,H2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/134.ts
+#EXTINF:-1,H2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/133.ts
+#EXTINF:-1,HBO 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
+#EXTINF:-1,HBO 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
+#EXTINF:-1,HBO Family HD
+http://maxptv.ddns.net:25461/live/MA020/0706/130.ts
+#EXTINF:-1,HBO Family SD
+http://maxptv.ddns.net:25461/live/MA020/0706/129.ts
+#EXTINF:-1,HBO HD
+http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
+#EXTINF:-1,HBO Plus *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/127.ts
+#EXTINF:-1,HBO Plus *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/126.ts
+#EXTINF:-1,HBO Plus HD
+http://maxptv.ddns.net:25461/live/MA020/0706/125.ts
+#EXTINF:-1,HBO Plus SD
+http://maxptv.ddns.net:25461/live/MA020/0706/124.ts
+#EXTINF:-1,HBO SD
+http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
+#EXTINF:-1,HBO Signature HD
+http://maxptv.ddns.net:25461/live/MA020/0706/122.ts
+#EXTINF:-1,HBO Signature SD
+http://maxptv.ddns.net:25461/live/MA020/0706/121.ts
+#EXTINF:-1,History Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/120.ts
+#EXTINF:-1,History Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/119.ts
+#EXTINF:-1,ID HD
+http://maxptv.ddns.net:25461/live/MA020/0706/118.ts
+#EXTINF:-1,ID SD
+http://maxptv.ddns.net:25461/live/MA020/0706/117.ts
+#EXTINF:-1,Lifetime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/116.ts
+#EXTINF:-1,Lifetime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/115.ts
+#EXTINF:-1,MAX Prime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/109.ts
+#EXTINF:-1,MAX Prime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/108.ts
+#EXTINF:-1,MTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/102.ts
+#EXTINF:-1,MTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/101.ts
+#EXTINF:-1,MULTISHOW HD
+http://maxptv.ddns.net:25461/live/MA020/0706/100.ts
+#EXTINF:-1,MULTISHOW SD
+http://maxptv.ddns.net:25461/live/MA020/0706/99.ts
+#EXTINF:-1,Mais Globosat HD
+http://maxptv.ddns.net:25461/live/MA020/0706/114.ts
+#EXTINF:-1,Mais Globosat SD
+http://maxptv.ddns.net:25461/live/MA020/0706/113.ts
+#EXTINF:-1,Max HD
+http://maxptv.ddns.net:25461/live/MA020/0706/112.ts
+#EXTINF:-1,Max Prime *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/111.ts
+#EXTINF:-1,Max Prime *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/110.ts
+#EXTINF:-1,Max SD
+http://maxptv.ddns.net:25461/live/MA020/0706/107.ts
+#EXTINF:-1,Max UP HD
+http://maxptv.ddns.net:25461/live/MA020/0706/106.ts
+#EXTINF:-1,Max UP SD
+http://maxptv.ddns.net:25461/live/MA020/0706/105.ts
+#EXTINF:-1,Megapix HD
+http://maxptv.ddns.net:25461/live/MA020/0706/104.ts
+#EXTINF:-1,Megapix SD
+http://maxptv.ddns.net:25461/live/MA020/0706/103.ts
+#EXTINF:-1,NHK HD
+http://maxptv.ddns.net:25461/live/MA020/0706/92.ts
+#EXTINF:-1,NHK SD
+http://maxptv.ddns.net:25461/live/MA020/0706/91.ts
+#EXTINF:-1,Nat Geo Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/98.ts
+#EXTINF:-1,Nat Geo Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/97.ts
+#EXTINF:-1,NatGeo Wild HD
+http://maxptv.ddns.net:25461/live/MA020/0706/96.ts
+#EXTINF:-1,NatGeo Wild SD
+http://maxptv.ddns.net:25461/live/MA020/0706/95.ts
+#EXTINF:-1,National Geographic HD
+http://maxptv.ddns.net:25461/live/MA020/0706/94.ts
+#EXTINF:-1,National Geographic SD
+http://maxptv.ddns.net:25461/live/MA020/0706/93.ts
+#EXTINF:-1,Nick Jr HD
+http://maxptv.ddns.net:25461/live/MA020/0706/90.ts
+#EXTINF:-1,Nick Jr SD
+http://maxptv.ddns.net:25461/live/MA020/0706/89.ts
+#EXTINF:-1,Nickelodeon HD
+http://maxptv.ddns.net:25461/live/MA020/0706/88.ts
+#EXTINF:-1,Nickelodeon SD
+http://maxptv.ddns.net:25461/live/MA020/0706/87.ts
+#EXTINF:-1,Paramount Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/86.ts
+#EXTINF:-1,Paramount Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/85.ts
