@@ -1,305 +1,305 @@
 #EXTM3U
 #EXTINF:-1,A&E HD
-http://maxptv.ddns.net:25461/live/MA020/0706/231.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/231.ts&name=TvFogoHD
 #EXTINF:-1,A&E SD
-http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/230.ts&name=TvFogoHD
 #EXTINF:-1,AMC HD
-http://maxptv.ddns.net:25461/live/MA020/0706/229.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/229.ts&name=TvFogoHD
 #EXTINF:-1,AMC SD
-http://maxptv.ddns.net:25461/live/MA020/0706/228.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/228.ts&name=TvFogoHD
 #EXTINF:-1,AXN HD
-http://maxptv.ddns.net:25461/live/MA020/0706/224.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/224.ts&name=TvFogoHD
 #EXTINF:-1,AXN SD
-http://maxptv.ddns.net:25461/live/MA020/0706/223.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/223.ts&name=TvFogoHD
 #EXTINF:-1,Animal Planet HD
-http://maxptv.ddns.net:25461/live/MA020/0706/227.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/227.ts&name=TvFogoHD
 #EXTINF:-1,Animal Planet SD
-http://maxptv.ddns.net:25461/live/MA020/0706/232.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/232.ts&name=TvFogoHD
 #EXTINF:-1,Arte1 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/226.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/226.ts&name=TvFogoHD
 #EXTINF:-1,Arte1 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/225.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/225.ts&name=TvFogoHD
 #EXTINF:-1,BIS HD
-http://maxptv.ddns.net:25461/live/MA020/0706/212.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/212.ts&name=TvFogoHD
 #EXTINF:-1,BIS SD
-http://maxptv.ddns.net:25461/live/MA020/0706/211.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/211.ts&name=TvFogoHD
 #EXTINF:-1,BabyTV HD
-http://maxptv.ddns.net:25461/live/MA020/0706/222.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/222.ts&name=TvFogoHD
 #EXTINF:-1,BabyTV SD
-http://maxptv.ddns.net:25461/live/MA020/0706/221.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/221.ts&name=TvFogoHD
 #EXTINF:-1,Band Campinas HD
-http://maxptv.ddns.net:25461/live/MA020/0706/220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/220.ts&name=TvFogoHD
 #EXTINF:-1,Band Campinas SD
-http://maxptv.ddns.net:25461/live/MA020/0706/219.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/219.ts&name=TvFogoHD
 #EXTINF:-1,Band News HD
-http://maxptv.ddns.net:25461/live/MA020/0706/218.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/218.ts&name=TvFogoHD
 #EXTINF:-1,Band News SD
-http://maxptv.ddns.net:25461/live/MA020/0706/217.ts
-#EXTINF:-1,BandSports HD
-http://maxptv.ddns.net:25461/live/MA020/0706/216.ts
-#EXTINF:-1,BandSports SD
-http://maxptv.ddns.net:25461/live/MA020/0706/215.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/217.ts&name=TvFogoHD
+#EXTINF:-1,BandSports&name=TvFogoHD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/216.ts&name=TvFogoHD
+#EXTINF:-1,BandSports&name=TvFogoHD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/215.ts&name=TvFogoHD
 #EXTINF:-1,Boomerang HD
-http://maxptv.ddns.net:25461/live/MA020/0706/210.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/210.ts&name=TvFogoHD
 #EXTINF:-1,Boomerang SD
-http://maxptv.ddns.net:25461/live/MA020/0706/209.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/209.ts&name=TvFogoHD
 #EXTINF:-1,Canal Curta! HD
-http://maxptv.ddns.net:25461/live/MA020/0706/208.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/208.ts&name=TvFogoHD
 #EXTINF:-1,Canal Curta! SD
-http://maxptv.ddns.net:25461/live/MA020/0706/207.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/207.ts&name=TvFogoHD
 #EXTINF:-1,Canal Futura HD
-http://maxptv.ddns.net:25461/live/MA020/0706/206.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/206.ts&name=TvFogoHD
 #EXTINF:-1,Canal Futura SD
-http://maxptv.ddns.net:25461/live/MA020/0706/205.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/205.ts&name=TvFogoHD
 #EXTINF:-1,Canal OFF HD
-http://maxptv.ddns.net:25461/live/MA020/0706/204.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/204.ts&name=TvFogoHD
 #EXTINF:-1,Canal OFF SD
-http://maxptv.ddns.net:25461/live/MA020/0706/203.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/203.ts&name=TvFogoHD
 #EXTINF:-1,Canal Woohoo HD
-http://maxptv.ddns.net:25461/live/MA020/0706/202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/202.ts&name=TvFogoHD
 #EXTINF:-1,Canal Woohoo SD
-http://maxptv.ddns.net:25461/live/MA020/0706/201.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/201.ts&name=TvFogoHD
 #EXTINF:-1,Cartoon Network HD
-http://maxptv.ddns.net:25461/live/MA020/0706/200.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/200.ts&name=TvFogoHD
 #EXTINF:-1,Cartoon Network SD
-http://maxptv.ddns.net:25461/live/MA020/0706/199.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/199.ts&name=TvFogoHD
 #EXTINF:-1,Cinemax HD
-http://maxptv.ddns.net:25461/live/MA020/0706/198.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/198.ts&name=TvFogoHD
 #EXTINF:-1,Cinemax SD
-http://maxptv.ddns.net:25461/live/MA020/0706/197.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/197.ts&name=TvFogoHD
 #EXTINF:-1,Combate HD
-http://maxptv.ddns.net:25461/live/MA020/0706/196.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/196.ts&name=TvFogoHD
 #EXTINF:-1,Combate SD
-http://maxptv.ddns.net:25461/live/MA020/0706/195.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/195.ts&name=TvFogoHD
 #EXTINF:-1,Comedy Central HD
-http://maxptv.ddns.net:25461/live/MA020/0706/194.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/194.ts&name=TvFogoHD
 #EXTINF:-1,Comedy Central SD
-http://maxptv.ddns.net:25461/live/MA020/0706/193.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/193.ts&name=TvFogoHD
 #EXTINF:-1,Cultura HD
-http://maxptv.ddns.net:25461/live/MA020/0706/192.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/192.ts&name=TvFogoHD
 #EXTINF:-1,Cultura SD
-http://maxptv.ddns.net:25461/live/MA020/0706/191.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/191.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Channel HD
-http://maxptv.ddns.net:25461/live/MA020/0706/190.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/190.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Channel SD
-http://maxptv.ddns.net:25461/live/MA020/0706/189.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/189.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Civilization HD
-http://maxptv.ddns.net:25461/live/MA020/0706/188.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/188.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Civilization SD
-http://maxptv.ddns.net:25461/live/MA020/0706/187.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/187.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Home & Health HD
-http://maxptv.ddns.net:25461/live/MA020/0706/186.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/186.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Home & Health SD
-http://maxptv.ddns.net:25461/live/MA020/0706/185.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/185.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Kids HD
-http://maxptv.ddns.net:25461/live/MA020/0706/184.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/184.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Kids SD
-http://maxptv.ddns.net:25461/live/MA020/0706/183.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/183.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Science HD
-http://maxptv.ddns.net:25461/live/MA020/0706/182.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/182.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Science SD
-http://maxptv.ddns.net:25461/live/MA020/0706/181.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/181.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Theater HD
-http://maxptv.ddns.net:25461/live/MA020/0706/180.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/180.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Turbo HD
-http://maxptv.ddns.net:25461/live/MA020/0706/178.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/178.ts&name=TvFogoHD
 #EXTINF:-1,Discovery Turbo SD
-http://maxptv.ddns.net:25461/live/MA020/0706/177.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/177.ts&name=TvFogoHD
 #EXTINF:-1,Discovery World HD
-http://maxptv.ddns.net:25461/live/MA020/0706/176.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/176.ts&name=TvFogoHD
 #EXTINF:-1,Discovery World SD
-http://maxptv.ddns.net:25461/live/MA020/0706/175.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/175.ts&name=TvFogoHD
 #EXTINF:-1,Discovery theater SD
-http://maxptv.ddns.net:25461/live/MA020/0706/179.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/179.ts&name=TvFogoHD
 #EXTINF:-1,Disney Channel  HD
-http://maxptv.ddns.net:25461/live/MA020/0706/174.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/174.ts&name=TvFogoHD
 #EXTINF:-1,Disney Channel SD
-http://maxptv.ddns.net:25461/live/MA020/0706/173.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/173.ts&name=TvFogoHD
 #EXTINF:-1,Disney Junior HD
-http://maxptv.ddns.net:25461/live/MA020/0706/172.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/172.ts&name=TvFogoHD
 #EXTINF:-1,Disney Junior SD
-http://maxptv.ddns.net:25461/live/MA020/0706/171.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/171.ts&name=TvFogoHD
 #EXTINF:-1,Disney XD HD
-http://maxptv.ddns.net:25461/live/MA020/0706/170.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/170.ts&name=TvFogoHD
 #EXTINF:-1,Disney XD SD
-http://maxptv.ddns.net:25461/live/MA020/0706/169.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/169.ts&name=TvFogoHD
 #EXTINF:-1,E! HD
-http://maxptv.ddns.net:25461/live/MA020/0706/168.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/168.ts&name=TvFogoHD
 #EXTINF:-1,E! SD
-http://maxptv.ddns.net:25461/live/MA020/0706/167.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/167.ts&name=TvFogoHD
 #EXTINF:-1,EPTV Campinas HD
-http://maxptv.ddns.net:25461/live/MA020/0706/166.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/166.ts&name=TvFogoHD
 #EXTINF:-1,EPTV Campinas HD Alternativo
-http://maxptv.ddns.net:25461/live/MA020/0706/475.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/475.ts&name=TvFogoHD
 #EXTINF:-1,EPTV Campinas HD Alternativo 2
-http://maxptv.ddns.net:25461/live/MA020/0706/476.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/476.ts&name=TvFogoHD
 #EXTINF:-1,EPTV Campinas SD
-http://maxptv.ddns.net:25461/live/MA020/0706/165.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/165.ts&name=TvFogoHD
 #EXTINF:-1,Espn Brasil HD
-http://maxptv.ddns.net:25461/live/MA020/0706/164.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/164.ts&name=TvFogoHD
 #EXTINF:-1,Espn Brasil SD
-http://maxptv.ddns.net:25461/live/MA020/0706/163.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/163.ts&name=TvFogoHD
 #EXTINF:-1,Espn HD
-http://maxptv.ddns.net:25461/live/MA020/0706/160.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/160.ts&name=TvFogoHD
 #EXTINF:-1,Espn 2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/162.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/162.ts&name=TvFogoHD
 #EXTINF:-1,Espn SD
-http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/159.ts&name=TvFogoHD
 #EXTINF:-1,Espn 2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/161.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/161.ts&name=TvFogoHD
 #EXTINF:-1,Espn Extra HD
-http://maxptv.ddns.net:25461/live/MA020/0706/158.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/158.ts&name=TvFogoHD
 #EXTINF:-1,Espn Extra SD
-http://maxptv.ddns.net:25461/live/MA020/0706/157.ts
-#EXTINF:-1,Film & Arts HD
-http://maxptv.ddns.net:25461/live/MA020/0706/156.ts
-#EXTINF:-1,Film & Arts SD
-http://maxptv.ddns.net:25461/live/MA020/0706/155.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/157.ts&name=TvFogoHD
+#EXTINF:-1,Film & Arts&name=TvFogoHD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/156.ts&name=TvFogoHD
+#EXTINF:-1,Film & Arts&name=TvFogoHD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/155.ts&name=TvFogoHD
 #EXTINF:-1,FOX HD
-http://maxptv.ddns.net:25461/live/MA020/0706/154.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/154.ts&name=TvFogoHD
 #EXTINF:-1,FOX Life HD
-http://maxptv.ddns.net:25461/live/MA020/0706/153.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/153.ts&name=TvFogoHD
 #EXTINF:-1,FOX Life SD
-http://maxptv.ddns.net:25461/live/MA020/0706/152.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/152.ts&name=TvFogoHD
 #EXTINF:-1,FOX SD
-http://maxptv.ddns.net:25461/live/MA020/0706/147.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/147.ts&name=TvFogoHD
 #EXTINF:-1,FX HD
-http://maxptv.ddns.net:25461/live/MA020/0706/142.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/142.ts&name=TvFogoHD
 #EXTINF:-1,FX SD
-http://maxptv.ddns.net:25461/live/MA020/0706/141.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/141.ts&name=TvFogoHD
 #EXTINF:-1,Fish Tv
-http://maxptv.ddns.net:25461/live/MA020/0706/214.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/214.ts&name=TvFogoHD
 #EXTINF:-1,Fish Tv HD
-http://maxptv.ddns.net:25461/live/MA020/0706/213.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/213.ts&name=TvFogoHD
 #EXTINF:-1,Food Network HD
-http://maxptv.ddns.net:25461/live/MA020/0706/333.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/333.ts&name=TvFogoHD
 #EXTINF:-1,Food Network SD
-http://maxptv.ddns.net:25461/live/MA020/0706/334.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/334.ts&name=TvFogoHD
 #EXTINF:-1,Fox Premium 2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/151.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/151.ts&name=TvFogoHD
 #EXTINF:-1,Fox Premium 2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/150.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/150.ts&name=TvFogoHD
 #EXTINF:-1,Fox Premium HD
-http://maxptv.ddns.net:25461/live/MA020/0706/149.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/149.ts&name=TvFogoHD
 #EXTINF:-1,Fox Premium SD
-http://maxptv.ddns.net:25461/live/MA020/0706/148.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
-#EXTINF:-1,Fox Sports 2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
-#EXTINF:-1,Fox Sports HD
-http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
-#EXTINF:-1,Fox Sports SD
-http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/148.ts&name=TvFogoHD
+#EXTINF:-1,Fox Sports&name=TvFogoHD 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/146.ts&name=TvFogoHD
+#EXTINF:-1,Fox Sports&name=TvFogoHD 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/145.ts&name=TvFogoHD
+#EXTINF:-1,Fox Sports&name=TvFogoHD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/144.ts&name=TvFogoHD
+#EXTINF:-1,Fox Sports&name=TvFogoHD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/143.ts&name=TvFogoHD
 #EXTINF:-1,GNT HD
-http://maxptv.ddns.net:25461/live/MA020/0706/136.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/136.ts&name=TvFogoHD
 #EXTINF:-1,GNT SD
-http://maxptv.ddns.net:25461/live/MA020/0706/135.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/135.ts&name=TvFogoHD
 #EXTINF:-1,GloboNews HD
-http://maxptv.ddns.net:25461/live/MA020/0706/140.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/140.ts&name=TvFogoHD
 #EXTINF:-1,GloboNews SD
-http://maxptv.ddns.net:25461/live/MA020/0706/139.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/139.ts&name=TvFogoHD
 #EXTINF:-1,Gloob HD
-http://maxptv.ddns.net:25461/live/MA020/0706/138.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/138.ts&name=TvFogoHD
 #EXTINF:-1,Gloob SD
-http://maxptv.ddns.net:25461/live/MA020/0706/137.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/137.ts&name=TvFogoHD
 #EXTINF:-1,H2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/134.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/134.ts&name=TvFogoHD
 #EXTINF:-1,H2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/133.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/133.ts&name=TvFogoHD
 #EXTINF:-1,HBO 2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/132.ts&name=TvFogoHD
 #EXTINF:-1,HBO 2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/131.ts&name=TvFogoHD
 #EXTINF:-1,HBO Family HD
-http://maxptv.ddns.net:25461/live/MA020/0706/130.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/130.ts&name=TvFogoHD
 #EXTINF:-1,HBO Family SD
-http://maxptv.ddns.net:25461/live/MA020/0706/129.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/129.ts&name=TvFogoHD
 #EXTINF:-1,HBO HD
-http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/128.ts&name=TvFogoHD
 #EXTINF:-1,HBO Plus *e HD
-http://maxptv.ddns.net:25461/live/MA020/0706/127.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/127.ts&name=TvFogoHD
 #EXTINF:-1,HBO Plus *e SD
-http://maxptv.ddns.net:25461/live/MA020/0706/126.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/126.ts&name=TvFogoHD
 #EXTINF:-1,HBO Plus HD
-http://maxptv.ddns.net:25461/live/MA020/0706/125.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/125.ts&name=TvFogoHD
 #EXTINF:-1,HBO Plus SD
-http://maxptv.ddns.net:25461/live/MA020/0706/124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/124.ts&name=TvFogoHD
 #EXTINF:-1,HBO SD
-http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/123.ts&name=TvFogoHD
 #EXTINF:-1,HBO Signature HD
-http://maxptv.ddns.net:25461/live/MA020/0706/122.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/122.ts&name=TvFogoHD
 #EXTINF:-1,HBO Signature SD
-http://maxptv.ddns.net:25461/live/MA020/0706/121.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/121.ts&name=TvFogoHD
 #EXTINF:-1,History Channel HD
-http://maxptv.ddns.net:25461/live/MA020/0706/120.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/120.ts&name=TvFogoHD
 #EXTINF:-1,History Channel SD
-http://maxptv.ddns.net:25461/live/MA020/0706/119.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/119.ts&name=TvFogoHD
 #EXTINF:-1,ID HD
-http://maxptv.ddns.net:25461/live/MA020/0706/118.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/118.ts&name=TvFogoHD
 #EXTINF:-1,ID SD
-http://maxptv.ddns.net:25461/live/MA020/0706/117.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/117.ts&name=TvFogoHD
 #EXTINF:-1,Lifetime HD
-http://maxptv.ddns.net:25461/live/MA020/0706/116.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/116.ts&name=TvFogoHD
 #EXTINF:-1,Lifetime SD
-http://maxptv.ddns.net:25461/live/MA020/0706/115.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/115.ts&name=TvFogoHD
 #EXTINF:-1,MAX Prime HD
-http://maxptv.ddns.net:25461/live/MA020/0706/109.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/109.ts&name=TvFogoHD
 #EXTINF:-1,MAX Prime SD
-http://maxptv.ddns.net:25461/live/MA020/0706/108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/108.ts&name=TvFogoHD
 #EXTINF:-1,MTV HD
-http://maxptv.ddns.net:25461/live/MA020/0706/102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/102.ts&name=TvFogoHD
 #EXTINF:-1,MTV SD
-http://maxptv.ddns.net:25461/live/MA020/0706/101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/101.ts&name=TvFogoHD
 #EXTINF:-1,MULTISHOW HD
-http://maxptv.ddns.net:25461/live/MA020/0706/100.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/100.ts&name=TvFogoHD
 #EXTINF:-1,MULTISHOW SD
-http://maxptv.ddns.net:25461/live/MA020/0706/99.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/99.ts&name=TvFogoHD
 #EXTINF:-1,Mais Globosat HD
-http://maxptv.ddns.net:25461/live/MA020/0706/114.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/114.ts&name=TvFogoHD
 #EXTINF:-1,Mais Globosat SD
-http://maxptv.ddns.net:25461/live/MA020/0706/113.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/113.ts&name=TvFogoHD
 #EXTINF:-1,Max HD
-http://maxptv.ddns.net:25461/live/MA020/0706/112.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/112.ts&name=TvFogoHD
 #EXTINF:-1,Max Prime *e HD
-http://maxptv.ddns.net:25461/live/MA020/0706/111.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/111.ts&name=TvFogoHD
 #EXTINF:-1,Max Prime *e SD
-http://maxptv.ddns.net:25461/live/MA020/0706/110.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/110.ts&name=TvFogoHD
 #EXTINF:-1,Max SD
-http://maxptv.ddns.net:25461/live/MA020/0706/107.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/107.ts&name=TvFogoHD
 #EXTINF:-1,Max UP HD
-http://maxptv.ddns.net:25461/live/MA020/0706/106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/106.ts&name=TvFogoHD
 #EXTINF:-1,Max UP SD
-http://maxptv.ddns.net:25461/live/MA020/0706/105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/105.ts&name=TvFogoHD
 #EXTINF:-1,Megapix HD
-http://maxptv.ddns.net:25461/live/MA020/0706/104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/104.ts&name=TvFogoHD
 #EXTINF:-1,Megapix SD
-http://maxptv.ddns.net:25461/live/MA020/0706/103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/103.ts&name=TvFogoHD
 #EXTINF:-1,NHK HD
-http://maxptv.ddns.net:25461/live/MA020/0706/92.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/92.ts&name=TvFogoHD
 #EXTINF:-1,NHK SD
-http://maxptv.ddns.net:25461/live/MA020/0706/91.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/91.ts&name=TvFogoHD
 #EXTINF:-1,Nat Geo Kids HD
-http://maxptv.ddns.net:25461/live/MA020/0706/98.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/98.ts&name=TvFogoHD
 #EXTINF:-1,Nat Geo Kids SD
-http://maxptv.ddns.net:25461/live/MA020/0706/97.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/97.ts&name=TvFogoHD
 #EXTINF:-1,NatGeo Wild HD
-http://maxptv.ddns.net:25461/live/MA020/0706/96.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/96.ts&name=TvFogoHD
 #EXTINF:-1,NatGeo Wild SD
-http://maxptv.ddns.net:25461/live/MA020/0706/95.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/95.ts&name=TvFogoHD
 #EXTINF:-1,National Geographic HD
-http://maxptv.ddns.net:25461/live/MA020/0706/94.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/94.ts&name=TvFogoHD
 #EXTINF:-1,National Geographic SD
-http://maxptv.ddns.net:25461/live/MA020/0706/93.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/93.ts&name=TvFogoHD
 #EXTINF:-1,Nick Jr HD
-http://maxptv.ddns.net:25461/live/MA020/0706/90.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/90.ts&name=TvFogoHD
 #EXTINF:-1,Nick Jr SD
-http://maxptv.ddns.net:25461/live/MA020/0706/89.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/89.ts&name=TvFogoHD
 #EXTINF:-1,Nickelodeon HD
-http://maxptv.ddns.net:25461/live/MA020/0706/88.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/88.ts&name=TvFogoHD
 #EXTINF:-1,Nickelodeon SD
-http://maxptv.ddns.net:25461/live/MA020/0706/87.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/87.ts&name=TvFogoHD
 #EXTINF:-1,Paramount Channel HD
-http://maxptv.ddns.net:25461/live/MA020/0706/86.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/86.ts&name=TvFogoHD
 #EXTINF:-1,Paramount Channel SD
-http://maxptv.ddns.net:25461/live/MA020/0706/85.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://maxptv.ddns.net:25461/live/MA020/0706/85.ts&name=TvFogoHD
