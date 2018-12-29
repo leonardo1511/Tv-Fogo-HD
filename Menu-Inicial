@@ -7,7 +7,7 @@
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Menu-Tv</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info>TV FOGO HD</info>
+<info>Televisão OTT é a distribuição digital de conteúdo de televisão por meio da Internet pública, compartilhando o tráfego outros tipos de dados. Diferencia-se da televisão terrestre por via aérea, televisão a cabo ou televisão via satélite.</info>
 </channel>
 
 <channel>
@@ -15,7 +15,7 @@
 <thumbnail>https://i.imgur.com/tZ4Cybh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Menu-Filmes</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</ fanart>
-<info>TV FOGO HD</info>
+<info>Filme é um produto audiovisual finalizado, com uma certa duração, para ser exibido no cinema, na televisão ou em algum outro veículo. </info>
 </channel>
 
 <channel>
@@ -23,7 +23,7 @@
 <thumbnail>https://i.imgur.com/vA3OJ79.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info>TV FOGO HD</info>
+<info>Série de televisão, série televisiva, série de TV ou telessérie é um tipo de programa televisivo ou programa online com um número pré-definido de capítulos por temporada, chamadas episódios.</info>
 </channel>
 
 <channel>
@@ -31,7 +31,7 @@
 <thumbnail>https://i.imgur.com/yRfOGcs.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info>TV FOGO HD</info>
+<info>Anime, animê ou animé, se refere à animação que é produzida por estúdios japoneses. A palavra é a pronúncia abreviada de "animação" em japonês, onde esse termo se refere a qualquer animação. Para os ocidentais, a palavra se refere às animações oriundas do Japão.</info>
 </channel>
 
 <channel>
@@ -39,7 +39,7 @@
 <thumbnail>https://i.imgur.com/5dBCyGj.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenho</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info>TV FOGO HD</info>
+<info>O desenho é um suporte artístico ligado à produção de obras bidimensionais, diferindo, porém, da pintura e da gravura. Neste sentido, o desenho é encarado tanto como processo quanto como resultado artístico.</info>
 </channel>
 
 <channel>
@@ -47,5 +47,5 @@
 <thumbnail>https://i.imgur.com/XdhN00y.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Menu-Novelas</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info>TV FOGO HD</info>
+<info>Uma novela, em português, é um gênero literário que consiste em uma narrativa breve, sendo porém maior do que um conto e menor do que um romance. Também se caracteriza por apresentar uma espécie de concentração temática em torno de um número restrito de personagens.</info>
 </channel>
