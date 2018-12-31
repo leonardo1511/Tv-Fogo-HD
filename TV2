@@ -1,24 +1,6 @@
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/-GT0DavptpKo/VvULPtV7ulI/AAAAAAAAKpU/7Oab57aL--g/s1600/FB_IMG_1458896020615.jpg" pltv-name="Canal MH IPTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i67.tinypic.com/r1j2n6.png" pltv-author="MH IPTV" pltv-site="" pltv-email="" pltv-phone=""
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GT0DavptpKo/VvULPtV7ulI/AAAAAAAAKpU/7Oab57aL--g/s1600/FB_IMG_1458896020615.jpg" group-title="INFORMAÇÃO", INSCREVA-SE NO CANAL
-https://www.youtube.com/results?search_query=mh+iptv
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GT0DavptpKo/VvULPtV7ulI/AAAAAAAAKpU/7Oab57aL--g/s1600/FB_IMG_1458896020615.jpg" group-title="QUER VENDER LISTA",(27)99819-4873
-
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-GT0DavptpKo/VvULPtV7ulI/AAAAAAAAKpU/7Oab57aL--g/s1600/FB_IMG_1458896020615.jpg" grupo-título = "FACA UMA DOACAO", (27)-998194873
-http://bit.ly/facebook-kbrplay
-
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-GT0DavptpKo/VvULPtV7ulI/AAAAAAAAKpU/7Oab57aL--g/s1600/FB_IMG_1458896020615.jpg" grupo-título = "LISTA DE CANAIS PREMIUM", COMPRE JA
-
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-GT0DavptpKo/VvULPtV7ulI/AAAAAAAAKpU/7Oab57aL--g/s1600/FB_IMG_1458896020615.jpg"LISTA DE CANAIS PREMIUM", (27)-998194873
-
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-GT0DavptpKo/VvULPtV7ulI/AAAAAAAAKpU/7Oab57aL--g/s1600/FB_IMG_1458896020615.jpg" group-title = "Faça Uma Doaçao", AG 3139 Conta 013 00004635-0 -Conta Poupança
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="CANAIS",    GLOBO BRASILIA
 http://tv.factoryiptv.com/live/Celso02/Celso02/37095.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://iptvwebcsgo.com/logos/globodf.png" group-title="CANAIS",    GLOBO BRASILIA HD
 http://tv.factoryiptv.com/live/Celso02/Celso02/40513.m3u8
