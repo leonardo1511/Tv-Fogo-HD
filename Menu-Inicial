@@ -49,3 +49,11 @@
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
 <info>Uma novela, em português, é um gênero literário que consiste em uma narrativa breve, sendo porém maior do que um conto e menor do que um romance. Também se caracteriza por apresentar uma espécie de concentração temática em torno de um número restrito de personagens.</info>
 </channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SHOWS[/COLOR] [COLOR red][EM BREVE, AGUARDE...][/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Menu-Shows</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
