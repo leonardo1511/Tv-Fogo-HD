@@ -35,7 +35,7 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?TvFogoHD
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="CANAIS ESPORTES",Premiere
-http://apk26.futeboltvgratis.com/live/4/playlist.m3u8?TvFogoHD
+http://apk26.futeboltvgratis.com/live/20/playlist.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="CANAIS ESPORTES",ESPN Brasil
 http://apk26.futeboltvgratis.com/live/19/playlist.m3u8?TvFogoHD
