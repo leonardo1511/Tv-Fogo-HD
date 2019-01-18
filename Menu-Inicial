@@ -7,6 +7,30 @@
 <thumbnail>https://i.imgur.com/8SAxvOE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Menu-Tv</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info>O IPTV ou TVIP é um método de transmissão de sinais televisivos através de redes IP. Diferentemente do dos sistemas tradicionais televisivos, o IPTV oferece a capacidade de transmitir a mídia de origem continuamente. Embora o IPTV use o protocolo da Internet, não está limitada à televisão transmitida pela internet.</info>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/FBGAP4A.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
+<fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/EMz1sYq.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Desenhos/master/Menu-Desenho</externallink>
+<fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS TOKUSATSU[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/TppkHxY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tokusatsu/master/Menu-Tokusatsu</externallink>
+<fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
+<info></info>
 </channel>
 
