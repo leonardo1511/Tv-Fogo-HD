@@ -19,6 +19,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/FH2Jby9.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Series/master/Menu-Series</externallink>
+<fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/NIesXHV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Animes/master/Menu-Animes</externallink>
