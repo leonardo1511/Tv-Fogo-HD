@@ -1,1011 +1,1336 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/API6b3h.png" group-title="REALITY",BBB 19
+http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 1 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/14448
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 1 HD (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15590
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 1 SD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/14447
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 1 (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15587
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 2 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15742
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 2 HD (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15589
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 2 SD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15741
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Mosaico HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15740
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Mosaico HD (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15588
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Mosaico SD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15739
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 1 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15781
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 1
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15780
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 2 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15779
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15778
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 3 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15777
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 3
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15776
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 4 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15775
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 4
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15774
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 5 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15773
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 5
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15772
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 6 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15771
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 6
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15770
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 7 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15769
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 7
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15768
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 8 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15767
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 8
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15766
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 9 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15765
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 9
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15764
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 10 HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15763
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Cam 10
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15762
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Globo RJ HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/170
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Globo RJ
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/1448
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Globo SP HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/1676
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Globo SP
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/1493
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Band HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/193
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Band
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/124
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",SBT HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/147
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",SBT
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/36
-
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RecordTV HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/149
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RecordTV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/41
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RecordTV Rio HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/12029
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RecordTV Rio
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/12036
-
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RedeTV! HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/148
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RedeTV!
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/39
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Rede Brasil
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/40
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Cultura HD 
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/564
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Cultura
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/1766
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Gazeta HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/570
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Futura HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/7635
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Futura
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/91
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Escola HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/565
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Escola
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/5042
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Brasil
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/9
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Rede Família HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/569
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Terra Viva
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Canal Rural
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/119
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Diario HD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16281
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Diario
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16280
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",NBR
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/63
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iD1xVNR.png" group-title="RELIGIOSOS",Boa Vontade TV
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Telecine Premium
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/18
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nt8hDCT.png" group-title="RELIGIOSOS",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Telecine Action
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/22
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CxIuCFa.png" group-title="RELIGIOSOS",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Telecine Touch
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/17
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV ABERTA",Sesc TV HD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Telecine Pipoca
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/19
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="TV ABERTA",Agro Canal
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Telecine Fun
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/20
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV ABERTA",Canal do Boi
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Telecine Cult
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/21
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV ABERTA",Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",HBO
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/84
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV ABERTA",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",HBO 2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/79
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV ABERTA",TV Gazeta RN
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",HBO Plus
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/82
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV ABERTA",TV Gazeta MA
+http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",HBO Family
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/83
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dBN229l.png" group-title="TV ABERTA",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",HBO Signature
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/80
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT SP Interior
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Max
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/73
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT MT
+https://5b7f3c45ab7c2.streamlock.net/tvcentro/ngrp:tvcentro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Max UP
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/70
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Max Prime
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/72
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Cinemax
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/115
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT GO
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FOX
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/95
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FOX Premium 1 
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/7779
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FOX Premium 2 
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/7778
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FOX Life
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/94
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FX
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/90
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Canal Sony
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/118
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",AXN
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/128
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",AMC
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/6238
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Warner Channel
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
+http://video01.tvdigitalhd.org:1935/rbatv12/rbatv12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Space
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/32
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV ABERTA",Rede Brasil SP
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TNT
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2014
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV ABERTA",Rede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TBS
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV ABERTA",Rede Brasil PA
+http://video01.tvdigitalhd.org:1935/tv31966/tv31966/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TCM
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/23
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura SE
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",I.Sat
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/78
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PE
+https://cdn.jmvstream.com/live/hls/lv_7081/LV7081_1d9b6iVXj2.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Megapix
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/69
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura SC
+http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Studio Universal
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/26
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura MG
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",A&E
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/132
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Syfy
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/25
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura ES 
+http://stmv4.srvstm.com:1935/tvsimcolatina/tvsimcolatina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Mais Globosat
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/74
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Canal Brasil
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/120
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura BA
+http://cdn2.comets.com.br/tvbaianahd/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Sundance TV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/1101
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Paramount Channel
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/57
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Prime Box Brazil
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/45
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV ABERTA",TV Cultura PR HD
+http://200.189.113.201/hls/tve.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PB
+http://stream.tvitarare.com.br/hls/site/site_mid/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV ABERTA",TV Cultura PB HD
+http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",SporTV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/31
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",TV Futura RJ
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",SporTV 2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/30
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record SP
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",SporTV 3
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/28
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record SP HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FOX Sports
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/93
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record RJ
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FOX Sports 2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/92
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record RJ HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",ESPN Brasil
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/98
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record DF
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cbb2b2a3f5b98ff7c12bebc970bdaf9eb%3Bbase64np%3BL6Z5TA9Gv61o9Ag%21/amlst%3AL6aBVRINuqx3tISH/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",ESPN
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/99
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record DF HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cbb2b2a3f5b98ff7c12bebc970bdaf9eb%3Bbase64np%3BL6Z5TA9Gv61o9Ag%21/amlst%3AL6aBVRINuqx3tISH/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",ESPN +
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/181
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record BA
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cf0b3c44cad91bba6d3262839f9324c93%3Bbase64np%3BGoLjm3omChZwJl4%21/amlst%3AGoIbgmdtDxdvZtKJ/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",ESPN Extra
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/5085
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",BandSports
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/125
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record BA HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cf0b3c44cad91bba6d3262839f9324c93%3Bbase64np%3BGoLjm3omChZwJl4%21/amlst%3AGoIbgmdtDxdvZtKJ/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Canal Off
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/58
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record MG
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C9cabc5d6d4c4528b05ff7eff45ebc6fb%3Bbase64np%3BI5WRb1PVXkWl2lk%21/amlst%3AI5Vpdk6eW0S6mtXB/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Woohoo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record MG HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C9cabc5d6d4c4528b05ff7eff45ebc6fb%3Bbase64np%3BI5WRb1PVXkWl2lk%21/amlst%3AI5Vpdk6eW0S6mtXB/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",FishTV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/97
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record RS
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C76ea6be7c15142f489d09d53baa51563%3Bbase64np%3B-gwwpw93FbCGVuQ%21/amlst%3A-gzIvhI8ELGZFmg7/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Combate
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/114
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record RS HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C76ea6be7c15142f489d09d53baa51563%3Bbase64np%3B-gwwpw93FbCGVuQ%21/amlst%3A-gzIvhI8ELGZFmg7/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",PFC Internacional
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/588
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record RN
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere Clubes
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/46
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere 2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/54
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record Moçambique
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere 3
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/53
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere 4
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/52
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",Rede TV RS
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere 5
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/51
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",Rede TV RO
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere 6
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/50
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV ABERTA",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere 7
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/49
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV ABERTA",TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Premiere 9 Principal
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2036
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hbpsGWw.png" group-title="TV ABERTA",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Boomerang
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/121
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hbpsGWw.png" group-title="TV ABERTA",TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Cartoon Network
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/116
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV ABERTA",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Tooncast
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2012
+#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="TV ABERTA",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Nick
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/60
+#EXTINF:-1 tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="TV ABERTA",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Nick Jr.
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/61
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="SPORTS",ESPN Brasil
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Disney XD
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/103
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="SPORTS",ESPN Brasil HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b1835008.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Disney Channel
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/105
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="SPORTS",ESPN
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Disney Junior
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/104
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="SPORTS",ESPN HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b5316608.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery Kids
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/108
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="SPORTS",ESPN 2
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b964608.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Nat Geo Kids
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/5032
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="SPORTS",ESPN 2 HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b5316608.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Gloob
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/87
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="SPORTS",ESPN Extra
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b964608.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Gloobinho
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/5076
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="SPORTS",ESPN Extra HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b1835008.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",PlayTV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/56
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="SPORTS",Fox Sports
+http://apk27.futeboltvgratis.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Ra Tim Bum
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="SPORTS",Fox Sports 2
+http://apk27.futeboltvgratis.com:8081/live/5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",BabyTV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/5033
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",GNT
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/86
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="SPORTS",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Viva
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="INFANTIL",Disney XD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Multishow
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/67
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="INFANTIL",Disney XD HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",BIS
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/122
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="INFANTIL",Disney Junior
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",MTV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/68
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="INFANTIL",Disney Junior HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",VH1
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/7780
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="INFANTIL",Disney Channel
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",VH1 MegaHits
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="INFANTIL",Disney Channel HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Music Box Brazil
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/66
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NOTÍCIAS",Record News
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b832512.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NOTÍCIAS",Record News HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TruTV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/10
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="DOCUMENTÁRIOS",Investigação Discovery
+ 
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Comedy Central
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/113
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="ADULTO +18",Playboy TV
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/527/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere Clubes HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/44.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Lifetime
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/75
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 2 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/35.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",E!
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/102
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 3 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/36.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TLC 
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/14
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Food Network
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/96
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Curta!
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/112
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 4 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/37.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Shoptime
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/1621
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Animal Planet
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/131
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 5 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/38.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery Channel
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/111
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 6 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/39.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery Turbo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/106
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Investigacao Discovery
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/77
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 7 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/40.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery Home&Health
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/109
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 8 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/41.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery Theater
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/3498
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery World
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/7783
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery Science 
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2073
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Discovery Civilization 
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2074
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Nat Geo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/64
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 9 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/42.m3u8
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Nat Geo Wild
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/65
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",History
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",History 2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/85
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Arte 1
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/129
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",GloboNews
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/88
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",BandNews
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/126
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Record News
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2032
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Cancao Nova
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/5086
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",,Rede Vida
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/38
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Aparecida
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/130
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Rede Século 21
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/574
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Evangelizar
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/7854
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Rede Super
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/575
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RIT
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/37
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",TV Novo Tempo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/59
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",RBI
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/44
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7384/5lR72F.png" group-title="",Ideal TV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/76
-
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Simpsons
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15372
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pokemon
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15601
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Peppa-Pig
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15367
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Peppa-Pig (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15366
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Galinha Pintadinha
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15423
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Galinha Pintadinha (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15422
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",3 Palavrinhas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15488
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Palavrinhas (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15640
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",3 Palavrinhas Hora de Dormir
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15639
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",101 Dalmatas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15489
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Bruxinha Sabrina
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15487
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Corrida Espacial do Ze Colmeia
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15486
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Familia Addams
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15485
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", A Nossa Turma
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15483
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Pantera Cor-de-Rosa
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15482
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Pantera Cor-de-Rosa (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15638
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Pequena Sereia
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15481
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Turma do Charlie Brown
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15480
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Turma do Pateta
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15479
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Vaca e o Frango
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15478
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Vida Moderna de Rocko
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15477
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Aladdin
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15476
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Aladdin (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15475
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Andy Panda
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15474
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Animaniacs
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15473
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Animaniacs (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15637
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Aventuras de Jackie Chan
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15472
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Aventuras de Mickey e Donald
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15471
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Aventuras de Tintim
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15470
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Aventuras do Gato de Botas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15469
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Aventuras dos Irmaos Super Mario
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15468
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Meninas Superpoderosas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15467
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Meninas Superpoderosas (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15636
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Mumias Vivas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15466
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Novas Aventuras de Gasparzinho
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15465
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Tartarugas Ninja
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15464
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Tartarugas Ninja (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15463
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Terriveis Aventuras de Billy e Mandy
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15635
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As Trapalhadas de Flapjack
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15462
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Avatar
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15461
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Baby Looney Tunes
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15460
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Bakugan: Guerreiros da Batalha
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15529
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Barbie Lago dos Cisnes
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15459
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ben 10
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15458
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ben 10 Forca Alienigena
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15457
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ben 10 Omniverse
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15456
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ben 10: Supremacia Alienigena
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15455
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Beyblade
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15528
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Bibo Pai e Bobi Filho
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15454
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Bicudo o Lobisomem
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15453
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Bob Esponja
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15452
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Bob Zoom
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15451
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Bucky
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15527
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Buzz Lightyear do Comando Estelar
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15450
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Cadillacs e Dinossauros
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15449
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Capitao Planeta
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15448
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Caverna do Dragao
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15447
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Caverna do Dragao (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15446
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Clifford o Gigante Cao Vermelho
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15444
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Coelho Ricochete e Blaublau
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15443
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Comando Estelar Flashman
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15655
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Contos da Cripta
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15442
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Coragem o Cao Covarde
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15441
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Coragem o Cao Covarde (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15440
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Corrida Maluca
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15439
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Corrida Maluca (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15438
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Daniel Tigre
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15618
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",De Volta Para o Futuro
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15437
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dennis O Pimentinha
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15436
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Desenhos Warner
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15634
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Digimon
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15526
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Digimon (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15602
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Don Dracula
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15525
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dora - A Aventureira
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15435
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Doug
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15434
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15524
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball GT
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15523
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball GT (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15654
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Dragon Ball Super
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15522
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Dragon Ball Z Filmes
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15653
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Dragon Ball Z Majin Boo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15520
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Dragon Ball Z Majin Boo (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15652
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Dragon Ball Z Saga Androides
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15519
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Z Saga Cell
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15518
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Z Saga Cell (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15651
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Z Saga dos Saiyajins
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15517
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Z Saga Freeza
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15516
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Z Saga Freeza (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15650
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Z Saga Garlic Jr.
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15515
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Z Saga Torneio de Outro Mundo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15514
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Droopy
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15633
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", DuckTales - Os Cacadores de Aventuras
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15433
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ducktales (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15632
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Eek! The Cat
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15432
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Em que Lugar da Terra Esta Carmen Sandiego?
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15431
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Esquadrao Especial Winspector
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15513
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Esquadrao Especial Winspector (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15649
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Esquadrao Relampago Changeman
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15648
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Esquilo sem Grilo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15430
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Fabulas Disney
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15429
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Formiga Atomica
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15428
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Formiga Atomica (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15427
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Frankenstein Jr.
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15426
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Freakazoid!
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15425
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Futurama
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15424
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Galaxy Rangers
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15631
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Garfield e Seus Amigos
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15421
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Gato Felix
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15391
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Gato Felix (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15630
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Go Diego Go!
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15420
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Gospel Cartoon
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15419
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Hamtaro
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15512
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Historias da Disney
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15418
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Homem Passaro
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15417
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Homem-Aranha
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15416
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Hot Wheels Battle Force 5
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15415
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ilha dos Desafios
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15414
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Invasor Zim
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15413
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Irmao do Jorel
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15412
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jambo e Ruivao
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15411
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jaspion
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15511
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jaspion (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15647
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jiban O Policial de Aco
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15646
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Jiraiya O Incrivel Ninja
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15645
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Johnny Bravo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15410
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Johnny Test
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15617
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jonny Quest
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15409
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Josie e as Gatinhas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15408
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jubei-Chan: The Ninja Girl (Legendado)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15510
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Juca Bala e Ze Bolha
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15616
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Kick Buttowski - Um Projeto de Duble
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15407
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",A Turma do Bairro
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15406
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", A Turma do Bairro (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15615
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Larva
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15629
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ligeirinho
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15405
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Looney Tunes
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15404
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Looney Tunes (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15628
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Lula Lele
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15403
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Luluzinha
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15402
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Luluzinha (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15401
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Manda-Chuva
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15400
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Masha e o Urso
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15627
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Medabots
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15509
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Megas XLR
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15399
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Meu Amigo da Escola E Um Macaco
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15398
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Homens de Preto
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15397
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Mission Hill
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15396
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Mobile Suit Gundam Wing
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15508
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Mortal Kombat
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15395
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Mosquete Mosquito e Moscardo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15394
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Mr. Bean Animado
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15614
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Mucha Lucha
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15393
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Mundo Bita
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15626
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T1
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16041
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Naruto T2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16040
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T3
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16039
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T4
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16038
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T5
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16037
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T6
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16036
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T7
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16035
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T8
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16034
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto T9
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16033
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Acampamento de Lazlo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15392
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Inspetor
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15390
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Inspetor (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15389
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Maskara
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15388
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Maskara (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15387
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Novo Show do Pica-Pau
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15386
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Onibus Magico
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15385
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Pequeno Scooby-Doo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15384
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Pequeno Urso
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15383
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Show da Luna
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15625
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Show do Ze Colmeia
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15382
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Vale dos Dinossauros
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15381
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Xodo da Vovo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15380
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Backyardigans
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15379
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Debiloides
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15377
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Flintstones
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15376
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Jetsons
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15375
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Oblongs
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15374
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Padrinhos Magicos
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15624
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Pinguins de Madagascar
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15373
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Super Patos
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15371
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Ursinhos Gummi
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15370
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Os Valentes Cowboys de Moo Mesa
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15369
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Papa-Leguas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15368
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Patrulha Canina
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15623
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Patrulha Estelar
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15500
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pernalonga
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15365
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Pernalonga (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15622
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Phineas e Ferb
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15364
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pica-Pau
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15363
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pica-Pau (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15362
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pinky e o Cerebro
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15361
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", PJ Masks
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15613
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Planet Survival
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15499
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Pocoyo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15621
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Popeye
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15360
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Rangers Mighty Morphin T1
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16032
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Rangers Mighty Morphin T2
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16031
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Power Rangers Mighty Morphin T3
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16030
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Rangers Zeo T4
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16029
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Power Rangers Turbo T5
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16028
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Rangers Galaxia Perdida T7
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16027
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Power Rangers Tempestade Ninja T11
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16026
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Rangers: Dino Thunder T12
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16025
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Rangers SPD T13
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/16024
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Stone
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15498
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Projeto Zeta
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15359
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Rambo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15358
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Recruta Zero
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15357
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Redakai: Dominio Kairu
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15497
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Riquinho
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15356
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Rocket Power
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15355
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Rugrats: Os Anjinhos
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15354
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Sakura Card Captors
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15496
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Samurai Warriors
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15495
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Scooby-Doo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15353
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Shaman King
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15494
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",She-Ra: A Princesa do Poder
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15352
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Shinzo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15493
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Shurato
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15492
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",South Park
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15351
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Space Ghost
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15350
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Speed Racer
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15349
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Speed Racer Nova Geracao
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15348
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Steven Universo
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15347
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Super Choque
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15346
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Super Choque (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15620
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Tartaruga Touché e Dum Dum
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15345
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Taz O Demonio da Tazmania
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15344
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Teletubbies Animado
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15343
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Teletubbies Stop Motion
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15342
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Tesouro da Disney
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15341
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Thundercats
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15339
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Thundercats (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15338
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Tico e Teco
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15337
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Timao & Pumba
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15336
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Timao & Pumba (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15335
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Tom e Jerry
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15334
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Tom e Jerry (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15333
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Tres Espias Demais
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15619
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Tutubarao
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15332
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ultraman
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15491
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ultraman (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15642
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Uma Familia da Pesada
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15331
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ursinhos Carinhosos
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15330
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Wally Gator
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15329
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",X-Men
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15328
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Yu Yu Hakusho
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15641
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Zatch Bell!
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15490
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ze Buscape (2)
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15612
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Chaves
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15445
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS", Chaves e Chapolin
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/15607
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Playboy TV
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/55
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sextreme
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/35
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sextreme Principal
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2026
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Venus Principal
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2009
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sexy Hot
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/34
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sexy Hot Principal
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/2025
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Brasileirinhas
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/9938
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",For Girls
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/14871
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sext6senso
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/4917
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",For Boys
-http://giantofthefuture.gleeze.com:8880/Dudu/Dudu/14446
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 10 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/43.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",SporTV HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/25.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",SporTV 2 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/26.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",SporTV 3 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Combate HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/77.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Band Sports HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN Brasil HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/32.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/30.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN 2 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/31.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN Extra HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/33.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Sports HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/28.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Sports 2 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",FX HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/47.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Max HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/78.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Max Prime HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/79.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Max UP HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/80.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/54.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO 2 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/55.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO Family HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO Plus HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/56.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO Signature HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/58.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Cinemax HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/76.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Sony HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/59.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/61.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Premium 1 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/62.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Premium 2 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/63.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",AMC HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/69.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",AXN HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/70.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Life HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/64.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Space HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/67.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TLC HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/71.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TCM HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/72.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TNT HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/65.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TNT Séries HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/66.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Paramount Channel HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/75.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Universal Channel HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/74.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Arte 1 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/96.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Band News HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/98.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Comedy Central HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/93.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Curta! HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/92.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",E! HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/95.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fish TV HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/91.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Food Network HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/90.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Lifetime HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/88.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",MTV HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/87.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Record News HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/100.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TBS HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/85.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",VH1 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/84.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Woohoo HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/83.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Animal Planet HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/101.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Channel HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/104.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Civilization HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/105.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Investigação Discovery HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/115.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Home & Health HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Kids HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/111.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Science HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/107.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Theater HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/108.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Turbo HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/109.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery World HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/110.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",History Channel HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/102.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",H2 HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/103.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nat Geo Kids HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/114.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nat Geo Wild HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/113.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",National Geographic HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/112.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Baby TV HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/128.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Boomerang HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/127.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Cartoon Network HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/117.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Disney Channel HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/118.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Disney Junior HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/119.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Disney XD HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/120.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nick Jr. HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/122.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nickelodeon HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/123.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Tooncast HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/124.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Warner Channel HD
+https://www.skyiptv.com.br:25463/live/sleiurc1503/voijelskjv1008/116.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 852
+http://apk27.futeboltvgratis.com:8081/live/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 853
+http://apk27.futeboltvgratis.com:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 854
+http://apk27.futeboltvgratis.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 855
+http://apk27.futeboltvgratis.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 856
+http://apk27.futeboltvgratis.com:8081/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 857
+http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 858
+http://apk27.futeboltvgratis.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 859
+http://apk27.futeboltvgratis.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 860
+http://apk27.futeboltvgratis.com:8081/live/9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 861
+http://apk27.futeboltvgratis.com:8081/live/10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 862
+http://apk27.futeboltvgratis.com:8081/live/11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 863
+http://apk27.futeboltvgratis.com:8081/live/12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 864
+http://apk27.futeboltvgratis.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 865
+http://apk27.futeboltvgratis.com:8081/live/14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 866
+http://apk27.futeboltvgratis.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 867
+http://apk27.futeboltvgratis.com:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 868
+http://apk27.futeboltvgratis.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 869
+http://apk27.futeboltvgratis.com:8081/live/18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 870
+http://apk27.futeboltvgratis.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 871
+http://apk27.futeboltvgratis.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Animais África do Sul 
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Rio de Janeiro - Copacabana
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Aeroporto de Congonhas de São Paulo
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Ubatuba - Praia Enseaba 
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Arena Allianz Parque - Palestra Itália
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Av. Interlagos - Shopping Interlagos
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Marginal Pinheiros Trânsito
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Pico do gavião - Andradas MG
+http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 102 FM Itajaí - SC
+http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 90.5 FM São Paulo - SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 91.7 FM Cascavel - PR
+http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 96.5 FM Rio de Janeiro - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 100.5 FM Rio de Janeiro - RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 90.3 FM Recife - PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-radiojornal-recife-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Novo Templo da Igreja da Graça - SP
+http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Santuário de Aparecida - Altar Central
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5IC5kuO.png" group-title="RELIGIOSOS",TV Feliz
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSOS",Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qd4ZMLd.png" group-title="RELIGIOSOS",CJC TV
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="RELIGIOSOS",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="RELIGIOSOS",Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS",IURD TV
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS",IURD TV Internacional
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xX2IFya.jpg" group-title="RELIGIOSOS",TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="RELIGIOSOS",Vem & Vê TV 1
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="RELIGIOSOS",Vem & Vê TV 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="RELIGIOSOS",Vem & Vê TV 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="RELIGIOSOS",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tWqhirq.png" group-title="RELIGIOSOS",Portal Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c0Yv7h1.png" group-title="RELIGIOSOS",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kk0i0f7.png" group-title="TV ABERTA",TV Guará
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Yl2pgfg.png" group-title="TV ABERTA",TV RSIM
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U5GKOZQ.jpg" group-title="TV ABERTA",TVU Recife
+http://150.161.93.173/hls/720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV ABERTA",TV Maceió
+https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/M2N7X4V.png" group-title="TV ABERTA",TV Aberta SP
+http://live.tvaberta.tv.br:1935/tvabertalive/tvabertalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZWgiH4d.png" group-title="TV ABERTA",TV Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uYL8YCF.png" group-title="TV ABERTA",UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV ABERTA",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/73O4PBb.png" group-title="TV ABERTA",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/73O4PBb.png" group-title="TV ABERTA",TV INES HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV ABERTA",Rede Família
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV ABERTA",Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gdWjSaC.png" group-title="TV ABERTA",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="SPORTS",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PY0n9bX.jpg" group-title="INFANTIL",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aTOLo6x.png" group-title="FILMES E SERIES",Chaves 24H
+http://167.114.140.230/margaretede3116/margaretede3116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ClaFSFI.png" group-title="FILMES E SERIES",Cine+
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES E SERIES",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="NOTÍCIAS",GV News
+https://59f1cbe63db89.streamlock.net:1443/gvnews/gvnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="NOTÍCIAS",Porto Canal
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="NOTÍCIAS",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="NOTÍCIAS",RTP1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="NOTÍCIAS",RTP2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="NOTÍCIAS",TVI
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="NOTÍCIAS",TVI+
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XTWxRVh.png" group-title="NOTÍCIAS",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQG9OOD.png" group-title="NOTÍCIAS",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dFhQAGv.png" group-title="NOTÍCIAS",Fox 23 News
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IipATsJ.png" group-title="NOTÍCIAS",Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FumzmgG.png" group-title="NOTÍCIAS",Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s23.postimg.org/tf54fetwr/Fox_News_30.jpg" group-title="NOTÍCIAS",Fox News 30
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/4mpxl528z/KIRO_7_News.png" group-title="NOTÍCIAS",KIRO 7 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://s23.postimg.org/xx5cs2vdn/3eeae90.png" group-title="NOTÍCIAS",WPXI News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://s23.postimg.org/h1gwl2erf/image.png" group-title="NOTÍCIAS",WSOC 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/k0rxkzu1t/placeholder-16x9.jpg" group-title="NOTÍCIAS",WFTV 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="MÚSICAS E VARIEDADES",Yeeah!
+http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6dFdK50.png" group-title="MÚSICAS E VARIEDADES",Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S58zj9m.png" group-title="MÚSICAS E VARIEDADES",TV União
+http://stmv1.srvstm.com:1935/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES",Top TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES",Top TV HD
+http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rvqeUb0.png" group-title="MÚSICAS E VARIEDADES",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g9k2F8Y.png" group-title="MÚSICAS E VARIEDADES",Music Box Gold
+http://musicbox.cdnvideo.ru:1935/musicbox/musicboxtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pql9wHs.png" group-title="MÚSICAS E VARIEDADES",Gospel Music TV 
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uhPewlD.png" group-title="MÚSICAS E VARIEDADES",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kZSx7gW.png" group-title="MÚSICAS E VARIEDADES",H!T Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wgTIB55.png" group-title="MÚSICAS E VARIEDADES",Mega TV
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="ADULTO +18",Penthouse 1 HD
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/1073/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tSfnjXQ.png" group-title="ADULTO +18",Jasmin.TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TzL6H2G.png" group-title="ADULTO +18",Brazzers
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/910/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", L.J.S.L. EP33 
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", L.J.S.L. EP34 
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", L.J.S.L. EP35 
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", L.J.S.L. EP36 
+http://aljazeera-eng-apple-live.adaptive.level3.net:80/apple/aljazeera/hq-english/1200kStream.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", L.J.S.L. EP37 
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", L.J.S.L. EP38 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", L.J.S.L. EP39 
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", A CABANA - DUB - SD
+http://158.58.172.5:8081/look/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", A CABANA - DUB - HD
+http://video01.kshost.com.br:1935/rba24509/rba24509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", A CABANA - LEG - SD
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", A CABANA - LEG - HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",COLOSSAL - DUB - SD
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",COLOSSAL - DUB - HD
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",DEATH NOTE - DUB - SD
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",DEATH NOTE - DUB - HD
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",DEATH NOTE - LEG - SD
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",DEATH NOTE - LEG - HD
+http://95.141.35.104:8081/look/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",KONG: A ILHA DA CAVEIRA - DUB - HD
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",KONG: A ILHA DA CAVEIRA - LEG - HD
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",O PODEROSO CHEFINHO - DUB - SD
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",O PODEROSO CHEFINHO - DUB - HD
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", REI ARTHUR – A LENDA DA ESPADA - DUB - SD
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", REI ARTHUR – A LENDA DA ESPADA - DUB - HD
+http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", REI ARTHUR – A LENDA DA ESPADA - LEG - SD
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L720P/chunklist_b700000.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", REI ARTHUR – A LENDA DA ESPADA - LEG - HD
+http://hls.fearfulale.xyz/s/ch0003660/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO - DUB - SD
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO - DUB - HD
+rtmp://173.236.10.10/redeatividade//redeatividade
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO - LEG - SD
+http://95.141.35.104:8081/look/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO - LEG - HD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",ABC NEWS
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",AGROCANAL
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",AGROBRASIL
+http://158.58.172.5:8081/look/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",ALJAZEERA TV
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",ALL SPORTS HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",ANIME TV ESPANHOL
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",APARECIDA
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8?
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",BAND SP
+https://canal.futeboltv.com/live/14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",BAND PA
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",BH NEWS
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",BBC WORLD NEWS
+http://95.141.35.86:8081/look/sptv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",BLOOMBERG
+http://95.141.32.213:8081/look/globo2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CANAL DO BOI
+http://hls.fearfulale.xyz/s/ch0010695/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CANAL GOSPEL
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CANAL RURAL HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CANÇAO NOVA
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/chunklist_w1492625387.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CARTOON NETWORK
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CBN
+http://hls.fearfulale.xyz/s/ch0011986/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CBN NEWS
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CHELSEA TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CINE FILMES 1
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CINE FILMES 2
+http://95.141.32.213:8081/look/eimax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CINE FILMES 3
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CNN INTERNATIONAL
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",COMBATE
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CONEXAO BR
+http://5.196.138.6:1935/live/ngrp:nrjbelgique_all/chunklist_w576217643_b1496608.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CULTURA MG
+http://hls.fearfulale.xyz/s/fod8664/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",DISCOVERY KIDS
+http://hls.fearfulale.xyz/s/ch0007984/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",DISNEY XD
+http://95.141.35.104:8081/look/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",EI MAXX HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",EI MAXX 2 HD
+http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",ESPN BRASIL SD
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",ESPORTE INTERATIVO HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",EUROSPORTS
+pltv://tinyurl.com/jk6reaf
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",FOX SD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",FOX NEWS 30
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",FOX SPORTS
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",FRANCE 24
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",GAZETA HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",GLOBO (SP)
+http://hls.fearfulale.xyz/s/fod7697/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",GLOBO (RJ)
+http://hls.fearfulale.xyz/s/fod6338/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",GLOBO NEWS
+http://hls.fearfulale.xyz/s/fod5555954/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", HIT TV
+http://hls.fearfulale.xyz/s/ch0005276/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",LA SEXTA TV (ESP)
+http://hls.fearfulale.xyz/s/ch0007984/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS", LEVANTE TV (ESP)
+http://hls.fearfulale.xyz/s/fod1449/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",M2O TV
+http://hls.fearfulale.xyz/s/fod2156/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",MAX PRIME
+http://hls.fearfulale.xyz/s/fod3813/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",MEGA TV
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",MIX TV
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",MTV CLIPES
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",MULTISHOW
+http://stmv2.srvstm.com:1935/tvestudiobrasil/tvestudiobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",NFL NOW
+http://172.93.110.130:1935/tvfelizrn/tvfelizrn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",NICKELODEON
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",NOVO TEMPO
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",NJR HITS
+http://95.141.32.213:8081/look/viva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",PREMIER LIVE (USA)
+http://stream-13.dc3.dailymotion.com/20/dm/3/x54jwml/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",PREMIERE JOGOS
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",PREMIERE JOGOS 2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/chunklist_w70472396.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",REAL MADRID TV
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w2060419022.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",RECORD HD
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",RECORD NEWS HD
+rtmp://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx swfUrl=https://static.rampant.tv/swf/player.swf
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",REDE FAMILIA
+http://0218.live.upx.net.br:8010&lang=auto&codec=mp3&tracking=true&volume=100&autoplay=true&buffering=5&skin=original&title=RADIO+LIBERDADE+FM+929&welcome=RADIO+LIBERDADE+FM+929
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",REDE MINAS
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="RÁDIOS",Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U241Gsq.png" group-title="RÁDIOS",Rádio Disney FM
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5rNlZDp.png" group-title="RÁDIOS",Rádio Mega FM
+http://174-36-1-94.webnow.net.br/mega.mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qaPOhak.png" group-title="RÁDIOS",Rádio Estação Top FM
+http://198.255.106.154:13487/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a9trwUi.png" group-title="RÁDIOS",Rádio Top FM
+http://45.43.200.114:14006/stream/1/
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G2awxzZ.png" group-title="RÁDIOS",Coca-Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3dgGC7H.png" group-title="RÁDIOS",Rádio CBN AM
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/O3eKMIz.png" group-title="RÁDIOS",Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IQTBZHN.png" group-title="RÁDIOS",Rádio Mundial AM
+http://ice1.crossradio.com.br:8078/live.aac
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MFRkJq4.png" group-title="RÁDIOS",Rádio Nossa Rádio AM
+http://ice33a.crossradio.com.br:9236/live.aac
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cYXgX4G.png" group-title="RÁDIOS",Rádio Trianon AM
+http://afiliadamix2.crossradio.com.br:9008
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PCZ7T0T.png" group-title="RÁDIOS",Rádio Gazeta AM
+http://servidor1a.crossdigital.com.br:9552/1?1508369510
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iBUEpZO.jpg" group-title="RÁDIOS",Rádio Nacional Gospel AM
+http://184.107.161.115:9998stream.aac
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xj4Lpvy.png" group-title="RÁDIOS",Rádio Cultura AM
+http://tvcultura.com.br/_radio/streaming.php?radio=am
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k2CQ92m.png" group-title="RÁDIOS",Rádio Super RBV AM
+http://lbv.crossradio.com.br:8058/live.mp3?1502298263975
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/He4nXDr.jpg" group-title="RÁDIOS",Rádio Bandeirantes AM
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eXpfFoX.png" group-title="RÁDIOS",Rádio Mix FM
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KX2Yeah.png" group-title="RÁDIOS",Rádio Metropolitana FM
+http://74.63.237.85:8598/live
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JzHYtiE.png" group-title="RÁDIOS",Rádio Antena 1 FM
+http://antena1.newradio.it/stream?1519462006844
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QszLLbD.png" group-title="RÁDIOS",Rádio Nova Brasil FM
+http://14013.live.streamtheworld.com/NOVABRASIL_SP_SC
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GejcbCZ.png" group-title="RÁDIOS",Rádio Jovem Pan FM
+http://17523.live.streamtheworld.com/JP_SP_FM_SC
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bx8NjTk.png" group-title="RÁDIOS",Rádio Feliz FM
+http://felizfm.sateg.com.br:11520/stream/1/
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fS5VWry.png" group-title="RÁDIOS",Rádio Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wKH9DPI.png" group-title="RÁDIOS",Rádio News FM
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SKWy80t.png" group-title="RÁDIOS",Rádio Nativa FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EH1o61G.png" group-title="RÁDIOS",Rádio Band Vale FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Z7uuqP.png" group-title="RÁDIOS",Rádio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VNdI6Wt.png" group-title="RÁDIOS",Rádio BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TmycWPZ.png" group-title="RÁDIOS",Rádio Cachoeira AM
+http://centova.welltecnologia.com.br:8096
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cvHzRir.png" group-title="RÁDIOS",Rádio Nova FM
+http://stm45.streamingbage.net.br:11454
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/55zvsZG.png" group-title="RÁDIOS",Rádio Clube Bagé AM
+http://stm7.streamingbage.net.br:16766
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ivdf27M.png" group-title="RÁDIOS",Rádio Alegria FM
+http://stream.ouveai.com.br:8061
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rMmdaYl.png" group-title="RÁDIOS",Rádio Esperança AM
+http://200.175.79.171:8000
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6sLoNZn.png" group-title="RÁDIOS",Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ClakDxW.png" group-title="RÁDIOS",Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8U3B3Lw.png" group-title="RÁDIOS",Rádio Guaíba FM/AM
+http://15122g.ha.azioncdn.net/5122g/_definst_/guaiba.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dT8ZOeg.png" group-title="RÁDIOS",Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3ku6dPr.png" group-title="RÁDIOS",Rádio Band News FM
+http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WZrYSBf.gif" group-title="RÁDIOS",Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MlwaApi.jpg" group-title="RÁDIOS",Rádio Gaúcha FM/AM
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dZKe7DK.jpg" group-title="RÁDIOS",Rádio Bandeirantes FM/AM
+http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jXGTFcR.png" group-title="RÁDIOS",Gr6 Explode FM
+http://216.245.204.227:8054/live
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QhSS71Q.png" group-title="RÁDIOS",Rádio FM O Dia
+http://audio.bb07.upx.net.br:8058
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rV5HHXO.png" group-title="RÁDIOS",Rádio Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NeJf46K.jpg" group-title="RÁDIOS",Rádio Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x3j3rYJ.png" group-title="RÁDIOS",Rádio Mania FM
+http://radio.servercsi.com.br:8595
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/O9dknve.png" group-title="RÁDIOS",Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oRYDaYf.png" group-title="RÁDIOS",Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IGzepM4.png" group-title="RÁDIOS",Rádio 99.5 FM
+http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LZk3Bt6.png" group-title="RÁDIOS",Rádio 104 FM
+http://noasrv.caster.fm:10127/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TKZ90g5.png" group-title="RÁDIOS",Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XtpLtUe.png" group-title="RÁDIOS",Rádio Pampa FM
+http://noasrv.caster.fm:10128/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ttPklRN.png" group-title="RÁDIOS",Rádio Liberdade FM
+http://cast4.audiostream.com.br:8655/mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OC6JEfB.png" group-title="RÁDIOS",Rádio Continental FM
+http://noasrv.caster.fm:10126/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/C79VBmi.png" group-title="RÁDIOS",Rádio Caiçara FM/AM
+http://noasrv.caster.fm:10130/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vshg5E2.png" group-title="RÁDIOS",Rádio Capão FM
+http://noasrv.caster.fm:10131/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UIqr0bU.png" group-title="RÁDIOS",Rádio Praia FM
+http://noasrv.caster.fm:10132/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9Pu8H7t.png" group-title="RÁDIOS",Rádio Grenal FM
+http://noasrv.caster.fm:10115/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rEXCYFB.png" group-title="RÁDIOS",Rádio Tramandaí FM
+http://noasrv.caster.fm:10133/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n64bR7b.png" group-title="RÁDIOS",Rádio FM Premium
+http://noasrv.caster.fm:10125/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/piuWrsL.png" group-title="RÁDIOS",Rádio Xangri-lá FM
+http://noasrv.caster.fm:10137/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I5y8DaH.png" group-title="RÁDIOS",Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hC90L3k.png" group-title="RÁDIOS",Rádio Imbé FM
+http://noasrv.caster.fm:10135/stream
