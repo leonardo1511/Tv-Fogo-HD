@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/API6b3h.png" group-title="REALITY",BBB 19 Off
-http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iD1xVNR.png" group-title="RELIGIOSOS",Boa Vontade TV
 http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
 
