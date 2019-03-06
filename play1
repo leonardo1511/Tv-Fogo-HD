@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/API6b3h.png" group-title="REALITY",BBB 19
+http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iD1xVNR.png" group-title="RELIGIOSOS",Boa Vontade TV
 http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
 
@@ -250,253 +253,253 @@ http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/527/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere Clubes HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/44.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 2 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/35.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 3 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/36.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/36.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 4 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/37.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/37.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 5 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/38.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/38.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 6 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/39.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/39.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 7 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/40.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/40.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 8 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/41.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/41.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 9 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/42.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/42.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Premiere 10 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/43.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/43.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",SporTV HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/25.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval20192019/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",SporTV 2 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/26.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/26.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",SporTV 3 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/27.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Combate HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/77.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/77.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Band Sports HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/34.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/34.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN Brasil HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/32.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/32.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/30.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/30.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN 2 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/31.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",ESPN Extra HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/33.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/33.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Sports HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/28.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Sports 2 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/29.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/29.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",FX HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/47.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/47.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Max HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/78.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/78.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Max Prime HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/79.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/79.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Max UP HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/80.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/80.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/54.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/54.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO 2 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/55.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/55.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO Family HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/57.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/57.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO Plus HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/56.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/56.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",HBO Signature HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/58.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/58.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Cinemax HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/76.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/76.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Sony HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/59.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/59.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/61.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Premium 1 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/62.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/62.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Premium 2 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/63.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/63.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",AMC HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/69.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/69.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",AXN HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/70.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/70.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fox Life HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/64.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/64.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Space HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/67.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/67.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TLC HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/71.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/71.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TCM HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/72.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/72.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TNT HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/65.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/65.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TNT Séries HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/66.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/66.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Paramount Channel HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/75.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/75.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Universal Channel HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/74.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/74.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Arte 1 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/96.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/96.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Band News HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/98.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Comedy Central HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/93.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/93.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Curta! HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/92.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/92.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",E! HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/95.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/95.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Fish TV HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/91.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/91.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Food Network HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/90.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/90.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Lifetime HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/88.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",MTV HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/87.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/87.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Record News HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/100.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/100.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",TBS HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/85.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/85.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",VH1 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/84.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/84.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Woohoo HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/83.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/83.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Animal Planet HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/101.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Channel HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/104.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/104.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Civilization HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/105.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/105.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Investigação Discovery HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/115.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/115.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Home & Health HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/106.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/106.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Kids HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/111.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/111.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Science HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/107.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/107.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Theater HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/108.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/108.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery Turbo HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/109.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/109.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Discovery World HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/110.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/110.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",History Channel HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/102.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",H2 HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/103.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nat Geo Kids HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/114.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/114.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nat Geo Wild HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/113.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",National Geographic HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/112.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/112.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Baby TV HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/128.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/128.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Boomerang HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/127.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/127.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Cartoon Network HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/117.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/117.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Disney Channel HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/118.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/118.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Disney Junior HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/119.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/119.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Disney XD HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/120.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/120.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nick Jr. HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/122.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/122.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Nickelodeon HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/123.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/123.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Tooncast HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/124.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/124.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/703353077215141888/RzzMsTbI.jpg" group-title="HOLOMAX VIP",Warner Channel HD
-https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval/116.m3u8
+https://www.skyiptv.com.br:25463/live/ManchaVerde/Carnaval2019/116.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 852
 http://apk27.futeboltvgratis.com:8081/live/1/playlist.m3u8
