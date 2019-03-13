@@ -139,6 +139,30 @@
 </item>
 
 <item>
+<title>ESPORTE INTERATIVO</title>
+<link>https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>EI MAXX</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>EI MAX 2</title>
+<link>http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/index_720_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>ALL SPORTS</title>
 <link>http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/HozFynS.png</thumbnail>
