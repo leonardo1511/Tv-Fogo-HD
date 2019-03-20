@@ -35,12 +35,14 @@
 </channel>
 
 <channel>
-<name>teste</name>
+<name>TESTE</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Menu-Novela</externallink>
-<fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
-<info></info>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
 </channel>
+
+
 
 
 
