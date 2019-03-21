@@ -59,6 +59,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Novelas[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/21sA0IA.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/Novelas</externallink>
+<fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Power Rangers[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/LrdDEC4.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/moraes84/Tv-Fogo-HD/master/.gitignore/Menu-Power-Rangers</externallink>
