@@ -700,6 +700,14 @@
 </item>
 
 <item>
+<title>TLC</title>
+<link>https://www.skyiptv.com.br:25463/live/Luis/Saboia/71.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tlc.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>MAIS GLOBOSAT</title>
 <link>https://www.skyiptv.com.br:25463/live/Luis/Saboia/81.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globosat.png</thumbnail>
