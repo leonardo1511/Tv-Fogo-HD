@@ -725,3 +725,4 @@
 <link>$doregex[BP1]globonews-sd.m3u8|Referer=http://www.micelex.com/</link>
 <regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png</thumbnail>
+</item>
