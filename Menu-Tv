@@ -26,6 +26,14 @@
 <info>Tv Fogo HD</info>
 </channel>
 
+<channel>
+<name>[COLOR white][B]SERVIDOR: 4[/B][/COLOR] [COLOR yellow][B][LISTA PROVISORIA][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Lista-Provisoria</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
+
 
 
 
