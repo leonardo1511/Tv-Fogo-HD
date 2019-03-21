@@ -34,5 +34,13 @@
 <info>Tv Fogo HD</info>
 </channel>
 
+<channel>
+<name>teste</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/teste</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
+
 
 
