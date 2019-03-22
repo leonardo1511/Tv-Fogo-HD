@@ -26,12 +26,13 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]DAZN BRASIL[/B][/COLOR]</name>
-<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpgTQvxdtxuqpyKZbH8ScwpUufRduKzCsi4A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<name>[COLOR lime][B]* [/B][/COLOR][COLOR yellow][B]Dazn Brasil[/B][/COLOR] [COLOR lime]Futebol Youtube[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/DAZN-BRASIL</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpgTQvxdtxuqpyKZbH8ScwpUufRduKzCsi4A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://www.sportindustry.biz/sites/default/files/images/news/DAZN%20%26%20PERFORM.png</fanart>
+</item>
+<info>Campeonato Italiano, Campeonato Francês e Sulamericana.</info>
+</item>
 
 </channels>
 
