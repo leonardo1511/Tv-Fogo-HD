@@ -5,6 +5,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]DAZN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/UCSZ21xyG8w_33KriMM69IxQ/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/zH7eGkZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLOR white]CANAL RICOS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
 <thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
