@@ -25,6 +25,14 @@
 </channel>
 
 <channel>
+<name>Teste</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Novelas/master/A_Favorita</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
+
+<channel>
 <name>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]DAZN BRASIL[/B][/COLOR][COLOR yellow]FUTEBOL[/COLOR] [COLOR lime](YOUTUBE)[/COLOR]</name>
 <thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpgTQvxdtxuqpyKZbH8ScwpUufRduKzCsi4A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
 <externallink></externallink>
