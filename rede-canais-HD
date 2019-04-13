@@ -13,13 +13,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Big Brother Brasil 2019[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]bbb19.m3u8|Referer=http://www.ultratfm.com/</link>
-<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bbb.png</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]bobonordeste.m3u8|Referer=http://www.ultratfm.com/</link>
 <regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
