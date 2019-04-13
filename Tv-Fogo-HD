@@ -229,9 +229,6 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="SPORTS",ESPN Brasil
 http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="SPORTS",ESPN Brasil HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b1835008.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="SPORTS",ESPN
 http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
 
@@ -247,16 +244,13 @@ http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc5
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="SPORTS",ESPN Extra
 http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b964608.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="SPORTS",ESPN Extra HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b1835008.m3u8
-
-#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",EI MAXX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ALTERNATIVOS",EI MAXX HD
 http://mdstrm1-a.akamaihd.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
 
-#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",EI MAXX 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="ALTERNATIVOS",EI MAXX 2 HD
 http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
 
-#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",ESPORTE INTERATIVO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="ALTERNATIVOS",ESPORTE INTERATIVO HD
 http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="SPORTS",All Sports BR
