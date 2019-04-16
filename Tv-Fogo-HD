@@ -5,7 +5,7 @@
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="CANAIS ABERTO",CANAL RICO
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV ABERTA",Sesc TV HD
 http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
