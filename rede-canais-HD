@@ -576,9 +576,23 @@
 </item>
 
 <item>
+<title>[B][COLOR white]Play kids[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]playkids.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/playkids.jpg</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]Food Network[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]foodnetwork.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/food_network.png</thumbnail>
 </item>
 
 <item>
