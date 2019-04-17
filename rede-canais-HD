@@ -96,6 +96,27 @@
 </item>
 
 <item>
+<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]discoveryhomeihealth.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]discoveryworld.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]fishtv.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]history.m3u8|Referer=http://www.ultratfm.com/</link>
 <regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
@@ -186,6 +207,27 @@
 </item>
 
 <item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]sportv1.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]sportv2.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[BP1]sportv3.m3u8|Referer=http://www.ultratfm.com/</link>
+<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiereclubes.m3u8|Referer=http://www.ultratfm.com/</link>
 <regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
@@ -246,27 +288,6 @@
 <link>$doregex[BP1]premiere9.m3u8|Referer=http://www.ultratfm.com/</link>
 <regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]sportv1.m3u8|Referer=http://www.ultratfm.com/</link>
-<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]sportv2.m3u8|Referer=http://www.ultratfm.com/</link>
-<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]sportv3.m3u8|Referer=http://www.ultratfm.com/</link>
-<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
 </item>
 
 <item>
@@ -635,27 +656,6 @@
 <link>$doregex[BP1]curta.m3u8|Referer=http://www.ultratfm.com/</link>
 <regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/curta!.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]discoveryhomeihealth.m3u8|Referer=http://www.ultratfm.com/</link>
-<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]discoveryworld.m3u8|Referer=http://www.ultratfm.com/</link>
-<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>$doregex[BP1]fishtv.m3u8|Referer=http://www.ultratfm.com/</link>
-<regex><name>BP1</name><expres>(.*?).rcf4m</expres><page>https://tv-fogo.github.io/HD/Servidor-Redecanais</page></regex>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png</thumbnail>
 </item>
 
 <item>
